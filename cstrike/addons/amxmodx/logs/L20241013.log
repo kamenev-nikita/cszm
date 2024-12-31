@@ -1,0 +1,375 @@
+L 10/13/2024 - 11:37:18: -------- Mapchange to de_dust2 --------
+L 10/13/2024 - 11:45:17: -------- Mapchange to de_dust2 --------
+L 10/13/2024 - 11:53:49: -------- Mapchange to de_dust2 --------
+L 10/13/2024 - 12:05:44: -------- Mapchange to de_dust2 --------
+L 10/13/2024 - 12:05:48: [admin.amxx] Login: "test<1><STEAM_1:0:1404421313><>" kicked due to invalid password (account "test") (address "192.168.0.11")
+L 10/13/2024 - 12:06:41: [admin.amxx] Login: "test<2><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "192.168.0.11")
+L 10/13/2024 - 12:13:58: -------- Mapchange to de_dust2 --------
+L 10/13/2024 - 12:13:58: [admin.amxx] Login: "test<2><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "192.168.0.11")
+L 10/13/2024 - 12:17:58: -------- Mapchange to de_dust2 --------
+L 10/13/2024 - 12:17:58: [AMXX] Plugin "K_ZP_main.amxx" failed to load: Module/Library "cstrike" required for plugin.  Check modules.ini.
+L 10/13/2024 - 12:17:59: [admin.amxx] Login: "test<2><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "192.168.0.11")
+L 10/13/2024 - 12:18:55: -------- Mapchange to de_dust2 --------
+L 10/13/2024 - 12:18:55: [AMXX] Plugin "K_ZP_main.amxx" failed to load: Module/Library Class "xstats" required for plugin.  Check modules.ini.
+L 10/13/2024 - 12:18:55: [admin.amxx] Login: "test<2><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "192.168.0.11")
+L 10/13/2024 - 12:19:21: -------- Mapchange to de_dust2 --------
+L 10/13/2024 - 12:19:21: [AMXX] Plugin "K_ZP_main.amxx" failed to load: Module/Library Class "xstats" required for plugin.  Check modules.ini.
+L 10/13/2024 - 12:19:21: [admin.amxx] Login: "test<2><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "192.168.0.11")
+L 10/13/2024 - 12:20:48: -------- Mapchange to de_dust2 --------
+L 10/13/2024 - 12:20:49: [admin.amxx] Login: "test<2><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "192.168.0.11")
+L 10/13/2024 - 12:21:38: -------- Mapchange to de_dust2 --------
+L 10/13/2024 - 12:21:39: [admin.amxx] Login: "test<2><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "192.168.0.11")
+L 10/13/2024 - 12:33:46: -------- Mapchange to de_dust2 --------
+L 10/13/2024 - 12:33:48: [admin.amxx] Login: "test<3><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "192.168.0.11")
+L 10/13/2024 - 12:35:36: -------- Mapchange to de_dust2 --------
+L 10/13/2024 - 12:35:36: [admin.amxx] Login: "test<3><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "192.168.0.11")
+L 10/13/2024 - 12:36:36: -------- Mapchange to de_dust2 --------
+L 10/13/2024 - 12:36:37: [admin.amxx] Login: "test<3><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "192.168.0.11")
+L 10/13/2024 - 12:37:25: -------- Mapchange to de_dust2 --------
+L 10/13/2024 - 12:37:25: [admin.amxx] Login: "test<3><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "192.168.0.11")
+L 10/13/2024 - 12:37:52: -------- Mapchange to de_dust2 --------
+L 10/13/2024 - 12:37:52: [admin.amxx] Login: "test<3><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "192.168.0.11")
+L 10/13/2024 - 12:39:39: -------- Mapchange to de_dust2 --------
+L 10/13/2024 - 12:39:39: An error occurred in plugin_natives. This is dangerous!
+L 10/13/2024 - 12:39:39: [AMXX] Plugin "K_ZP_main.amxx" failed to load: Plugin uses an unknown function (name "print") - check your modules.ini.
+L 10/13/2024 - 12:39:39: [admin.amxx] Login: "test<3><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "192.168.0.11")
+L 10/13/2024 - 12:39:56: -------- Mapchange to de_dust2 --------
+L 10/13/2024 - 12:39:56: An error occurred in plugin_natives. This is dangerous!
+L 10/13/2024 - 12:39:56: [AMXX] Plugin "K_ZP_main.amxx" failed to load: Plugin uses an unknown function (name "print") - check your modules.ini.
+L 10/13/2024 - 12:39:56: [admin.amxx] Login: "test<3><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "192.168.0.11")
+L 10/13/2024 - 12:52:40: -------- Mapchange to de_dust2 --------
+L 10/13/2024 - 12:52:40: An error occurred in plugin_natives. This is dangerous!
+L 10/13/2024 - 12:52:40: [AMXX] Plugin "K_ZP_main.amxx" failed to load: Plugin uses an unknown function (name "print") - check your modules.ini.
+L 10/13/2024 - 12:52:52: [admin.amxx] Login: "test<4><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "192.168.0.11")
+L 10/13/2024 - 12:54:25: -------- Mapchange to de_dust2 --------
+L 10/13/2024 - 12:54:25: An error occurred in plugin_natives. This is dangerous!
+L 10/13/2024 - 12:54:25: [AMXX] Plugin "K_ZP_main.amxx" failed to load: Plugin uses an unknown function (name "print") - check your modules.ini.
+L 10/13/2024 - 12:54:25: [admin.amxx] Login: "test<4><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "192.168.0.11")
+L 10/13/2024 - 12:55:19: -------- Mapchange to de_dust2 --------
+L 10/13/2024 - 12:55:20: [admin.amxx] Login: "test<4><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "192.168.0.11")
+L 10/13/2024 - 12:59:01: -------- Mapchange to de_dust2 --------
+L 10/13/2024 - 12:59:01: [admin.amxx] Login: "test<4><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "192.168.0.11")
+L 10/13/2024 - 13:04:07: -------- Mapchange to de_dust2 --------
+L 10/13/2024 - 13:04:07: [admin.amxx] Login: "test<4><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "192.168.0.11")
+L 10/13/2024 - 13:04:08: -------- Mapchange to de_dust2 --------
+L 10/13/2024 - 13:04:08: [admin.amxx] Login: "test<4><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "192.168.0.11")
+L 10/13/2024 - 13:04:49: -------- Mapchange to de_dust2 --------
+L 10/13/2024 - 13:04:49: [admin.amxx] Login: "test<4><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "192.168.0.11")
+L 10/13/2024 - 13:05:43: -------- Mapchange to de_dust2 --------
+L 10/13/2024 - 13:05:43: [admin.amxx] Login: "test<4><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "192.168.0.11")
+L 10/13/2024 - 13:06:55: -------- Mapchange to de_dust2 --------
+L 10/13/2024 - 13:06:55: [admin.amxx] Login: "test<4><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "192.168.0.11")
+L 10/13/2024 - 13:08:12: -------- Mapchange to de_dust2 --------
+L 10/13/2024 - 13:08:13: [admin.amxx] Login: "test<4><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "192.168.0.11")
+L 10/13/2024 - 13:08:33: -------- Mapchange to de_dust2 --------
+L 10/13/2024 - 13:08:33: [admin.amxx] Login: "test<4><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "192.168.0.11")
+L 10/13/2024 - 13:12:19: -------- Mapchange to de_dust2 --------
+L 10/13/2024 - 13:12:19: [admin.amxx] Login: "test<4><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "192.168.0.11")
+L 10/13/2024 - 13:14:03: -------- Mapchange to de_dust2 --------
+L 10/13/2024 - 13:14:03: [admin.amxx] Login: "test<4><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "192.168.0.11")
+L 10/13/2024 - 13:15:54: -------- Mapchange to de_dust2 --------
+L 10/13/2024 - 13:15:54: [admin.amxx] Login: "test<4><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "192.168.0.11")
+L 10/13/2024 - 13:17:03: -------- Mapchange to de_dust2 --------
+L 10/13/2024 - 13:17:03: [admin.amxx] Login: "test<4><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "192.168.0.11")
+L 10/13/2024 - 13:18:43: -------- Mapchange to de_dust2 --------
+L 10/13/2024 - 13:18:43: An error occurred in plugin_natives. This is dangerous!
+L 10/13/2024 - 13:18:43: [admin.amxx] Login: "test<4><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "192.168.0.11")
+L 10/13/2024 - 13:28:50: -------- Mapchange to de_dust2 --------
+L 10/13/2024 - 13:28:50: [AMXX] Plugin "K_ZP_main.amxx" failed to load: Plugin uses an unknown function (name "native_join_in_game") - check your modules.ini.
+L 10/13/2024 - 13:28:50: [admin.amxx] Login: "test<4><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "192.168.0.11")
+L 10/13/2024 - 13:29:23: -------- Mapchange to de_dust2 --------
+L 10/13/2024 - 13:29:23: [admin.amxx] Login: "test<4><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "192.168.0.11")
+L 10/13/2024 - 13:29:24: -------- Mapchange to de_dust2 --------
+L 10/13/2024 - 13:29:25: [admin.amxx] Login: "test<4><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "192.168.0.11")
+L 10/13/2024 - 13:29:30: [admin.amxx] Login: "test<5><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "192.168.0.11")
+L 10/13/2024 - 13:32:24: -------- Mapchange to de_dust2 --------
+L 10/13/2024 - 13:32:24: [AMXX] Plugin "K_lib_myFuncs.amxx" failed to load: Module/Library "cstrike" required for plugin.  Check modules.ini.
+L 10/13/2024 - 13:32:24: [admin.amxx] Login: "test<5><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "192.168.0.11")
+L 10/13/2024 - 13:33:13: -------- Mapchange to de_dust2 --------
+L 10/13/2024 - 13:33:13: [AMXX] Plugin "K_lib_myFuncs.amxx" failed to load: Module/Library "cstrike" required for plugin.  Check modules.ini.
+L 10/13/2024 - 13:33:13: [admin.amxx] Login: "test<5><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "192.168.0.11")
+L 10/13/2024 - 13:33:41: -------- Mapchange to de_dust2 --------
+L 10/13/2024 - 13:33:41: [AMXX] Plugin "K_lib_myFuncs.amxx" failed to load: Module/Library "cstrike" required for plugin.  Check modules.ini.
+L 10/13/2024 - 13:33:41: [admin.amxx] Login: "test<5><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "192.168.0.11")
+L 10/13/2024 - 13:35:50: -------- Mapchange to de_dust2 --------
+L 10/13/2024 - 13:35:50: [AMXX] Plugin "K_lib_myFuncs.amxx" failed to load: Module/Library "cstrike" required for plugin.  Check modules.ini.
+L 10/13/2024 - 13:35:50: [admin.amxx] Login: "test<5><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "192.168.0.11")
+L 10/13/2024 - 13:39:19: -------- Mapchange to de_dust2 --------
+L 10/13/2024 - 13:39:19: Error:
+L 10/13/2024 - 13:39:19: [AMXX] Module is not a valid library (file "cstrike\addons\amxmodx\modules\cstrike_amxx.dll")
+L 10/13/2024 - 13:39:19: [AMXX] Plugin "K_lib_myFuncs.amxx" failed to load: Module/Library "cstrike" required for plugin.  Check modules.ini.
+L 10/13/2024 - 13:39:19: [admin.amxx] Login: "test<5><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "192.168.0.11")
+L 10/13/2024 - 13:42:13: -------- Mapchange to de_dust2 --------
+L 10/13/2024 - 13:42:13: [AMXX] Plugin "K_lib_myFuncs.amxx" failed to load: Module/Library "cstrike" required for plugin.  Check modules.ini.
+L 10/13/2024 - 13:42:13: [admin.amxx] Login: "test<5><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "192.168.0.11")
+L 10/13/2024 - 13:42:58: -------- Mapchange to de_dust2 --------
+L 10/13/2024 - 13:42:58: [AMXX] Plugin "K_lib_myFuncs.amxx" failed to load: Module/Library "cstrike" required for plugin.  Check modules.ini.
+L 10/13/2024 - 13:42:58: [admin.amxx] Login: "test<5><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "192.168.0.11")
+L 10/13/2024 - 13:43:49: -------- Mapchange to de_dust2 --------
+L 10/13/2024 - 13:43:49: [AMXX] Plugin "K_lib_myFuncs.amxx" failed to load: Module/Library "cstrike" required for plugin.  Check modules.ini.
+L 10/13/2024 - 13:43:49: [admin.amxx] Login: "test<5><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "192.168.0.11")
+L 10/13/2024 - 13:44:04: -------- Mapchange to de_dust2 --------
+L 10/13/2024 - 13:44:04: [AMXX] Plugin "K_lib_myFuncs.amxx" failed to load: Module/Library "cstrike" required for plugin.  Check modules.ini.
+L 10/13/2024 - 13:44:04: [admin.amxx] Login: "test<5><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "192.168.0.11")
+L 10/13/2024 - 13:44:10: -------- Mapchange to de_dust2 --------
+L 10/13/2024 - 13:44:24: [admin.amxx] Login: "test<1><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "192.168.0.11")
+L 10/13/2024 - 13:44:36: -------- Mapchange to de_dust2 --------
+L 10/13/2024 - 13:44:36: [admin.amxx] Login: "test<1><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "192.168.0.11")
+L 10/13/2024 - 13:46:02: -------- Mapchange to de_dust2 --------
+L 10/13/2024 - 13:46:02: [admin.amxx] Login: "test<1><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "192.168.0.11")
+L 10/13/2024 - 13:49:08: -------- Mapchange to de_dust2 --------
+L 10/13/2024 - 13:49:08: [admin.amxx] Login: "test<1><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "192.168.0.11")
+L 10/13/2024 - 13:49:16: -------- Mapchange to de_dust2 --------
+L 10/13/2024 - 13:49:16: [admin.amxx] Login: "test<1><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "192.168.0.11")
+L 10/13/2024 - 13:49:57: -------- Mapchange to de_dust2 --------
+L 10/13/2024 - 13:49:58: [admin.amxx] Login: "test<1><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "192.168.0.11")
+L 10/13/2024 - 13:50:26: -------- Mapchange to de_dust2 --------
+L 10/13/2024 - 13:50:27: [admin.amxx] Login: "test<1><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "192.168.0.11")
+L 10/13/2024 - 13:52:22: -------- Mapchange to de_dust2 --------
+L 10/13/2024 - 13:52:23: [admin.amxx] Login: "test<1><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "192.168.0.11")
+L 10/13/2024 - 13:53:45: -------- Mapchange to de_dust2 --------
+L 10/13/2024 - 13:53:46: [admin.amxx] Login: "test<1><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "192.168.0.11")
+L 10/13/2024 - 13:59:16: -------- Mapchange to de_dust2 --------
+L 10/13/2024 - 13:59:16: [admin.amxx] Login: "test<1><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "192.168.0.11")
+L 10/13/2024 - 14:02:54: -------- Mapchange to de_dust2 --------
+L 10/13/2024 - 14:02:54: [admin.amxx] Login: "test<1><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "192.168.0.11")
+L 10/13/2024 - 14:04:05: -------- Mapchange to de_dust2 --------
+L 10/13/2024 - 14:04:05: [admin.amxx] Login: "test<1><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "192.168.0.11")
+L 10/13/2024 - 14:04:55: -------- Mapchange to de_dust2 --------
+L 10/13/2024 - 14:04:55: [admin.amxx] Login: "test<1><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "192.168.0.11")
+L 10/13/2024 - 14:06:20: -------- Mapchange to de_dust2 --------
+L 10/13/2024 - 14:06:21: [admin.amxx] Login: "test<1><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "192.168.0.11")
+L 10/13/2024 - 14:06:53: -------- Mapchange to de_dust2 --------
+L 10/13/2024 - 14:06:54: [admin.amxx] Login: "test<1><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "192.168.0.11")
+L 10/13/2024 - 14:07:13: -------- Mapchange to de_dust2 --------
+L 10/13/2024 - 14:07:13: [admin.amxx] Login: "test<1><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "192.168.0.11")
+L 10/13/2024 - 14:07:24: -------- Mapchange to de_dust2 --------
+L 10/13/2024 - 14:07:24: [admin.amxx] Login: "test<1><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "192.168.0.11")
+L 10/13/2024 - 14:07:55: -------- Mapchange to de_dust2 --------
+L 10/13/2024 - 14:07:55: [admin.amxx] Login: "test<1><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "192.168.0.11")
+L 10/13/2024 - 14:08:21: -------- Mapchange to de_dust2 --------
+L 10/13/2024 - 14:08:21: [admin.amxx] Login: "test<1><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "192.168.0.11")
+L 10/13/2024 - 14:08:30: -------- Mapchange to de_dust2 --------
+L 10/13/2024 - 14:08:30: [admin.amxx] Login: "test<1><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "192.168.0.11")
+L 10/13/2024 - 14:09:17: -------- Mapchange to de_dust2 --------
+L 10/13/2024 - 14:09:18: [admin.amxx] Login: "test<1><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "192.168.0.11")
+L 10/13/2024 - 14:09:46: -------- Mapchange to de_dust2 --------
+L 10/13/2024 - 14:09:47: [admin.amxx] Login: "test<1><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "192.168.0.11")
+L 10/13/2024 - 14:12:07: -------- Mapchange to de_dust2 --------
+L 10/13/2024 - 14:12:07: [admin.amxx] Login: "test<1><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "192.168.0.11")
+L 10/13/2024 - 14:15:25: [plmenu.amxx] Kick: "test<1><STEAM_1:0:1404421313><>" kick "test<1><STEAM_1:0:1404421313><>"
+L 10/13/2024 - 14:15:27: [admin.amxx] Login: "test<2><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "192.168.0.11")
+L 10/13/2024 - 14:18:08: [plmenu.amxx] Cmd: "test<2><STEAM_1:0:1404421313><>" transfer "test<2><STEAM_1:0:1404421313><>" (team "CT")
+L 10/13/2024 - 14:19:19: -------- Mapchange to de_dust2 --------
+L 10/13/2024 - 14:19:19: [admin.amxx] Login: "test<2><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "192.168.0.11")
+L 10/13/2024 - 14:19:37: -------- Mapchange to de_dust2 --------
+L 10/13/2024 - 14:19:37: [admin.amxx] Login: "test<2><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "192.168.0.11")
+L 10/13/2024 - 14:23:25: -------- Mapchange to de_dust2 --------
+L 10/13/2024 - 14:23:25: [admin.amxx] Login: "test<2><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "192.168.0.11")
+L 10/13/2024 - 16:28:00: -------- Mapchange to de_dust2 --------
+L 10/13/2024 - 16:29:02: [admin.amxx] Login: "test<1><STEAM_1:0:1404421313><>" kicked due to invalid password (account "test") (address "192.168.0.11")
+L 10/13/2024 - 16:29:53: [admin.amxx] Login: "test<2><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "192.168.0.11")
+L 10/13/2024 - 16:30:14: [admin.amxx] Login: "test<3><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "192.168.0.11")
+L 10/13/2024 - 16:30:23: [admin.amxx] Login: "test<4><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "192.168.0.11")
+L 10/13/2024 - 16:31:58: -------- Mapchange to de_dust2 --------
+L 10/13/2024 - 16:31:59: [admin.amxx] Login: "test<4><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "192.168.0.11")
+L 10/13/2024 - 16:32:05: [admin.amxx] Login: "test<5><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "192.168.0.11")
+L 10/13/2024 - 16:35:49: -------- Mapchange to de_dust2 --------
+L 10/13/2024 - 16:35:49: An error occurred in plugin_natives. This is dangerous!
+L 10/13/2024 - 16:35:49: [AMXX] Plugin "K_ZP_main.amxx" failed to load: Plugin uses an unknown function (name "join_in_game") - check your modules.ini.
+L 10/13/2024 - 16:35:49: [admin.amxx] Login: "test<5><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "192.168.0.11")
+L 10/13/2024 - 16:36:24: -------- Mapchange to de_dust2 --------
+L 10/13/2024 - 16:36:24: An error occurred in plugin_natives. This is dangerous!
+L 10/13/2024 - 16:36:25: [admin.amxx] Login: "test<5><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "192.168.0.11")
+L 10/13/2024 - 16:38:08: -------- Mapchange to de_dust2 --------
+L 10/13/2024 - 16:38:08: [admin.amxx] Login: "test<5><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "192.168.0.11")
+L 10/13/2024 - 16:38:11: -------- Mapchange to de_dust2 --------
+L 10/13/2024 - 16:38:11: [admin.amxx] Login: "test<5><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "192.168.0.11")
+L 10/13/2024 - 16:38:11: [admin.amxx] Login: "test<5><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "192.168.0.11")
+L 10/13/2024 - 16:38:12: [admin.amxx] Login: "test<6><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "192.168.0.11")
+L 10/13/2024 - 16:38:20: -------- Mapchange to de_dust2 --------
+L 10/13/2024 - 16:38:20: [admin.amxx] Login: "test<6><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "192.168.0.11")
+L 10/13/2024 - 16:44:39: [admin.amxx] Login: "test<7><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "192.168.0.11")
+L 10/13/2024 - 16:46:09: -------- Mapchange to de_dust2 --------
+L 10/13/2024 - 16:46:10: [admin.amxx] Login: "test<7><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "192.168.0.11")
+L 10/13/2024 - 16:46:26: [admin.amxx] Login: "test<8><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "192.168.0.11")
+L 10/13/2024 - 16:47:05: -------- Mapchange to de_dust2 --------
+L 10/13/2024 - 16:47:05: [admin.amxx] Login: "test<8><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "192.168.0.11")
+L 10/13/2024 - 16:47:17: [admin.amxx] Login: "test<9><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "192.168.0.11")
+L 10/13/2024 - 16:49:23: -------- Mapchange to de_dust2 --------
+L 10/13/2024 - 16:49:24: [admin.amxx] Login: "test<9><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "192.168.0.11")
+L 10/13/2024 - 16:50:12: -------- Mapchange to de_dust2 --------
+L 10/13/2024 - 16:50:12: [admin.amxx] Login: "test<9><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "192.168.0.11")
+L 10/13/2024 - 16:55:54: -------- Mapchange to de_dust2 --------
+L 10/13/2024 - 16:55:54: [admin.amxx] Login: "test<9><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "192.168.0.11")
+L 10/13/2024 - 17:08:05: -------- Mapchange to de_dust2 --------
+L 10/13/2024 - 17:08:09: [admin.amxx] Login: "test<10><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "192.168.0.11")
+L 10/13/2024 - 17:09:02: -------- Mapchange to de_dust2 --------
+L 10/13/2024 - 17:09:03: [admin.amxx] Login: "test<10><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "192.168.0.11")
+L 10/13/2024 - 17:09:46: -------- Mapchange to de_dust2 --------
+L 10/13/2024 - 17:09:46: [admin.amxx] Login: "test<10><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "192.168.0.11")
+L 10/13/2024 - 17:10:28: -------- Mapchange to de_dust2 --------
+L 10/13/2024 - 17:10:28: [admin.amxx] Login: "test<10><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "192.168.0.11")
+L 10/13/2024 - 17:11:39: -------- Mapchange to de_dust2 --------
+L 10/13/2024 - 17:11:39: [admin.amxx] Login: "test<10><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "192.168.0.11")
+L 10/13/2024 - 17:15:19: -------- Mapchange to de_dust2 --------
+L 10/13/2024 - 17:15:19: [admin.amxx] Login: "test<10><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "192.168.0.11")
+L 10/13/2024 - 17:19:14: -------- Mapchange to de_dust2 --------
+L 10/13/2024 - 17:19:14: [admin.amxx] Login: "test<10><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "192.168.0.11")
+L 10/13/2024 - 17:26:23: -------- Mapchange to de_dust2 --------
+L 10/13/2024 - 17:26:23: [admin.amxx] Login: "test<10><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "192.168.0.11")
+L 10/13/2024 - 17:26:50: -------- Mapchange to de_dust2 --------
+L 10/13/2024 - 17:26:50: [admin.amxx] Login: "test<10><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "192.168.0.11")
+L 10/13/2024 - 17:33:06: -------- Mapchange to de_dust2 --------
+L 10/13/2024 - 17:33:06: [admin.amxx] Login: "test<10><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "192.168.0.11")
+L 10/13/2024 - 17:33:50: -------- Mapchange to de_dust2 --------
+L 10/13/2024 - 17:33:50: [admin.amxx] Login: "test<10><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "192.168.0.11")
+L 10/13/2024 - 17:35:29: -------- Mapchange to de_dust2 --------
+L 10/13/2024 - 17:35:29: [admin.amxx] Login: "test<10><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "192.168.0.11")
+L 10/13/2024 - 17:36:39: -------- Mapchange to de_dust2 --------
+L 10/13/2024 - 17:36:39: [admin.amxx] Login: "test<10><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "192.168.0.11")
+L 10/13/2024 - 17:37:16: -------- Mapchange to de_dust2 --------
+L 10/13/2024 - 17:37:16: [admin.amxx] Login: "test<10><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "192.168.0.11")
+L 10/13/2024 - 17:37:44: -------- Mapchange to de_dust2 --------
+L 10/13/2024 - 17:37:44: [admin.amxx] Login: "test<10><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "192.168.0.11")
+L 10/13/2024 - 17:39:36: -------- Mapchange to de_dust2 --------
+L 10/13/2024 - 17:39:36: [admin.amxx] Login: "test<10><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "192.168.0.11")
+L 10/13/2024 - 17:41:42: -------- Mapchange to de_dust2 --------
+L 10/13/2024 - 17:41:42: [admin.amxx] Login: "test<10><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "192.168.0.11")
+L 10/13/2024 - 17:51:14: -------- Mapchange to de_dust2 --------
+L 10/13/2024 - 17:51:14: [admin.amxx] Login: "test<10><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "192.168.0.11")
+L 10/13/2024 - 18:14:38: -------- Mapchange to de_dust2 --------
+L 10/13/2024 - 18:14:40: [admin.amxx] Login: "test<11><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "192.168.0.11")
+L 10/13/2024 - 18:19:54: -------- Mapchange to de_dust2 --------
+L 10/13/2024 - 18:19:54: [admin.amxx] Login: "test<11><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "192.168.0.11")
+L 10/13/2024 - 18:20:31: -------- Mapchange to de_dust2 --------
+L 10/13/2024 - 18:20:31: [admin.amxx] Login: "test<11><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "192.168.0.11")
+L 10/13/2024 - 18:34:25: -------- Mapchange to de_dust2 --------
+L 10/13/2024 - 18:34:28: [admin.amxx] Login: "test<12><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "192.168.0.11")
+L 10/13/2024 - 18:43:39: -------- Mapchange to de_dust2 --------
+L 10/13/2024 - 18:43:39: [admin.amxx] Login: "test<12><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "192.168.0.11")
+L 10/13/2024 - 18:44:18: -------- Mapchange to de_dust2 --------
+L 10/13/2024 - 18:44:18: [admin.amxx] Login: "test<12><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "192.168.0.11")
+L 10/13/2024 - 18:44:33: -------- Mapchange to de_dust2 --------
+L 10/13/2024 - 18:44:34: [admin.amxx] Login: "test<12><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "192.168.0.11")
+L 10/13/2024 - 18:52:18: -------- Mapchange to de_dust2 --------
+L 10/13/2024 - 18:52:18: [admin.amxx] Login: "test<12><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "192.168.0.11")
+L 10/13/2024 - 18:54:04: -------- Mapchange to de_dust2 --------
+L 10/13/2024 - 18:54:05: [admin.amxx] Login: "test<1><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "192.168.0.11")
+L 10/13/2024 - 18:56:09: -------- Mapchange to de_dust2 --------
+L 10/13/2024 - 18:56:11: [admin.amxx] Login: "test<1><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "192.168.0.11")
+L 10/13/2024 - 18:57:08: -------- Mapchange to de_dust2 --------
+L 10/13/2024 - 18:57:09: [admin.amxx] Login: "test<1><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "192.168.0.11")
+L 10/13/2024 - 19:00:14: -------- Mapchange to de_dust2 --------
+L 10/13/2024 - 19:00:15: [admin.amxx] Login: "test<1><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "192.168.0.11")
+L 10/13/2024 - 19:00:40: -------- Mapchange to de_dust2 --------
+L 10/13/2024 - 19:00:40: [admin.amxx] Login: "test<1><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "192.168.0.11")
+L 10/13/2024 - 19:01:02: -------- Mapchange to de_dust2 --------
+L 10/13/2024 - 19:01:02: [admin.amxx] Login: "test<1><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "192.168.0.11")
+L 10/13/2024 - 19:05:58: -------- Mapchange to de_dust2 --------
+L 10/13/2024 - 19:05:58: [admin.amxx] Login: "test<1><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "192.168.0.11")
+L 10/13/2024 - 19:06:19: -------- Mapchange to de_dust2 --------
+L 10/13/2024 - 19:06:19: [admin.amxx] Login: "test<1><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "192.168.0.11")
+L 10/13/2024 - 19:07:40: -------- Mapchange to de_dust2 --------
+L 10/13/2024 - 19:07:40: [admin.amxx] Login: "test<1><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "192.168.0.11")
+L 10/13/2024 - 19:27:32: -------- Mapchange to de_dust2 --------
+L 10/13/2024 - 19:27:35: [admin.amxx] Login: "test<2><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "192.168.0.11")
+L 10/13/2024 - 19:30:00: [admincmd.amxx] Cmd: "test<2><STEAM_1:0:1404421313><>" set cvar (name "light") (value "a")
+L 10/13/2024 - 19:30:06: [admincmd.amxx] Cmd: "test<2><STEAM_1:0:1404421313><>" set cvar (name "light") (value "z")
+L 10/13/2024 - 19:30:38: [pluginmenu.amxx] Cmd: "test<2><STEAM_1:0:1404421313><>" set cvar (name "light") (value "6")
+L 10/13/2024 - 19:31:13: [pluginmenu.amxx] Cmd: "test<2><STEAM_1:0:1404421313><>" set cvar (name "light") (value "z")
+L 10/13/2024 - 19:31:33: -------- Mapchange to de_dust2 --------
+L 10/13/2024 - 19:31:33: [admin.amxx] Login: "test<2><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "192.168.0.11")
+L 10/13/2024 - 19:31:59: -------- Mapchange to de_dust2 --------
+L 10/13/2024 - 19:31:59: [admin.amxx] Login: "test<2><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "192.168.0.11")
+L 10/13/2024 - 19:32:13: [pluginmenu.amxx] Cmd: "test<2><STEAM_1:0:1404421313><>" set cvar (name "light") (value "f")
+L 10/13/2024 - 19:32:50: -------- Mapchange to de_dust2 --------
+L 10/13/2024 - 19:32:50: [admin.amxx] Login: "test<2><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "192.168.0.11")
+L 10/13/2024 - 19:33:01: [pluginmenu.amxx] Cmd: "test<2><STEAM_1:0:1404421313><>" set cvar (name "light") (value "z")
+L 10/13/2024 - 19:33:21: [pluginmenu.amxx] Cmd: "test<2><STEAM_1:0:1404421313><>" set cvar (name "light") (value "3")
+L 10/13/2024 - 19:38:02: -------- Mapchange to de_dust2 --------
+L 10/13/2024 - 19:38:02: [admin.amxx] Login: "test<2><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "192.168.0.11")
+L 10/13/2024 - 19:38:03: [admin.amxx] Login: "test<2><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "192.168.0.11")
+L 10/13/2024 - 19:38:03: [admin.amxx] Login: "test<3><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "192.168.0.11")
+L 10/13/2024 - 19:38:35: [pluginmenu.amxx] Cmd: "test<3><STEAM_1:0:1404421313><>" set cvar (name "light") (value "h")
+L 10/13/2024 - 19:38:41: -------- Mapchange to de_dust2 --------
+L 10/13/2024 - 19:38:42: [admin.amxx] Login: "test<3><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "192.168.0.11")
+L 10/13/2024 - 19:39:08: [pluginmenu.amxx] Cmd: "test<3><STEAM_1:0:1404421313><>" set cvar (name "fog_density") (value "0.003")
+L 10/13/2024 - 19:39:12: -------- Mapchange to de_dust2 --------
+L 10/13/2024 - 19:39:12: [admin.amxx] Login: "test<3><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "192.168.0.11")
+L 10/13/2024 - 19:47:45: -------- Mapchange to de_dust2 --------
+L 10/13/2024 - 19:47:45: [admin.amxx] Login: "test<3><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "192.168.0.11")
+L 10/13/2024 - 19:48:54: -------- Mapchange to de_dust2 --------
+L 10/13/2024 - 19:48:55: [admin.amxx] Login: "test<3><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "192.168.0.11")
+L 10/13/2024 - 19:51:12: -------- Mapchange to de_dust2 --------
+L 10/13/2024 - 19:51:13: [admin.amxx] Login: "test<3><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "192.168.0.11")
+L 10/13/2024 - 19:51:44: -------- Mapchange to de_dust2 --------
+L 10/13/2024 - 19:51:44: [admin.amxx] Login: "test<3><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "192.168.0.11")
+L 10/13/2024 - 19:51:54: -------- Mapchange to de_dust2 --------
+L 10/13/2024 - 19:51:55: [admin.amxx] Login: "test<1><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "192.168.0.11")
+L 10/13/2024 - 19:52:50: -------- Mapchange to de_dust2 --------
+L 10/13/2024 - 19:52:50: [admin.amxx] Login: "test<1><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "192.168.0.11")
+L 10/13/2024 - 19:53:27: -------- Mapchange to de_dust2 --------
+L 10/13/2024 - 19:53:27: [admin.amxx] Login: "test<1><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "192.168.0.11")
+L 10/13/2024 - 19:53:51: -------- Mapchange to de_dust2 --------
+L 10/13/2024 - 19:53:52: [admin.amxx] Login: "test<1><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "192.168.0.11")
+L 10/13/2024 - 19:57:17: -------- Mapchange to de_dust2 --------
+L 10/13/2024 - 19:57:17: [admin.amxx] Login: "test<1><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "192.168.0.11")
+L 10/13/2024 - 19:57:56: -------- Mapchange to de_dust2 --------
+L 10/13/2024 - 19:57:57: [admin.amxx] Login: "test<1><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "192.168.0.11")
+L 10/13/2024 - 19:58:14: [pluginmenu.amxx] Cmd: "test<1><STEAM_1:0:1404421313><>" set cvar (name "light") (value "h")
+L 10/13/2024 - 19:58:31: [pluginmenu.amxx] Cmd: "test<1><STEAM_1:0:1404421313><>" set cvar (name "fog_color") (value "0.003")
+L 10/13/2024 - 19:58:49: [pluginmenu.amxx] Cmd: "test<1><STEAM_1:0:1404421313><>" set cvar (name "sky_name") (value "100 100 100")
+L 10/13/2024 - 19:58:57: [pluginmenu.amxx] Cmd: "test<1><STEAM_1:0:1404421313><>" set cvar (name "fog_color") (value "100 100 100")
+L 10/13/2024 - 19:59:02: [pluginmenu.amxx] Cmd: "test<1><STEAM_1:0:1404421313><>" set cvar (name "sky_name") (value "sky161")
+L 10/13/2024 - 19:59:23: [pluginmenu.amxx] Cmd: "test<1><STEAM_1:0:1404421313><>" set cvar (name "sky_name") (value "0")
+L 10/13/2024 - 19:59:48: -------- Mapchange to de_dust2 --------
+L 10/13/2024 - 19:59:49: [admin.amxx] Login: "test<1><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "192.168.0.11")
+L 10/13/2024 - 20:00:05: [pluginmenu.amxx] Cmd: "test<1><STEAM_1:0:1404421313><>" set cvar (name "sky_name") (value "sky161")
+L 10/13/2024 - 20:00:20: [pluginmenu.amxx] Cmd: "test<1><STEAM_1:0:1404421313><>" set cvar (name "fog_color") (value "0 0 0")
+L 10/13/2024 - 20:03:10: -------- Mapchange to de_dust2 --------
+L 10/13/2024 - 20:03:11: [admin.amxx] Login: "test<1><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "192.168.0.11")
+L 10/13/2024 - 20:03:23: [pluginmenu.amxx] Cmd: "test<1><STEAM_1:0:1404421313><>" set cvar (name "light") (value "z")
+L 10/13/2024 - 20:03:27: [pluginmenu.amxx] Cmd: "test<1><STEAM_1:0:1404421313><>" set cvar (name "light") (value "a")
+L 10/13/2024 - 20:03:50: [pluginmenu.amxx] Cmd: "test<1><STEAM_1:0:1404421313><>" set cvar (name "light") (value "g")
+L 10/13/2024 - 20:09:30: -------- Mapchange to de_dust2 --------
+L 10/13/2024 - 20:09:33: [admin.amxx] Login: "test<1><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "192.168.0.11")
+L 10/13/2024 - 20:20:02: -------- Mapchange to de_dust2 --------
+L 10/13/2024 - 20:20:02: [admin.amxx] Login: "test<1><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "192.168.0.11")
+L 10/13/2024 - 20:21:16: -------- Mapchange to de_dust2 --------
+L 10/13/2024 - 20:21:16: [admin.amxx] Login: "test<1><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "192.168.0.11")
+L 10/13/2024 - 20:24:10: -------- Mapchange to de_dust2 --------
+L 10/13/2024 - 20:24:10: [admin.amxx] Login: "test<1><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "192.168.0.11")
+L 10/13/2024 - 20:24:41: [pluginmenu.amxx] Cmd: "test<1><STEAM_1:0:1404421313><>" set cvar (name "amx_hud_hide_timer") (value "0")
+L 10/13/2024 - 20:24:46: [pluginmenu.amxx] Cmd: "test<1><STEAM_1:0:1404421313><>" set cvar (name "amx_hud_hide_money") (value "1")
+L 10/13/2024 - 20:24:50: [pluginmenu.amxx] Cmd: "test<1><STEAM_1:0:1404421313><>" set cvar (name "amx_hud_hide_crosshair") (value "0")
+L 10/13/2024 - 20:24:54: -------- Mapchange to de_dust2 --------
+L 10/13/2024 - 20:24:54: [admin.amxx] Login: "test<1><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "192.168.0.11")
+L 10/13/2024 - 20:25:40: -------- Mapchange to de_dust2 --------
+L 10/13/2024 - 20:25:41: [admin.amxx] Login: "test<1><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "192.168.0.11")
+L 10/13/2024 - 20:41:13: [admin.amxx] Login: "test<2><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "192.168.0.11")
+L 10/13/2024 - 20:54:25: -------- Mapchange to de_dust2 --------
+L 10/13/2024 - 20:54:27: [admin.amxx] Login: "test<3><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "192.168.0.11")
+L 10/13/2024 - 21:02:21: -------- Mapchange to de_dust2 --------
+L 10/13/2024 - 21:02:21: [admin.amxx] Login: "test<3><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "192.168.0.11")
+L 10/13/2024 - 21:04:13: -------- Mapchange to de_dust2 --------
+L 10/13/2024 - 21:04:14: [admin.amxx] Login: "test<3><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "192.168.0.11")
+L 10/13/2024 - 21:16:52: -------- Mapchange to de_dust2 --------
+L 10/13/2024 - 21:17:36: -------- Mapchange to de_dust2 --------
+L 10/13/2024 - 21:17:39: [admin.amxx] Login: "test<4><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "192.168.0.11")
+L 10/13/2024 - 21:19:40: -------- Mapchange to de_dust2 --------
+L 10/13/2024 - 21:19:40: [AMXX] Plugin "K_M_mainMenu.amxx" failed to load: Plugin uses an unknown function (name "shop_zm_menu") - check your modules.ini.
+L 10/13/2024 - 21:19:40: [admin.amxx] Login: "test<4><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "192.168.0.11")
+L 10/13/2024 - 21:21:26: -------- Mapchange to de_dust2 --------
+L 10/13/2024 - 21:21:26: [AMXX] Plugin "K_M_mainMenu.amxx" failed to load: Plugin uses an unknown function (name "shop_zm_menu") - check your modules.ini.
+L 10/13/2024 - 21:21:26: [admin.amxx] Login: "test<4><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "192.168.0.11")
+L 10/13/2024 - 21:22:49: -------- Mapchange to de_dust2 --------
+L 10/13/2024 - 21:22:49: [admin.amxx] Login: "test<4><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "192.168.0.11")
+L 10/13/2024 - 21:43:14: [admin.amxx] Login: "test<5><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "192.168.0.11")
+L 10/13/2024 - 21:52:40: -------- Mapchange to de_dust2 --------
+L 10/13/2024 - 21:52:40: [AMXX] Plugin "K_M_mainMenu.amxx" failed to load: Plugin uses an unknown function (name "show_cabinet_menu") - check your modules.ini.
+L 10/13/2024 - 21:52:40: [admin.amxx] Login: "test<5><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "192.168.0.11")
+L 10/13/2024 - 21:54:33: -------- Mapchange to de_dust2 --------
+L 10/13/2024 - 21:54:33: [admin.amxx] Login: "test<5><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "192.168.0.11")
+L 10/13/2024 - 21:56:54: -------- Mapchange to de_dust2 --------
+L 10/13/2024 - 21:56:54: [admin.amxx] Login: "test<5><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "192.168.0.11")

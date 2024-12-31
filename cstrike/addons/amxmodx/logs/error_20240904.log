@@ -1,0 +1,93 @@
+L 09/04/2024 - 09:28:01: Start of error session.
+L 09/04/2024 - 09:28:01: Info (map "zm_fdust2x2") (file "addons/amxmodx/logs/error_20240904.log")
+L 09/04/2024 - 09:28:01: [AMXX] Plugin file open error (plugin "scm_entity_editor.amxx")
+L 09/04/2024 - 09:28:03: Invalid index 13 (count: 13)
+L 09/04/2024 - 09:28:03: [AMXX] Run time error 10 (plugin "zombie_plague40.amxx") (native "ArrayGetCell") - debug not enabled!
+L 09/04/2024 - 09:28:03: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/04/2024 - 09:28:03: Unhandled dynamic native error
+L 09/04/2024 - 09:28:03: [AMXX] Run time error 10 (plugin "zp_gungnir_v2.amxx") (native "zp_register_extra_item") - debug not enabled!
+L 09/04/2024 - 09:28:03: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/04/2024 - 09:42:18: Start of error session.
+L 09/04/2024 - 09:42:18: Info (map "zm_fdust2x2") (file "addons/amxmodx/logs/error_20240904.log")
+L 09/04/2024 - 09:42:18: [AMXX] Plugin file open error (plugin "scm_entity_editor.amxx")
+L 09/04/2024 - 09:42:20: Invalid index 13 (count: 13)
+L 09/04/2024 - 09:42:20: [AMXX] Run time error 10 (plugin "zombie_plague40.amxx") (native "ArrayGetCell") - debug not enabled!
+L 09/04/2024 - 09:42:20: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/04/2024 - 09:42:20: Unhandled dynamic native error
+L 09/04/2024 - 09:42:20: [AMXX] Run time error 10 (plugin "zp_gungnir_v2.amxx") (native "zp_register_extra_item") - debug not enabled!
+L 09/04/2024 - 09:42:20: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/04/2024 - 09:46:18: Start of error session.
+L 09/04/2024 - 09:46:18: Info (map "zm_fdust2x2") (file "addons/amxmodx/logs/error_20240904.log")
+L 09/04/2024 - 09:46:18: [AMXX] Plugin file open error (plugin "scm_entity_editor.amxx")
+L 09/04/2024 - 09:46:19: Invalid index 13 (count: 13)
+L 09/04/2024 - 09:46:19: [AMXX] Run time error 10 (plugin "zombie_plague40.amxx") (native "ArrayGetCell") - debug not enabled!
+L 09/04/2024 - 09:46:19: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/04/2024 - 09:46:19: Unhandled dynamic native error
+L 09/04/2024 - 09:46:19: [AMXX] Run time error 10 (plugin "zp_gungnir_v2.amxx") (native "zp_register_extra_item") - debug not enabled!
+L 09/04/2024 - 09:46:19: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/04/2024 - 09:46:44: Start of error session.
+L 09/04/2024 - 09:46:44: Info (map "zm_fdust2x2") (file "addons/amxmodx/logs/error_20240904.log")
+L 09/04/2024 - 09:46:44: [AMXX] Plugin file open error (plugin "scm_entity_editor.amxx")
+L 09/04/2024 - 09:46:45: Invalid index 13 (count: 13)
+L 09/04/2024 - 09:46:45: [AMXX] Run time error 10 (plugin "zombie_plague40.amxx") (native "ArrayGetCell") - debug not enabled!
+L 09/04/2024 - 09:46:45: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/04/2024 - 09:46:45: Unhandled dynamic native error
+L 09/04/2024 - 09:46:45: [AMXX] Run time error 10 (plugin "zp_gungnir_v2.amxx") (native "zp_register_extra_item") - debug not enabled!
+L 09/04/2024 - 09:46:45: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/04/2024 - 09:48:19: Invalid index -1 (count: 9)
+L 09/04/2024 - 09:48:19: [AMXX] Run time error 10 (plugin "zombie_plague40.amxx") (native "ArrayGetString") - debug not enabled!
+L 09/04/2024 - 09:48:19: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/04/2024 - 09:48:19: Invalid index -1 (count: 9)
+L 09/04/2024 - 09:48:19: [AMXX] Run time error 10 (plugin "zombie_plague40.amxx") (native "ArrayGetString") - debug not enabled!
+L 09/04/2024 - 09:48:19: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/04/2024 - 09:48:36: Invalid index -1 (count: 9)
+L 09/04/2024 - 09:48:36: [AMXX] Run time error 10 (plugin "zombie_plague40.amxx") (native "ArrayGetString") - debug not enabled!
+L 09/04/2024 - 09:48:36: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/04/2024 - 09:48:36: Invalid index -1 (count: 9)
+L 09/04/2024 - 09:48:36: [AMXX] Run time error 10 (plugin "zombie_plague40.amxx") (native "ArrayGetString") - debug not enabled!
+L 09/04/2024 - 09:48:36: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/04/2024 - 09:54:13: Start of error session.
+L 09/04/2024 - 09:54:13: Info (map "zm_fdust2x2") (file "addons/amxmodx/logs/error_20240904.log")
+L 09/04/2024 - 09:54:13: [AMXX] Plugin file open error (plugin "scm_entity_editor.amxx")
+L 09/04/2024 - 09:54:15: Invalid index 13 (count: 13)
+L 09/04/2024 - 09:54:15: [AMXX] Run time error 10 (plugin "zombie_plague40.amxx") (native "ArrayGetCell") - debug not enabled!
+L 09/04/2024 - 09:54:15: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/04/2024 - 09:54:15: Unhandled dynamic native error
+L 09/04/2024 - 09:54:15: [AMXX] Run time error 10 (plugin "zp_gungnir_v2.amxx") (native "zp_register_extra_item") - debug not enabled!
+L 09/04/2024 - 09:54:15: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/04/2024 - 09:56:01: Start of error session.
+L 09/04/2024 - 09:56:01: Info (map "zm_fdust2x2") (file "addons/amxmodx/logs/error_20240904.log")
+L 09/04/2024 - 09:56:01: [AMXX] Plugin file open error (plugin "scm_entity_editor.amxx")
+L 09/04/2024 - 09:56:03: Invalid index 13 (count: 13)
+L 09/04/2024 - 09:56:03: [AMXX] Run time error 10 (plugin "zombie_plague40.amxx") (native "ArrayGetCell") - debug not enabled!
+L 09/04/2024 - 09:56:03: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/04/2024 - 09:56:03: Unhandled dynamic native error
+L 09/04/2024 - 09:56:03: [AMXX] Run time error 10 (plugin "zp_gungnir_v2.amxx") (native "zp_register_extra_item") - debug not enabled!
+L 09/04/2024 - 09:56:03: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/04/2024 - 09:57:10: Start of error session.
+L 09/04/2024 - 09:57:10: Info (map "zm_fdust2x2") (file "addons/amxmodx/logs/error_20240904.log")
+L 09/04/2024 - 09:57:10: [AMXX] Plugin file open error (plugin "scm_entity_editor.amxx")
+L 09/04/2024 - 09:57:12: Invalid index 13 (count: 13)
+L 09/04/2024 - 09:57:12: [AMXX] Run time error 10 (plugin "zombie_plague40.amxx") (native "ArrayGetCell") - debug not enabled!
+L 09/04/2024 - 09:57:12: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/04/2024 - 09:57:12: Unhandled dynamic native error
+L 09/04/2024 - 09:57:12: [AMXX] Run time error 10 (plugin "zp_gungnir_v2.amxx") (native "zp_register_extra_item") - debug not enabled!
+L 09/04/2024 - 09:57:12: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/04/2024 - 09:58:25: Start of error session.
+L 09/04/2024 - 09:58:25: Info (map "zm_fdust2x2") (file "addons/amxmodx/logs/error_20240904.log")
+L 09/04/2024 - 09:58:25: [AMXX] Plugin file open error (plugin "scm_entity_editor.amxx")
+L 09/04/2024 - 09:58:27: Invalid index 13 (count: 13)
+L 09/04/2024 - 09:58:27: [AMXX] Run time error 10 (plugin "zombie_plague40.amxx") (native "ArrayGetCell") - debug not enabled!
+L 09/04/2024 - 09:58:27: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/04/2024 - 09:58:27: Unhandled dynamic native error
+L 09/04/2024 - 09:58:27: [AMXX] Run time error 10 (plugin "zp_gungnir_v2.amxx") (native "zp_register_extra_item") - debug not enabled!
+L 09/04/2024 - 09:58:27: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/04/2024 - 09:59:41: Start of error session.
+L 09/04/2024 - 09:59:41: Info (map "zm_fdust2x2") (file "addons/amxmodx/logs/error_20240904.log")
+L 09/04/2024 - 09:59:41: [AMXX] Plugin file open error (plugin "scm_entity_editor.amxx")
+L 09/04/2024 - 09:59:43: Invalid index 13 (count: 13)
+L 09/04/2024 - 09:59:43: [AMXX] Run time error 10 (plugin "zombie_plague40.amxx") (native "ArrayGetCell") - debug not enabled!
+L 09/04/2024 - 09:59:43: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/04/2024 - 09:59:43: Unhandled dynamic native error
+L 09/04/2024 - 09:59:43: [AMXX] Run time error 10 (plugin "zp_gungnir_v2.amxx") (native "zp_register_extra_item") - debug not enabled!
+L 09/04/2024 - 09:59:43: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).

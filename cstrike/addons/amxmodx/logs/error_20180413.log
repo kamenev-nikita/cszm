@@ -1,0 +1,5 @@
+L 04/13/2018 - 22:07:32: Start of error session.
+L 04/13/2018 - 22:07:32: Info (map "de_dust2") (file "addons/amxmodx/logs/error_20180413.log")
+L 04/13/2018 - 22:07:32: Called dynanative into a paused plugin.
+L 04/13/2018 - 22:07:32: [AMXX] Run time error 10 (plugin "zp_zclasses40.amxx") (native "zp_register_zombie_class") - debug not enabled!
+L 04/13/2018 - 22:07:32: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).

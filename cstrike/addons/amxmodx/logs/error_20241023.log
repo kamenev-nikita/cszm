@@ -1,0 +1,626 @@
+L 10/23/2024 - 08:56:58: Start of error session.
+L 10/23/2024 - 08:56:58: Info (map "zm_fdust2x2") (file "addons/amxmodx/logs/error_20241023.log")
+L 10/23/2024 - 08:56:58: Function "native_give_model_aura_eff" was not found
+L 10/23/2024 - 08:56:58: [AMXX] Run time error 19 (plugin "K_lib_myFuncs.amxx") - debug not enabled!
+L 10/23/2024 - 08:56:58: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/23/2024 - 08:56:58: [AMXX] Run time error -1 (plugin "K_lib_myFuncs.amxx") - debug not enabled!
+L 10/23/2024 - 08:56:58: Function "native_show_donate_menu" was not found
+L 10/23/2024 - 08:56:58: [AMXX] Run time error 19 (plugin "K_M_creator.amxx") - debug not enabled!
+L 10/23/2024 - 08:56:58: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/23/2024 - 09:01:43: Start of error session.
+L 10/23/2024 - 09:01:43: Info (map "zm_fdust2x2") (file "addons/amxmodx/logs/error_20241023.log")
+L 10/23/2024 - 09:01:43: Function "native_give_model_aura_eff" was not found
+L 10/23/2024 - 09:01:43: [AMXX] Run time error 19 (plugin "K_lib_myFuncs.amxx") - debug not enabled!
+L 10/23/2024 - 09:01:43: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/23/2024 - 09:01:43: [AMXX] Run time error -1 (plugin "K_lib_myFuncs.amxx") - debug not enabled!
+L 10/23/2024 - 09:01:43: Function "native_show_donate_menu" was not found
+L 10/23/2024 - 09:01:43: [AMXX] Run time error 19 (plugin "K_M_creator.amxx") - debug not enabled!
+L 10/23/2024 - 09:01:43: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/23/2024 - 09:08:05: Start of error session.
+L 10/23/2024 - 09:08:05: Info (map "zm_fdust2x2") (file "addons/amxmodx/logs/error_20241023.log")
+L 10/23/2024 - 09:08:05: Function "native_give_model_aura_eff" was not found
+L 10/23/2024 - 09:08:05: [AMXX] Run time error 19 (plugin "K_lib_myFuncs.amxx") - debug not enabled!
+L 10/23/2024 - 09:08:05: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/23/2024 - 09:08:05: [AMXX] Run time error -1 (plugin "K_lib_myFuncs.amxx") - debug not enabled!
+L 10/23/2024 - 09:08:05: Function "native_show_donate_menu" was not found
+L 10/23/2024 - 09:08:05: [AMXX] Run time error 19 (plugin "K_M_creator.amxx") - debug not enabled!
+L 10/23/2024 - 09:08:05: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/23/2024 - 09:08:10: [CSTRIKE] Invalid player 1 (no private data)
+L 10/23/2024 - 09:08:10: [AMXX] Displaying debug trace (plugin "K_lib_ZP.amxx", version "1.0")
+L 10/23/2024 - 09:08:10: [AMXX] Run time error 10: native error (native "cs_set_user_team")
+L 10/23/2024 - 09:08:10: [AMXX]    [0] K_lib_ZP.sma::native_reset_player_for_new_round (line 91)
+L 10/23/2024 - 09:08:10: [AMXX]    [1] K_lib_ZP.sma::native_make_hum (line 153)
+L 10/23/2024 - 09:08:10: Unhandled dynamic native error
+L 10/23/2024 - 09:08:10: [AMXX] Displaying debug trace (plugin "K_ZP_main.amxx", version "1.0")
+L 10/23/2024 - 09:08:10: [AMXX] Run time error 10: native error (native "make_hum")
+L 10/23/2024 - 09:08:10: [AMXX]    [0] K_ZP_main.sma::client_putinserver (line 76)
+L 10/23/2024 - 09:08:10: [CSTRIKE] Invalid player 2 (no private data)
+L 10/23/2024 - 09:08:10: [AMXX] Displaying debug trace (plugin "K_lib_ZP.amxx", version "1.0")
+L 10/23/2024 - 09:08:10: [AMXX] Run time error 10: native error (native "cs_set_user_team")
+L 10/23/2024 - 09:08:10: [AMXX]    [0] K_lib_ZP.sma::native_reset_player_for_new_round (line 91)
+L 10/23/2024 - 09:08:10: [AMXX]    [1] K_lib_ZP.sma::native_make_hum (line 153)
+L 10/23/2024 - 09:08:10: Unhandled dynamic native error
+L 10/23/2024 - 09:08:10: [AMXX] Displaying debug trace (plugin "K_ZP_main.amxx", version "1.0")
+L 10/23/2024 - 09:08:10: [AMXX] Run time error 10: native error (native "make_hum")
+L 10/23/2024 - 09:08:10: [AMXX]    [0] K_ZP_main.sma::client_putinserver (line 76)
+L 10/23/2024 - 09:08:11: [CSTRIKE] Invalid player 3 (no private data)
+L 10/23/2024 - 09:08:11: [AMXX] Displaying debug trace (plugin "K_lib_ZP.amxx", version "1.0")
+L 10/23/2024 - 09:08:11: [AMXX] Run time error 10: native error (native "cs_set_user_team")
+L 10/23/2024 - 09:08:11: [AMXX]    [0] K_lib_ZP.sma::native_make_zombie (line 132)
+L 10/23/2024 - 09:08:11: Unhandled dynamic native error
+L 10/23/2024 - 09:08:11: [AMXX] Displaying debug trace (plugin "K_ZP_main.amxx", version "1.0")
+L 10/23/2024 - 09:08:11: [AMXX] Run time error 10: native error (native "make_zombie")
+L 10/23/2024 - 09:08:11: [AMXX]    [0] K_ZP_main.sma::client_putinserver (line 79)
+L 10/23/2024 - 09:08:11: [CSTRIKE] Invalid player 4 (no private data)
+L 10/23/2024 - 09:08:11: [AMXX] Displaying debug trace (plugin "K_lib_ZP.amxx", version "1.0")
+L 10/23/2024 - 09:08:11: [AMXX] Run time error 10: native error (native "cs_set_user_team")
+L 10/23/2024 - 09:08:11: [AMXX]    [0] K_lib_ZP.sma::native_make_zombie (line 132)
+L 10/23/2024 - 09:08:11: Unhandled dynamic native error
+L 10/23/2024 - 09:08:11: [AMXX] Displaying debug trace (plugin "K_ZP_main.amxx", version "1.0")
+L 10/23/2024 - 09:08:11: [AMXX] Run time error 10: native error (native "make_zombie")
+L 10/23/2024 - 09:08:11: [AMXX]    [0] K_ZP_main.sma::client_putinserver (line 79)
+L 10/23/2024 - 09:08:12: [CSTRIKE] Invalid player 5 (no private data)
+L 10/23/2024 - 09:08:12: [AMXX] Displaying debug trace (plugin "K_lib_ZP.amxx", version "1.0")
+L 10/23/2024 - 09:08:12: [AMXX] Run time error 10: native error (native "cs_set_user_team")
+L 10/23/2024 - 09:08:12: [AMXX]    [0] K_lib_ZP.sma::native_make_zombie (line 132)
+L 10/23/2024 - 09:08:12: Unhandled dynamic native error
+L 10/23/2024 - 09:08:12: [AMXX] Displaying debug trace (plugin "K_ZP_main.amxx", version "1.0")
+L 10/23/2024 - 09:08:12: [AMXX] Run time error 10: native error (native "make_zombie")
+L 10/23/2024 - 09:08:12: [AMXX]    [0] K_ZP_main.sma::client_putinserver (line 79)
+L 10/23/2024 - 09:08:12: [CSTRIKE] Invalid player 6 (no private data)
+L 10/23/2024 - 09:08:12: [AMXX] Displaying debug trace (plugin "K_lib_ZP.amxx", version "1.0")
+L 10/23/2024 - 09:08:12: [AMXX] Run time error 10: native error (native "cs_set_user_team")
+L 10/23/2024 - 09:08:12: [AMXX]    [0] K_lib_ZP.sma::native_make_zombie (line 132)
+L 10/23/2024 - 09:08:12: Unhandled dynamic native error
+L 10/23/2024 - 09:08:12: [AMXX] Displaying debug trace (plugin "K_ZP_main.amxx", version "1.0")
+L 10/23/2024 - 09:08:12: [AMXX] Run time error 10: native error (native "make_zombie")
+L 10/23/2024 - 09:08:12: [AMXX]    [0] K_ZP_main.sma::client_putinserver (line 79)
+L 10/23/2024 - 09:13:30: Start of error session.
+L 10/23/2024 - 09:13:30: Info (map "zm_fdust2x2") (file "addons/amxmodx/logs/error_20241023.log")
+L 10/23/2024 - 09:13:30: Function "native_give_model_aura_eff" was not found
+L 10/23/2024 - 09:13:30: [AMXX] Run time error 19 (plugin "K_lib_myFuncs.amxx") - debug not enabled!
+L 10/23/2024 - 09:13:30: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/23/2024 - 09:13:30: [AMXX] Run time error -1 (plugin "K_lib_myFuncs.amxx") - debug not enabled!
+L 10/23/2024 - 09:13:30: Function "native_show_donate_menu" was not found
+L 10/23/2024 - 09:13:30: [AMXX] Run time error 19 (plugin "K_M_creator.amxx") - debug not enabled!
+L 10/23/2024 - 09:13:30: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/23/2024 - 09:13:33: Function is not present (function "spawn_connect_player") (plugin "K_ZP_main.amxx")
+L 10/23/2024 - 09:13:33: [AMXX] Displaying debug trace (plugin "K_ZP_main.amxx", version "1.0")
+L 10/23/2024 - 09:13:33: [AMXX] Run time error 10: native error (native "set_task")
+L 10/23/2024 - 09:13:33: [AMXX]    [0] K_ZP_main.sma::client_putinserver (line 75)
+L 10/23/2024 - 09:13:34: Function is not present (function "spawn_connect_player") (plugin "K_ZP_main.amxx")
+L 10/23/2024 - 09:13:34: [AMXX] Displaying debug trace (plugin "K_ZP_main.amxx", version "1.0")
+L 10/23/2024 - 09:13:34: [AMXX] Run time error 10: native error (native "set_task")
+L 10/23/2024 - 09:13:34: [AMXX]    [0] K_ZP_main.sma::client_putinserver (line 75)
+L 10/23/2024 - 09:13:35: Function is not present (function "spawn_connect_player") (plugin "K_ZP_main.amxx")
+L 10/23/2024 - 09:13:35: [AMXX] Displaying debug trace (plugin "K_ZP_main.amxx", version "1.0")
+L 10/23/2024 - 09:13:35: [AMXX] Run time error 10: native error (native "set_task")
+L 10/23/2024 - 09:13:35: [AMXX]    [0] K_ZP_main.sma::client_putinserver (line 75)
+L 10/23/2024 - 09:13:36: Function is not present (function "spawn_connect_player") (plugin "K_ZP_main.amxx")
+L 10/23/2024 - 09:13:36: [AMXX] Displaying debug trace (plugin "K_ZP_main.amxx", version "1.0")
+L 10/23/2024 - 09:13:36: [AMXX] Run time error 10: native error (native "set_task")
+L 10/23/2024 - 09:13:36: [AMXX]    [0] K_ZP_main.sma::client_putinserver (line 75)
+L 10/23/2024 - 09:13:36: Function is not present (function "spawn_connect_player") (plugin "K_ZP_main.amxx")
+L 10/23/2024 - 09:13:36: [AMXX] Displaying debug trace (plugin "K_ZP_main.amxx", version "1.0")
+L 10/23/2024 - 09:13:36: [AMXX] Run time error 10: native error (native "set_task")
+L 10/23/2024 - 09:13:36: [AMXX]    [0] K_ZP_main.sma::client_putinserver (line 75)
+L 10/23/2024 - 09:13:37: Function is not present (function "spawn_connect_player") (plugin "K_ZP_main.amxx")
+L 10/23/2024 - 09:13:37: [AMXX] Displaying debug trace (plugin "K_ZP_main.amxx", version "1.0")
+L 10/23/2024 - 09:13:37: [AMXX] Run time error 10: native error (native "set_task")
+L 10/23/2024 - 09:13:37: [AMXX]    [0] K_ZP_main.sma::client_putinserver (line 75)
+L 10/23/2024 - 09:13:37: Function is not present (function "spawn_connect_player") (plugin "K_ZP_main.amxx")
+L 10/23/2024 - 09:13:37: [AMXX] Displaying debug trace (plugin "K_ZP_main.amxx", version "1.0")
+L 10/23/2024 - 09:13:37: [AMXX] Run time error 10: native error (native "set_task")
+L 10/23/2024 - 09:13:37: [AMXX]    [0] K_ZP_main.sma::client_putinserver (line 75)
+L 10/23/2024 - 09:21:57: Start of error session.
+L 10/23/2024 - 09:21:57: Info (map "zm_fdust2x2") (file "addons/amxmodx/logs/error_20241023.log")
+L 10/23/2024 - 09:21:57: Function "native_give_model_aura_eff" was not found
+L 10/23/2024 - 09:21:57: [AMXX] Run time error 19 (plugin "K_lib_myFuncs.amxx") - debug not enabled!
+L 10/23/2024 - 09:21:57: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/23/2024 - 09:21:57: [AMXX] Run time error -1 (plugin "K_lib_myFuncs.amxx") - debug not enabled!
+L 10/23/2024 - 09:21:57: Function "native_show_donate_menu" was not found
+L 10/23/2024 - 09:21:57: [AMXX] Run time error 19 (plugin "K_M_creator.amxx") - debug not enabled!
+L 10/23/2024 - 09:21:57: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/23/2024 - 09:22:00: Function is not present (function "spawn_connect_player") (plugin "K_ZP_main.amxx")
+L 10/23/2024 - 09:22:00: [AMXX] Displaying debug trace (plugin "K_ZP_main.amxx", version "1.0")
+L 10/23/2024 - 09:22:00: [AMXX] Run time error 10: native error (native "set_task")
+L 10/23/2024 - 09:22:00: [AMXX]    [0] K_ZP_main.sma::client_putinserver (line 77)
+L 10/23/2024 - 09:22:01: Function is not present (function "spawn_connect_player") (plugin "K_ZP_main.amxx")
+L 10/23/2024 - 09:22:01: [AMXX] Displaying debug trace (plugin "K_ZP_main.amxx", version "1.0")
+L 10/23/2024 - 09:22:01: [AMXX] Run time error 10: native error (native "set_task")
+L 10/23/2024 - 09:22:01: [AMXX]    [0] K_ZP_main.sma::client_putinserver (line 77)
+L 10/23/2024 - 09:22:02: Function is not present (function "spawn_connect_player") (plugin "K_ZP_main.amxx")
+L 10/23/2024 - 09:22:02: [AMXX] Displaying debug trace (plugin "K_ZP_main.amxx", version "1.0")
+L 10/23/2024 - 09:22:02: [AMXX] Run time error 10: native error (native "set_task")
+L 10/23/2024 - 09:22:02: [AMXX]    [0] K_ZP_main.sma::client_putinserver (line 77)
+L 10/23/2024 - 09:22:02: Function is not present (function "spawn_connect_player") (plugin "K_ZP_main.amxx")
+L 10/23/2024 - 09:22:02: [AMXX] Displaying debug trace (plugin "K_ZP_main.amxx", version "1.0")
+L 10/23/2024 - 09:22:02: [AMXX] Run time error 10: native error (native "set_task")
+L 10/23/2024 - 09:22:02: [AMXX]    [0] K_ZP_main.sma::client_putinserver (line 77)
+L 10/23/2024 - 09:22:03: Function is not present (function "spawn_connect_player") (plugin "K_ZP_main.amxx")
+L 10/23/2024 - 09:22:03: [AMXX] Displaying debug trace (plugin "K_ZP_main.amxx", version "1.0")
+L 10/23/2024 - 09:22:03: [AMXX] Run time error 10: native error (native "set_task")
+L 10/23/2024 - 09:22:03: [AMXX]    [0] K_ZP_main.sma::client_putinserver (line 77)
+L 10/23/2024 - 09:22:03: Function is not present (function "spawn_connect_player") (plugin "K_ZP_main.amxx")
+L 10/23/2024 - 09:22:03: [AMXX] Displaying debug trace (plugin "K_ZP_main.amxx", version "1.0")
+L 10/23/2024 - 09:22:03: [AMXX] Run time error 10: native error (native "set_task")
+L 10/23/2024 - 09:22:03: [AMXX]    [0] K_ZP_main.sma::client_putinserver (line 77)
+L 10/23/2024 - 09:22:04: Function is not present (function "spawn_connect_player") (plugin "K_ZP_main.amxx")
+L 10/23/2024 - 09:22:04: [AMXX] Displaying debug trace (plugin "K_ZP_main.amxx", version "1.0")
+L 10/23/2024 - 09:22:04: [AMXX] Run time error 10: native error (native "set_task")
+L 10/23/2024 - 09:22:04: [AMXX]    [0] K_ZP_main.sma::client_putinserver (line 77)
+L 10/23/2024 - 09:22:23: [CSTRIKE] Player out of range (0)
+L 10/23/2024 - 09:22:23: [AMXX] Displaying debug trace (plugin "K_lib_ZP.amxx", version "1.0")
+L 10/23/2024 - 09:22:23: [AMXX] Run time error 10: native error (native "cs_get_user_team")
+L 10/23/2024 - 09:22:23: [AMXX]    [0] K_lib_ZP.sma::native_check_last_hum (line 198)
+L 10/23/2024 - 09:22:23: Unhandled dynamic native error
+L 10/23/2024 - 09:22:23: [AMXX] Displaying debug trace (plugin "K_ZP_main.amxx", version "1.0")
+L 10/23/2024 - 09:22:23: [AMXX] Run time error 10: native error (native "check_last_hum")
+L 10/23/2024 - 09:22:23: [AMXX]    [0] K_ZP_main.sma::UserTakeDamage (line 121)
+L 10/23/2024 - 09:25:37: Start of error session.
+L 10/23/2024 - 09:25:37: Info (map "zm_fdust2x2") (file "addons/amxmodx/logs/error_20241023.log")
+L 10/23/2024 - 09:25:37: Function "native_give_model_aura_eff" was not found
+L 10/23/2024 - 09:25:37: [AMXX] Run time error 19 (plugin "K_lib_myFuncs.amxx") - debug not enabled!
+L 10/23/2024 - 09:25:37: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/23/2024 - 09:25:37: [AMXX] Run time error -1 (plugin "K_lib_myFuncs.amxx") - debug not enabled!
+L 10/23/2024 - 09:25:37: Function "native_check_last_hum" was not found
+L 10/23/2024 - 09:25:37: [AMXX] Run time error 19 (plugin "K_lib_ZP.amxx") - debug not enabled!
+L 10/23/2024 - 09:25:37: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/23/2024 - 09:25:37: [AMXX] Run time error -1 (plugin "K_lib_ZP.amxx") - debug not enabled!
+L 10/23/2024 - 09:25:37: Function "native_show_donate_menu" was not found
+L 10/23/2024 - 09:25:37: [AMXX] Run time error 19 (plugin "K_M_creator.amxx") - debug not enabled!
+L 10/23/2024 - 09:25:37: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/23/2024 - 09:25:40: Function is not present (function "spawn_connect_player") (plugin "K_ZP_main.amxx")
+L 10/23/2024 - 09:25:40: [AMXX] Displaying debug trace (plugin "K_ZP_main.amxx", version "1.0")
+L 10/23/2024 - 09:25:40: [AMXX] Run time error 10: native error (native "set_task")
+L 10/23/2024 - 09:25:40: [AMXX]    [0] K_ZP_main.sma::client_putinserver (line 76)
+L 10/23/2024 - 09:25:41: Function is not present (function "spawn_connect_player") (plugin "K_ZP_main.amxx")
+L 10/23/2024 - 09:25:41: [AMXX] Displaying debug trace (plugin "K_ZP_main.amxx", version "1.0")
+L 10/23/2024 - 09:25:41: [AMXX] Run time error 10: native error (native "set_task")
+L 10/23/2024 - 09:25:41: [AMXX]    [0] K_ZP_main.sma::client_putinserver (line 76)
+L 10/23/2024 - 09:25:42: Function is not present (function "spawn_connect_player") (plugin "K_ZP_main.amxx")
+L 10/23/2024 - 09:25:42: [AMXX] Displaying debug trace (plugin "K_ZP_main.amxx", version "1.0")
+L 10/23/2024 - 09:25:42: [AMXX] Run time error 10: native error (native "set_task")
+L 10/23/2024 - 09:25:42: [AMXX]    [0] K_ZP_main.sma::client_putinserver (line 76)
+L 10/23/2024 - 09:25:42: [CSTRIKE] Player out of range (0)
+L 10/23/2024 - 09:25:42: [AMXX] Displaying debug trace (plugin "K_lib_ZP.amxx", version "1.0")
+L 10/23/2024 - 09:25:42: [AMXX] Run time error 10: native error (native "cs_get_user_team")
+L 10/23/2024 - 09:25:42: [AMXX]    [0] K_lib_ZP.sma::check_last_hum (line 295)
+L 10/23/2024 - 09:25:42: [AMXX]    [1] K_lib_ZP.sma::native_make_zombie (line 152)
+L 10/23/2024 - 09:25:42: [AMXX]    [2] K_lib_ZP.sma::native_start_mode (line 121)
+L 10/23/2024 - 09:25:42: Unhandled dynamic native error
+L 10/23/2024 - 09:25:42: [AMXX] Displaying debug trace (plugin "K_ZP_main.amxx", version "1.0")
+L 10/23/2024 - 09:25:42: [AMXX] Run time error 10: native error (native "start_mode")
+L 10/23/2024 - 09:25:42: [AMXX]    [0] K_ZP_main.sma::task_start_mode (line 186)
+L 10/23/2024 - 09:25:42: Function is not present (function "spawn_connect_player") (plugin "K_ZP_main.amxx")
+L 10/23/2024 - 09:25:42: [AMXX] Displaying debug trace (plugin "K_ZP_main.amxx", version "1.0")
+L 10/23/2024 - 09:25:42: [AMXX] Run time error 10: native error (native "set_task")
+L 10/23/2024 - 09:25:42: [AMXX]    [0] K_ZP_main.sma::client_putinserver (line 76)
+L 10/23/2024 - 09:25:43: Function is not present (function "spawn_connect_player") (plugin "K_ZP_main.amxx")
+L 10/23/2024 - 09:25:43: [AMXX] Displaying debug trace (plugin "K_ZP_main.amxx", version "1.0")
+L 10/23/2024 - 09:25:43: [AMXX] Run time error 10: native error (native "set_task")
+L 10/23/2024 - 09:25:43: [AMXX]    [0] K_ZP_main.sma::client_putinserver (line 76)
+L 10/23/2024 - 09:25:43: Function is not present (function "spawn_connect_player") (plugin "K_ZP_main.amxx")
+L 10/23/2024 - 09:25:43: [AMXX] Displaying debug trace (plugin "K_ZP_main.amxx", version "1.0")
+L 10/23/2024 - 09:25:43: [AMXX] Run time error 10: native error (native "set_task")
+L 10/23/2024 - 09:25:43: [AMXX]    [0] K_ZP_main.sma::client_putinserver (line 76)
+L 10/23/2024 - 09:25:44: Function is not present (function "spawn_connect_player") (plugin "K_ZP_main.amxx")
+L 10/23/2024 - 09:25:44: [AMXX] Displaying debug trace (plugin "K_ZP_main.amxx", version "1.0")
+L 10/23/2024 - 09:25:44: [AMXX] Run time error 10: native error (native "set_task")
+L 10/23/2024 - 09:25:44: [AMXX]    [0] K_ZP_main.sma::client_putinserver (line 76)
+L 10/23/2024 - 09:25:48: [CSTRIKE] Player out of range (0)
+L 10/23/2024 - 09:25:48: [AMXX] Displaying debug trace (plugin "K_lib_ZP.amxx", version "1.0")
+L 10/23/2024 - 09:25:48: [AMXX] Run time error 10: native error (native "cs_get_user_team")
+L 10/23/2024 - 09:25:48: [AMXX]    [0] K_lib_ZP.sma::check_last_hum (line 295)
+L 10/23/2024 - 09:25:48: [AMXX]    [1] K_lib_ZP.sma::native_make_zombie (line 152)
+L 10/23/2024 - 09:25:48: [AMXX]    [2] K_lib_ZP.sma::native_start_mode (line 121)
+L 10/23/2024 - 09:25:48: Unhandled dynamic native error
+L 10/23/2024 - 09:25:48: [AMXX] Displaying debug trace (plugin "K_ZP_main.amxx", version "1.0")
+L 10/23/2024 - 09:25:48: [AMXX] Run time error 10: native error (native "start_mode")
+L 10/23/2024 - 09:25:48: [AMXX]    [0] K_ZP_main.sma::task_start_mode (line 186)
+L 10/23/2024 - 09:26:06: [CSTRIKE] Player out of range (0)
+L 10/23/2024 - 09:26:06: [AMXX] Displaying debug trace (plugin "K_lib_ZP.amxx", version "1.0")
+L 10/23/2024 - 09:26:06: [AMXX] Run time error 10: native error (native "cs_get_user_team")
+L 10/23/2024 - 09:26:06: [AMXX]    [0] K_lib_ZP.sma::check_last_hum (line 295)
+L 10/23/2024 - 09:26:06: [AMXX]    [1] K_lib_ZP.sma::native_make_zombie (line 152)
+L 10/23/2024 - 09:26:06: Unhandled dynamic native error
+L 10/23/2024 - 09:26:06: [AMXX] Displaying debug trace (plugin "K_M_ZP.amxx", version "1.0")
+L 10/23/2024 - 09:26:06: [AMXX] Run time error 10: native error (native "make_zombie")
+L 10/23/2024 - 09:26:06: [AMXX]    [0] K_M_ZP.sma::func_menu_list_players (line 162)
+L 10/23/2024 - 09:26:11: [CSTRIKE] Player out of range (0)
+L 10/23/2024 - 09:26:11: [AMXX] Displaying debug trace (plugin "K_lib_ZP.amxx", version "1.0")
+L 10/23/2024 - 09:26:11: [AMXX] Run time error 10: native error (native "cs_get_user_team")
+L 10/23/2024 - 09:26:11: [AMXX]    [0] K_lib_ZP.sma::check_last_hum (line 295)
+L 10/23/2024 - 09:26:11: [AMXX]    [1] K_lib_ZP.sma::native_make_zombie (line 152)
+L 10/23/2024 - 09:26:11: Unhandled dynamic native error
+L 10/23/2024 - 09:26:11: [AMXX] Displaying debug trace (plugin "K_M_ZP.amxx", version "1.0")
+L 10/23/2024 - 09:26:11: [AMXX] Run time error 10: native error (native "make_zombie")
+L 10/23/2024 - 09:26:11: [AMXX]    [0] K_M_ZP.sma::func_menu_list_players (line 162)
+L 10/23/2024 - 09:26:16: [CSTRIKE] Player out of range (0)
+L 10/23/2024 - 09:26:16: [AMXX] Displaying debug trace (plugin "K_lib_ZP.amxx", version "1.0")
+L 10/23/2024 - 09:26:16: [AMXX] Run time error 10: native error (native "cs_get_user_team")
+L 10/23/2024 - 09:26:16: [AMXX]    [0] K_lib_ZP.sma::check_last_hum (line 295)
+L 10/23/2024 - 09:26:16: [AMXX]    [1] K_lib_ZP.sma::native_make_zombie (line 152)
+L 10/23/2024 - 09:26:16: Unhandled dynamic native error
+L 10/23/2024 - 09:26:16: [AMXX] Displaying debug trace (plugin "K_M_ZP.amxx", version "1.0")
+L 10/23/2024 - 09:26:16: [AMXX] Run time error 10: native error (native "make_zombie")
+L 10/23/2024 - 09:26:16: [AMXX]    [0] K_M_ZP.sma::func_menu_list_players (line 162)
+L 10/23/2024 - 09:26:19: [CSTRIKE] Player out of range (0)
+L 10/23/2024 - 09:26:19: [AMXX] Displaying debug trace (plugin "K_lib_ZP.amxx", version "1.0")
+L 10/23/2024 - 09:26:19: [AMXX] Run time error 10: native error (native "cs_get_user_team")
+L 10/23/2024 - 09:26:19: [AMXX]    [0] K_lib_ZP.sma::check_last_hum (line 295)
+L 10/23/2024 - 09:26:19: [AMXX]    [1] K_lib_ZP.sma::native_make_zombie (line 152)
+L 10/23/2024 - 09:26:19: Unhandled dynamic native error
+L 10/23/2024 - 09:26:19: [AMXX] Displaying debug trace (plugin "K_M_ZP.amxx", version "1.0")
+L 10/23/2024 - 09:26:19: [AMXX] Run time error 10: native error (native "make_zombie")
+L 10/23/2024 - 09:26:19: [AMXX]    [0] K_M_ZP.sma::func_menu_list_players (line 162)
+L 10/23/2024 - 09:26:23: [CSTRIKE] Player out of range (0)
+L 10/23/2024 - 09:26:23: [AMXX] Displaying debug trace (plugin "K_lib_ZP.amxx", version "1.0")
+L 10/23/2024 - 09:26:23: [AMXX] Run time error 10: native error (native "cs_get_user_team")
+L 10/23/2024 - 09:26:23: [AMXX]    [0] K_lib_ZP.sma::check_last_hum (line 295)
+L 10/23/2024 - 09:26:23: [AMXX]    [1] K_lib_ZP.sma::native_make_zombie (line 152)
+L 10/23/2024 - 09:26:23: Unhandled dynamic native error
+L 10/23/2024 - 09:26:23: [AMXX] Displaying debug trace (plugin "K_M_ZP.amxx", version "1.0")
+L 10/23/2024 - 09:26:23: [AMXX] Run time error 10: native error (native "make_zombie")
+L 10/23/2024 - 09:26:23: [AMXX]    [0] K_M_ZP.sma::func_menu_list_players (line 162)
+L 10/23/2024 - 09:26:27: [CSTRIKE] Player out of range (0)
+L 10/23/2024 - 09:26:27: [AMXX] Displaying debug trace (plugin "K_lib_ZP.amxx", version "1.0")
+L 10/23/2024 - 09:26:27: [AMXX] Run time error 10: native error (native "cs_get_user_team")
+L 10/23/2024 - 09:26:27: [AMXX]    [0] K_lib_ZP.sma::check_last_hum (line 295)
+L 10/23/2024 - 09:26:27: [AMXX]    [1] K_lib_ZP.sma::native_make_zombie (line 152)
+L 10/23/2024 - 09:26:27: Unhandled dynamic native error
+L 10/23/2024 - 09:26:27: [AMXX] Displaying debug trace (plugin "K_ZP_main.amxx", version "1.0")
+L 10/23/2024 - 09:26:27: [AMXX] Run time error 10: native error (native "make_zombie")
+L 10/23/2024 - 09:26:27: [AMXX]    [0] K_ZP_main.sma::UserTakeDamage (line 119)
+L 10/23/2024 - 09:27:27: Start of error session.
+L 10/23/2024 - 09:27:27: Info (map "zm_fdust2x2") (file "addons/amxmodx/logs/error_20241023.log")
+L 10/23/2024 - 09:27:27: Function "native_give_model_aura_eff" was not found
+L 10/23/2024 - 09:27:27: [AMXX] Run time error 19 (plugin "K_lib_myFuncs.amxx") - debug not enabled!
+L 10/23/2024 - 09:27:27: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/23/2024 - 09:27:27: [AMXX] Run time error -1 (plugin "K_lib_myFuncs.amxx") - debug not enabled!
+L 10/23/2024 - 09:27:27: Function "native_check_last_hum" was not found
+L 10/23/2024 - 09:27:27: [AMXX] Run time error 19 (plugin "K_lib_ZP.amxx") - debug not enabled!
+L 10/23/2024 - 09:27:27: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/23/2024 - 09:27:27: [AMXX] Run time error -1 (plugin "K_lib_ZP.amxx") - debug not enabled!
+L 10/23/2024 - 09:27:27: Function "native_show_donate_menu" was not found
+L 10/23/2024 - 09:27:27: [AMXX] Run time error 19 (plugin "K_M_creator.amxx") - debug not enabled!
+L 10/23/2024 - 09:27:27: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/23/2024 - 09:27:30: Function is not present (function "spawn_connect_player") (plugin "K_ZP_main.amxx")
+L 10/23/2024 - 09:27:30: [AMXX] Displaying debug trace (plugin "K_ZP_main.amxx", version "1.0")
+L 10/23/2024 - 09:27:30: [AMXX] Run time error 10: native error (native "set_task")
+L 10/23/2024 - 09:27:30: [AMXX]    [0] K_ZP_main.sma::client_putinserver (line 76)
+L 10/23/2024 - 09:27:32: Function is not present (function "spawn_connect_player") (plugin "K_ZP_main.amxx")
+L 10/23/2024 - 09:27:32: [AMXX] Displaying debug trace (plugin "K_ZP_main.amxx", version "1.0")
+L 10/23/2024 - 09:27:32: [AMXX] Run time error 10: native error (native "set_task")
+L 10/23/2024 - 09:27:32: [AMXX]    [0] K_ZP_main.sma::client_putinserver (line 76)
+L 10/23/2024 - 09:27:32: Function is not present (function "spawn_connect_player") (plugin "K_ZP_main.amxx")
+L 10/23/2024 - 09:27:32: [AMXX] Displaying debug trace (plugin "K_ZP_main.amxx", version "1.0")
+L 10/23/2024 - 09:27:32: [AMXX] Run time error 10: native error (native "set_task")
+L 10/23/2024 - 09:27:32: [AMXX]    [0] K_ZP_main.sma::client_putinserver (line 76)
+L 10/23/2024 - 09:27:33: [CSTRIKE] Player out of range (0)
+L 10/23/2024 - 09:27:33: [AMXX] Displaying debug trace (plugin "K_lib_ZP.amxx", version "1.0")
+L 10/23/2024 - 09:27:33: [AMXX] Run time error 10: native error (native "cs_get_user_team")
+L 10/23/2024 - 09:27:33: [AMXX]    [0] K_lib_ZP.sma::check_last_hum (line 295)
+L 10/23/2024 - 09:27:33: [AMXX]    [1] K_lib_ZP.sma::native_make_zombie (line 152)
+L 10/23/2024 - 09:27:33: [AMXX]    [2] K_lib_ZP.sma::native_start_mode (line 121)
+L 10/23/2024 - 09:27:33: Unhandled dynamic native error
+L 10/23/2024 - 09:27:33: [AMXX] Displaying debug trace (plugin "K_ZP_main.amxx", version "1.0")
+L 10/23/2024 - 09:27:33: [AMXX] Run time error 10: native error (native "start_mode")
+L 10/23/2024 - 09:27:33: [AMXX]    [0] K_ZP_main.sma::task_start_mode (line 186)
+L 10/23/2024 - 09:27:33: Function is not present (function "spawn_connect_player") (plugin "K_ZP_main.amxx")
+L 10/23/2024 - 09:27:33: [AMXX] Displaying debug trace (plugin "K_ZP_main.amxx", version "1.0")
+L 10/23/2024 - 09:27:33: [AMXX] Run time error 10: native error (native "set_task")
+L 10/23/2024 - 09:27:33: [AMXX]    [0] K_ZP_main.sma::client_putinserver (line 76)
+L 10/23/2024 - 09:27:33: Function is not present (function "spawn_connect_player") (plugin "K_ZP_main.amxx")
+L 10/23/2024 - 09:27:45: [AMXX] Displaying debug trace (plugin "K_ZP_main.amxx", version "1.0")
+L 10/23/2024 - 09:27:45: [AMXX] Run time error 10: native error (native "set_task")
+L 10/23/2024 - 09:27:45: [AMXX]    [0] K_ZP_main.sma::client_putinserver (line 76)
+L 10/23/2024 - 09:27:45: Function is not present (function "spawn_connect_player") (plugin "K_ZP_main.amxx")
+L 10/23/2024 - 09:27:45: [AMXX] Displaying debug trace (plugin "K_ZP_main.amxx", version "1.0")
+L 10/23/2024 - 09:27:45: [AMXX] Run time error 10: native error (native "set_task")
+L 10/23/2024 - 09:27:45: [AMXX]    [0] K_ZP_main.sma::client_putinserver (line 76)
+L 10/23/2024 - 09:27:45: Function is not present (function "spawn_connect_player") (plugin "K_ZP_main.amxx")
+L 10/23/2024 - 09:27:45: [AMXX] Displaying debug trace (plugin "K_ZP_main.amxx", version "1.0")
+L 10/23/2024 - 09:27:45: [AMXX] Run time error 10: native error (native "set_task")
+L 10/23/2024 - 09:27:45: [AMXX]    [0] K_ZP_main.sma::client_putinserver (line 76)
+L 10/23/2024 - 09:27:50: [CSTRIKE] Player out of range (0)
+L 10/23/2024 - 09:27:50: [AMXX] Displaying debug trace (plugin "K_lib_ZP.amxx", version "1.0")
+L 10/23/2024 - 09:27:50: [AMXX] Run time error 10: native error (native "cs_get_user_team")
+L 10/23/2024 - 09:27:50: [AMXX]    [0] K_lib_ZP.sma::check_last_hum (line 295)
+L 10/23/2024 - 09:27:50: [AMXX]    [1] K_lib_ZP.sma::native_make_zombie (line 152)
+L 10/23/2024 - 09:27:50: [AMXX]    [2] K_lib_ZP.sma::native_start_mode (line 121)
+L 10/23/2024 - 09:27:50: Unhandled dynamic native error
+L 10/23/2024 - 09:27:50: [AMXX] Displaying debug trace (plugin "K_ZP_main.amxx", version "1.0")
+L 10/23/2024 - 09:27:50: [AMXX] Run time error 10: native error (native "start_mode")
+L 10/23/2024 - 09:27:50: [AMXX]    [0] K_ZP_main.sma::task_start_mode (line 186)
+L 10/23/2024 - 09:28:00: [CSTRIKE] Player out of range (0)
+L 10/23/2024 - 09:28:00: [AMXX] Displaying debug trace (plugin "K_lib_ZP.amxx", version "1.0")
+L 10/23/2024 - 09:28:00: [AMXX] Run time error 10: native error (native "cs_get_user_team")
+L 10/23/2024 - 09:28:00: [AMXX]    [0] K_lib_ZP.sma::check_last_hum (line 295)
+L 10/23/2024 - 09:28:00: [AMXX]    [1] K_lib_ZP.sma::native_make_zombie (line 152)
+L 10/23/2024 - 09:28:00: Unhandled dynamic native error
+L 10/23/2024 - 09:28:00: [AMXX] Displaying debug trace (plugin "K_M_ZP.amxx", version "1.0")
+L 10/23/2024 - 09:28:00: [AMXX] Run time error 10: native error (native "make_zombie")
+L 10/23/2024 - 09:28:00: [AMXX]    [0] K_M_ZP.sma::func_menu_list_players (line 162)
+L 10/23/2024 - 09:28:03: [CSTRIKE] Player out of range (0)
+L 10/23/2024 - 09:28:03: [AMXX] Displaying debug trace (plugin "K_lib_ZP.amxx", version "1.0")
+L 10/23/2024 - 09:28:03: [AMXX] Run time error 10: native error (native "cs_get_user_team")
+L 10/23/2024 - 09:28:03: [AMXX]    [0] K_lib_ZP.sma::check_last_hum (line 295)
+L 10/23/2024 - 09:28:03: [AMXX]    [1] K_lib_ZP.sma::native_make_zombie (line 152)
+L 10/23/2024 - 09:28:03: Unhandled dynamic native error
+L 10/23/2024 - 09:28:03: [AMXX] Displaying debug trace (plugin "K_M_ZP.amxx", version "1.0")
+L 10/23/2024 - 09:28:03: [AMXX] Run time error 10: native error (native "make_zombie")
+L 10/23/2024 - 09:28:03: [AMXX]    [0] K_M_ZP.sma::func_menu_list_players (line 162)
+L 10/23/2024 - 09:28:06: [CSTRIKE] Player out of range (0)
+L 10/23/2024 - 09:28:06: [AMXX] Displaying debug trace (plugin "K_lib_ZP.amxx", version "1.0")
+L 10/23/2024 - 09:28:06: [AMXX] Run time error 10: native error (native "cs_get_user_team")
+L 10/23/2024 - 09:28:06: [AMXX]    [0] K_lib_ZP.sma::check_last_hum (line 295)
+L 10/23/2024 - 09:28:06: [AMXX]    [1] K_lib_ZP.sma::native_make_zombie (line 152)
+L 10/23/2024 - 09:28:06: Unhandled dynamic native error
+L 10/23/2024 - 09:28:06: [AMXX] Displaying debug trace (plugin "K_M_ZP.amxx", version "1.0")
+L 10/23/2024 - 09:28:06: [AMXX] Run time error 10: native error (native "make_zombie")
+L 10/23/2024 - 09:28:06: [AMXX]    [0] K_M_ZP.sma::func_menu_list_players (line 162)
+L 10/23/2024 - 09:28:09: [CSTRIKE] Player out of range (0)
+L 10/23/2024 - 09:28:09: [AMXX] Displaying debug trace (plugin "K_lib_ZP.amxx", version "1.0")
+L 10/23/2024 - 09:28:09: [AMXX] Run time error 10: native error (native "cs_get_user_team")
+L 10/23/2024 - 09:28:09: [AMXX]    [0] K_lib_ZP.sma::check_last_hum (line 295)
+L 10/23/2024 - 09:28:09: [AMXX]    [1] K_lib_ZP.sma::native_make_zombie (line 152)
+L 10/23/2024 - 09:28:09: Unhandled dynamic native error
+L 10/23/2024 - 09:28:09: [AMXX] Displaying debug trace (plugin "K_M_ZP.amxx", version "1.0")
+L 10/23/2024 - 09:28:09: [AMXX] Run time error 10: native error (native "make_zombie")
+L 10/23/2024 - 09:28:09: [AMXX]    [0] K_M_ZP.sma::func_menu_list_players (line 162)
+L 10/23/2024 - 09:28:17: [CSTRIKE] Player out of range (0)
+L 10/23/2024 - 09:28:17: [AMXX] Displaying debug trace (plugin "K_lib_ZP.amxx", version "1.0")
+L 10/23/2024 - 09:28:17: [AMXX] Run time error 10: native error (native "cs_get_user_team")
+L 10/23/2024 - 09:28:17: [AMXX]    [0] K_lib_ZP.sma::check_last_hum (line 295)
+L 10/23/2024 - 09:28:17: [AMXX]    [1] K_lib_ZP.sma::native_make_zombie (line 152)
+L 10/23/2024 - 09:28:17: Unhandled dynamic native error
+L 10/23/2024 - 09:28:17: [AMXX] Displaying debug trace (plugin "K_M_ZP.amxx", version "1.0")
+L 10/23/2024 - 09:28:17: [AMXX] Run time error 10: native error (native "make_zombie")
+L 10/23/2024 - 09:28:17: [AMXX]    [0] K_M_ZP.sma::func_menu_list_players (line 162)
+L 10/23/2024 - 09:28:19: [CSTRIKE] Player out of range (0)
+L 10/23/2024 - 09:28:19: [AMXX] Displaying debug trace (plugin "K_lib_ZP.amxx", version "1.0")
+L 10/23/2024 - 09:28:19: [AMXX] Run time error 10: native error (native "cs_get_user_team")
+L 10/23/2024 - 09:28:19: [AMXX]    [0] K_lib_ZP.sma::check_last_hum (line 295)
+L 10/23/2024 - 09:28:19: [AMXX]    [1] K_lib_ZP.sma::native_make_zombie (line 152)
+L 10/23/2024 - 09:28:19: Unhandled dynamic native error
+L 10/23/2024 - 09:28:19: [AMXX] Displaying debug trace (plugin "K_ZP_main.amxx", version "1.0")
+L 10/23/2024 - 09:28:19: [AMXX] Run time error 10: native error (native "make_zombie")
+L 10/23/2024 - 09:28:19: [AMXX]    [0] K_ZP_main.sma::UserTakeDamage (line 119)
+L 10/23/2024 - 09:29:54: Start of error session.
+L 10/23/2024 - 09:29:54: Info (map "zm_fdust2x2") (file "addons/amxmodx/logs/error_20241023.log")
+L 10/23/2024 - 09:29:54: Function "native_give_model_aura_eff" was not found
+L 10/23/2024 - 09:29:54: [AMXX] Run time error 19 (plugin "K_lib_myFuncs.amxx") - debug not enabled!
+L 10/23/2024 - 09:29:54: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/23/2024 - 09:29:54: [AMXX] Run time error -1 (plugin "K_lib_myFuncs.amxx") - debug not enabled!
+L 10/23/2024 - 09:29:54: Function "native_check_last_hum" was not found
+L 10/23/2024 - 09:29:54: [AMXX] Run time error 19 (plugin "K_lib_ZP.amxx") - debug not enabled!
+L 10/23/2024 - 09:29:54: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/23/2024 - 09:29:54: [AMXX] Run time error -1 (plugin "K_lib_ZP.amxx") - debug not enabled!
+L 10/23/2024 - 09:29:54: Function "native_show_donate_menu" was not found
+L 10/23/2024 - 09:29:54: [AMXX] Run time error 19 (plugin "K_M_creator.amxx") - debug not enabled!
+L 10/23/2024 - 09:29:54: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/23/2024 - 09:29:57: Function is not present (function "spawn_connect_player") (plugin "K_ZP_main.amxx")
+L 10/23/2024 - 09:29:57: [AMXX] Displaying debug trace (plugin "K_ZP_main.amxx", version "1.0")
+L 10/23/2024 - 09:29:57: [AMXX] Run time error 10: native error (native "set_task")
+L 10/23/2024 - 09:29:57: [AMXX]    [0] K_ZP_main.sma::client_putinserver (line 76)
+L 10/23/2024 - 09:29:58: Function is not present (function "spawn_connect_player") (plugin "K_ZP_main.amxx")
+L 10/23/2024 - 09:29:58: [AMXX] Displaying debug trace (plugin "K_ZP_main.amxx", version "1.0")
+L 10/23/2024 - 09:29:58: [AMXX] Run time error 10: native error (native "set_task")
+L 10/23/2024 - 09:29:58: [AMXX]    [0] K_ZP_main.sma::client_putinserver (line 76)
+L 10/23/2024 - 09:29:59: Function is not present (function "spawn_connect_player") (plugin "K_ZP_main.amxx")
+L 10/23/2024 - 09:29:59: [AMXX] Displaying debug trace (plugin "K_ZP_main.amxx", version "1.0")
+L 10/23/2024 - 09:29:59: [AMXX] Run time error 10: native error (native "set_task")
+L 10/23/2024 - 09:29:59: [AMXX]    [0] K_ZP_main.sma::client_putinserver (line 76)
+L 10/23/2024 - 09:29:59: Function is not present (function "spawn_connect_player") (plugin "K_ZP_main.amxx")
+L 10/23/2024 - 09:29:59: [AMXX] Displaying debug trace (plugin "K_ZP_main.amxx", version "1.0")
+L 10/23/2024 - 09:29:59: [AMXX] Run time error 10: native error (native "set_task")
+L 10/23/2024 - 09:29:59: [AMXX]    [0] K_ZP_main.sma::client_putinserver (line 76)
+L 10/23/2024 - 09:30:00: Function is not present (function "spawn_connect_player") (plugin "K_ZP_main.amxx")
+L 10/23/2024 - 09:30:00: [AMXX] Displaying debug trace (plugin "K_ZP_main.amxx", version "1.0")
+L 10/23/2024 - 09:30:00: [AMXX] Run time error 10: native error (native "set_task")
+L 10/23/2024 - 09:30:00: [AMXX]    [0] K_ZP_main.sma::client_putinserver (line 76)
+L 10/23/2024 - 09:30:00: Function is not present (function "spawn_connect_player") (plugin "K_ZP_main.amxx")
+L 10/23/2024 - 09:30:00: [AMXX] Displaying debug trace (plugin "K_ZP_main.amxx", version "1.0")
+L 10/23/2024 - 09:30:00: [AMXX] Run time error 10: native error (native "set_task")
+L 10/23/2024 - 09:30:00: [AMXX]    [0] K_ZP_main.sma::client_putinserver (line 76)
+L 10/23/2024 - 09:30:01: Function is not present (function "spawn_connect_player") (plugin "K_ZP_main.amxx")
+L 10/23/2024 - 09:30:01: [AMXX] Displaying debug trace (plugin "K_ZP_main.amxx", version "1.0")
+L 10/23/2024 - 09:30:01: [AMXX] Run time error 10: native error (native "set_task")
+L 10/23/2024 - 09:30:01: [AMXX]    [0] K_ZP_main.sma::client_putinserver (line 76)
+L 10/23/2024 - 09:32:06: Start of error session.
+L 10/23/2024 - 09:32:06: Info (map "zm_fdust2x2") (file "addons/amxmodx/logs/error_20241023.log")
+L 10/23/2024 - 09:32:06: Function "native_give_model_aura_eff" was not found
+L 10/23/2024 - 09:32:06: [AMXX] Run time error 19 (plugin "K_lib_myFuncs.amxx") - debug not enabled!
+L 10/23/2024 - 09:32:06: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/23/2024 - 09:32:06: [AMXX] Run time error -1 (plugin "K_lib_myFuncs.amxx") - debug not enabled!
+L 10/23/2024 - 09:32:06: Function "native_check_last_hum" was not found
+L 10/23/2024 - 09:32:06: [AMXX] Run time error 19 (plugin "K_lib_ZP.amxx") - debug not enabled!
+L 10/23/2024 - 09:32:06: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/23/2024 - 09:32:06: [AMXX] Run time error -1 (plugin "K_lib_ZP.amxx") - debug not enabled!
+L 10/23/2024 - 09:32:06: Function "native_show_donate_menu" was not found
+L 10/23/2024 - 09:32:06: [AMXX] Run time error 19 (plugin "K_M_creator.amxx") - debug not enabled!
+L 10/23/2024 - 09:32:06: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/23/2024 - 09:32:18: [CSTRIKE] Invalid player 7 (not in-game)
+L 10/23/2024 - 09:32:18: [AMXX] Displaying debug trace (plugin "K_lib_ZP.amxx", version "1.0")
+L 10/23/2024 - 09:32:18: [AMXX] Run time error 10: native error (native "cs_get_user_team")
+L 10/23/2024 - 09:32:18: [AMXX]    [0] K_lib_ZP.sma::check_last_hum (line 295)
+L 10/23/2024 - 09:32:18: [AMXX]    [1] K_lib_ZP.sma::native_make_zombie (line 152)
+L 10/23/2024 - 09:32:18: [AMXX]    [2] K_lib_ZP.sma::native_start_mode (line 121)
+L 10/23/2024 - 09:32:18: Unhandled dynamic native error
+L 10/23/2024 - 09:32:18: [AMXX] Displaying debug trace (plugin "K_ZP_main.amxx", version "1.0")
+L 10/23/2024 - 09:32:18: [AMXX] Run time error 10: native error (native "start_mode")
+L 10/23/2024 - 09:32:18: [AMXX]    [0] K_ZP_main.sma::task_start_mode (line 186)
+L 10/23/2024 - 09:32:26: [CSTRIKE] Invalid player 7 (not in-game)
+L 10/23/2024 - 09:32:26: [AMXX] Displaying debug trace (plugin "K_lib_ZP.amxx", version "1.0")
+L 10/23/2024 - 09:32:26: [AMXX] Run time error 10: native error (native "cs_get_user_team")
+L 10/23/2024 - 09:32:26: [AMXX]    [0] K_lib_ZP.sma::check_last_hum (line 295)
+L 10/23/2024 - 09:32:26: [AMXX]    [1] K_lib_ZP.sma::native_make_zombie (line 152)
+L 10/23/2024 - 09:32:26: Unhandled dynamic native error
+L 10/23/2024 - 09:32:26: [AMXX] Displaying debug trace (plugin "K_M_ZP.amxx", version "1.0")
+L 10/23/2024 - 09:32:26: [AMXX] Run time error 10: native error (native "make_zombie")
+L 10/23/2024 - 09:32:26: [AMXX]    [0] K_M_ZP.sma::func_menu_list_players (line 162)
+L 10/23/2024 - 09:32:31: [CSTRIKE] Invalid player 7 (not in-game)
+L 10/23/2024 - 09:32:31: [AMXX] Displaying debug trace (plugin "K_lib_ZP.amxx", version "1.0")
+L 10/23/2024 - 09:32:31: [AMXX] Run time error 10: native error (native "cs_get_user_team")
+L 10/23/2024 - 09:32:31: [AMXX]    [0] K_lib_ZP.sma::check_last_hum (line 295)
+L 10/23/2024 - 09:32:31: [AMXX]    [1] K_lib_ZP.sma::native_make_zombie (line 152)
+L 10/23/2024 - 09:32:31: Unhandled dynamic native error
+L 10/23/2024 - 09:32:31: [AMXX] Displaying debug trace (plugin "K_M_ZP.amxx", version "1.0")
+L 10/23/2024 - 09:32:31: [AMXX] Run time error 10: native error (native "make_zombie")
+L 10/23/2024 - 09:32:31: [AMXX]    [0] K_M_ZP.sma::func_menu_list_players (line 162)
+L 10/23/2024 - 09:32:33: [CSTRIKE] Invalid player 7 (not in-game)
+L 10/23/2024 - 09:32:33: [AMXX] Displaying debug trace (plugin "K_lib_ZP.amxx", version "1.0")
+L 10/23/2024 - 09:32:33: [AMXX] Run time error 10: native error (native "cs_get_user_team")
+L 10/23/2024 - 09:32:33: [AMXX]    [0] K_lib_ZP.sma::check_last_hum (line 295)
+L 10/23/2024 - 09:32:33: [AMXX]    [1] K_lib_ZP.sma::native_make_zombie (line 152)
+L 10/23/2024 - 09:32:33: Unhandled dynamic native error
+L 10/23/2024 - 09:32:33: [AMXX] Displaying debug trace (plugin "K_M_ZP.amxx", version "1.0")
+L 10/23/2024 - 09:32:33: [AMXX] Run time error 10: native error (native "make_zombie")
+L 10/23/2024 - 09:32:33: [AMXX]    [0] K_M_ZP.sma::func_menu_list_players (line 162)
+L 10/23/2024 - 09:32:36: [CSTRIKE] Invalid player 7 (not in-game)
+L 10/23/2024 - 09:32:36: [AMXX] Displaying debug trace (plugin "K_lib_ZP.amxx", version "1.0")
+L 10/23/2024 - 09:32:36: [AMXX] Run time error 10: native error (native "cs_get_user_team")
+L 10/23/2024 - 09:32:36: [AMXX]    [0] K_lib_ZP.sma::check_last_hum (line 295)
+L 10/23/2024 - 09:32:36: [AMXX]    [1] K_lib_ZP.sma::native_make_zombie (line 152)
+L 10/23/2024 - 09:32:36: Unhandled dynamic native error
+L 10/23/2024 - 09:32:36: [AMXX] Displaying debug trace (plugin "K_M_ZP.amxx", version "1.0")
+L 10/23/2024 - 09:32:36: [AMXX] Run time error 10: native error (native "make_zombie")
+L 10/23/2024 - 09:32:36: [AMXX]    [0] K_M_ZP.sma::func_menu_list_players (line 162)
+L 10/23/2024 - 09:32:39: [CSTRIKE] Invalid player 7 (not in-game)
+L 10/23/2024 - 09:32:39: [AMXX] Displaying debug trace (plugin "K_lib_ZP.amxx", version "1.0")
+L 10/23/2024 - 09:32:39: [AMXX] Run time error 10: native error (native "cs_get_user_team")
+L 10/23/2024 - 09:32:39: [AMXX]    [0] K_lib_ZP.sma::check_last_hum (line 295)
+L 10/23/2024 - 09:32:39: [AMXX]    [1] K_lib_ZP.sma::native_make_zombie (line 152)
+L 10/23/2024 - 09:32:39: Unhandled dynamic native error
+L 10/23/2024 - 09:32:39: [AMXX] Displaying debug trace (plugin "K_M_ZP.amxx", version "1.0")
+L 10/23/2024 - 09:32:39: [AMXX] Run time error 10: native error (native "make_zombie")
+L 10/23/2024 - 09:32:39: [AMXX]    [0] K_M_ZP.sma::func_menu_list_players (line 162)
+L 10/23/2024 - 09:32:57: [CSTRIKE] Invalid player 7 (not in-game)
+L 10/23/2024 - 09:32:57: [AMXX] Displaying debug trace (plugin "K_lib_ZP.amxx", version "1.0")
+L 10/23/2024 - 09:32:57: [AMXX] Run time error 10: native error (native "cs_get_user_team")
+L 10/23/2024 - 09:32:57: [AMXX]    [0] K_lib_ZP.sma::check_last_hum (line 295)
+L 10/23/2024 - 09:32:57: [AMXX]    [1] K_lib_ZP.sma::native_make_zombie (line 152)
+L 10/23/2024 - 09:32:57: Unhandled dynamic native error
+L 10/23/2024 - 09:32:57: [AMXX] Displaying debug trace (plugin "K_ZP_main.amxx", version "1.0")
+L 10/23/2024 - 09:32:57: [AMXX] Run time error 10: native error (native "make_zombie")
+L 10/23/2024 - 09:32:57: [AMXX]    [0] K_ZP_main.sma::UserTakeDamage (line 119)
+L 10/23/2024 - 09:41:42: Start of error session.
+L 10/23/2024 - 09:41:42: Info (map "zm_fdust2x2") (file "addons/amxmodx/logs/error_20241023.log")
+L 10/23/2024 - 09:41:42: Function "native_give_model_aura_eff" was not found
+L 10/23/2024 - 09:41:42: [AMXX] Run time error 19 (plugin "K_lib_myFuncs.amxx") - debug not enabled!
+L 10/23/2024 - 09:41:42: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/23/2024 - 09:41:42: [AMXX] Run time error -1 (plugin "K_lib_myFuncs.amxx") - debug not enabled!
+L 10/23/2024 - 09:41:42: Function "native_check_last_hum" was not found
+L 10/23/2024 - 09:41:42: [AMXX] Run time error 19 (plugin "K_lib_ZP.amxx") - debug not enabled!
+L 10/23/2024 - 09:41:42: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/23/2024 - 09:41:42: [AMXX] Run time error -1 (plugin "K_lib_ZP.amxx") - debug not enabled!
+L 10/23/2024 - 09:41:42: Function "native_show_donate_menu" was not found
+L 10/23/2024 - 09:41:42: [AMXX] Run time error 19 (plugin "K_M_creator.amxx") - debug not enabled!
+L 10/23/2024 - 09:41:42: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/23/2024 - 09:41:47: Called dynanative into a paused plugin.
+L 10/23/2024 - 09:41:47: [AMXX] Displaying debug trace (plugin "K_ZP_main.amxx", version "1.0")
+L 10/23/2024 - 09:41:47: [AMXX] Run time error 10: native error (native "choose_mode")
+L 10/23/2024 - 09:41:47: [AMXX]    [0] K_ZP_main.sma::task_start_mode (line 182)
+L 10/23/2024 - 09:42:13: Called dynanative into a paused plugin.
+L 10/23/2024 - 09:42:13: [AMXX] Displaying debug trace (plugin "K_M_ZP.amxx", version "1.0")
+L 10/23/2024 - 09:42:13: [AMXX] Run time error 10: native error (native "make_zombie")
+L 10/23/2024 - 09:42:13: [AMXX]    [0] K_M_ZP.sma::func_menu_list_players (line 162)
+L 10/23/2024 - 09:43:44: Start of error session.
+L 10/23/2024 - 09:43:44: Info (map "zm_fdust2x2") (file "addons/amxmodx/logs/error_20241023.log")
+L 10/23/2024 - 09:43:44: Function "native_give_model_aura_eff" was not found
+L 10/23/2024 - 09:43:44: [AMXX] Run time error 19 (plugin "K_lib_myFuncs.amxx") - debug not enabled!
+L 10/23/2024 - 09:43:44: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/23/2024 - 09:43:44: [AMXX] Run time error -1 (plugin "K_lib_myFuncs.amxx") - debug not enabled!
+L 10/23/2024 - 09:43:44: Function "native_check_last_hum" was not found
+L 10/23/2024 - 09:43:44: [AMXX] Run time error 19 (plugin "K_lib_ZP.amxx") - debug not enabled!
+L 10/23/2024 - 09:43:44: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/23/2024 - 09:43:44: [AMXX] Run time error -1 (plugin "K_lib_ZP.amxx") - debug not enabled!
+L 10/23/2024 - 09:43:44: Function "native_show_donate_menu" was not found
+L 10/23/2024 - 09:43:44: [AMXX] Run time error 19 (plugin "K_M_creator.amxx") - debug not enabled!
+L 10/23/2024 - 09:43:44: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/23/2024 - 09:43:49: Called dynanative into a paused plugin.
+L 10/23/2024 - 09:43:49: [AMXX] Displaying debug trace (plugin "K_ZP_main.amxx", version "1.0")
+L 10/23/2024 - 09:43:49: [AMXX] Run time error 10: native error (native "choose_mode")
+L 10/23/2024 - 09:43:49: [AMXX]    [0] K_ZP_main.sma::task_start_mode (line 182)
+L 10/23/2024 - 09:44:22: Start of error session.
+L 10/23/2024 - 09:44:22: Info (map "zm_fdust2x2") (file "addons/amxmodx/logs/error_20241023.log")
+L 10/23/2024 - 09:44:22: Function "native_give_model_aura_eff" was not found
+L 10/23/2024 - 09:44:22: [AMXX] Run time error 19 (plugin "K_lib_myFuncs.amxx") - debug not enabled!
+L 10/23/2024 - 09:44:22: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/23/2024 - 09:44:22: [AMXX] Run time error -1 (plugin "K_lib_myFuncs.amxx") - debug not enabled!
+L 10/23/2024 - 09:44:22: Function "native_check_last_hum" was not found
+L 10/23/2024 - 09:44:22: [AMXX] Run time error 19 (plugin "K_lib_ZP.amxx") - debug not enabled!
+L 10/23/2024 - 09:44:22: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/23/2024 - 09:44:22: [AMXX] Run time error -1 (plugin "K_lib_ZP.amxx") - debug not enabled!
+L 10/23/2024 - 09:44:23: Function "native_show_donate_menu" was not found
+L 10/23/2024 - 09:44:23: [AMXX] Run time error 19 (plugin "K_M_creator.amxx") - debug not enabled!
+L 10/23/2024 - 09:44:23: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/23/2024 - 09:44:28: Called dynanative into a paused plugin.
+L 10/23/2024 - 09:44:28: [AMXX] Displaying debug trace (plugin "K_ZP_main.amxx", version "1.0")
+L 10/23/2024 - 09:44:28: [AMXX] Run time error 10: native error (native "choose_mode")
+L 10/23/2024 - 09:44:28: [AMXX]    [0] K_ZP_main.sma::task_start_mode (line 182)
+L 10/23/2024 - 09:46:05: Start of error session.
+L 10/23/2024 - 09:46:05: Info (map "zm_fdust2x2") (file "addons/amxmodx/logs/error_20241023.log")
+L 10/23/2024 - 09:46:05: Function "native_give_model_aura_eff" was not found
+L 10/23/2024 - 09:46:05: [AMXX] Run time error 19 (plugin "K_lib_myFuncs.amxx") - debug not enabled!
+L 10/23/2024 - 09:46:05: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/23/2024 - 09:46:05: [AMXX] Run time error -1 (plugin "K_lib_myFuncs.amxx") - debug not enabled!
+L 10/23/2024 - 09:46:05: Function "native_check_last_hum" was not found
+L 10/23/2024 - 09:46:05: [AMXX] Run time error 19 (plugin "K_lib_ZP.amxx") - debug not enabled!
+L 10/23/2024 - 09:46:05: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/23/2024 - 09:46:05: [AMXX] Run time error -1 (plugin "K_lib_ZP.amxx") - debug not enabled!
+L 10/23/2024 - 09:46:05: Function "native_show_donate_menu" was not found
+L 10/23/2024 - 09:46:05: [AMXX] Run time error 19 (plugin "K_M_creator.amxx") - debug not enabled!
+L 10/23/2024 - 09:46:05: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/23/2024 - 09:46:11: Called dynanative into a paused plugin.
+L 10/23/2024 - 09:46:11: [AMXX] Displaying debug trace (plugin "K_ZP_main.amxx", version "1.0")
+L 10/23/2024 - 09:46:11: [AMXX] Run time error 10: native error (native "choose_mode")
+L 10/23/2024 - 09:46:11: [AMXX]    [0] K_ZP_main.sma::task_start_mode (line 182)
+L 10/23/2024 - 09:46:34: Start of error session.
+L 10/23/2024 - 09:46:34: Info (map "zm_fdust2x2") (file "addons/amxmodx/logs/error_20241023.log")
+L 10/23/2024 - 09:46:34: Function "native_give_model_aura_eff" was not found
+L 10/23/2024 - 09:46:34: [AMXX] Run time error 19 (plugin "K_lib_myFuncs.amxx") - debug not enabled!
+L 10/23/2024 - 09:46:34: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/23/2024 - 09:46:34: [AMXX] Run time error -1 (plugin "K_lib_myFuncs.amxx") - debug not enabled!
+L 10/23/2024 - 09:46:34: Function "native_check_last_hum" was not found
+L 10/23/2024 - 09:46:34: [AMXX] Run time error 19 (plugin "K_lib_ZP.amxx") - debug not enabled!
+L 10/23/2024 - 09:46:34: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/23/2024 - 09:46:34: [AMXX] Run time error -1 (plugin "K_lib_ZP.amxx") - debug not enabled!
+L 10/23/2024 - 09:46:35: Function "native_show_donate_menu" was not found
+L 10/23/2024 - 09:46:35: [AMXX] Run time error 19 (plugin "K_M_creator.amxx") - debug not enabled!
+L 10/23/2024 - 09:46:35: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/23/2024 - 09:47:13: Called dynanative into a paused plugin.
+L 10/23/2024 - 09:47:13: [AMXX] Displaying debug trace (plugin "K_ZP_main.amxx", version "1.0")
+L 10/23/2024 - 09:47:13: [AMXX] Run time error 10: native error (native "choose_mode")
+L 10/23/2024 - 09:47:13: [AMXX]    [0] K_ZP_main.sma::task_start_mode (line 182)
+L 10/23/2024 - 09:48:10: Start of error session.
+L 10/23/2024 - 09:48:10: Info (map "zm_fdust2x2") (file "addons/amxmodx/logs/error_20241023.log")
+L 10/23/2024 - 09:48:10: Function "native_check_last_hum" was not found
+L 10/23/2024 - 09:48:10: [AMXX] Run time error 19 (plugin "K_lib_ZP.amxx") - debug not enabled!
+L 10/23/2024 - 09:48:10: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/23/2024 - 09:48:10: [AMXX] Run time error -1 (plugin "K_lib_ZP.amxx") - debug not enabled!
+L 10/23/2024 - 09:48:10: Function "native_show_donate_menu" was not found
+L 10/23/2024 - 09:48:10: [AMXX] Run time error 19 (plugin "K_M_creator.amxx") - debug not enabled!
+L 10/23/2024 - 09:48:10: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/23/2024 - 09:48:56: Called dynanative into a paused plugin.
+L 10/23/2024 - 09:48:56: [AMXX] Displaying debug trace (plugin "K_ZP_main.amxx", version "1.0")
+L 10/23/2024 - 09:48:56: [AMXX] Run time error 10: native error (native "choose_mode")
+L 10/23/2024 - 09:48:56: [AMXX]    [0] K_ZP_main.sma::task_start_mode (line 182)
+L 10/23/2024 - 09:48:57: Start of error session.
+L 10/23/2024 - 09:48:57: Info (map "zm_fdust2x2") (file "addons/amxmodx/logs/error_20241023.log")
+L 10/23/2024 - 09:48:57: Function "native_show_donate_menu" was not found
+L 10/23/2024 - 09:48:57: [AMXX] Run time error 19 (plugin "K_M_creator.amxx") - debug not enabled!
+L 10/23/2024 - 09:48:57: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/23/2024 - 09:49:56: Start of error session.
+L 10/23/2024 - 09:49:56: Info (map "zm_fdust2x2") (file "addons/amxmodx/logs/error_20241023.log")
+L 10/23/2024 - 09:49:56: Called dynanative into a paused plugin.
+L 10/23/2024 - 09:49:56: [AMXX] Displaying debug trace (plugin "K_ZP_main.amxx", version "1.0")
+L 10/23/2024 - 09:49:56: [AMXX] Run time error 10: native error (native "choose_mode")
+L 10/23/2024 - 09:49:56: [AMXX]    [0] K_ZP_main.sma::task_start_mode (line 182)
+L 10/23/2024 - 09:51:26: Start of error session.
+L 10/23/2024 - 09:51:26: Info (map "zm_fdust2x2") (file "addons/amxmodx/logs/error_20241023.log")
+L 10/23/2024 - 09:51:26: [CSTRIKE] Invalid player 2 (not in-game)
+L 10/23/2024 - 09:51:26: [AMXX] Displaying debug trace (plugin "K_ZP_main.amxx", version "1.0")
+L 10/23/2024 - 09:51:26: [AMXX] Run time error 10: native error (native "cs_get_user_team")
+L 10/23/2024 - 09:51:26: [AMXX]    [0] K_ZP_main.sma::spawn_connect_player (line 194)

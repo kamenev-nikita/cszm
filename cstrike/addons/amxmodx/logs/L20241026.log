@@ -1,0 +1,123 @@
+L 10/26/2024 - 11:17:18: -------- Mapchange to zm_fdust2x2 --------
+L 10/26/2024 - 11:20:48: [admin.amxx] Login: "test<8><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "26.71.19.63")
+L 10/26/2024 - 11:41:07: -------- Mapchange to zm_3rooms --------
+L 10/26/2024 - 11:41:08: [admin.amxx] Login: "test<8><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "26.71.19.63")
+L 10/26/2024 - 11:55:50: -------- Mapchange to zm_fdust2x2 --------
+L 10/26/2024 - 11:55:52: [admin.amxx] Login: "test<1><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "26.71.19.63")
+L 10/26/2024 - 11:58:53: -------- Mapchange to zm_fdust2x2 --------
+L 10/26/2024 - 11:58:53: [AMXX] Plugin "K_ZP_lvl_system.amxx" failed to load: Plugin uses an unknown function (name "check_hum") - check your modules.ini.
+L 10/26/2024 - 11:58:53: [AMXX] Plugin "hud_customizer.amxx" failed to load: Plugin uses an unknown function (name "get_a_ammo") - check your modules.ini.
+L 10/26/2024 - 11:58:53: [AMXX] Plugin "jumping_all.amxx" failed to load: Plugin uses an unknown function (name "get_a_zombie") - check your modules.ini.
+L 10/26/2024 - 11:58:53: [admin.amxx] Login: "test<1><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "26.71.19.63")
+L 10/26/2024 - 12:01:12: -------- Mapchange to zm_fdust2x2 --------
+L 10/26/2024 - 12:01:12: [AMXX] Plugin "K_ZP_lvl_system.amxx" failed to load: Plugin uses an unknown function (name "check_hum") - check your modules.ini.
+L 10/26/2024 - 12:01:12: [AMXX] Plugin "hud_customizer.amxx" failed to load: Plugin uses an unknown function (name "get_a_ammo") - check your modules.ini.
+L 10/26/2024 - 12:01:12: [AMXX] Plugin "jumping_all.amxx" failed to load: Plugin uses an unknown function (name "get_a_zombie") - check your modules.ini.
+L 10/26/2024 - 12:01:12: [admin.amxx] Login: "test<1><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "26.71.19.63")
+L 10/26/2024 - 12:07:44: -------- Mapchange to zm_fdust2x2 --------
+L 10/26/2024 - 12:07:44: [AMXX] Plugin "hud_customizer.amxx" failed to load: Plugin uses an unknown function (name "get_ammo") - check your modules.ini.
+L 10/26/2024 - 12:07:45: [admin.amxx] Login: "test<1><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "26.71.19.63")
+L 10/26/2024 - 12:08:16: -------- Mapchange to zm_fdust2x2 --------
+L 10/26/2024 - 12:08:16: [admin.amxx] Login: "test<1><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "26.71.19.63")
+L 10/26/2024 - 12:13:25: -------- Mapchange to zm_fdust2x2 --------
+L 10/26/2024 - 12:13:25: [admin.amxx] Login: "test<1><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "26.71.19.63")
+L 10/26/2024 - 12:13:54: -------- Mapchange to zm_fdust2x2 --------
+L 10/26/2024 - 12:13:55: [admin.amxx] Login: "test<1><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "26.71.19.63")
+L 10/26/2024 - 12:19:14: -------- Mapchange to zm_fdust2x2 --------
+L 10/26/2024 - 12:19:14: [admin.amxx] Login: "test<1><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "26.71.19.63")
+L 10/26/2024 - 12:23:25: -------- Mapchange to zm_fdust2x2 --------
+L 10/26/2024 - 12:23:25: [admin.amxx] Login: "test<1><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "26.71.19.63")
+L 10/26/2024 - 12:43:42: -------- Mapchange to zm_dust_world --------
+L 10/26/2024 - 12:54:04: -------- Mapchange to zm_dust_world --------
+L 10/26/2024 - 12:54:04: An error occurred in plugin_natives. This is dangerous!
+L 10/26/2024 - 12:54:04: [AMXX] Plugin "K_M_mainMenu.amxx" failed to load: Plugin uses an unknown function (name "show_set_zombie_menu") - check your modules.ini.
+L 10/26/2024 - 12:54:06: [admin.amxx] Login: "test<66><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "26.71.19.63")
+L 10/26/2024 - 12:54:53: -------- Mapchange to zm_dust_world --------
+L 10/26/2024 - 12:54:53: An error occurred in plugin_natives. This is dangerous!
+L 10/26/2024 - 12:54:53: [AMXX] Plugin "K_M_mainMenu.amxx" failed to load: Plugin uses an unknown function (name "show_set_zombie_menu") - check your modules.ini.
+L 10/26/2024 - 12:54:53: [admin.amxx] Login: "test<66><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "26.71.19.63")
+L 10/26/2024 - 12:55:16: -------- Mapchange to zm_dust_world --------
+L 10/26/2024 - 12:55:16: An error occurred in plugin_natives. This is dangerous!
+L 10/26/2024 - 12:55:16: [AMXX] Plugin "K_M_mainMenu.amxx" failed to load: Plugin uses an unknown function (name "show_set_zombie_menu") - check your modules.ini.
+L 10/26/2024 - 12:55:16: [admin.amxx] Login: "test<66><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "26.71.19.63")
+L 10/26/2024 - 12:57:24: -------- Mapchange to zm_dust_world --------
+L 10/26/2024 - 12:57:25: An error occurred in plugin_natives. This is dangerous!
+L 10/26/2024 - 12:57:25: [AMXX] Plugin "K_M_mainMenu.amxx" failed to load: Plugin uses an unknown function (name "show_set_zombie_menu") - check your modules.ini.
+L 10/26/2024 - 12:58:25: -------- Mapchange to zm_dust_world --------
+L 10/26/2024 - 12:58:30: [admin.amxx] Login: "test<82><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "26.71.19.63")
+L 10/26/2024 - 12:59:23: -------- Mapchange to zm_dust_world --------
+L 10/26/2024 - 12:59:24: [admin.amxx] Login: "test<82><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "26.71.19.63")
+L 10/26/2024 - 13:04:50: -------- Mapchange to zm_dust_world --------
+L 10/26/2024 - 13:04:50: [admin.amxx] Login: "test<82><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "26.71.19.63")
+L 10/26/2024 - 13:14:17: -------- Mapchange to zm_dust_world --------
+L 10/26/2024 - 13:14:18: [admin.amxx] Login: "test<82><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "26.71.19.63")
+L 10/26/2024 - 13:20:59: -------- Mapchange to zm_dust_world --------
+L 10/26/2024 - 13:20:59: [admin.amxx] Login: "test<82><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "26.71.19.63")
+L 10/26/2024 - 13:53:13: -------- Mapchange to zm_dust_world --------
+L 10/26/2024 - 13:53:15: [admin.amxx] Login: "test<113><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "26.71.19.63")
+L 10/26/2024 - 13:54:13: -------- Mapchange to zm_dust_world --------
+L 10/26/2024 - 13:54:14: [admin.amxx] Login: "test<113><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "26.71.19.63")
+L 10/26/2024 - 13:59:16: -------- Mapchange to zm_dust_world --------
+L 10/26/2024 - 13:59:20: [admin.amxx] Login: "test<113><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "26.71.19.63")
+L 10/26/2024 - 13:59:53: -------- Mapchange to zm_dust_world --------
+L 10/26/2024 - 13:59:53: [admin.amxx] Login: "test<113><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "26.71.19.63")
+L 10/26/2024 - 14:00:43: -------- Mapchange to zm_dust_world --------
+L 10/26/2024 - 14:00:43: [admin.amxx] Login: "test<113><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "26.71.19.63")
+L 10/26/2024 - 14:01:26: -------- Mapchange to zm_dust_world --------
+L 10/26/2024 - 14:01:27: [admin.amxx] Login: "test<113><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "26.71.19.63")
+L 10/26/2024 - 14:02:21: -------- Mapchange to zm_dust_world --------
+L 10/26/2024 - 14:02:21: [admin.amxx] Login: "test<113><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "26.71.19.63")
+L 10/26/2024 - 14:03:04: -------- Mapchange to zm_dust_world --------
+L 10/26/2024 - 14:03:05: [admin.amxx] Login: "test<113><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "26.71.19.63")
+L 10/26/2024 - 14:04:33: -------- Mapchange to zm_dust_world --------
+L 10/26/2024 - 14:04:34: [admin.amxx] Login: "test<113><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "26.71.19.63")
+L 10/26/2024 - 14:06:54: -------- Mapchange to zm_dust_world --------
+L 10/26/2024 - 14:06:54: [admin.amxx] Login: "test<113><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "26.71.19.63")
+L 10/26/2024 - 14:13:23: -------- Mapchange to zm_dust_world --------
+L 10/26/2024 - 14:13:24: [admin.amxx] Login: "test<113><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "26.71.19.63")
+L 10/26/2024 - 14:29:10: [admin.amxx] Login: "test<176><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "26.71.19.63")
+L 10/26/2024 - 17:14:51: -------- Mapchange to zm_fdust2x2 --------
+L 10/26/2024 - 17:17:01: [admin.amxx] Login: "test<8><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "26.71.19.63")
+L 10/26/2024 - 17:47:57: -------- Mapchange to zm_3rooms --------
+L 10/26/2024 - 18:09:30: -------- Mapchange to zm_3rooms --------
+L 10/26/2024 - 18:09:33: [admin.amxx] Login: "test<10><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "26.71.19.63")
+L 10/26/2024 - 18:13:04: -------- Mapchange to zm_3rooms --------
+L 10/26/2024 - 18:13:05: [admin.amxx] Login: "test<10><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "26.71.19.63")
+L 10/26/2024 - 18:14:22: -------- Mapchange to zm_fdust2x2 --------
+L 10/26/2024 - 18:14:24: [admin.amxx] Login: "test<1><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "26.71.19.63")
+L 10/26/2024 - 18:34:02: -------- Mapchange to zm_fdust2x2 --------
+L 10/26/2024 - 18:34:05: [admin.amxx] Login: "test<10><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "26.71.19.63")
+L 10/26/2024 - 18:34:49: -------- Mapchange to zm_fdust2x2 --------
+L 10/26/2024 - 18:34:50: [admin.amxx] Login: "test<10><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "26.71.19.63")
+L 10/26/2024 - 18:35:27: -------- Mapchange to zm_fdust2x2 --------
+L 10/26/2024 - 18:35:27: [admin.amxx] Login: "test<10><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "26.71.19.63")
+L 10/26/2024 - 18:37:28: -------- Mapchange to zm_fdust2x2 --------
+L 10/26/2024 - 18:37:29: [admin.amxx] Login: "test<10><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "26.71.19.63")
+L 10/26/2024 - 18:38:31: -------- Mapchange to zm_fdust2x2 --------
+L 10/26/2024 - 18:38:32: [admin.amxx] Login: "test<10><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "26.71.19.63")
+L 10/26/2024 - 18:40:28: -------- Mapchange to zm_fdust2x2 --------
+L 10/26/2024 - 18:40:28: [admin.amxx] Login: "test<10><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "26.71.19.63")
+L 10/26/2024 - 18:45:14: -------- Mapchange to zm_fdust2x2 --------
+L 10/26/2024 - 18:45:14: [admin.amxx] Login: "test<10><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "26.71.19.63")
+L 10/26/2024 - 18:47:47: -------- Mapchange to zm_fdust2x2 --------
+L 10/26/2024 - 18:47:48: [admin.amxx] Login: "test<10><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "26.71.19.63")
+L 10/26/2024 - 18:57:03: -------- Mapchange to zm_fdust2x2 --------
+L 10/26/2024 - 18:57:03: [admin.amxx] Login: "test<10><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "26.71.19.63")
+L 10/26/2024 - 18:57:37: -------- Mapchange to zm_fdust2x2 --------
+L 10/26/2024 - 18:57:38: [admin.amxx] Login: "test<10><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "26.71.19.63")
+L 10/26/2024 - 19:00:01: -------- Mapchange to zm_fdust2x2 --------
+L 10/26/2024 - 19:00:01: [admin.amxx] Login: "test<10><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "26.71.19.63")
+L 10/26/2024 - 19:02:15: -------- Mapchange to zm_fdust2x2 --------
+L 10/26/2024 - 19:02:16: [admin.amxx] Login: "test<10><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "26.71.19.63")
+L 10/26/2024 - 19:03:29: -------- Mapchange to zm_fdust2x2 --------
+L 10/26/2024 - 19:03:30: [admin.amxx] Login: "test<10><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "26.71.19.63")
+L 10/26/2024 - 19:05:45: -------- Mapchange to zm_fdust2x2 --------
+L 10/26/2024 - 19:05:46: [admin.amxx] Login: "test<10><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "26.71.19.63")
+L 10/26/2024 - 19:11:58: -------- Mapchange to zm_fdust2x2 --------
+L 10/26/2024 - 19:11:59: [admin.amxx] Login: "test<10><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "26.71.19.63")
+L 10/26/2024 - 19:18:51: -------- Mapchange to zm_fdust2x2 --------
+L 10/26/2024 - 19:18:52: [admin.amxx] Login: "test<10><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "26.71.19.63")
+L 10/26/2024 - 19:26:13: -------- Mapchange to zm_fdust2x2 --------
+L 10/26/2024 - 19:26:13: [admin.amxx] Login: "test<10><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "26.71.19.63")
+L 10/26/2024 - 19:27:36: -------- Mapchange to zm_fdust2x2 --------
+L 10/26/2024 - 19:27:37: [admin.amxx] Login: "test<10><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "26.71.19.63")

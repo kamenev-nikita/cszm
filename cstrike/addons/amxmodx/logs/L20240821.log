@@ -1,0 +1,22 @@
+L 08/21/2024 - 10:30:47: -------- Mapchange to zm_fdust2x2 --------
+L 08/21/2024 - 10:30:47: [CSX] Could not load csstats file: cstrike\
+L 08/21/2024 - 10:30:49: [admin_loader.amxx] Ни одного администратора не найдено в users.ini или запись некорретна
+L 08/21/2024 - 10:30:49: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\zp_ammo_ex.txt
+L 08/21/2024 - 10:30:49: New section, unterminated block (file "cstrike\addons\amxmodx\data\lang\nademodes.txt" key "NADE_HTML :" lang "da")
+L 08/21/2024 - 10:30:49: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\grab_plus.txt
+L 08/21/2024 - 10:36:39: -------- Mapchange to zm_fdust2x2 --------
+L 08/21/2024 - 10:36:40: [admin_loader.amxx] Ни одного администратора не найдено в users.ini или запись некорретна
+L 08/21/2024 - 10:36:40: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\zp_ammo_ex.txt
+L 08/21/2024 - 10:36:40: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\grab_plus.txt
+L 08/21/2024 - 10:59:40: [mapchooser.amxx] Vote: Voting for the nextmap started
+L 08/21/2024 - 10:59:55: [mapchooser.amxx] Vote: Voting for the nextmap finished. The nextmap will be zm_fun_world_4_final
+L 08/21/2024 - 11:02:33: -------- Mapchange to zm_fun_world_4_final --------
+L 08/21/2024 - 11:02:35: [admin_loader.amxx] Ни одного администратора не найдено в users.ini или запись некорретна
+L 08/21/2024 - 11:02:35: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\zp_ammo_ex.txt
+L 08/21/2024 - 11:02:35: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\grab_plus.txt
+L 08/21/2024 - 11:25:34: [mapchooser.amxx] Vote: Voting for the nextmap started
+L 08/21/2024 - 11:25:49: [mapchooser.amxx] Vote: Voting for the nextmap finished. The nextmap will be zm_dust_world
+L 08/21/2024 - 11:28:36: -------- Mapchange to zm_dust_world --------
+L 08/21/2024 - 11:28:39: [admin_loader.amxx] Ни одного администратора не найдено в users.ini или запись некорретна
+L 08/21/2024 - 11:28:39: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\zp_ammo_ex.txt
+L 08/21/2024 - 11:28:39: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\grab_plus.txt

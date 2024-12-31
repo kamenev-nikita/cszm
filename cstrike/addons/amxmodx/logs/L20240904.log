@@ -1,0 +1,33 @@
+L 09/04/2024 - 09:28:01: -------- Mapchange to zm_fdust2x2 --------
+L 09/04/2024 - 09:28:01: [CSX] Could not load csstats file: cstrike\
+L 09/04/2024 - 09:28:30: [admin.amxx] Login: "test<8><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "172.20.10.2")
+L 09/04/2024 - 09:28:55: [admin.amxx] Login: "test<9><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "172.20.10.2")
+L 09/04/2024 - 09:39:12: [pluginmenu.amxx] Cmd: "test<9><STEAM_1:0:1404421313><>" set cvar (name "zp_xm8_dmg") (value "3.0")
+L 09/04/2024 - 09:39:45: [pluginmenu.amxx] Cmd: "test<9><STEAM_1:0:1404421313><>" set cvar (name "zp_xm8_dmg") (value "3.3")
+L 09/04/2024 - 09:39:48: [pluginmenu.amxx] Cmd: "test<9><STEAM_1:0:1404421313><>" set cvar (name "zp_xm8_spd") (value "1.0")
+L 09/04/2024 - 09:40:19: [pluginmenu.amxx] Cmd: "test<9><STEAM_1:0:1404421313><>" set cvar (name "zp_xm8_dmg") (value "2.3")
+L 09/04/2024 - 09:42:18: -------- Mapchange to zm_fdust2x2 --------
+L 09/04/2024 - 09:42:18: [CSX] Could not load csstats file: cstrike\
+L 09/04/2024 - 09:42:23: [admin.amxx] Login: "test<1><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "172.20.10.2")
+L 09/04/2024 - 09:46:17: -------- Mapchange to zm_fdust2x2 --------
+L 09/04/2024 - 09:46:20: [admin.amxx] Login: "test<1><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "172.20.10.2")
+L 09/04/2024 - 09:46:43: -------- Mapchange to zm_fdust2x2 --------
+L 09/04/2024 - 09:46:45: [admin.amxx] Login: "test<1><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "172.20.10.2")
+L 09/04/2024 - 09:47:41: [pluginmenu.amxx] Cmd: "test<1><STEAM_1:0:1404421313><>" set cvar (name "zp_dmg_lighting_elf") (value "25.0")
+L 09/04/2024 - 09:47:45: [pluginmenu.amxx] Cmd: "test<1><STEAM_1:0:1404421313><>" set cvar (name "zp_ammo_lighting_elf") (value "30")
+L 09/04/2024 - 09:49:22: [pluginmenu.amxx] Cmd: "test<1><STEAM_1:0:1404421313><>" set cvar (name "zp_speed_lighting_elf") (value "0.01")
+L 09/04/2024 - 09:49:29: [pluginmenu.amxx] Cmd: "test<1><STEAM_1:0:1404421313><>" set cvar (name "zp_dmg_lighting_elf") (value "10.0")
+L 09/04/2024 - 09:49:55: [pluginmenu.amxx] Cmd: "test<1><STEAM_1:0:1404421313><>" set cvar (name "zp_dmg_lighting_elf") (value "10")
+L 09/04/2024 - 09:50:03: [pluginmenu.amxx] Cmd: "test<1><STEAM_1:0:1404421313><>" set cvar (name "zp_dmg_lighting_elf") (value "10.9")
+L 09/04/2024 - 09:54:13: -------- Mapchange to zm_fdust2x2 --------
+L 09/04/2024 - 09:54:16: [admin.amxx] Login: "test<1><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "172.20.10.2")
+L 09/04/2024 - 09:56:01: -------- Mapchange to zm_fdust2x2 --------
+L 09/04/2024 - 09:56:04: [admin.amxx] Login: "test<1><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "172.20.10.2")
+L 09/04/2024 - 09:56:32: [pluginmenu.amxx] Cmd: "test<1><STEAM_1:0:1404421313><>" set cvar (name "zp_dmg_lighting_elf") (value "1000.0")
+L 09/04/2024 - 09:56:35: [pluginmenu.amxx] Cmd: "test<1><STEAM_1:0:1404421313><>" set cvar (name "zp_speed_lighting_elf") (value "1")
+L 09/04/2024 - 09:57:10: -------- Mapchange to zm_fdust2x2 --------
+L 09/04/2024 - 09:57:13: [admin.amxx] Login: "test<1><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "172.20.10.2")
+L 09/04/2024 - 09:58:25: -------- Mapchange to zm_fdust2x2 --------
+L 09/04/2024 - 09:58:28: [admin.amxx] Login: "test<1><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "172.20.10.2")
+L 09/04/2024 - 09:59:41: -------- Mapchange to zm_fdust2x2 --------
+L 09/04/2024 - 09:59:44: [admin.amxx] Login: "test<1><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "172.20.10.2")

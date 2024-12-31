@@ -1,0 +1,261 @@
+L 07/17/2024 - 08:26:01: [GEOIP] Database info: GEO-106FREE 20080801 Build 1 Copyright (c) 2007 MaxMind LLC All Rights Reserved
+L 07/17/2024 - 08:26:01: -------- Mapchange to zm_deko2 --------
+L 07/17/2024 - 08:26:02: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\zp_ammo_ex.txt
+L 07/17/2024 - 08:26:02: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\grab_plus.txt
+L 07/17/2024 - 08:26:02: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\LaserMines.txt
+L 07/17/2024 - 08:27:34: [admin.amxx] Login: "unnamed<10><STEAM_1:0:1404421313><>" became an admin (account "unnamed") (access "abcdefghijklmnopqrstu") (address "172.20.10.2")
+L 07/17/2024 - 08:55:11: -------- Mapchange to zm_deko2 --------
+L 07/17/2024 - 08:55:12: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\zp_ammo_ex.txt
+L 07/17/2024 - 08:55:12: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\grab_plus.txt
+L 07/17/2024 - 08:55:12: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\LaserMines.txt
+L 07/17/2024 - 08:55:16: [admin.amxx] Login: "unnamed<12><STEAM_1:0:1404421313><>" became an admin (account "unnamed") (access "abcdefghijklmnopqrstu") (address "172.20.10.2")
+L 07/17/2024 - 09:02:34: -------- Mapchange to zm_deko2 --------
+L 07/17/2024 - 09:02:35: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\zp_ammo_ex.txt
+L 07/17/2024 - 09:02:35: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\grab_plus.txt
+L 07/17/2024 - 09:02:35: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\LaserMines.txt
+L 07/17/2024 - 09:02:39: [admin.amxx] Login: "unnamed<21><STEAM_1:0:1404421313><>" became an admin (account "unnamed") (access "abcdefghijklmnopqrstu") (address "172.20.10.2")
+L 07/17/2024 - 09:06:46: -------- Mapchange to zm_deko2 --------
+L 07/17/2024 - 09:06:47: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\zp_ammo_ex.txt
+L 07/17/2024 - 09:06:47: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\grab_plus.txt
+L 07/17/2024 - 09:06:47: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\LaserMines.txt
+L 07/17/2024 - 09:06:47: [admin.amxx] Login: "unnamed<21><STEAM_1:0:1404421313><>" became an admin (account "unnamed") (access "abcdefghijklmnopqrstu") (address "172.20.10.2")
+L 07/17/2024 - 09:21:33: -------- Mapchange to zm_deko2 --------
+L 07/17/2024 - 09:22:48: [GEOIP] Database info: GEO-106FREE 20080801 Build 1 Copyright (c) 2007 MaxMind LLC All Rights Reserved
+L 07/17/2024 - 09:22:48: -------- Mapchange to zm_deko2 --------
+L 07/17/2024 - 09:22:49: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\zp_ammo_ex.txt
+L 07/17/2024 - 09:22:49: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\grab_plus.txt
+L 07/17/2024 - 09:22:49: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\LaserMines.txt
+L 07/17/2024 - 09:23:07: [admin.amxx] Login: "unnamed<8><STEAM_1:0:1404421313><>" became an admin (account "unnamed") (access "abcdefghijklmnopqrstu") (address "172.20.10.2")
+L 07/17/2024 - 09:29:54: [admin.amxx] Login: "unnamed<10><STEAM_1:0:1404421313><>" became an admin (account "unnamed") (access "abcdefghijklmnopqrstu") (address "172.20.10.2")
+L 07/17/2024 - 11:18:40: [GEOIP] Database info: GEO-106FREE 20080801 Build 1 Copyright (c) 2007 MaxMind LLC All Rights Reserved
+L 07/17/2024 - 11:18:40: -------- Mapchange to zm_deko2 --------
+L 07/17/2024 - 11:18:41: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\zp_ammo_ex.txt
+L 07/17/2024 - 11:18:41: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\grab_plus.txt
+L 07/17/2024 - 11:18:41: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\LaserMines.txt
+L 07/17/2024 - 11:49:16: -------- Mapchange to cs_747 --------
+L 07/17/2024 - 11:49:16: Error:
+L 07/17/2024 - 11:49:16: [AMXX] Module requested a not existing function (file "cstrike\addons\amxmodx\modules\csx_amxx.dll") (func "LoadAmxScriptEx")
+L 07/17/2024 - 11:49:16: [AMXX] Plugin "statsx.amxx" failed to load: Module/Library Class "xstats" required for plugin.  Check modules.ini.
+L 07/17/2024 - 11:51:29: [admin.amxx] Login: "unnamed<1><STEAM_1:0:1404421313><>" became an admin (account "unnamed") (access "abcdefghijklmnopqrstu") (address "172.20.10.2")
+L 07/17/2024 - 12:04:31: -------- Mapchange to cs_747 --------
+L 07/17/2024 - 12:04:31: Error:
+L 07/17/2024 - 12:04:31: [AMXX] Module requested a not existing function (file "cstrike\addons\amxmodx\modules\csx_amxx.dll") (func "LoadAmxScriptEx")
+L 07/17/2024 - 12:04:31: [AMXX] Plugin "statsx.amxx" failed to load: Module/Library Class "xstats" required for plugin.  Check modules.ini.
+L 07/17/2024 - 12:09:25: -------- Mapchange to cs_747 --------
+L 07/17/2024 - 12:09:25: [AMXX] Plugin "statsx.amxx" failed to load: Module/Library Class "xstats" required for plugin.  Check modules.ini.
+L 07/17/2024 - 12:12:54: -------- Mapchange to cs_747 --------
+L 07/17/2024 - 12:12:54: [AMXX] Plugin "statsx.amxx" failed to load: Module/Library Class "xstats" required for plugin.  Check modules.ini.
+L 07/17/2024 - 12:12:59: -------- Mapchange to cs_747 --------
+L 07/17/2024 - 12:12:59: [AMXX] Plugin "statsx.amxx" failed to load: Module/Library Class "xstats" required for plugin.  Check modules.ini.
+L 07/17/2024 - 12:13:15: -------- Mapchange to cs_747 --------
+L 07/17/2024 - 12:13:15: Error:
+L 07/17/2024 - 12:13:15: [AMXX] Module requested a not existing function (file "cstrike\addons\amxmodx\modules\csx_amxx.dll") (func "LoadAmxScriptEx")
+L 07/17/2024 - 12:13:15: [AMXX] Plugin "statsx.amxx" failed to load: Module/Library Class "xstats" required for plugin.  Check modules.ini.
+L 07/17/2024 - 12:23:35: -------- Mapchange to cs_747 --------
+L 07/17/2024 - 12:23:35: Error:
+L 07/17/2024 - 12:23:35: [AMXX] Module requested a not existing function (file "cstrike\addons\amxmodx\modules\csx_amxx.dll") (func "LoadAmxScriptEx")
+L 07/17/2024 - 12:23:35: [AMXX] Plugin "statsx.amxx" failed to load: Module/Library Class "xstats" required for plugin.  Check modules.ini.
+L 07/17/2024 - 12:23:35: [ReAimDetector] Error: do not set 'AimSens' in ad_set_cfg.
+L 07/17/2024 - 12:31:44: -------- Mapchange to cs_747 --------
+L 07/17/2024 - 12:31:44: Error:
+L 07/17/2024 - 12:31:44: [AMXX] Module requested a not existing function (file "cstrike\addons\amxmodx\modules\csx_amxx.dll") (func "LoadAmxScriptEx")
+L 07/17/2024 - 12:31:44: [AMXX] Plugin "statsx.amxx" failed to load: Module/Library Class "xstats" required for plugin.  Check modules.ini.
+L 07/17/2024 - 12:31:44: [ReAimDetector] Error: do not set 'AimSens' in ad_set_cfg.
+L 07/17/2024 - 12:32:02: -------- Mapchange to cs_747 --------
+L 07/17/2024 - 12:32:02: Error:
+L 07/17/2024 - 12:32:02: [AMXX] Module requested a not existing function (file "cstrike\addons\amxmodx\modules\csx_amxx.dll") (func "LoadAmxScriptEx")
+L 07/17/2024 - 12:32:02: [AMXX] Plugin "statsx.amxx" failed to load: Module/Library Class "xstats" required for plugin.  Check modules.ini.
+L 07/17/2024 - 12:32:02: [ReAimDetector] Error: do not set 'AimSens' in ad_set_cfg.
+L 07/17/2024 - 12:33:02: -------- Mapchange to cs_747 --------
+L 07/17/2024 - 12:33:02: Error:
+L 07/17/2024 - 12:33:02: [AMXX] Module requested a not existing function (file "cstrike\addons\amxmodx\modules\csx_amxx.dll") (func "LoadAmxScriptEx")
+L 07/17/2024 - 12:33:02: [AMXX] Plugin "statsx.amxx" failed to load: Module/Library Class "xstats" required for plugin.  Check modules.ini.
+L 07/17/2024 - 12:33:03: [ReAimDetector] Error: do not set 'AimSens' in ad_set_cfg.
+L 07/17/2024 - 12:34:32: -------- Mapchange to cs_747 --------
+L 07/17/2024 - 12:34:32: Error:
+L 07/17/2024 - 12:34:32: [AMXX] Module requested a not existing function (file "cstrike\addons\amxmodx\modules\cstrike_amxx.dll") (func "LoadAmxScriptEx")
+L 07/17/2024 - 12:34:32: [AMXX] Plugin "statsx.amxx" failed to load: Module/Library Class "xstats" required for plugin.  Check modules.ini.
+L 07/17/2024 - 12:34:32: [AMXX] Plugin "zombie_plague40.amxx" failed to load: Module/Library "cstrike" required for plugin.  Check modules.ini.
+L 07/17/2024 - 12:34:32: [ReAimDetector] Error: do not set 'AimSens' in ad_set_cfg.
+L 07/17/2024 - 12:34:39: [admin.amxx] Login: "unnamed<1><STEAM_1:0:1404421313><>" became an admin (account "unnamed") (access "abcdefghijklmnopqrstu") (address "172.20.10.2")
+L 07/17/2024 - 12:36:35: -------- Mapchange to cs_747 --------
+L 07/17/2024 - 12:36:35: Error:
+L 07/17/2024 - 12:36:35: [AMXX] Module requested a not existing function (file "cstrike\addons\amxmodx\modules\csx_amxx.dll") (func "LoadAmxScriptEx")
+L 07/17/2024 - 12:36:35: Error:
+L 07/17/2024 - 12:36:35: [AMXX] Module requested a not existing function (file "cstrike\addons\amxmodx\modules\cstrike_amxx.dll") (func "LoadAmxScriptEx")
+L 07/17/2024 - 12:36:35: [AMXX] Plugin "statsx.amxx" failed to load: Module/Library Class "xstats" required for plugin.  Check modules.ini.
+L 07/17/2024 - 12:36:35: [AMXX] Plugin "zombie_plague40.amxx" failed to load: Module/Library "cstrike" required for plugin.  Check modules.ini.
+L 07/17/2024 - 12:36:35: [ReAimDetector] Error: do not set 'AimSens' in ad_set_cfg.
+L 07/17/2024 - 12:36:55: -------- Mapchange to cs_747 --------
+L 07/17/2024 - 12:36:56: [AMXX] Plugin "statsx.amxx" failed to load: Module/Library Class "xstats" required for plugin.  Check modules.ini.
+L 07/17/2024 - 12:36:56: [AMXX] Plugin "zombie_plague40.amxx" failed to load: Module/Library "cstrike" required for plugin.  Check modules.ini.
+L 07/17/2024 - 12:36:56: [ReAimDetector] Error: do not set 'AimSens' in ad_set_cfg.
+L 07/17/2024 - 12:37:02: [admin.amxx] Login: "unnamed<1><STEAM_1:0:1404421313><>" became an admin (account "unnamed") (access "abcdefghijklmnopqrstu") (address "172.20.10.2")
+L 07/17/2024 - 12:38:06: -------- Mapchange to cs_747 --------
+L 07/17/2024 - 12:38:06: [AMXX] Plugin "statsx.amxx" failed to load: Module/Library Class "xstats" required for plugin.  Check modules.ini.
+L 07/17/2024 - 12:38:06: [AMXX] Plugin "zombie_plague40.amxx" failed to load: Module/Library "cstrike" required for plugin.  Check modules.ini.
+L 07/17/2024 - 12:38:06: [ReAimDetector] Error: do not set 'AimSens' in ad_set_cfg.
+L 07/17/2024 - 12:38:06: [admin.amxx] Login: "unnamed<1><STEAM_1:0:1404421313><>" became an admin (account "unnamed") (access "abcdefghijklmnopqrstu") (address "172.20.10.2")
+L 07/17/2024 - 12:46:32: -------- Mapchange to cs_747 --------
+L 07/17/2024 - 12:46:32: [AMXX] Plugin "statsx.amxx" failed to load: Module/Library Class "xstats" required for plugin.  Check modules.ini.
+L 07/17/2024 - 12:46:32: [AMXX] Plugin "zombie_plague40.amxx" failed to load: Module/Library "cstrike" required for plugin.  Check modules.ini.
+L 07/17/2024 - 12:46:32: [ReAimDetector] Error: do not set 'AimSens' in ad_set_cfg.
+L 07/17/2024 - 12:46:32: [admin.amxx] Login: "unnamed<1><STEAM_1:0:1404421313><>" became an admin (account "unnamed") (access "abcdefghijklmnopqrstu") (address "172.20.10.2")
+L 07/17/2024 - 12:47:48: -------- Mapchange to cs_747 --------
+L 07/17/2024 - 12:47:48: [AMXX] Plugin "statsx.amxx" failed to load: Module/Library Class "xstats" required for plugin.  Check modules.ini.
+L 07/17/2024 - 12:47:48: [AMXX] Plugin "zombie_plague40.amxx" failed to load: Module/Library "cstrike" required for plugin.  Check modules.ini.
+L 07/17/2024 - 12:47:48: [ReAimDetector] Error: do not set 'AimSens' in ad_set_cfg.
+L 07/17/2024 - 12:47:48: [admin.amxx] Login: "unnamed<1><STEAM_1:0:1404421313><>" became an admin (account "unnamed") (access "abcdefghijklmnopqrstu") (address "172.20.10.2")
+L 07/17/2024 - 12:48:00: Error:
+L 07/17/2024 - 12:48:00: [AMXX] Module requested a not existing function (file "cstrike\addons\amxmodx\modules\cstrike_amxx.dll") (func "LoadAmxScriptEx")
+L 07/17/2024 - 12:48:00: -------- Mapchange to cs_747 --------
+L 07/17/2024 - 12:48:00: Error:
+L 07/17/2024 - 12:48:00: [AMXX] Module requested a not existing function (file "cstrike\addons\amxmodx\modules\csx_amxx.dll") (func "LoadAmxScriptEx")
+L 07/17/2024 - 12:48:00: [AMXX] Plugin "statsx.amxx" failed to load: Module/Library Class "xstats" required for plugin.  Check modules.ini.
+L 07/17/2024 - 12:48:00: [AMXX] Plugin "zombie_plague40.amxx" failed to load: Module/Library "cstrike" required for plugin.  Check modules.ini.
+L 07/17/2024 - 12:48:01: [ReAimDetector] Error: do not set 'AimSens' in ad_set_cfg.
+L 07/17/2024 - 12:49:21: -------- Mapchange to cs_747 --------
+L 07/17/2024 - 12:49:21: [GEOIP] Database info: GEO-106FREE 20080801 Build 1 Copyright (c) 2007 MaxMind LLC All Rights Reserved
+L 07/17/2024 - 12:49:21: [AMXX] Plugin "statsx.amxx" failed to load: Module/Library Class "xstats" required for plugin.  Check modules.ini.
+L 07/17/2024 - 12:49:21: [AMXX] Plugin "zombie_plague40.amxx" failed to load: Module/Library "cstrike" required for plugin.  Check modules.ini.
+L 07/17/2024 - 12:49:21: [ReAimDetector] Error: do not set 'AimSens' in ad_set_cfg.
+L 07/17/2024 - 12:49:46: [GEOIP] Database info: GEO-106FREE 20080801 Build 1 Copyright (c) 2007 MaxMind LLC All Rights Reserved
+L 07/17/2024 - 12:49:46: Error:
+L 07/17/2024 - 12:49:46: [AMXX] Module requested a not existing function (file "cstrike\addons\amxmodx\modules\cstrike_amxx.dll") (func "LoadAmxScriptEx")
+L 07/17/2024 - 12:49:46: Error:
+L 07/17/2024 - 12:49:46: [AMXX] Module requested a not existing function (file "cstrike\addons\amxmodx\modules\csx_amxx.dll") (func "LoadAmxScriptEx")
+L 07/17/2024 - 12:49:46: -------- Mapchange to cs_747 --------
+L 07/17/2024 - 12:49:46: [AMXX] Plugin "statsx.amxx" failed to load: Module/Library Class "xstats" required for plugin.  Check modules.ini.
+L 07/17/2024 - 12:49:46: [AMXX] Plugin "zombie_plague40.amxx" failed to load: Module/Library "cstrike" required for plugin.  Check modules.ini.
+L 07/17/2024 - 12:49:46: [ReAimDetector] Error: do not set 'AimSens' in ad_set_cfg.
+L 07/17/2024 - 12:50:27: -------- Mapchange to cs_747 --------
+L 07/17/2024 - 12:50:27: [AMXX] Plugin "statsx.amxx" failed to load: Module/Library Class "xstats" required for plugin.  Check modules.ini.
+L 07/17/2024 - 12:50:27: [AMXX] Plugin "zombie_plague40.amxx" failed to load: Module/Library "cstrike" required for plugin.  Check modules.ini.
+L 07/17/2024 - 12:50:27: [ReAimDetector] Error: do not set 'AimSens' in ad_set_cfg.
+L 07/17/2024 - 13:21:40: -------- Mapchange to de_airstrip --------
+L 07/17/2024 - 13:21:40: [CSX] Could not load csstats file: cstrike\
+L 07/17/2024 - 13:21:40: [AMXX] Plugin "zombie_plague40.amxx" failed to load: Plugin uses an unknown function (name "zp_next_level_exp") - check your modules.ini.
+L 07/17/2024 - 13:26:52: -------- Mapchange to de_airstrip --------
+L 07/17/2024 - 13:26:52: [CSX] Could not load csstats file: cstrike\
+L 07/17/2024 - 13:28:06: -------- Mapchange to de_airstrip --------
+L 07/17/2024 - 13:29:31: -------- Mapchange to de_airstrip --------
+L 07/17/2024 - 13:29:44: -------- Mapchange to de_airstrip --------
+L 07/17/2024 - 13:30:10: -------- Mapchange to de_airstrip --------
+L 07/17/2024 - 13:30:10: [AMXX] Plugin "zm_class_Invisible.amxx" failed to load: Plugin uses an unknown function (name "zp_get_user_survivor") - check your modules.ini.
+L 07/17/2024 - 13:33:11: -------- Mapchange to de_airstrip --------
+L 07/17/2024 - 13:33:11: [AMXX] Plugin "zm_class_Invisible.amxx" failed to load: Plugin uses an unknown function (name "zp_get_user_survivor") - check your modules.ini.
+L 07/17/2024 - 13:34:19: -------- Mapchange to de_airstrip --------
+L 07/17/2024 - 13:50:54: -------- Mapchange to de_airstrip --------
+L 07/17/2024 - 13:51:20: -------- Mapchange to de_airstrip --------
+L 07/17/2024 - 13:51:20: [CSX] Could not load csstats file: cstrike\
+L 07/17/2024 - 13:54:47: -------- Mapchange to de_airstrip --------
+L 07/17/2024 - 13:54:48: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\zp_ammo_ex.txt
+L 07/17/2024 - 13:54:48: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\grab_plus.txt
+L 07/17/2024 - 13:56:36: -------- Mapchange to de_airstrip --------
+L 07/17/2024 - 13:56:37: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\zp_ammo_ex.txt
+L 07/17/2024 - 13:56:37: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\grab_plus.txt
+L 07/17/2024 - 14:00:14: -------- Mapchange to de_airstrip --------
+L 07/17/2024 - 14:00:14: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\zp_ammo_ex.txt
+L 07/17/2024 - 14:00:14: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\grab_plus.txt
+L 07/17/2024 - 14:00:14: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\LaserMines.txt
+L 07/17/2024 - 14:00:55: -------- Mapchange to de_airstrip --------
+L 07/17/2024 - 14:00:55: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\zp_ammo_ex.txt
+L 07/17/2024 - 14:00:55: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\grab_plus.txt
+L 07/17/2024 - 14:00:55: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\LaserMines.txt
+L 07/17/2024 - 14:01:11: [admin.amxx] Login: "unnamed<1><STEAM_1:0:1404421313><>" became an admin (account "unnamed") (access "abcdefghijklmnopqrstuv") (address "172.20.10.2")
+L 07/17/2024 - 14:02:35: [admin.amxx] Login: "unnamed<2><STEAM_1:0:1404421313><>" became an admin (account "unnamed") (access "abcdefghijklmnopqrstuv") (address "172.20.10.2")
+L 07/17/2024 - 14:12:07: -------- Mapchange to de_airstrip --------
+L 07/17/2024 - 14:12:07: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\zp_ammo_ex.txt
+L 07/17/2024 - 14:12:07: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\grab_plus.txt
+L 07/17/2024 - 14:12:07: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\LaserMines.txt
+L 07/17/2024 - 14:12:07: [admin.amxx] Login: "unnamed<2><STEAM_1:0:1404421313><>" became an admin (account "unnamed") (access "abcdefghijklmnopqrstuv") (address "172.20.10.2")
+L 07/17/2024 - 14:15:18: -------- Mapchange to de_airstrip --------
+L 07/17/2024 - 14:15:18: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\zp_ammo_ex.txt
+L 07/17/2024 - 14:15:18: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\grab_plus.txt
+L 07/17/2024 - 14:15:18: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\LaserMines.txt
+L 07/17/2024 - 14:15:18: [admin.amxx] Login: "unnamed<2><STEAM_1:0:1404421313><>" became an admin (account "unnamed") (access "abcdefghijklmnopqrstuv") (address "172.20.10.2")
+L 07/17/2024 - 14:18:13: -------- Mapchange to de_airstrip --------
+L 07/17/2024 - 14:18:13: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\zp_ammo_ex.txt
+L 07/17/2024 - 14:18:13: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\grab_plus.txt
+L 07/17/2024 - 14:18:13: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\LaserMines.txt
+L 07/17/2024 - 14:18:14: [admin.amxx] Login: "unnamed<2><STEAM_1:0:1404421313><>" became an admin (account "unnamed") (access "abcdefghijklmnopqrstuv") (address "172.20.10.2")
+L 07/17/2024 - 14:29:51: -------- Mapchange to de_airstrip --------
+L 07/17/2024 - 14:29:51: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\zp_ammo_ex.txt
+L 07/17/2024 - 14:29:51: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\grab_plus.txt
+L 07/17/2024 - 14:29:51: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\LaserMines.txt
+L 07/17/2024 - 14:29:52: [admin.amxx] Login: "unnamed<2><STEAM_1:0:1404421313><>" became an admin (account "unnamed") (access "abcdefghijklmnopqrstuv") (address "172.20.10.2")
+L 07/17/2024 - 14:30:28: -------- Mapchange to de_airstrip --------
+L 07/17/2024 - 14:30:28: [CSX] Could not load csstats file: cstrike\
+L 07/17/2024 - 14:30:29: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\zp_ammo_ex.txt
+L 07/17/2024 - 14:30:29: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\grab_plus.txt
+L 07/17/2024 - 14:30:29: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\LaserMines.txt
+L 07/17/2024 - 14:30:32: [admin.amxx] Login: "unnamed<1><STEAM_1:0:1404421313><>" became an admin (account "unnamed") (access "abcdefghijklmnopqrstuv") (address "172.20.10.2")
+L 07/17/2024 - 14:31:27: -------- Mapchange to de_airstrip --------
+L 07/17/2024 - 14:31:28: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\zp_ammo_ex.txt
+L 07/17/2024 - 14:31:28: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\grab_plus.txt
+L 07/17/2024 - 14:31:28: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\LaserMines.txt
+L 07/17/2024 - 14:31:28: [admin.amxx] Login: "unnamed<1><STEAM_1:0:1404421313><>" became an admin (account "unnamed") (access "abcdefghijklmnopqrstuv") (address "172.20.10.2")
+L 07/17/2024 - 14:34:54: -------- Mapchange to de_airstrip --------
+L 07/17/2024 - 14:34:54: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\zp_ammo_ex.txt
+L 07/17/2024 - 14:34:54: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\grab_plus.txt
+L 07/17/2024 - 14:34:54: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\LaserMines.txt
+L 07/17/2024 - 14:34:54: [admin.amxx] Login: "unnamed<1><STEAM_1:0:1404421313><>" became an admin (account "unnamed") (access "abcdefghijklmnopqrstuv") (address "172.20.10.2")
+L 07/17/2024 - 14:37:15: -------- Mapchange to zm_dd_v1 --------
+L 07/17/2024 - 14:37:15: [CSX] Could not load csstats file: cstrike\
+L 07/17/2024 - 14:37:15: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\zp_ammo_ex.txt
+L 07/17/2024 - 14:37:15: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\grab_plus.txt
+L 07/17/2024 - 14:37:15: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\LaserMines.txt
+L 07/17/2024 - 14:37:27: [admin.amxx] Login: "unnamed<1><STEAM_1:0:1404421313><>" became an admin (account "unnamed") (access "abcdefghijklmnopqrstuv") (address "172.20.10.2")
+L 07/17/2024 - 14:39:44: -------- Mapchange to zm_dd_v1 --------
+L 07/17/2024 - 14:39:44: [CSX] Could not load csstats file: cstrike\
+L 07/17/2024 - 14:39:45: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\zp_ammo_ex.txt
+L 07/17/2024 - 14:39:45: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\grab_plus.txt
+L 07/17/2024 - 14:39:45: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\LaserMines.txt
+L 07/17/2024 - 14:40:10: -------- Mapchange to zm_dd_v1 --------
+L 07/17/2024 - 14:40:10: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\zp_ammo_ex.txt
+L 07/17/2024 - 14:40:10: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\grab_plus.txt
+L 07/17/2024 - 14:40:10: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\LaserMines.txt
+L 07/17/2024 - 14:40:19: [admin.amxx] Login: "unnamed<1><STEAM_1:0:1404421313><>" became an admin (account "unnamed") (access "abcdefghijklmnopqrstuv") (address "172.20.10.2")
+L 07/17/2024 - 14:41:53: -------- Mapchange to zm_deko2 --------
+L 07/17/2024 - 14:41:53: [CSX] Could not load csstats file: cstrike\
+L 07/17/2024 - 14:41:54: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\zp_ammo_ex.txt
+L 07/17/2024 - 14:41:54: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\grab_plus.txt
+L 07/17/2024 - 14:41:54: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\LaserMines.txt
+L 07/17/2024 - 14:42:06: [admin.amxx] Login: "unnamed<8><STEAM_1:0:1404421313><>" became an admin (account "unnamed") (access "abcdefghijklmnopqrstuv") (address "172.20.10.2")
+L 07/17/2024 - 14:44:10: -------- Mapchange to zm_deko2 --------
+L 07/17/2024 - 14:44:11: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\zp_ammo_ex.txt
+L 07/17/2024 - 14:44:11: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\grab_plus.txt
+L 07/17/2024 - 14:44:11: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\LaserMines.txt
+L 07/17/2024 - 14:44:11: [admin.amxx] Login: "unnamed<8><STEAM_1:0:1404421313><>" became an admin (account "unnamed") (access "abcdefghijklmnopqrstuv") (address "172.20.10.2")
+L 07/17/2024 - 14:48:46: -------- Mapchange to zm_deko2 --------
+L 07/17/2024 - 14:48:47: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\zp_ammo_ex.txt
+L 07/17/2024 - 14:48:47: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\grab_plus.txt
+L 07/17/2024 - 14:48:47: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\LaserMines.txt
+L 07/17/2024 - 14:48:47: [admin.amxx] Login: "unnamed<8><STEAM_1:0:1404421313><>" became an admin (account "unnamed") (access "abcdefghijklmnopqrstuv") (address "172.20.10.2")
+L 07/17/2024 - 14:50:14: -------- Mapchange to zm_deko2 --------
+L 07/17/2024 - 14:50:14: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\zp_ammo_ex.txt
+L 07/17/2024 - 14:50:14: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\grab_plus.txt
+L 07/17/2024 - 14:50:14: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\LaserMines.txt
+L 07/17/2024 - 14:50:15: [admin.amxx] Login: "unnamed<8><STEAM_1:0:1404421313><>" became an admin (account "unnamed") (access "abcdefghijklmnopqrstuv") (address "172.20.10.2")
+L 07/17/2024 - 14:51:11: -------- Mapchange to zm_deko2 --------
+L 07/17/2024 - 14:51:11: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\zp_ammo_ex.txt
+L 07/17/2024 - 14:51:11: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\grab_plus.txt
+L 07/17/2024 - 14:51:11: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\LaserMines.txt
+L 07/17/2024 - 14:51:12: [admin.amxx] Login: "unnamed<8><STEAM_1:0:1404421313><>" became an admin (account "unnamed") (access "abcdefghijklmnopqrstuv") (address "172.20.10.2")
+L 07/17/2024 - 14:51:42: [admin.amxx] Login: "unnamed<34><STEAM_1:0:1404421313><>" became an admin (account "unnamed") (access "abcdefghijklmnopqrstuv") (address "172.20.10.2")
+L 07/17/2024 - 14:53:03: -------- Mapchange to zm_deko2 --------
+L 07/17/2024 - 14:53:03: [CSX] Could not load csstats file: cstrike\
+L 07/17/2024 - 14:53:04: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\zp_ammo_ex.txt
+L 07/17/2024 - 14:53:04: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\grab_plus.txt
+L 07/17/2024 - 14:53:04: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\LaserMines.txt
+L 07/17/2024 - 14:53:30: [admin.amxx] Login: "unnamed<8><STEAM_1:0:1404421313><>" became an admin (account "unnamed") (access "abcdefghijklmnopqrstuv") (address "172.20.10.2")
+L 07/17/2024 - 15:13:53: -------- Mapchange to zm_deko2 --------
+L 07/17/2024 - 15:13:54: [CSX] Could not load csstats file: cstrike\
+L 07/17/2024 - 15:13:55: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\zp_ammo_ex.txt
+L 07/17/2024 - 15:13:55: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\grab_plus.txt
+L 07/17/2024 - 15:13:55: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\LaserMines.txt
+L 07/17/2024 - 15:14:45: -------- Mapchange to zm_deko2 --------
+L 07/17/2024 - 15:14:45: [CSX] Could not load csstats file: cstrike\
+L 07/17/2024 - 15:14:46: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\zp_ammo_ex.txt
+L 07/17/2024 - 15:14:46: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\grab_plus.txt
+L 07/17/2024 - 15:14:46: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\LaserMines.txt

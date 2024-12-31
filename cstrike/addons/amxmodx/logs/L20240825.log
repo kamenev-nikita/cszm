@@ -1,0 +1,391 @@
+L 08/25/2024 - 08:18:31: -------- Mapchange to zm_fdust2x2 --------
+L 08/25/2024 - 08:18:31: [CSX] Could not load csstats file: cstrike\
+L 08/25/2024 - 08:25:06: [admin.amxx] Login: "test<8><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "192.168.0.16")
+L 08/25/2024 - 08:25:08: [admin.amxx] Login: "test<9><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "192.168.0.16")
+L 08/25/2024 - 08:36:41: -------- Mapchange to zm_fdust2x2 --------
+L 08/25/2024 - 08:36:41: [AMXX] Plugin "random_donate_gun.amxx" failed to load: Plugin uses an unknown function (name "give_weapon_barrel") - check your modules.ini.
+L 08/25/2024 - 08:36:43: [admin.amxx] Login: "test<9><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "192.168.0.16")
+L 08/25/2024 - 08:48:34: -------- Mapchange to zm_fdust2x2 --------
+L 08/25/2024 - 08:48:34: [AMXX] Plugin "random_donate_gun.amxx" failed to load: Plugin uses an unknown function (name "give_weapon_barrel") - check your modules.ini.
+L 08/25/2024 - 08:48:36: [admin.amxx] Login: "test<9><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "192.168.0.16")
+L 08/25/2024 - 08:50:05: -------- Mapchange to zm_fdust2x2 --------
+L 08/25/2024 - 08:50:05: [AMXX] Plugin "random_donate_gun.amxx" failed to load: Plugin uses an unknown function (name "give_weapon_barrel") - check your modules.ini.
+L 08/25/2024 - 08:50:07: [admin.amxx] Login: "test<9><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "192.168.0.16")
+L 08/25/2024 - 08:50:44: -------- Mapchange to zm_fdust2x2 --------
+L 08/25/2024 - 08:50:44: [AMXX] Plugin "random_donate_gun.amxx" failed to load: Plugin uses an unknown function (name "give_weapon_barrel") - check your modules.ini.
+L 08/25/2024 - 08:50:45: [admin.amxx] Login: "test<9><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "192.168.0.16")
+L 08/25/2024 - 08:52:59: -------- Mapchange to zm_fdust2x2 --------
+L 08/25/2024 - 08:52:59: [AMXX] Plugin "random_donate_gun.amxx" failed to load: Plugin uses an unknown function (name "give_weapon_barrel") - check your modules.ini.
+L 08/25/2024 - 08:53:01: [admin.amxx] Login: "test<9><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "192.168.0.16")
+L 08/25/2024 - 08:54:49: -------- Mapchange to zm_fdust2x2 --------
+L 08/25/2024 - 08:54:49: [AMXX] Plugin "random_donate_gun.amxx" failed to load: Plugin uses an unknown function (name "give_weapon_barrel") - check your modules.ini.
+L 08/25/2024 - 08:54:51: [admin.amxx] Login: "test<9><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "192.168.0.16")
+L 08/25/2024 - 09:02:44: -------- Mapchange to zm_fdust2x2 --------
+L 08/25/2024 - 09:02:44: [AMXX] Plugin "random_donate_gun.amxx" failed to load: Plugin uses an unknown function (name "give_weapon_barrel") - check your modules.ini.
+L 08/25/2024 - 09:02:46: [admin.amxx] Login: "test<9><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "192.168.0.16")
+L 08/25/2024 - 09:06:20: [pluginmenu.amxx] Cmd: "test<9><STEAM_1:0:1404421313><>" set cvar (name "zp_scsr_clip") (value "20")
+L 08/25/2024 - 09:06:34: [pluginmenu.amxx] Cmd: "test<9><STEAM_1:0:1404421313><>" set cvar (name "zp_scsr_dmg") (value "8.2")
+L 08/25/2024 - 09:06:45: [pluginmenu.amxx] Cmd: "test<9><STEAM_1:0:1404421313><>" set cvar (name "zp_scsr_dmg") (value "13.5")
+L 08/25/2024 - 09:06:54: [pluginmenu.amxx] Cmd: "test<9><STEAM_1:0:1404421313><>" set cvar (name "zp_scsr_recoil") (value "1.0")
+L 08/25/2024 - 09:07:00: [pluginmenu.amxx] Cmd: "test<9><STEAM_1:0:1404421313><>" set cvar (name "zp_scsr_spd") (value "0.5")
+L 08/25/2024 - 09:08:29: -------- Mapchange to zm_fdust2x2 --------
+L 08/25/2024 - 09:08:29: [AMXX] Plugin "random_donate_gun.amxx" failed to load: Plugin uses an unknown function (name "give_weapon_barrel") - check your modules.ini.
+L 08/25/2024 - 09:08:31: [admin.amxx] Login: "test<9><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "192.168.0.16")
+L 08/25/2024 - 09:12:57: [pluginmenu.amxx] Cmd: "test<9><STEAM_1:0:1404421313><>" set cvar (name "zp_scsr_spd") (value "2.9")
+L 08/25/2024 - 09:13:08: [pluginmenu.amxx] Cmd: "test<9><STEAM_1:0:1404421313><>" set cvar (name "zp_scsr_ammo") (value "90")
+L 08/25/2024 - 09:16:12: [admin.amxx] Login: "test<60><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "192.168.0.16")
+L 08/25/2024 - 09:22:46: -------- Mapchange to zm_fdust2x2 --------
+L 08/25/2024 - 09:22:46: [AMXX] Plugin "random_donate_gun.amxx" failed to load: Plugin uses an unknown function (name "give_weapon_barrel") - check your modules.ini.
+L 08/25/2024 - 09:23:01: [admin.amxx] Login: "test<69><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "192.168.0.16")
+L 08/25/2024 - 09:29:34: -------- Mapchange to zm_fdust2x2 --------
+L 08/25/2024 - 09:29:34: [AMXX] Plugin "random_donate_gun.amxx" failed to load: Plugin uses an unknown function (name "give_weapon_barrel") - check your modules.ini.
+L 08/25/2024 - 09:29:36: [admin.amxx] Login: "test<69><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "192.168.0.16")
+L 08/25/2024 - 09:38:36: -------- Mapchange to zm_fdust2x2 --------
+L 08/25/2024 - 09:38:37: [AMXX] Plugin "random_donate_gun.amxx" failed to load: Plugin uses an unknown function (name "give_weapon_barrel") - check your modules.ini.
+L 08/25/2024 - 09:38:39: [admin.amxx] Login: "test<69><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "192.168.0.16")
+L 08/25/2024 - 09:39:33: -------- Mapchange to zm_fdust2x2 --------
+L 08/25/2024 - 09:39:33: [AMXX] Plugin "random_donate_gun.amxx" failed to load: Plugin uses an unknown function (name "give_weapon_barrel") - check your modules.ini.
+L 08/25/2024 - 09:39:35: [admin.amxx] Login: "test<69><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "192.168.0.16")
+L 08/25/2024 - 09:40:51: -------- Mapchange to zm_fdust2x2 --------
+L 08/25/2024 - 09:40:51: [AMXX] Plugin "random_donate_gun.amxx" failed to load: Plugin uses an unknown function (name "give_weapon_barrel") - check your modules.ini.
+L 08/25/2024 - 09:40:53: [admin.amxx] Login: "test<69><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "192.168.0.16")
+L 08/25/2024 - 09:43:11: -------- Mapchange to zm_fdust2x2 --------
+L 08/25/2024 - 09:43:11: [AMXX] Plugin "random_donate_gun.amxx" failed to load: Plugin uses an unknown function (name "give_weapon_barrel") - check your modules.ini.
+L 08/25/2024 - 09:43:14: [admin.amxx] Login: "test<69><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "192.168.0.16")
+L 08/25/2024 - 09:44:08: -------- Mapchange to zm_fdust2x2 --------
+L 08/25/2024 - 09:44:09: [AMXX] Plugin "random_donate_gun.amxx" failed to load: Plugin uses an unknown function (name "give_weapon_barrel") - check your modules.ini.
+L 08/25/2024 - 09:44:10: [admin.amxx] Login: "test<69><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "192.168.0.16")
+L 08/25/2024 - 09:44:43: [admin.amxx] Login: "test<107><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "192.168.0.16")
+L 08/25/2024 - 09:50:59: -------- Mapchange to zm_fdust2x2 --------
+L 08/25/2024 - 09:50:59: [AMXX] Plugin "random_donate_gun.amxx" failed to load: Plugin uses an unknown function (name "give_weapon_barrel") - check your modules.ini.
+L 08/25/2024 - 09:51:07: [admin.amxx] Login: "test<114><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "192.168.0.16")
+L 08/25/2024 - 09:51:15: [admin.amxx] Login: "test<118><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "192.168.0.16")
+L 08/25/2024 - 09:54:13: -------- Mapchange to zm_fdust2x2 --------
+L 08/25/2024 - 09:54:13: [AMXX] Plugin "random_donate_gun.amxx" failed to load: Plugin uses an unknown function (name "give_weapon_barrel") - check your modules.ini.
+L 08/25/2024 - 09:54:14: [admin.amxx] Login: "test<118><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "192.168.0.16")
+L 08/25/2024 - 10:00:18: -------- Mapchange to zm_fdust2x2 --------
+L 08/25/2024 - 10:00:18: [AMXX] Plugin "random_donate_gun.amxx" failed to load: Plugin uses an unknown function (name "give_weapon_barrel") - check your modules.ini.
+L 08/25/2024 - 10:00:20: [admin.amxx] Login: "test<118><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "192.168.0.16")
+L 08/25/2024 - 10:00:51: [admin.amxx] Login: "test<132><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "192.168.0.16")
+L 08/25/2024 - 10:00:54: [admin.amxx] Login: "test<133><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "192.168.0.16")
+L 08/25/2024 - 10:01:42: -------- Mapchange to zm_fdust2x2 --------
+L 08/25/2024 - 10:01:42: [AMXX] Plugin "random_donate_gun.amxx" failed to load: Plugin uses an unknown function (name "give_weapon_barrel") - check your modules.ini.
+L 08/25/2024 - 10:01:44: [admin.amxx] Login: "test<133><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "192.168.0.16")
+L 08/25/2024 - 10:08:40: [admin.amxx] Login: "test<141><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "192.168.0.16")
+L 08/25/2024 - 10:08:42: [admin.amxx] Login: "test<142><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "192.168.0.16")
+L 08/25/2024 - 10:22:53: -------- Mapchange to zm_fdust2x2 --------
+L 08/25/2024 - 10:22:53: [AMXX] Plugin "random_donate_gun.amxx" failed to load: Plugin uses an unknown function (name "give_weapon_barrel") - check your modules.ini.
+L 08/25/2024 - 10:22:55: [admin.amxx] Login: "test<142><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "192.168.0.16")
+L 08/25/2024 - 10:23:15: -------- Mapchange to zm_fdust2x2 --------
+L 08/25/2024 - 10:23:16: [AMXX] Plugin "random_donate_gun.amxx" failed to load: Plugin uses an unknown function (name "give_weapon_barrel") - check your modules.ini.
+L 08/25/2024 - 10:23:17: [admin.amxx] Login: "test<142><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "192.168.0.16")
+L 08/25/2024 - 10:23:38: -------- Mapchange to zm_fdust2x2 --------
+L 08/25/2024 - 10:23:38: [AMXX] Plugin "random_donate_gun.amxx" failed to load: Plugin uses an unknown function (name "give_weapon_barrel") - check your modules.ini.
+L 08/25/2024 - 10:23:39: [admin.amxx] Login: "test<142><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "192.168.0.16")
+L 08/25/2024 - 10:24:39: -------- Mapchange to zm_fdust2x2 --------
+L 08/25/2024 - 10:24:39: [AMXX] Plugin "random_donate_gun.amxx" failed to load: Plugin uses an unknown function (name "give_weapon_barrel") - check your modules.ini.
+L 08/25/2024 - 10:24:41: [admin.amxx] Login: "test<142><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "192.168.0.16")
+L 08/25/2024 - 10:24:58: -------- Mapchange to zm_fdust2x2 --------
+L 08/25/2024 - 10:24:58: [AMXX] Plugin "random_donate_gun.amxx" failed to load: Plugin uses an unknown function (name "give_weapon_barrel") - check your modules.ini.
+L 08/25/2024 - 10:25:00: [admin.amxx] Login: "test<142><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "192.168.0.16")
+L 08/25/2024 - 10:31:03: -------- Mapchange to zm_fdust2x2 --------
+L 08/25/2024 - 10:31:03: [AMXX] Plugin "random_donate_gun.amxx" failed to load: Plugin uses an unknown function (name "give_weapon_barrel") - check your modules.ini.
+L 08/25/2024 - 10:31:05: [admin.amxx] Login: "test<142><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "192.168.0.16")
+L 08/25/2024 - 10:31:17: -------- Mapchange to zm_fdust2x2 --------
+L 08/25/2024 - 10:31:17: [AMXX] Plugin "random_donate_gun.amxx" failed to load: Plugin uses an unknown function (name "give_weapon_barrel") - check your modules.ini.
+L 08/25/2024 - 10:31:18: [admin.amxx] Login: "test<142><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "192.168.0.16")
+L 08/25/2024 - 10:32:27: -------- Mapchange to zm_fdust2x2 --------
+L 08/25/2024 - 10:32:27: [AMXX] Plugin "random_donate_gun.amxx" failed to load: Plugin uses an unknown function (name "give_weapon_barrel") - check your modules.ini.
+L 08/25/2024 - 10:32:29: [admin.amxx] Login: "test<142><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "192.168.0.16")
+L 08/25/2024 - 10:32:41: -------- Mapchange to zm_fdust2x2 --------
+L 08/25/2024 - 10:32:42: [AMXX] Plugin "random_donate_gun.amxx" failed to load: Plugin uses an unknown function (name "give_weapon_barrel") - check your modules.ini.
+L 08/25/2024 - 10:32:44: [admin.amxx] Login: "test<142><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "192.168.0.16")
+L 08/25/2024 - 10:45:37: -------- Mapchange to zm_fdust2x2 --------
+L 08/25/2024 - 10:45:37: [AMXX] Plugin "random_donate_gun.amxx" failed to load: Plugin uses an unknown function (name "give_weapon_barrel") - check your modules.ini.
+L 08/25/2024 - 11:08:37: [mapchooser.amxx] Vote: Voting for the nextmap started
+L 08/25/2024 - 11:08:52: [mapchooser.amxx] Vote: Voting for the nextmap finished. The nextmap will be zm_fun_world_4_final
+L 08/25/2024 - 11:11:48: -------- Mapchange to zm_fun_world_4_final --------
+L 08/25/2024 - 11:11:48: [AMXX] Plugin "random_donate_gun.amxx" failed to load: Plugin uses an unknown function (name "give_weapon_barrel") - check your modules.ini.
+L 08/25/2024 - 11:16:57: -------- Mapchange to zm_fun_world_4_final --------
+L 08/25/2024 - 11:16:57: [AMXX] Plugin "random_donate_gun.amxx" failed to load: Plugin uses an unknown function (name "give_weapon_barrel") - check your modules.ini.
+L 08/25/2024 - 11:17:43: -------- Mapchange to zm_fun_world_4_final --------
+L 08/25/2024 - 11:17:43: [AMXX] Plugin "random_donate_gun.amxx" failed to load: Plugin uses an unknown function (name "give_weapon_barrel") - check your modules.ini.
+L 08/25/2024 - 11:21:09: -------- Mapchange to zm_fun_world_4_final --------
+L 08/25/2024 - 11:21:09: [AMXX] Plugin "random_donate_gun.amxx" failed to load: Plugin uses an unknown function (name "give_weapon_barrel") - check your modules.ini.
+L 08/25/2024 - 11:21:13: [admin.amxx] Login: "test<205><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "192.168.0.16")
+L 08/25/2024 - 11:21:15: [admin.amxx] Login: "test<206><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "192.168.0.16")
+L 08/25/2024 - 11:21:26: -------- Mapchange to zm_fdust2x2 --------
+L 08/25/2024 - 11:21:26: [CSX] Could not load csstats file: cstrike\
+L 08/25/2024 - 11:21:26: [AMXX] Plugin "random_donate_gun.amxx" failed to load: Plugin uses an unknown function (name "give_weapon_barrel") - check your modules.ini.
+L 08/25/2024 - 11:21:29: [admin.amxx] Login: "test<1><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "192.168.0.16")
+L 08/25/2024 - 11:22:23: [pluginmenu.amxx] Cmd: "test<1><STEAM_1:0:1404421313><>" set cvar (name "amx_gamename") (value "test!")
+L 08/25/2024 - 11:22:46: [pluginmenu.amxx] Cmd: "test<1><STEAM_1:0:1404421313><>" set cvar (name "amx_gamename") (value "r")
+L 08/25/2024 - 11:23:03: [pluginmenu.amxx] Cmd: "test<1><STEAM_1:0:1404421313><>" set cvar (name "amx_gamename") (value "fssd")
+L 08/25/2024 - 11:23:31: [pluginmenu.amxx] Cmd: "test<1><STEAM_1:0:1404421313><>" set cvar (name "amx_gamename") (value "5")
+L 08/25/2024 - 11:23:37: [pluginmenu.amxx] Cmd: "test<1><STEAM_1:0:1404421313><>" set cvar (name "amx_gamename") (value "wersf")
+L 08/25/2024 - 11:23:41: [pluginmenu.amxx] Cmd: "test<1><STEAM_1:0:1404421313><>" set cvar (name "amx_gamename") (value "er")
+L 08/25/2024 - 11:34:05: -------- Mapchange to zm_fdust2x2 --------
+L 08/25/2024 - 11:34:05: [AMXX] Plugin "random_donate_gun.amxx" failed to load: Plugin uses an unknown function (name "give_weapon_barrel") - check your modules.ini.
+L 08/25/2024 - 11:34:07: [admin.amxx] Login: "test<1><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "192.168.0.16")
+L 08/25/2024 - 11:35:11: -------- Mapchange to zm_fdust2x2 --------
+L 08/25/2024 - 11:35:12: [AMXX] Plugin "random_donate_gun.amxx" failed to load: Plugin uses an unknown function (name "give_weapon_barrel") - check your modules.ini.
+L 08/25/2024 - 11:35:13: [admin.amxx] Login: "test<1><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "192.168.0.16")
+L 08/25/2024 - 11:35:52: -------- Mapchange to zm_fdust2x2 --------
+L 08/25/2024 - 11:35:52: [AMXX] Plugin "random_donate_gun.amxx" failed to load: Plugin uses an unknown function (name "give_weapon_barrel") - check your modules.ini.
+L 08/25/2024 - 11:35:54: [admin.amxx] Login: "test<1><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "192.168.0.16")
+L 08/25/2024 - 11:37:34: -------- Mapchange to zm_fdust2x2 --------
+L 08/25/2024 - 11:38:15: -------- Mapchange to zm_fdust2x2 --------
+L 08/25/2024 - 11:38:15: [AMXX] Plugin "zombie_plague40.amxx" failed to load: Plugin uses an unknown function (name "give_skin_survivor") - check your modules.ini.
+L 08/25/2024 - 11:38:15: [AMXX] Plugin "zp_level_system.amxx" failed to load: Plugin uses an unknown function (name "screen_shine") - check your modules.ini.
+L 08/25/2024 - 11:38:15: [admin.amxx] Login: "test<1><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "192.168.0.16")
+L 08/25/2024 - 11:38:38: -------- Mapchange to zm_fdust2x2 --------
+L 08/25/2024 - 11:38:38: [AMXX] Plugin "random_donate_gun.amxx" failed to load: Plugin uses an unknown function (name "give_weapon_barrel") - check your modules.ini.
+L 08/25/2024 - 11:38:40: [admin.amxx] Login: "test<1><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "192.168.0.16")
+L 08/25/2024 - 11:39:02: -------- Mapchange to zm_fdust2x2 --------
+L 08/25/2024 - 11:39:02: [AMXX] Plugin "random_donate_gun.amxx" failed to load: Plugin uses an unknown function (name "zp_give_user_y22s3janus7") - check your modules.ini.
+L 08/25/2024 - 11:39:02: [AMXX] Plugin "menu_donate_guns.amxx" failed to load: Plugin uses an unknown function (name "zp_give_user_crossbowex") - check your modules.ini.
+L 08/25/2024 - 11:39:02: [AMXX] Plugin "Krol_vip_menu.amxx" failed to load: Plugin uses an unknown function (name "give_weapon_dbarrel") - check your modules.ini.
+L 08/25/2024 - 11:39:02: [AMXX] Plugin "Krol_admin_menu.amxx" failed to load: Plugin uses an unknown function (name "give_weapon_mg3neon") - check your modules.ini.
+L 08/25/2024 - 11:39:02: [AMXX] Plugin "Krol_supadmin_menu.amxx" failed to load: Plugin uses an unknown function (name "native_spas") - check your modules.ini.
+L 08/25/2024 - 11:39:02: [AMXX] Plugin "Krol_boss_menu.amxx" failed to load: Plugin uses an unknown function (name "zcso_give_arxmoto") - check your modules.ini.
+L 08/25/2024 - 11:39:02: [AMXX] Plugin "Krol_prem_menu.amxx" failed to load: Plugin uses an unknown function (name "dubstep_gun") - check your modules.ini.
+L 08/25/2024 - 11:39:02: [AMXX] Plugin "Krol_lord_menu.amxx" failed to load: Plugin uses an unknown function (name "GetAwpz") - check your modules.ini.
+L 08/25/2024 - 11:39:02: [AMXX] Plugin "Krol_elite_menu.amxx" failed to load: Plugin uses an unknown function (name "give_weapon_m134") - check your modules.ini.
+L 08/25/2024 - 11:39:02: [AMXX] Plugin "Krol_god_menu.amxx" failed to load: Plugin uses an unknown function (name "zp_give_user_y22s3janus7") - check your modules.ini.
+L 08/25/2024 - 11:39:02: [AMXX] Plugin "Krol_creater_menu.amxx" failed to load: Plugin uses an unknown function (name "give_m82_hentai") - check your modules.ini.
+L 08/25/2024 - 11:39:03: [admin.amxx] Login: "test<1><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "192.168.0.16")
+L 08/25/2024 - 11:39:23: -------- Mapchange to zm_fdust2x2 --------
+L 08/25/2024 - 11:39:24: [AMXX] Plugin "random_donate_gun.amxx" failed to load: Plugin uses an unknown function (name "give_weapon_barrel") - check your modules.ini.
+L 08/25/2024 - 11:39:25: [admin.amxx] Login: "test<1><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "192.168.0.16")
+L 08/25/2024 - 11:39:42: -------- Mapchange to zm_fdust2x2 --------
+L 08/25/2024 - 11:39:42: [AMXX] Plugin "zombie_plague40.amxx" failed to load: Plugin uses an unknown function (name "give_skin_survivor") - check your modules.ini.
+L 08/25/2024 - 11:39:50: [admin.amxx] Login: "test<64><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "192.168.0.16")
+L 08/25/2024 - 11:40:12: -------- Mapchange to zm_fdust2x2 --------
+L 08/25/2024 - 11:40:12: [AMXX] Plugin "zombie_plague40.amxx" failed to load: Plugin uses an unknown function (name "give_skin_survivor") - check your modules.ini.
+L 08/25/2024 - 11:40:12: [AMXX] Plugin "zm_class_Invisible.amxx" failed to load: Plugin uses an unknown function (name "give_skin_Invisible") - check your modules.ini.
+L 08/25/2024 - 11:40:13: [admin.amxx] Login: "test<64><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "192.168.0.16")
+L 08/25/2024 - 11:40:56: -------- Mapchange to zm_fdust2x2 --------
+L 08/25/2024 - 11:40:56: [AMXX] Plugin "Krol_funs.amxx" failed to load: Plugin uses an unknown function (name "zp_get_user_survivor") - check your modules.ini.
+L 08/25/2024 - 11:40:56: [AMXX] Plugin "zp_score.amxx" failed to load: Plugin uses an unknown function (name "zp_get_zombie_count") - check your modules.ini.
+L 08/25/2024 - 11:40:56: [AMXX] Plugin "zp_saveAmmo.amxx" failed to load: Plugin uses an unknown function (name "zp_set_user_ammo_packs") - check your modules.ini.
+L 08/25/2024 - 11:40:56: [AMXX] Plugin "zp_ammo_ex.amxx" failed to load: Plugin uses an unknown function (name "zp_set_user_ammo_packs") - check your modules.ini.
+L 08/25/2024 - 11:40:56: [AMXX] Plugin "skill_nemesis.amxx" failed to load: Plugin uses an unknown function (name "zp_get_user_zombie") - check your modules.ini.
+L 08/25/2024 - 11:40:56: [AMXX] Plugin "first_zombie_grenade.amxx" failed to load: Plugin uses an unknown function (name "zp_get_user_first_zombie") - check your modules.ini.
+L 08/25/2024 - 11:40:56: [AMXX] Plugin "priv_jumping.amxx" failed to load: Plugin uses an unknown function (name "zp_get_user_survivor") - check your modules.ini.
+L 08/25/2024 - 11:40:56: [AMXX] Plugin "zm_class_Invisible.amxx" failed to load: Plugin uses an unknown function (name "zp_get_user_nemesis") - check your modules.ini.
+L 08/25/2024 - 11:40:56: [AMXX] Plugin "zm_class_banchee.amxx" failed to load: Plugin uses an unknown function (name "zp_get_user_zombie") - check your modules.ini.
+L 08/25/2024 - 11:40:56: [AMXX] Plugin "zm_class_heavy.amxx" failed to load: Plugin uses an unknown function (name "zp_get_user_nemesis") - check your modules.ini.
+L 08/25/2024 - 11:40:56: [AMXX] Plugin "zm_class_tank.amxx" failed to load: Plugin uses an unknown function (name "zp_get_user_nemesis") - check your modules.ini.
+L 08/25/2024 - 11:40:57: [AMXX] Plugin "zm_class_rev_fire_vip.amxx" failed to load: Plugin uses an unknown function (name "zp_set_user_ammo_packs") - check your modules.ini.
+L 08/25/2024 - 11:40:57: [AMXX] Plugin "zm_class_rev_ice_admin.amxx" failed to load: Plugin uses an unknown function (name "zp_set_user_zombie_class") - check your modules.ini.
+L 08/25/2024 - 11:40:57: [AMXX] Plugin "zm_class_spider_boss.amxx" failed to load: Plugin uses an unknown function (name "zp_get_user_zombie") - check your modules.ini.
+L 08/25/2024 - 11:40:57: [AMXX] Plugin "zm_class_ksenon_prem.amxx" failed to load: Plugin uses an unknown function (name "zp_get_user_zombie_class") - check your modules.ini.
+L 08/25/2024 - 11:40:57: [AMXX] Plugin "zm_class_sting_finger_elite.amxx" failed to load: Plugin uses an unknown function (name "zp_get_user_nemesis") - check your modules.ini.
+L 08/25/2024 - 11:40:57: [AMXX] Plugin "start_menu.amxx" failed to load: Plugin uses an unknown function (name "zp_get_user_survivor") - check your modules.ini.
+L 08/25/2024 - 11:40:57: [AMXX] Plugin "start_avt_xm8.amxx" failed to load: Plugin uses an unknown function (name "zp_get_user_survivor") - check your modules.ini.
+L 08/25/2024 - 11:40:57: [AMXX] Plugin "start_pist.amxx" failed to load: Plugin uses an unknown function (name "zp_get_user_survivor") - check your modules.ini.
+L 08/25/2024 - 11:40:57: [AMXX] Plugin "random_donate_gun.amxx" failed to load: Plugin uses an unknown function (name "give_weapon_barrel") - check your modules.ini.
+L 08/25/2024 - 11:40:57: [AMXX] Plugin "menu_set_knife.amxx" failed to load: Plugin uses an unknown function (name "zp_disinfect_user") - check your modules.ini.
+L 08/25/2024 - 11:40:57: [AMXX] Plugin "K_menu_model.amxx" failed to load: Plugin uses an unknown function (name "zp_level") - check your modules.ini.
+L 08/25/2024 - 11:40:57: [AMXX] Plugin "menu_person_seting.amxx" failed to load: Plugin uses an unknown function (name "zp_get_user_zombie") - check your modules.ini.
+L 08/25/2024 - 11:40:57: [AMXX] Plugin "shop_hp_armor.amxx" failed to load: Plugin uses an unknown function (name "zp_register_extra_item") - check your modules.ini.
+L 08/25/2024 - 11:40:57: [AMXX] Plugin "shop_lasermine_28.amxx" failed to load: Plugin uses an unknown function (name "zp_set_user_ammo_packs") - check your modules.ini.
+L 08/25/2024 - 11:40:57: [AMXX] Plugin "shop_no_recoil.amxx" failed to load: Plugin uses an unknown function (name "zp_register_extra_item") - check your modules.ini.
+L 08/25/2024 - 11:40:57: [AMXX] Plugin "shop_ultimateammo.amxx" failed to load: Plugin uses an unknown function (name "zp_register_extra_item") - check your modules.ini.
+L 08/25/2024 - 11:40:57: [AMXX] Plugin "shop_SpecialDuckFootGun.amxx" failed to load: Plugin uses an unknown function (name "zp_get_user_zombie") - check your modules.ini.
+L 08/25/2024 - 11:40:57: [AMXX] Plugin "shop_aquablaster.amxx" failed to load: Plugin uses an unknown function (name "zp_get_user_survivor") - check your modules.ini.
+L 08/25/2024 - 11:40:57: [AMXX] Plugin "shop_M16A4.amxx" failed to load: Plugin uses an unknown function (name "zp_register_extra_item") - check your modules.ini.
+L 08/25/2024 - 11:40:57: [AMXX] Plugin "shop_vsk94.amxx" failed to load: Plugin uses an unknown function (name "zp_register_extra_item") - check your modules.ini.
+L 08/25/2024 - 11:40:57: [AMXX] Plugin "shop_ak47monster.amxx" failed to load: Plugin uses an unknown function (name "zp_get_user_survivor") - check your modules.ini.
+L 08/25/2024 - 11:40:57: [AMXX] Plugin "shop_awpmonster.amxx" failed to load: Plugin uses an unknown function (name "zp_get_user_survivor") - check your modules.ini.
+L 08/25/2024 - 11:40:57: [AMXX] Plugin "shop_Cannon.amxx" failed to load: Plugin uses an unknown function (name "zp_set_user_ammo_packs") - check your modules.ini.
+L 08/25/2024 - 11:40:57: [AMXX] Plugin "shop_star_tail.amxx" failed to load: Plugin uses an unknown function (name "zp_get_user_zombie") - check your modules.ini.
+L 08/25/2024 - 11:40:57: [AMXX] Plugin "Krol_vip_menu.amxx" failed to load: Plugin uses an unknown function (name "zp_set_user_ammo_packs") - check your modules.ini.
+L 08/25/2024 - 11:40:57: [AMXX] Plugin "Krol_admin_menu.amxx" failed to load: Plugin uses an unknown function (name "zp_set_user_ammo_packs") - check your modules.ini.
+L 08/25/2024 - 11:40:57: [AMXX] Plugin "Krol_supadmin_menu.amxx" failed to load: Plugin uses an unknown function (name "zp_set_user_ammo_packs") - check your modules.ini.
+L 08/25/2024 - 11:40:57: [AMXX] Plugin "Krol_boss_menu.amxx" failed to load: Plugin uses an unknown function (name "zp_set_user_ammo_packs") - check your modules.ini.
+L 08/25/2024 - 11:40:57: [AMXX] Plugin "Krol_god_menu.amxx" failed to load: Plugin uses an unknown function (name "zp_show_menu_admin") - check your modules.ini.
+L 08/25/2024 - 11:40:57: [AMXX] Plugin "Krol_creater_menu.amxx" failed to load: Plugin uses an unknown function (name "zp_get_user_survivor") - check your modules.ini.
+L 08/25/2024 - 11:40:57: [AMXX] Plugin "kit_mag_gun.amxx" failed to load: Plugin uses an unknown function (name "zp_get_user_zombie") - check your modules.ini.
+L 08/25/2024 - 11:40:57: [AMXX] Plugin "invisible_pistol.amxx" failed to load: Plugin uses an unknown function (name "zp_get_user_zombie") - check your modules.ini.
+L 08/25/2024 - 11:40:57: [AMXX] Plugin "kit_hawk_eye_gun.amxx" failed to load: Plugin uses an unknown function (name "zp_get_user_zombie") - check your modules.ini.
+L 08/25/2024 - 11:40:57: [AMXX] Plugin "freez_apw.amxx" failed to load: Plugin uses an unknown function (name "zp_get_user_nemesis") - check your modules.ini.
+L 08/25/2024 - 11:40:57: [AMXX] Plugin "zp_crossbowex.amxx" failed to load: Plugin uses an unknown function (name "zp_get_user_zombie") - check your modules.ini.
+L 08/25/2024 - 11:40:57: [AMXX] Plugin "vip_pistol.amxx" failed to load: Plugin uses an unknown function (name "zp_get_user_survivor") - check your modules.ini.
+L 08/25/2024 - 11:40:57: [AMXX] Plugin "vip_shotgun.amxx" failed to load: Plugin uses an unknown function (name "zp_get_user_survivor") - check your modules.ini.
+L 08/25/2024 - 11:40:57: [AMXX] Plugin "admin_jetpack.amxx" failed to load: Plugin uses an unknown function (name "zp_get_user_zombie") - check your modules.ini.
+L 08/25/2024 - 11:40:57: [AMXX] Plugin "admin_awp.amxx" failed to load: Plugin uses an unknown function (name "zp_get_user_survivor") - check your modules.ini.
+L 08/25/2024 - 11:40:57: [AMXX] Plugin "admin_mg3neon.amxx" failed to load: Plugin uses an unknown function (name "zp_get_user_survivor") - check your modules.ini.
+L 08/25/2024 - 11:40:57: [AMXX] Plugin "supAdmin_ak47c.amxx" failed to load: Plugin uses an unknown function (name "zp_get_user_survivor") - check your modules.ini.
+L 08/25/2024 - 11:40:57: [AMXX] Plugin "supAdmin_m4a1c.amxx" failed to load: Plugin uses an unknown function (name "zp_get_user_survivor") - check your modules.ini.
+L 08/25/2024 - 11:40:57: [AMXX] Plugin "supAdmin_spas12ex.amxx" failed to load: Plugin uses an unknown function (name "zp_get_user_survivor") - check your modules.ini.
+L 08/25/2024 - 11:40:57: [AMXX] Plugin "boss_thanatos7_new.amxx" failed to load: Plugin uses an unknown function (name "zp_get_user_zombie") - check your modules.ini.
+L 08/25/2024 - 11:40:57: [AMXX] Plugin "boss_crossbow.amxx" failed to load: Plugin uses an unknown function (name "zp_get_user_survivor") - check your modules.ini.
+L 08/25/2024 - 11:40:57: [AMXX] Plugin "boss_arxmoto.amxx" failed to load: Plugin uses an unknown function (name "zp_get_user_survivor") - check your modules.ini.
+L 08/25/2024 - 11:40:57: [AMXX] Plugin "prem_buffdeagle.amxx" failed to load: Plugin uses an unknown function (name "zp_get_user_zombie") - check your modules.ini.
+L 08/25/2024 - 11:40:57: [AMXX] Plugin "prem_dubstep_gun.amxx" failed to load: Plugin uses an unknown function (name "zp_get_user_survivor") - check your modules.ini.
+L 08/25/2024 - 11:40:57: [AMXX] Plugin "prem_antidote.amxx" failed to load: Plugin uses an unknown function (name "zp_set_user_ammo_packs") - check your modules.ini.
+L 08/25/2024 - 11:40:57: [AMXX] Plugin "lord_pylymet.amxx" failed to load: Plugin uses an unknown function (name "zp_get_user_zombie") - check your modules.ini.
+L 08/25/2024 - 11:40:57: [AMXX] Plugin "lord_awp.amxx" failed to load: Plugin uses an unknown function (name "zp_get_user_zombie") - check your modules.ini.
+L 08/25/2024 - 11:40:57: [AMXX] Plugin "lord_shield_force.amxx" failed to load: Plugin uses an unknown function (name "zp_get_user_nemesis") - check your modules.ini.
+L 08/25/2024 - 11:40:57: [AMXX] Plugin "elite_piano.amxx" failed to load: Plugin uses an unknown function (name "zp_get_user_zombie") - check your modules.ini.
+L 08/25/2024 - 11:40:57: [AMXX] Plugin "elite_shotgun.amxx" failed to load: Plugin uses an unknown function (name "zp_get_user_zombie") - check your modules.ini.
+L 08/25/2024 - 11:40:57: [AMXX] Plugin "elite_pylemet.amxx" failed to load: Plugin uses an unknown function (name "zp_get_user_survivor") - check your modules.ini.
+L 08/25/2024 - 11:40:57: [AMXX] Plugin "god_star_chaser.amxx" failed to load: Plugin uses an unknown function (name "zp_get_user_survivor") - check your modules.ini.
+L 08/25/2024 - 11:40:57: [AMXX] Plugin "god_pistol.amxx" failed to load: Plugin uses an unknown function (name "zp_get_user_zombie") - check your modules.ini.
+L 08/25/2024 - 11:40:57: [AMXX] Plugin "god_pylemet.amxx" failed to load: Plugin uses an unknown function (name "zp_get_user_zombie") - check your modules.ini.
+L 08/25/2024 - 11:40:57: [AMXX] Plugin "creator_hentai.amxx" failed to load: Plugin uses an unknown function (name "zp_get_user_survivor") - check your modules.ini.
+L 08/25/2024 - 11:40:57: [AMXX] Plugin "chat.amxx" failed to load: Plugin uses an unknown function (name "zp_level") - check your modules.ini.
+L 08/25/2024 - 11:40:57: [admin.amxx] Login: "test<64><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "192.168.0.16")
+L 08/25/2024 - 11:42:05: -------- Mapchange to zm_fdust2x2 --------
+L 08/25/2024 - 11:42:05: [AMXX] Plugin "random_donate_gun.amxx" failed to load: Plugin uses an unknown function (name "give_weapon_barrel") - check your modules.ini.
+L 08/25/2024 - 11:42:07: [admin.amxx] Login: "test<64><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "192.168.0.16")
+L 08/25/2024 - 11:43:36: -------- Mapchange to zm_fdust2x2 --------
+L 08/25/2024 - 11:43:36: [AMXX] Plugin "random_donate_gun.amxx" failed to load: Plugin uses an unknown function (name "give_weapon_barrel") - check your modules.ini.
+L 08/25/2024 - 11:43:38: [admin.amxx] Login: "test<64><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "192.168.0.16")
+L 08/25/2024 - 12:18:52: [mapchooser.amxx] Vote: Voting for the nextmap started
+L 08/25/2024 - 12:19:07: [mapchooser.amxx] Vote: Voting for the nextmap finished. The nextmap will be zm_tower_new
+L 08/25/2024 - 12:21:48: -------- Mapchange to zm_tower_new --------
+L 08/25/2024 - 12:21:48: [AMXX] Plugin "random_donate_gun.amxx" failed to load: Plugin uses an unknown function (name "give_weapon_barrel") - check your modules.ini.
+L 08/25/2024 - 12:44:50: [mapchooser.amxx] Vote: Voting for the nextmap started
+L 08/25/2024 - 12:45:05: [mapchooser.amxx] Vote: Voting for the nextmap finished. The nextmap will be zm_tc_death_zg
+L 08/25/2024 - 12:47:52: -------- Mapchange to zm_tc_death_zg --------
+L 08/25/2024 - 12:47:52: [AMXX] Plugin "random_donate_gun.amxx" failed to load: Plugin uses an unknown function (name "give_weapon_barrel") - check your modules.ini.
+L 08/25/2024 - 12:58:45: [admin.amxx] Login: "test<91><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "192.168.0.16")
+L 08/25/2024 - 13:02:17: -------- Mapchange to zm_tc_death_zg --------
+L 08/25/2024 - 13:02:17: [AMXX] Plugin "random_donate_gun.amxx" failed to load: Plugin uses an unknown function (name "give_weapon_barrel") - check your modules.ini.
+L 08/25/2024 - 13:02:19: [admin.amxx] Login: "test<91><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "192.168.0.16")
+L 08/25/2024 - 13:02:38: [pluginmenu.amxx] Cmd: "test<91><STEAM_1:0:1404421313><>" set cvar (name "zp_scsr_dmg") (value "5.0")
+L 08/25/2024 - 13:02:43: -------- Mapchange to zm_tc_death_zg --------
+L 08/25/2024 - 13:02:43: [AMXX] Plugin "random_donate_gun.amxx" failed to load: Plugin uses an unknown function (name "give_weapon_barrel") - check your modules.ini.
+L 08/25/2024 - 13:02:44: [admin.amxx] Login: "test<91><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "192.168.0.16")
+L 08/25/2024 - 13:22:48: -------- Mapchange to zm_tc_death_zg --------
+L 08/25/2024 - 13:22:48: [AMXX] Plugin "random_donate_gun.amxx" failed to load: Plugin uses an unknown function (name "give_weapon_barrel") - check your modules.ini.
+L 08/25/2024 - 13:22:52: [admin.amxx] Login: "test<92><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "192.168.0.16")
+L 08/25/2024 - 13:24:57: -------- Mapchange to zm_tc_death_zg --------
+L 08/25/2024 - 13:24:57: [AMXX] Plugin "random_donate_gun.amxx" failed to load: Plugin uses an unknown function (name "give_weapon_barrel") - check your modules.ini.
+L 08/25/2024 - 13:24:59: [admin.amxx] Login: "test<92><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "192.168.0.16")
+L 08/25/2024 - 13:25:53: [pluginmenu.amxx] Cmd: "test<92><STEAM_1:0:1404421313><>" set cvar (name "zp_scsr_recoil") (value "1.0")
+L 08/25/2024 - 13:26:03: [pluginmenu.amxx] Cmd: "test<92><STEAM_1:0:1404421313><>" set cvar (name "zp_scsr_spd") (value "0.110")
+L 08/25/2024 - 13:26:06: [pluginmenu.amxx] Cmd: "test<92><STEAM_1:0:1404421313><>" set cvar (name "zp_scsr_dmg") (value "1.0")
+L 08/25/2024 - 13:28:33: -------- Mapchange to zm_tc_death_zg --------
+L 08/25/2024 - 13:28:34: [AMXX] Plugin "random_donate_gun.amxx" failed to load: Plugin uses an unknown function (name "give_weapon_barrel") - check your modules.ini.
+L 08/25/2024 - 13:28:36: [admin.amxx] Login: "test<92><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "192.168.0.16")
+L 08/25/2024 - 13:30:14: [pluginmenu.amxx] Cmd: "test<92><STEAM_1:0:1404421313><>" set cvar (name "zp_scsr_spd") (value "1")
+L 08/25/2024 - 13:31:30: -------- Mapchange to zm_tc_death_zg --------
+L 08/25/2024 - 13:31:30: [AMXX] Plugin "random_donate_gun.amxx" failed to load: Plugin uses an unknown function (name "give_weapon_barrel") - check your modules.ini.
+L 08/25/2024 - 13:31:32: [admin.amxx] Login: "test<92><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "192.168.0.16")
+L 08/25/2024 - 13:32:18: [pluginmenu.amxx] Cmd: "test<92><STEAM_1:0:1404421313><>" set cvar (name "zp_scsr_spd") (value "2.5")
+L 08/25/2024 - 13:32:52: [pluginmenu.amxx] Cmd: "test<92><STEAM_1:0:1404421313><>" set cvar (name "zp_vsk94_spd") (value "1")
+L 08/25/2024 - 13:33:04: [pluginmenu.amxx] Cmd: "test<92><STEAM_1:0:1404421313><>" set cvar (name "zp_vsk94_spd") (value "1.0")
+L 08/25/2024 - 13:36:09: -------- Mapchange to zm_tc_death_zg --------
+L 08/25/2024 - 13:36:09: [AMXX] Plugin "random_donate_gun.amxx" failed to load: Plugin uses an unknown function (name "give_weapon_barrel") - check your modules.ini.
+L 08/25/2024 - 13:36:11: [admin.amxx] Login: "test<92><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "192.168.0.16")
+L 08/25/2024 - 13:37:34: [pluginmenu.amxx] Cmd: "test<92><STEAM_1:0:1404421313><>" set cvar (name "zp_vsk94_spd") (value "5.0")
+L 08/25/2024 - 13:37:44: [pluginmenu.amxx] Cmd: "test<92><STEAM_1:0:1404421313><>" set cvar (name "zp_vsk94_ammo") (value "100")
+L 08/25/2024 - 13:37:59: [pluginmenu.amxx] Cmd: "test<92><STEAM_1:0:1404421313><>" set cvar (name "zp_vsk94_ammo") (value "9")
+L 08/25/2024 - 13:47:52: -------- Mapchange to zm_tc_death_zg --------
+L 08/25/2024 - 13:47:52: [AMXX] Plugin "random_donate_gun.amxx" failed to load: Plugin uses an unknown function (name "give_weapon_barrel") - check your modules.ini.
+L 08/25/2024 - 13:47:54: [admin.amxx] Login: "test<92><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "192.168.0.16")
+L 08/25/2024 - 13:49:24: -------- Mapchange to zm_tc_death_zg --------
+L 08/25/2024 - 13:49:24: [AMXX] Plugin "random_donate_gun.amxx" failed to load: Plugin uses an unknown function (name "give_weapon_barrel") - check your modules.ini.
+L 08/25/2024 - 13:49:25: [admin.amxx] Login: "test<92><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "192.168.0.16")
+L 08/25/2024 - 13:55:51: -------- Mapchange to zm_tc_death_zg --------
+L 08/25/2024 - 13:55:51: [AMXX] Plugin "random_donate_gun.amxx" failed to load: Plugin uses an unknown function (name "give_weapon_barrel") - check your modules.ini.
+L 08/25/2024 - 13:55:53: [admin.amxx] Login: "test<92><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "192.168.0.16")
+L 08/25/2024 - 13:56:29: [pluginmenu.amxx] Cmd: "test<92><STEAM_1:0:1404421313><>" set cvar (name "zp_vvsk94_spd") (value "1.0")
+L 08/25/2024 - 13:56:34: [pluginmenu.amxx] Cmd: "test<92><STEAM_1:0:1404421313><>" set cvar (name "zp_vvsk94_spd") (value "0.5")
+L 08/25/2024 - 13:56:39: [pluginmenu.amxx] Cmd: "test<92><STEAM_1:0:1404421313><>" set cvar (name "zp_vvsk94_spd") (value "5")
+L 08/25/2024 - 13:56:47: [pluginmenu.amxx] Cmd: "test<92><STEAM_1:0:1404421313><>" set cvar (name "zp_vvsk94_spd") (value "10.0")
+L 08/25/2024 - 13:56:56: [pluginmenu.amxx] Cmd: "test<92><STEAM_1:0:1404421313><>" set cvar (name "zp_vvsk94_clip") (value "50")
+L 08/25/2024 - 13:57:06: [pluginmenu.amxx] Cmd: "test<92><STEAM_1:0:1404421313><>" set cvar (name "zp_vvsk94_recoil") (value "0.1")
+L 08/25/2024 - 13:57:20: [pluginmenu.amxx] Cmd: "test<92><STEAM_1:0:1404421313><>" set cvar (name "zp_vvsk94_dmg") (value "1.0")
+L 08/25/2024 - 13:57:45: [pluginmenu.amxx] Cmd: "test<92><STEAM_1:0:1404421313><>" set cvar (name "zp_vvsk94_spd") (value "1.0")
+L 08/25/2024 - 14:00:56: -------- Mapchange to zm_tc_death_zg --------
+L 08/25/2024 - 14:00:56: [AMXX] Plugin "random_donate_gun.amxx" failed to load: Plugin uses an unknown function (name "give_weapon_barrel") - check your modules.ini.
+L 08/25/2024 - 14:00:58: [admin.amxx] Login: "test<92><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "192.168.0.16")
+L 08/25/2024 - 14:01:35: [pluginmenu.amxx] Cmd: "test<92><STEAM_1:0:1404421313><>" set cvar (name "zp_vvsk94_recoil") (value "1.0")
+L 08/25/2024 - 14:01:43: [pluginmenu.amxx] Cmd: "test<92><STEAM_1:0:1404421313><>" set cvar (name "zp_vvsk94_clip") (value "20")
+L 08/25/2024 - 14:02:16: [pluginmenu.amxx] Cmd: "test<92><STEAM_1:0:1404421313><>" set cvar (name "zp_vvsk94_spd") (value "10.0")
+L 08/25/2024 - 14:02:40: -------- Mapchange to zm_tc_death_zg --------
+L 08/25/2024 - 14:02:40: [AMXX] Plugin "random_donate_gun.amxx" failed to load: Plugin uses an unknown function (name "give_weapon_barrel") - check your modules.ini.
+L 08/25/2024 - 14:02:42: [admin.amxx] Login: "test<92><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "192.168.0.16")
+L 08/25/2024 - 14:03:20: -------- Mapchange to zm_tc_death_zg --------
+L 08/25/2024 - 14:03:20: [AMXX] Plugin "random_donate_gun.amxx" failed to load: Plugin uses an unknown function (name "give_weapon_barrel") - check your modules.ini.
+L 08/25/2024 - 14:03:22: [admin.amxx] Login: "test<92><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "192.168.0.16")
+L 08/25/2024 - 14:03:49: [pluginmenu.amxx] Cmd: "test<92><STEAM_1:0:1404421313><>" set cvar (name "zp_vvsk94_clip") (value "90")
+L 08/25/2024 - 14:04:01: [pluginmenu.amxx] Cmd: "test<92><STEAM_1:0:1404421313><>" set cvar (name "zp_vvsk94_spd") (value "1")
+L 08/25/2024 - 14:04:06: [pluginmenu.amxx] Cmd: "test<92><STEAM_1:0:1404421313><>" set cvar (name "zp_vvsk94_spd") (value "5")
+L 08/25/2024 - 14:04:09: [pluginmenu.amxx] Cmd: "test<92><STEAM_1:0:1404421313><>" set cvar (name "zp_vvsk94_ammo") (value "0.1")
+L 08/25/2024 - 14:04:16: [pluginmenu.amxx] Cmd: "test<92><STEAM_1:0:1404421313><>" set cvar (name "zp_vvsk94_ammo") (value "90")
+L 08/25/2024 - 14:04:20: [pluginmenu.amxx] Cmd: "test<92><STEAM_1:0:1404421313><>" set cvar (name "zp_vvsk94_spd") (value "1.0")
+L 08/25/2024 - 14:05:34: [pluginmenu.amxx] Cmd: "test<92><STEAM_1:0:1404421313><>" set cvar (name "zp_scsr_spd") (value "0.1")
+L 08/25/2024 - 14:06:26: [pluginmenu.amxx] Cmd: "test<92><STEAM_1:0:1404421313><>" set cvar (name "zp_scsr_spd") (value "5")
+L 08/25/2024 - 14:06:36: [pluginmenu.amxx] Cmd: "test<92><STEAM_1:0:1404421313><>" set cvar (name "zp_scsr_spd") (value "1")
+L 08/25/2024 - 14:06:44: [pluginmenu.amxx] Cmd: "test<92><STEAM_1:0:1404421313><>" set cvar (name "zp_scsr_spd") (value "10")
+L 08/25/2024 - 14:06:49: [pluginmenu.amxx] Cmd: "test<92><STEAM_1:0:1404421313><>" set cvar (name "zp_scsr_spd") (value "0.01")
+L 08/25/2024 - 14:06:59: [pluginmenu.amxx] Cmd: "test<92><STEAM_1:0:1404421313><>" set cvar (name "zp_scsr_spd") (value "0.00001")
+L 08/25/2024 - 14:19:36: [admin.amxx] Login: "test<93><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "192.168.0.16")
+L 08/25/2024 - 14:22:16: -------- Mapchange to zm_tc_death_zg --------
+L 08/25/2024 - 14:22:16: [AMXX] Plugin "random_donate_gun.amxx" failed to load: Plugin uses an unknown function (name "give_weapon_barrel") - check your modules.ini.
+L 08/25/2024 - 14:22:18: [admin.amxx] Login: "test<93><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "192.168.0.16")
+L 08/25/2024 - 14:37:57: [admin.amxx] Login: "test<94><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "192.168.0.16")
+L 08/25/2024 - 14:41:22: -------- Mapchange to zm_tc_death_zg --------
+L 08/25/2024 - 14:41:22: [AMXX] Plugin "random_donate_gun.amxx" failed to load: Plugin uses an unknown function (name "give_weapon_barrel") - check your modules.ini.
+L 08/25/2024 - 14:41:24: [admin.amxx] Login: "test<94><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "192.168.0.16")
+L 08/25/2024 - 14:41:48: -------- Mapchange to zm_tc_death_zg --------
+L 08/25/2024 - 14:41:48: [AMXX] Plugin "random_donate_gun.amxx" failed to load: Plugin uses an unknown function (name "give_weapon_barrel") - check your modules.ini.
+L 08/25/2024 - 14:41:50: [admin.amxx] Login: "test<94><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "192.168.0.16")
+L 08/25/2024 - 14:42:21: -------- Mapchange to zm_tc_death_zg --------
+L 08/25/2024 - 14:42:21: [AMXX] Plugin "random_donate_gun.amxx" failed to load: Plugin uses an unknown function (name "give_weapon_barrel") - check your modules.ini.
+L 08/25/2024 - 14:42:23: [admin.amxx] Login: "test<94><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "192.168.0.16")
+L 08/25/2024 - 14:48:06: [pluginmenu.amxx] Cmd: "test<94><STEAM_1:0:1404421313><>" set cvar (name "zp_xm8_spd") (value "5")
+L 08/25/2024 - 14:50:48: -------- Mapchange to zm_tc_death_zg --------
+L 08/25/2024 - 14:50:50: [admin.amxx] Login: "test<94><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "192.168.0.16")
+L 08/25/2024 - 14:54:42: -------- Mapchange to zm_tc_death_zg --------
+L 08/25/2024 - 14:54:44: [admin.amxx] Login: "test<94><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "192.168.0.16")
+L 08/25/2024 - 14:58:10: -------- Mapchange to zm_tc_death_zg --------
+L 08/25/2024 - 14:58:12: [admin.amxx] Login: "test<94><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "192.168.0.16")
+L 08/25/2024 - 15:09:04: -------- Mapchange to zm_tc_death_zg --------
+L 08/25/2024 - 15:09:06: [admin.amxx] Login: "test<94><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "192.168.0.16")
+L 08/25/2024 - 15:09:41: [pluginmenu.amxx] Cmd: "test<94><STEAM_1:0:1404421313><>" set cvar (name "zp_vsk9_ammo") (value "90")
+L 08/25/2024 - 15:09:46: [pluginmenu.amxx] Cmd: "test<94><STEAM_1:0:1404421313><>" set cvar (name "zp_vsk9_spd") (value "0.110")
+L 08/25/2024 - 15:10:29: [pluginmenu.amxx] Cmd: "test<94><STEAM_1:0:1404421313><>" set cvar (name "zp_vsk9_dmg") (value "1.0")
+L 08/25/2024 - 15:10:34: [pluginmenu.amxx] Cmd: "test<94><STEAM_1:0:1404421313><>" set cvar (name "zp_vsk9_recoil") (value "2.0")
+L 08/25/2024 - 15:10:37: [pluginmenu.amxx] Cmd: "test<94><STEAM_1:0:1404421313><>" set cvar (name "zp_vsk9_clip") (value "3.0")
+L 08/25/2024 - 15:10:42: [pluginmenu.amxx] Cmd: "test<94><STEAM_1:0:1404421313><>" set cvar (name "zp_vsk9_spd") (value "4.0")
+L 08/25/2024 - 15:10:44: [pluginmenu.amxx] Cmd: "test<94><STEAM_1:0:1404421313><>" set cvar (name "zp_vsk9_ammo") (value "5.0")
+L 08/25/2024 - 15:11:04: [pluginmenu.amxx] Cmd: "test<94><STEAM_1:0:1404421313><>" set cvar (name "zp_vsk9_dmg") (value "1")
+L 08/25/2024 - 15:11:06: [pluginmenu.amxx] Cmd: "test<94><STEAM_1:0:1404421313><>" set cvar (name "zp_vsk9_recoil") (value "2")
+L 08/25/2024 - 15:11:07: [pluginmenu.amxx] Cmd: "test<94><STEAM_1:0:1404421313><>" set cvar (name "zp_vsk9_clip") (value "3")
+L 08/25/2024 - 15:11:08: [pluginmenu.amxx] Cmd: "test<94><STEAM_1:0:1404421313><>" set cvar (name "zp_vsk9_spd") (value "4")
+L 08/25/2024 - 15:11:08: [pluginmenu.amxx] Cmd: "test<94><STEAM_1:0:1404421313><>" set cvar (name "zp_vsk9_ammo") (value "5")
+L 08/25/2024 - 15:13:10: -------- Mapchange to zm_tc_death_zg --------
+L 08/25/2024 - 15:13:12: [admin.amxx] Login: "test<94><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "192.168.0.16")
+L 08/25/2024 - 15:14:02: -------- Mapchange to zm_fdust2x2 --------
+L 08/25/2024 - 15:14:02: [CSX] Could not load csstats file: cstrike\
+L 08/25/2024 - 15:14:08: [admin.amxx] Login: "test<1><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "192.168.0.16")
+L 08/25/2024 - 15:14:57: [pluginmenu.amxx] Cmd: "test<1><STEAM_1:0:1404421313><>" set cvar (name "zp_vsk9_spd") (value "0.01")
+L 08/25/2024 - 15:15:14: [pluginmenu.amxx] Cmd: "test<1><STEAM_1:0:1404421313><>" set cvar (name "zp_vsk9_clip") (value "30")
+L 08/25/2024 - 15:15:30: [pluginmenu.amxx] Cmd: "test<1><STEAM_1:0:1404421313><>" set cvar (name "zp_vsk9_ammo") (value "30")
+L 08/25/2024 - 15:16:54: [pluginmenu.amxx] Cmd: "test<1><STEAM_1:0:1404421313><>" set cvar (name "zp_vsk9_dmg") (value "30.0")
+L 08/25/2024 - 15:19:15: [pluginmenu.amxx] Cmd: "test<1><STEAM_1:0:1404421313><>" set cvar (name "zp_vsk9_dmg") (value "1000.0")
+L 08/25/2024 - 15:37:19: [mapchooser.amxx] Vote: Voting for the nextmap started
+L 08/25/2024 - 15:37:34: [mapchooser.amxx] Vote: Voting for the nextmap finished. The nextmap will be zm_tower_new
+L 08/25/2024 - 15:41:40: -------- Mapchange to zm_tower_new --------
+L 08/25/2024 - 16:04:42: [mapchooser.amxx] Vote: Voting for the nextmap started
+L 08/25/2024 - 16:04:57: [mapchooser.amxx] Vote: Voting for the nextmap finished. The nextmap will be zm_fdust2x2
+L 08/25/2024 - 16:07:44: -------- Mapchange to zm_fdust2x2 --------
+L 08/25/2024 - 16:08:23: -------- Mapchange to zm_fdust2x2 --------
+L 08/25/2024 - 16:08:29: [admin.amxx] Login: "test<17><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "192.168.0.16")
+L 08/25/2024 - 16:09:42: [pluginmenu.amxx] Cmd: "test<17><STEAM_1:0:1404421313><>" set cvar (name "zp_xm8_spd") (value "0.001")
+L 08/25/2024 - 16:10:04: [pluginmenu.amxx] Cmd: "test<17><STEAM_1:0:1404421313><>" set cvar (name "zp_xm8_dmg") (value "0.001")
+L 08/25/2024 - 16:11:20: [pluginmenu.amxx] Cmd: "test<17><STEAM_1:0:1404421313><>" set cvar (name "zp_knockback") (value "1")
+L 08/25/2024 - 16:11:43: [pluginmenu.amxx] Cmd: "test<17><STEAM_1:0:1404421313><>" set cvar (name "zp_knockback_damage") (value "0")
+L 08/25/2024 - 16:11:49: [pluginmenu.amxx] Cmd: "test<17><STEAM_1:0:1404421313><>" set cvar (name "zp_knockback_power") (value "0")
+L 08/25/2024 - 16:12:50: [pluginmenu.amxx] Cmd: "test<17><STEAM_1:0:1404421313><>" set cvar (name "zp_knockback_power") (value "1")
+L 08/25/2024 - 16:13:58: [pluginmenu.amxx] Cmd: "test<17><STEAM_1:0:1404421313><>" set cvar (name "zp_zombie_painfree") (value "0")
+L 08/25/2024 - 16:14:40: [pluginmenu.amxx] Cmd: "test<17><STEAM_1:0:1404421313><>" set cvar (name "zp_knockback") (value "0")
+L 08/25/2024 - 16:14:55: [pluginmenu.amxx] Cmd: "test<17><STEAM_1:0:1404421313><>" set cvar (name "zp_knockback_power") (value "0")
+L 08/25/2024 - 16:15:44: [pluginmenu.amxx] Cmd: "test<17><STEAM_1:0:1404421313><>" set cvar (name "zp_knockback") (value "1")
+L 08/25/2024 - 16:18:35: [pluginmenu.amxx] Cmd: "test<17><STEAM_1:0:1404421313><>" set cvar (name "zp_zombie_painfree") (value "1")

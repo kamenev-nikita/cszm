@@ -1,0 +1,34 @@
+L 11/27/2024 - 12:53:13: Start of error session.
+L 11/27/2024 - 12:53:13: Info (map "zm_3rooms") (file "addons/amxmodx/logs/error_20241127.log")
+L 11/27/2024 - 12:53:13: [AMXX] Displaying debug trace (plugin "K_lib_guns.amxx", version "1.0")
+L 11/27/2024 - 12:53:13: [AMXX] Run time error 4: index out of bounds 
+L 11/27/2024 - 12:53:13: [AMXX]    [0] K_lib_guns.sma::native_set_gun_model (line 107)
+L 11/27/2024 - 12:53:13: Unhandled dynamic native error
+L 11/27/2024 - 12:53:13: [AMXX] Run time error 10 (plugin "gold_m4a1.amxx") (native "set_gun_model") - debug not enabled!
+L 11/27/2024 - 12:53:13: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 11/27/2024 - 12:53:13: [AMXX] Displaying debug trace (plugin "K_lib_guns.amxx", version "1.0")
+L 11/27/2024 - 12:53:13: [AMXX] Run time error 4: index out of bounds 
+L 11/27/2024 - 12:53:13: [AMXX]    [0] K_lib_guns.sma::native_set_gun_model (line 107)
+L 11/27/2024 - 12:53:13: Unhandled dynamic native error
+L 11/27/2024 - 12:53:13: [AMXX] Run time error 10 (plugin "gold_m4a1.amxx") (native "set_gun_model") - debug not enabled!
+L 11/27/2024 - 12:53:13: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 11/27/2024 - 12:53:13: Unhandled dynamic native error
+L 11/27/2024 - 12:53:13: [AMXX] Run time error 10 (plugin "K_M_vip.amxx") (native "give_gold_m4a1") - debug not enabled!
+L 11/27/2024 - 12:53:13: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 11/27/2024 - 12:55:39: Start of error session.
+L 11/27/2024 - 12:55:39: Info (map "zm_ngamers_lights_f") (file "addons/amxmodx/logs/error_20241127.log")
+L 11/27/2024 - 12:55:39: [AMXX] Displaying debug trace (plugin "K_lib_guns.amxx", version "1.0")
+L 11/27/2024 - 12:55:39: [AMXX] Run time error 4: index out of bounds 
+L 11/27/2024 - 12:55:39: [AMXX]    [0] K_lib_guns.sma::native_set_gun_model (line 107)
+L 11/27/2024 - 12:55:39: Unhandled dynamic native error
+L 11/27/2024 - 12:55:39: [AMXX] Run time error 10 (plugin "gold_m4a1.amxx") (native "set_gun_model") - debug not enabled!
+L 11/27/2024 - 12:55:39: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 11/27/2024 - 12:55:39: [AMXX] Displaying debug trace (plugin "K_lib_guns.amxx", version "1.0")
+L 11/27/2024 - 12:55:39: [AMXX] Run time error 4: index out of bounds 
+L 11/27/2024 - 12:55:39: [AMXX]    [0] K_lib_guns.sma::native_set_gun_model (line 107)
+L 11/27/2024 - 12:55:39: Unhandled dynamic native error
+L 11/27/2024 - 12:55:39: [AMXX] Run time error 10 (plugin "gold_m4a1.amxx") (native "set_gun_model") - debug not enabled!
+L 11/27/2024 - 12:55:39: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 11/27/2024 - 12:55:39: Unhandled dynamic native error
+L 11/27/2024 - 12:55:39: [AMXX] Run time error 10 (plugin "K_M_vip.amxx") (native "give_gold_m4a1") - debug not enabled!
+L 11/27/2024 - 12:55:39: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).

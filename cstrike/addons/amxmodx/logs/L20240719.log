@@ -1,0 +1,715 @@
+L 07/19/2024 - 09:35:13: -------- Mapchange to zm_deko2 --------
+L 07/19/2024 - 09:35:13: [CSX] Could not load csstats file: cstrike\
+L 07/19/2024 - 09:35:14: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\zp_ammo_ex.txt
+L 07/19/2024 - 09:35:14: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\grab_plus.txt
+L 07/19/2024 - 09:35:14: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\LaserMines.txt
+L 07/19/2024 - 09:35:23: [admin.amxx] Login: "unnamed<7><STEAM_1:0:1404421313><>" became an admin (account "unnamed") (access "abcdefghijklmnopqrstuv") (address "172.20.10.2")
+L 07/19/2024 - 09:43:43: -------- Mapchange to zm_deko2 --------
+L 07/19/2024 - 09:43:44: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\zp_ammo_ex.txt
+L 07/19/2024 - 09:43:44: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\grab_plus.txt
+L 07/19/2024 - 09:43:44: New section, unterminated block (file "cstrike\addons\amxmodx\data\lang\nademodes.txt" key "NADE_HTML :" lang "da")
+L 07/19/2024 - 09:43:44: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\LaserMines.txt
+L 07/19/2024 - 09:43:44: [admin.amxx] Login: "unnamed<7><STEAM_1:0:1404421313><>" became an admin (account "unnamed") (access "abcdefghijklmnopqrstuv") (address "172.20.10.2")
+L 07/19/2024 - 10:01:43: [mapchooser.amxx] Vote: Voting for the nextmap started
+L 07/19/2024 - 10:01:58: [mapchooser.amxx] Vote: Voting for the nextmap finished. The nextmap will be cs_havana
+L 07/19/2024 - 10:04:01: -------- Mapchange to cs_havana --------
+L 07/19/2024 - 10:39:34: -------- Mapchange to zm_deko2 --------
+L 07/19/2024 - 10:39:34: [CSX] Could not load csstats file: cstrike\
+L 07/19/2024 - 10:39:35: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\zp_ammo_ex.txt
+L 07/19/2024 - 10:39:35: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\grab_plus.txt
+L 07/19/2024 - 10:39:35: New section, unterminated block (file "cstrike\addons\amxmodx\data\lang\nademodes.txt" key "NADE_HTML :" lang "da")
+L 07/19/2024 - 10:39:35: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\LaserMines.txt
+L 07/19/2024 - 10:39:38: [admin.amxx] Login: "unnamed<1><STEAM_1:0:1404421313><>" became an admin (account "unnamed") (access "abcdefghijklmnopqrstuv") (address "172.20.10.2")
+L 07/19/2024 - 10:43:15: -------- Mapchange to zm_deko2 --------
+L 07/19/2024 - 10:43:16: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\zp_ammo_ex.txt
+L 07/19/2024 - 10:43:16: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\grab_plus.txt
+L 07/19/2024 - 10:43:16: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\LaserMines.txt
+L 07/19/2024 - 10:43:16: [admin.amxx] Login: "unnamed<1><STEAM_1:0:1404421313><>" became an admin (account "unnamed") (access "abcdefghijklmnopqrstuv") (address "172.20.10.2")
+L 07/19/2024 - 10:47:36: -------- Mapchange to zm_deko2 --------
+L 07/19/2024 - 10:47:37: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\zp_ammo_ex.txt
+L 07/19/2024 - 10:47:37: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\grab_plus.txt
+L 07/19/2024 - 10:47:37: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\LaserMines.txt
+L 07/19/2024 - 10:47:37: [admin.amxx] Login: "unnamed<1><STEAM_1:0:1404421313><>" became an admin (account "unnamed") (access "abcdefghijklmnopqrstuv") (address "172.20.10.2")
+L 07/19/2024 - 10:48:26: -------- Mapchange to zm_deko2 --------
+L 07/19/2024 - 10:48:26: [CSX] Could not load csstats file: cstrike\
+L 07/19/2024 - 10:48:27: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\zp_ammo_ex.txt
+L 07/19/2024 - 10:48:27: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\grab_plus.txt
+L 07/19/2024 - 10:48:27: New section, unterminated block (file "cstrike\addons\amxmodx\data\lang\nademodes.txt" key "NADE_HTML :" lang "da")
+L 07/19/2024 - 10:48:27: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\LaserMines.txt
+L 07/19/2024 - 10:48:45: [admin.amxx] Login: "unnamed<8><STEAM_1:0:1404421313><>" became an admin (account "unnamed") (access "abcdefghijklmnopqrstuv") (address "172.20.10.2")
+L 07/19/2024 - 10:50:35: -------- Mapchange to zm_deko2 --------
+L 07/19/2024 - 10:50:35: [CSX] Could not load csstats file: cstrike\
+L 07/19/2024 - 10:50:36: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\zp_ammo_ex.txt
+L 07/19/2024 - 10:50:36: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\grab_plus.txt
+L 07/19/2024 - 10:50:36: New section, unterminated block (file "cstrike\addons\amxmodx\data\lang\nademodes.txt" key "NADE_HTML :" lang "da")
+L 07/19/2024 - 10:50:36: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\LaserMines.txt
+L 07/19/2024 - 10:50:42: [admin.amxx] Login: "unnamed<3><STEAM_1:0:1404421313><>" became an admin (account "unnamed") (access "abcdefghijklmnopqrstuv") (address "172.20.10.2")
+L 07/19/2024 - 10:59:16: -------- Mapchange to zm_deko2 --------
+L 07/19/2024 - 10:59:16: [CSX] Could not load csstats file: cstrike\
+L 07/19/2024 - 10:59:17: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\zp_ammo_ex.txt
+L 07/19/2024 - 10:59:17: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\grab_plus.txt
+L 07/19/2024 - 10:59:17: New section, unterminated block (file "cstrike\addons\amxmodx\data\lang\nademodes.txt" key "NADE_HTML :" lang "da")
+L 07/19/2024 - 10:59:17: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\LaserMines.txt
+L 07/19/2024 - 10:59:19: [admin.amxx] Login: "unnamed<1><STEAM_1:0:1404421313><>" became an admin (account "unnamed") (access "abcdefghijklmnopqrstuv") (address "172.20.10.2")
+L 07/19/2024 - 11:02:29: -------- Mapchange to zm_deko2 --------
+L 07/19/2024 - 11:02:29: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\zp_ammo_ex.txt
+L 07/19/2024 - 11:02:29: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\grab_plus.txt
+L 07/19/2024 - 11:02:29: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\LaserMines.txt
+L 07/19/2024 - 11:02:30: [admin.amxx] Login: "unnamed<1><STEAM_1:0:1404421313><>" kicked due to invalid password (account "unnamed") (address "172.20.10.2")
+L 07/19/2024 - 11:02:40: [admin.amxx] Login: "unnamed<16><STEAM_1:0:1404421313><>" became an admin (account "unnamed") (access "abcdefghijklmnopqrstuv") (address "172.20.10.2")
+L 07/19/2024 - 11:07:33: -------- Mapchange to zm_deko2 --------
+L 07/19/2024 - 11:07:33: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\zp_ammo_ex.txt
+L 07/19/2024 - 11:07:33: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\grab_plus.txt
+L 07/19/2024 - 11:07:33: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\LaserMines.txt
+L 07/19/2024 - 11:07:34: [admin.amxx] Login: "unnamed<16><STEAM_1:0:1404421313><>" kicked due to invalid password (account "unnamed") (address "172.20.10.2")
+L 07/19/2024 - 11:07:40: [admin.amxx] Login: "unnamed<23><STEAM_1:0:1404421313><>" became an admin (account "unnamed") (access "abcdefghijklmnopqrstuv") (address "172.20.10.2")
+L 07/19/2024 - 11:25:47: [mapchooser.amxx] Vote: Voting for the nextmap started
+L 07/19/2024 - 11:26:03: [mapchooser.amxx] Vote: Voting for the nextmap finished. The nextmap will be de_chateau
+L 07/19/2024 - 11:27:56: -------- Mapchange to de_chateau --------
+L 07/19/2024 - 11:38:38: -------- Mapchange to zm_deko2 --------
+L 07/19/2024 - 11:38:38: [CSX] Could not load csstats file: cstrike\
+L 07/19/2024 - 11:39:11: -------- Mapchange to zm_deko2 --------
+L 07/19/2024 - 11:39:11: [CSX] Could not load csstats file: cstrike\
+L 07/19/2024 - 11:39:12: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\zp_ammo_ex.txt
+L 07/19/2024 - 11:39:12: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\grab_plus.txt
+L 07/19/2024 - 11:39:12: New section, unterminated block (file "cstrike\addons\amxmodx\data\lang\nademodes.txt" key "NADE_HTML :" lang "da")
+L 07/19/2024 - 11:39:12: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\LaserMines.txt
+L 07/19/2024 - 11:40:03: -------- Mapchange to zm_deko2 --------
+L 07/19/2024 - 11:40:31: -------- Mapchange to zm_deko2 --------
+L 07/19/2024 - 11:40:31: [CSX] Could not load csstats file: cstrike\
+L 07/19/2024 - 11:40:32: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\zp_ammo_ex.txt
+L 07/19/2024 - 11:40:32: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\grab_plus.txt
+L 07/19/2024 - 11:40:32: New section, unterminated block (file "cstrike\addons\amxmodx\data\lang\nademodes.txt" key "NADE_HTML :" lang "da")
+L 07/19/2024 - 11:40:32: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\LaserMines.txt
+L 07/19/2024 - 11:40:38: [admin.amxx] Login: "unnamed<4><STEAM_1:0:1404421313><>" became an admin (account "unnamed") (access "abcdefghijklmnopqrstuv") (address "172.20.10.2")
+L 07/19/2024 - 11:42:57: -------- Mapchange to zm_deko2 --------
+L 07/19/2024 - 11:42:58: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\zp_ammo_ex.txt
+L 07/19/2024 - 11:42:58: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\grab_plus.txt
+L 07/19/2024 - 11:42:58: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\LaserMines.txt
+L 07/19/2024 - 11:42:58: [admin.amxx] Login: "unnamed<4><STEAM_1:0:1404421313><>" kicked due to invalid password (account "unnamed") (address "172.20.10.2")
+L 07/19/2024 - 11:43:05: [admin.amxx] Login: "unnamed<16><STEAM_1:0:1404421313><>" became an admin (account "unnamed") (access "abcdefghijklmnopqrstuv") (address "172.20.10.2")
+L 07/19/2024 - 11:55:36: -------- Mapchange to zm_deko2 --------
+L 07/19/2024 - 11:55:36: [AMXX] Plugin "model_test.amxx" failed to load: Module/Library "cs_player_models_api" required for plugin.  Check modules.ini.
+L 07/19/2024 - 11:55:37: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\zp_ammo_ex.txt
+L 07/19/2024 - 11:55:37: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\grab_plus.txt
+L 07/19/2024 - 11:55:37: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\LaserMines.txt
+L 07/19/2024 - 11:55:37: [admin.amxx] Login: "unnamed<16><STEAM_1:0:1404421313><>" kicked due to invalid password (account "unnamed") (address "172.20.10.2")
+L 07/19/2024 - 11:55:51: [admin.amxx] Login: "unnamed<24><STEAM_1:0:1404421313><>" became an admin (account "unnamed") (access "abcdefghijklmnopqrstuv") (address "172.20.10.2")
+L 07/19/2024 - 11:57:20: -------- Mapchange to zm_deko2 --------
+L 07/19/2024 - 11:57:20: [AMXX] Plugin "model_test.amxx" failed to load: Module/Library "cs_player_models_api" required for plugin.  Check modules.ini.
+L 07/19/2024 - 11:57:21: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\zp_ammo_ex.txt
+L 07/19/2024 - 11:57:21: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\grab_plus.txt
+L 07/19/2024 - 11:57:21: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\LaserMines.txt
+L 07/19/2024 - 11:57:21: [admin.amxx] Login: "unnamed<24><STEAM_1:0:1404421313><>" kicked due to invalid password (account "unnamed") (address "172.20.10.2")
+L 07/19/2024 - 11:57:25: [admin.amxx] Login: "unnamed<25><STEAM_1:0:1404421313><>" became an admin (account "unnamed") (access "abcdefghijklmnopqrstuv") (address "172.20.10.2")
+L 07/19/2024 - 12:00:36: -------- Mapchange to zm_deko2 --------
+L 07/19/2024 - 12:00:37: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\zp_ammo_ex.txt
+L 07/19/2024 - 12:00:37: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\grab_plus.txt
+L 07/19/2024 - 12:00:37: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\LaserMines.txt
+L 07/19/2024 - 12:00:38: [admin.amxx] Login: "unnamed<25><STEAM_1:0:1404421313><>" kicked due to invalid password (account "unnamed") (address "172.20.10.2")
+L 07/19/2024 - 12:00:46: [admin.amxx] Login: "unnamed<39><STEAM_1:0:1404421313><>" became an admin (account "unnamed") (access "abcdefghijklmnopqrstuv") (address "172.20.10.2")
+L 07/19/2024 - 12:09:04: -------- Mapchange to zm_deko2 --------
+L 07/19/2024 - 12:09:04: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\zp_ammo_ex.txt
+L 07/19/2024 - 12:09:04: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\grab_plus.txt
+L 07/19/2024 - 12:09:04: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\LaserMines.txt
+L 07/19/2024 - 12:09:05: [admin.amxx] Login: "unnamed<39><STEAM_1:0:1404421313><>" kicked due to invalid password (account "unnamed") (address "172.20.10.2")
+L 07/19/2024 - 12:09:11: [admin.amxx] Login: "unnamed<45><STEAM_1:0:1404421313><>" became an admin (account "unnamed") (access "abcdefghijklmnopqrstuv") (address "172.20.10.2")
+L 07/19/2024 - 12:09:56: -------- Mapchange to zm_deko2 --------
+L 07/19/2024 - 12:09:57: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\zp_ammo_ex.txt
+L 07/19/2024 - 12:09:57: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\grab_plus.txt
+L 07/19/2024 - 12:09:57: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\LaserMines.txt
+L 07/19/2024 - 12:09:58: [admin.amxx] Login: "unnamed<45><STEAM_1:0:1404421313><>" kicked due to invalid password (account "unnamed") (address "172.20.10.2")
+L 07/19/2024 - 12:09:59: [admin.amxx] Login: "unnamed<48><STEAM_1:0:1404421313><>" became an admin (account "unnamed") (access "abcdefghijklmnopqrstuv") (address "172.20.10.2")
+L 07/19/2024 - 12:10:23: -------- Mapchange to zm_deko2 --------
+L 07/19/2024 - 12:10:23: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\zp_ammo_ex.txt
+L 07/19/2024 - 12:10:23: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\grab_plus.txt
+L 07/19/2024 - 12:10:23: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\LaserMines.txt
+L 07/19/2024 - 12:10:24: [admin.amxx] Login: "unnamed<48><STEAM_1:0:1404421313><>" kicked due to invalid password (account "unnamed") (address "172.20.10.2")
+L 07/19/2024 - 12:10:25: [admin.amxx] Login: "unnamed<55><STEAM_1:0:1404421313><>" became an admin (account "unnamed") (access "abcdefghijklmnopqrstuv") (address "172.20.10.2")
+L 07/19/2024 - 12:12:43: -------- Mapchange to zm_deko2 --------
+L 07/19/2024 - 12:12:43: [AMXX] Plugin "model_menu.amxx" failed to load: Plugin uses an unknown function (name "give_model") - check your modules.ini.
+L 07/19/2024 - 12:12:44: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\zp_ammo_ex.txt
+L 07/19/2024 - 12:12:44: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\grab_plus.txt
+L 07/19/2024 - 12:12:44: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\LaserMines.txt
+L 07/19/2024 - 12:12:44: [admin.amxx] Login: "unnamed<55><STEAM_1:0:1404421313><>" kicked due to invalid password (account "unnamed") (address "172.20.10.2")
+L 07/19/2024 - 12:16:42: [admin.amxx] Login: "unnamed<69><STEAM_1:0:1404421313><>" became an admin (account "unnamed") (access "abcdefghijklmnopqrstuv") (address "172.20.10.2")
+L 07/19/2024 - 12:16:45: [admin.amxx] Login: "unnamed<71><STEAM_1:0:1404421313><>" kicked due to invalid password (account "unnamed") (address "172.20.10.2")
+L 07/19/2024 - 12:16:46: [admin.amxx] Login: "unnamed<72><STEAM_1:0:1404421313><>" kicked due to invalid password (account "unnamed") (address "172.20.10.2")
+L 07/19/2024 - 12:16:50: [admin.amxx] Login: "unnamed<73><STEAM_1:0:1404421313><>" kicked due to invalid password (account "unnamed") (address "172.20.10.2")
+L 07/19/2024 - 12:16:53: -------- Mapchange to zm_deko2 --------
+L 07/19/2024 - 12:16:53: [AMXX] Plugin "model_menu.amxx" failed to load: Plugin uses an unknown function (name "give_model") - check your modules.ini.
+L 07/19/2024 - 12:16:54: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\zp_ammo_ex.txt
+L 07/19/2024 - 12:16:54: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\grab_plus.txt
+L 07/19/2024 - 12:16:54: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\LaserMines.txt
+L 07/19/2024 - 12:16:56: [admin.amxx] Login: "unnamed<74><STEAM_1:0:1404421313><>" became an admin (account "unnamed") (access "abcdefghijklmnopqrstuv") (address "172.20.10.2")
+L 07/19/2024 - 12:19:38: -------- Mapchange to zm_deko2 --------
+L 07/19/2024 - 12:19:38: [AMXX] Plugin "model_menu.amxx" failed to load: Plugin uses an unknown function (name "give_model") - check your modules.ini.
+L 07/19/2024 - 12:19:39: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\zp_ammo_ex.txt
+L 07/19/2024 - 12:19:39: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\grab_plus.txt
+L 07/19/2024 - 12:19:39: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\LaserMines.txt
+L 07/19/2024 - 12:19:40: [admin.amxx] Login: "unnamed<74><STEAM_1:0:1404421313><>" kicked due to invalid password (account "unnamed") (address "172.20.10.2")
+L 07/19/2024 - 12:19:41: [admin.amxx] Login: "unnamed<81><STEAM_1:0:1404421313><>" became an admin (account "unnamed") (access "abcdefghijklmnopqrstuv") (address "172.20.10.2")
+L 07/19/2024 - 12:25:16: -------- Mapchange to zm_deko2 --------
+L 07/19/2024 - 12:25:16: [AMXX] Plugin "model_menu.amxx" failed to load: Plugin uses an unknown function (name "give_model") - check your modules.ini.
+L 07/19/2024 - 12:25:59: -------- Mapchange to zm_deko2 --------
+L 07/19/2024 - 12:25:59: [CSX] Could not load csstats file: cstrike\
+L 07/19/2024 - 12:25:59: [AMXX] Plugin "model_menu.amxx" failed to load: Plugin uses an unknown function (name "give_model") - check your modules.ini.
+L 07/19/2024 - 12:26:00: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\zp_ammo_ex.txt
+L 07/19/2024 - 12:26:00: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\grab_plus.txt
+L 07/19/2024 - 12:26:00: New section, unterminated block (file "cstrike\addons\amxmodx\data\lang\nademodes.txt" key "NADE_HTML :" lang "da")
+L 07/19/2024 - 12:26:00: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\LaserMines.txt
+L 07/19/2024 - 12:26:03: [admin.amxx] Login: "unnamed<1><STEAM_1:0:1404421313><>" became an admin (account "unnamed") (access "abcdefghijklmnopqrstuv") (address "172.20.10.2")
+L 07/19/2024 - 12:27:13: -------- Mapchange to zm_deko2 --------
+L 07/19/2024 - 12:27:13: [AMXX] Plugin "zp_level_system.amxx" failed to load: Plugin uses an unknown function (name "zp_get_user_last_human") - check your modules.ini.
+L 07/19/2024 - 12:27:13: [AMXX] Plugin "zp_score.amxx" failed to load: Plugin uses an unknown function (name "zp_get_zombie_count") - check your modules.ini.
+L 07/19/2024 - 12:27:13: [AMXX] Plugin "zp_saveAmmo.amxx" failed to load: Plugin uses an unknown function (name "zp_set_user_ammo_packs") - check your modules.ini.
+L 07/19/2024 - 12:27:13: [AMXX] Plugin "priv_jumping.amxx" failed to load: Plugin uses an unknown function (name "zp_get_user_survivor") - check your modules.ini.
+L 07/19/2024 - 12:27:13: [AMXX] Plugin "zp_ammo_ex.amxx" failed to load: Plugin uses an unknown function (name "zp_set_user_ammo_packs") - check your modules.ini.
+L 07/19/2024 - 12:27:13: [AMXX] Plugin "zm_class_Invisible.amxx" failed to load: Plugin uses an unknown function (name "zp_get_user_survivor") - check your modules.ini.
+L 07/19/2024 - 12:27:13: [AMXX] Plugin "zm_class_banchee.amxx" failed to load: Plugin uses an unknown function (name "zp_get_user_zombie") - check your modules.ini.
+L 07/19/2024 - 12:27:13: [AMXX] Plugin "zm_class_heavy.amxx" failed to load: Plugin uses an unknown function (name "zp_get_user_nemesis") - check your modules.ini.
+L 07/19/2024 - 12:27:13: [AMXX] Plugin "zm_class_tank.amxx" failed to load: Plugin uses an unknown function (name "zp_get_user_nemesis") - check your modules.ini.
+L 07/19/2024 - 12:27:13: [AMXX] Plugin "zm_class_rev_fire_vip.amxx" failed to load: Plugin uses an unknown function (name "zp_set_user_ammo_packs") - check your modules.ini.
+L 07/19/2024 - 12:27:13: [AMXX] Plugin "zm_class_rev_ice_admin.amxx" failed to load: Plugin uses an unknown function (name "zp_set_user_zombie_class") - check your modules.ini.
+L 07/19/2024 - 12:27:13: [AMXX] Plugin "zm_class_spider_boss.amxx" failed to load: Plugin uses an unknown function (name "zp_get_user_zombie_class") - check your modules.ini.
+L 07/19/2024 - 12:27:13: [AMXX] Plugin "zm_class_ksenon_prem.amxx" failed to load: Plugin uses an unknown function (name "zp_get_user_zombie_class") - check your modules.ini.
+L 07/19/2024 - 12:27:13: [AMXX] Plugin "zm_class_sting_finger_elite.amxx" failed to load: Plugin uses an unknown function (name "zp_get_user_nemesis") - check your modules.ini.
+L 07/19/2024 - 12:27:13: [AMXX] Plugin "start_menu.amxx" failed to load: Plugin uses an unknown function (name "zp_get_user_survivor") - check your modules.ini.
+L 07/19/2024 - 12:27:13: [AMXX] Plugin "start_avt_xm8.amxx" failed to load: Plugin uses an unknown function (name "zp_get_user_survivor") - check your modules.ini.
+L 07/19/2024 - 12:27:13: [AMXX] Plugin "start_pist.amxx" failed to load: Plugin uses an unknown function (name "zp_get_user_survivor") - check your modules.ini.
+L 07/19/2024 - 12:27:13: [AMXX] Plugin "model_menu.amxx" failed to load: Plugin uses an unknown function (name "give_model") - check your modules.ini.
+L 07/19/2024 - 12:27:13: [AMXX] Plugin "knife_menu.amxx" failed to load: Plugin uses an unknown function (name "zp_disinfect_user") - check your modules.ini.
+L 07/19/2024 - 12:27:13: [AMXX] Plugin "shop_hp_armor.amxx" failed to load: Plugin uses an unknown function (name "zp_register_extra_item") - check your modules.ini.
+L 07/19/2024 - 12:27:13: [AMXX] Plugin "shop_lasermine_28.amxx" failed to load: Plugin uses an unknown function (name "zp_set_user_ammo_packs") - check your modules.ini.
+L 07/19/2024 - 12:27:13: [AMXX] Plugin "shop_no_recoil.amxx" failed to load: Plugin uses an unknown function (name "zp_register_extra_item") - check your modules.ini.
+L 07/19/2024 - 12:27:13: [AMXX] Plugin "shop_ultimateammo.amxx" failed to load: Plugin uses an unknown function (name "zp_register_extra_item") - check your modules.ini.
+L 07/19/2024 - 12:27:13: [AMXX] Plugin "shop_aquablaster.amxx" failed to load: Plugin uses an unknown function (name "zp_get_user_survivor") - check your modules.ini.
+L 07/19/2024 - 12:27:13: [AMXX] Plugin "shop_M16A4.amxx" failed to load: Plugin uses an unknown function (name "zp_register_extra_item") - check your modules.ini.
+L 07/19/2024 - 12:27:13: [AMXX] Plugin "shop_vsk94.amxx" failed to load: Plugin uses an unknown function (name "zp_register_extra_item") - check your modules.ini.
+L 07/19/2024 - 12:27:13: [AMXX] Plugin "shop_Cannon.amxx" failed to load: Plugin uses an unknown function (name "zp_get_user_zombie") - check your modules.ini.
+L 07/19/2024 - 12:27:13: [AMXX] Plugin "Krol_vip_menu.amxx" failed to load: Plugin uses an unknown function (name "zp_get_user_survivor") - check your modules.ini.
+L 07/19/2024 - 12:27:13: [AMXX] Plugin "Krol_admin_menu.amxx" failed to load: Plugin uses an unknown function (name "zp_get_user_survivor") - check your modules.ini.
+L 07/19/2024 - 12:27:13: [AMXX] Plugin "Krol_supadmin_menu.amxx" failed to load: Plugin uses an unknown function (name "zp_get_user_survivor") - check your modules.ini.
+L 07/19/2024 - 12:27:13: [AMXX] Plugin "Krol_boss_menu.amxx" failed to load: Plugin uses an unknown function (name "zp_get_user_survivor") - check your modules.ini.
+L 07/19/2024 - 12:27:13: [AMXX] Plugin "Krol_prem_menu.amxx" failed to load: Plugin uses an unknown function (name "zp_get_user_survivor") - check your modules.ini.
+L 07/19/2024 - 12:27:13: [AMXX] Plugin "Krol_lord_menu.amxx" failed to load: Plugin uses an unknown function (name "zp_get_user_survivor") - check your modules.ini.
+L 07/19/2024 - 12:27:13: [AMXX] Plugin "Krol_elite_menu.amxx" failed to load: Plugin uses an unknown function (name "zp_get_user_survivor") - check your modules.ini.
+L 07/19/2024 - 12:27:13: [AMXX] Plugin "Krol_god_menu.amxx" failed to load: Plugin uses an unknown function (name "zp_get_user_survivor") - check your modules.ini.
+L 07/19/2024 - 12:27:13: [AMXX] Plugin "Krol_creater_menu.amxx" failed to load: Plugin uses an unknown function (name "zp_get_user_survivor") - check your modules.ini.
+L 07/19/2024 - 12:27:13: [AMXX] Plugin "vip_pistol.amxx" failed to load: Plugin uses an unknown function (name "zp_get_user_survivor") - check your modules.ini.
+L 07/19/2024 - 12:27:13: [AMXX] Plugin "vip_avtomat.amxx" failed to load: Plugin uses an unknown function (name "zp_get_user_survivor") - check your modules.ini.
+L 07/19/2024 - 12:27:13: [AMXX] Plugin "vip_shotgun.amxx" failed to load: Plugin uses an unknown function (name "zp_get_user_survivor") - check your modules.ini.
+L 07/19/2024 - 12:27:13: [AMXX] Plugin "admin_jetpack.amxx" failed to load: Plugin uses an unknown function (name "zp_get_user_zombie") - check your modules.ini.
+L 07/19/2024 - 12:27:13: [AMXX] Plugin "admin_awp.amxx" failed to load: Plugin uses an unknown function (name "zp_get_user_survivor") - check your modules.ini.
+L 07/19/2024 - 12:27:13: [AMXX] Plugin "admin_mg3neon.amxx" failed to load: Plugin uses an unknown function (name "zp_get_user_survivor") - check your modules.ini.
+L 07/19/2024 - 12:27:13: [AMXX] Plugin "supAdmin_ak47c.amxx" failed to load: Plugin uses an unknown function (name "zp_get_user_survivor") - check your modules.ini.
+L 07/19/2024 - 12:27:13: [AMXX] Plugin "supAdmin_m4a1c.amxx" failed to load: Plugin uses an unknown function (name "zp_get_user_survivor") - check your modules.ini.
+L 07/19/2024 - 12:27:13: [AMXX] Plugin "supAdmin_spas12ex.amxx" failed to load: Plugin uses an unknown function (name "zp_get_user_survivor") - check your modules.ini.
+L 07/19/2024 - 12:27:13: [AMXX] Plugin "boss_thanatos7_new.amxx" failed to load: Plugin uses an unknown function (name "zp_get_user_zombie") - check your modules.ini.
+L 07/19/2024 - 12:27:13: [AMXX] Plugin "boss_pandacrossbow.amxx" failed to load: Plugin uses an unknown function (name "zp_get_user_survivor") - check your modules.ini.
+L 07/19/2024 - 12:27:13: [AMXX] Plugin "boss_arxmoto.amxx" failed to load: Plugin uses an unknown function (name "zp_get_user_survivor") - check your modules.ini.
+L 07/19/2024 - 12:27:13: [AMXX] Plugin "prem_buffdeagle.amxx" failed to load: Plugin uses an unknown function (name "zp_get_user_zombie") - check your modules.ini.
+L 07/19/2024 - 12:27:13: [AMXX] Plugin "prem_dubstep_gun.amxx" failed to load: Plugin uses an unknown function (name "zp_get_user_survivor") - check your modules.ini.
+L 07/19/2024 - 12:27:13: [AMXX] Plugin "prem_antidote.amxx" failed to load: Plugin uses an unknown function (name "zp_set_user_ammo_packs") - check your modules.ini.
+L 07/19/2024 - 12:27:13: [AMXX] Plugin "lord_pylymet.amxx" failed to load: Plugin uses an unknown function (name "zp_get_user_zombie") - check your modules.ini.
+L 07/19/2024 - 12:27:13: [AMXX] Plugin "lord_awp.amxx" failed to load: Plugin uses an unknown function (name "zp_get_user_survivor") - check your modules.ini.
+L 07/19/2024 - 12:27:13: [AMXX] Plugin "lord_shield_force.amxx" failed to load: Plugin uses an unknown function (name "zp_get_user_nemesis") - check your modules.ini.
+L 07/19/2024 - 12:27:13: [AMXX] Plugin "elite_avt.amxx" failed to load: Plugin uses an unknown function (name "zp_get_user_survivor") - check your modules.ini.
+L 07/19/2024 - 12:27:13: [AMXX] Plugin "elite_shotgun.amxx" failed to load: Plugin uses an unknown function (name "zp_get_user_zombie") - check your modules.ini.
+L 07/19/2024 - 12:27:13: [AMXX] Plugin "elite_pylemet.amxx" failed to load: Plugin uses an unknown function (name "zp_get_user_survivor") - check your modules.ini.
+L 07/19/2024 - 12:27:13: [AMXX] Plugin "god_star_chaser.amxx" failed to load: Plugin uses an unknown function (name "zp_get_user_survivor") - check your modules.ini.
+L 07/19/2024 - 12:27:13: [AMXX] Plugin "god_pistol.amxx" failed to load: Plugin uses an unknown function (name "zp_get_user_zombie") - check your modules.ini.
+L 07/19/2024 - 12:27:13: [AMXX] Plugin "god_pylemet.amxx" failed to load: Plugin uses an unknown function (name "zp_get_user_zombie") - check your modules.ini.
+L 07/19/2024 - 12:27:13: [AMXX] Plugin "creator_hentai.amxx" failed to load: Plugin uses an unknown function (name "zp_get_user_survivor") - check your modules.ini.
+L 07/19/2024 - 12:27:13: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\grab_plus.txt
+L 07/19/2024 - 12:27:13: [admin.amxx] Login: "unnamed<1><STEAM_1:0:1404421313><>" kicked due to invalid password (account "unnamed") (address "172.20.10.2")
+L 07/19/2024 - 12:27:16: [admin.amxx] Login: "unnamed<9><STEAM_1:0:1404421313><>" kicked due to invalid password (account "unnamed") (address "172.20.10.2")
+L 07/19/2024 - 12:27:18: [admin.amxx] Login: "unnamed<11><STEAM_1:0:1404421313><>" kicked due to invalid password (account "unnamed") (address "172.20.10.2")
+L 07/19/2024 - 12:27:21: -------- Mapchange to zm_deko2 --------
+L 07/19/2024 - 12:27:21: [AMXX] Plugin "zp_level_system.amxx" failed to load: Plugin uses an unknown function (name "zp_get_user_last_human") - check your modules.ini.
+L 07/19/2024 - 12:27:21: [AMXX] Plugin "zp_score.amxx" failed to load: Plugin uses an unknown function (name "zp_get_zombie_count") - check your modules.ini.
+L 07/19/2024 - 12:27:21: [AMXX] Plugin "zp_saveAmmo.amxx" failed to load: Plugin uses an unknown function (name "zp_set_user_ammo_packs") - check your modules.ini.
+L 07/19/2024 - 12:27:21: [AMXX] Plugin "priv_jumping.amxx" failed to load: Plugin uses an unknown function (name "zp_get_user_survivor") - check your modules.ini.
+L 07/19/2024 - 12:27:21: [AMXX] Plugin "zp_ammo_ex.amxx" failed to load: Plugin uses an unknown function (name "zp_set_user_ammo_packs") - check your modules.ini.
+L 07/19/2024 - 12:27:21: [AMXX] Plugin "zm_class_Invisible.amxx" failed to load: Plugin uses an unknown function (name "zp_get_user_survivor") - check your modules.ini.
+L 07/19/2024 - 12:27:21: [AMXX] Plugin "zm_class_banchee.amxx" failed to load: Plugin uses an unknown function (name "zp_get_user_zombie") - check your modules.ini.
+L 07/19/2024 - 12:27:21: [AMXX] Plugin "zm_class_heavy.amxx" failed to load: Plugin uses an unknown function (name "zp_get_user_nemesis") - check your modules.ini.
+L 07/19/2024 - 12:27:21: [AMXX] Plugin "zm_class_tank.amxx" failed to load: Plugin uses an unknown function (name "zp_get_user_nemesis") - check your modules.ini.
+L 07/19/2024 - 12:27:21: [AMXX] Plugin "zm_class_rev_fire_vip.amxx" failed to load: Plugin uses an unknown function (name "zp_set_user_ammo_packs") - check your modules.ini.
+L 07/19/2024 - 12:27:21: [AMXX] Plugin "zm_class_rev_ice_admin.amxx" failed to load: Plugin uses an unknown function (name "zp_set_user_zombie_class") - check your modules.ini.
+L 07/19/2024 - 12:27:21: [AMXX] Plugin "zm_class_spider_boss.amxx" failed to load: Plugin uses an unknown function (name "zp_get_user_zombie_class") - check your modules.ini.
+L 07/19/2024 - 12:27:21: [AMXX] Plugin "zm_class_ksenon_prem.amxx" failed to load: Plugin uses an unknown function (name "zp_get_user_zombie_class") - check your modules.ini.
+L 07/19/2024 - 12:27:21: [AMXX] Plugin "zm_class_sting_finger_elite.amxx" failed to load: Plugin uses an unknown function (name "zp_get_user_nemesis") - check your modules.ini.
+L 07/19/2024 - 12:27:21: [AMXX] Plugin "start_menu.amxx" failed to load: Plugin uses an unknown function (name "zp_get_user_survivor") - check your modules.ini.
+L 07/19/2024 - 12:27:21: [AMXX] Plugin "start_avt_xm8.amxx" failed to load: Plugin uses an unknown function (name "zp_get_user_survivor") - check your modules.ini.
+L 07/19/2024 - 12:27:21: [AMXX] Plugin "start_pist.amxx" failed to load: Plugin uses an unknown function (name "zp_get_user_survivor") - check your modules.ini.
+L 07/19/2024 - 12:27:21: [AMXX] Plugin "model_menu.amxx" failed to load: Plugin uses an unknown function (name "give_model") - check your modules.ini.
+L 07/19/2024 - 12:27:21: [AMXX] Plugin "knife_menu.amxx" failed to load: Plugin uses an unknown function (name "zp_disinfect_user") - check your modules.ini.
+L 07/19/2024 - 12:27:21: [AMXX] Plugin "shop_hp_armor.amxx" failed to load: Plugin uses an unknown function (name "zp_register_extra_item") - check your modules.ini.
+L 07/19/2024 - 12:27:21: [AMXX] Plugin "shop_lasermine_28.amxx" failed to load: Plugin uses an unknown function (name "zp_set_user_ammo_packs") - check your modules.ini.
+L 07/19/2024 - 12:27:21: [AMXX] Plugin "shop_no_recoil.amxx" failed to load: Plugin uses an unknown function (name "zp_register_extra_item") - check your modules.ini.
+L 07/19/2024 - 12:27:21: [AMXX] Plugin "shop_ultimateammo.amxx" failed to load: Plugin uses an unknown function (name "zp_register_extra_item") - check your modules.ini.
+L 07/19/2024 - 12:27:21: [AMXX] Plugin "shop_aquablaster.amxx" failed to load: Plugin uses an unknown function (name "zp_get_user_survivor") - check your modules.ini.
+L 07/19/2024 - 12:27:21: [AMXX] Plugin "shop_M16A4.amxx" failed to load: Plugin uses an unknown function (name "zp_register_extra_item") - check your modules.ini.
+L 07/19/2024 - 12:27:21: [AMXX] Plugin "shop_vsk94.amxx" failed to load: Plugin uses an unknown function (name "zp_register_extra_item") - check your modules.ini.
+L 07/19/2024 - 12:27:21: [AMXX] Plugin "shop_Cannon.amxx" failed to load: Plugin uses an unknown function (name "zp_get_user_zombie") - check your modules.ini.
+L 07/19/2024 - 12:27:21: [AMXX] Plugin "Krol_vip_menu.amxx" failed to load: Plugin uses an unknown function (name "zp_get_user_survivor") - check your modules.ini.
+L 07/19/2024 - 12:27:21: [AMXX] Plugin "Krol_admin_menu.amxx" failed to load: Plugin uses an unknown function (name "zp_get_user_survivor") - check your modules.ini.
+L 07/19/2024 - 12:27:21: [AMXX] Plugin "Krol_supadmin_menu.amxx" failed to load: Plugin uses an unknown function (name "zp_get_user_survivor") - check your modules.ini.
+L 07/19/2024 - 12:27:21: [AMXX] Plugin "Krol_boss_menu.amxx" failed to load: Plugin uses an unknown function (name "zp_get_user_survivor") - check your modules.ini.
+L 07/19/2024 - 12:27:21: [AMXX] Plugin "Krol_prem_menu.amxx" failed to load: Plugin uses an unknown function (name "zp_get_user_survivor") - check your modules.ini.
+L 07/19/2024 - 12:27:21: [AMXX] Plugin "Krol_lord_menu.amxx" failed to load: Plugin uses an unknown function (name "zp_get_user_survivor") - check your modules.ini.
+L 07/19/2024 - 12:27:21: [AMXX] Plugin "Krol_elite_menu.amxx" failed to load: Plugin uses an unknown function (name "zp_get_user_survivor") - check your modules.ini.
+L 07/19/2024 - 12:27:21: [AMXX] Plugin "Krol_god_menu.amxx" failed to load: Plugin uses an unknown function (name "zp_get_user_survivor") - check your modules.ini.
+L 07/19/2024 - 12:27:21: [AMXX] Plugin "Krol_creater_menu.amxx" failed to load: Plugin uses an unknown function (name "zp_get_user_survivor") - check your modules.ini.
+L 07/19/2024 - 12:27:21: [AMXX] Plugin "vip_pistol.amxx" failed to load: Plugin uses an unknown function (name "zp_get_user_survivor") - check your modules.ini.
+L 07/19/2024 - 12:27:21: [AMXX] Plugin "vip_avtomat.amxx" failed to load: Plugin uses an unknown function (name "zp_get_user_survivor") - check your modules.ini.
+L 07/19/2024 - 12:27:21: [AMXX] Plugin "vip_shotgun.amxx" failed to load: Plugin uses an unknown function (name "zp_get_user_survivor") - check your modules.ini.
+L 07/19/2024 - 12:27:21: [AMXX] Plugin "admin_jetpack.amxx" failed to load: Plugin uses an unknown function (name "zp_get_user_zombie") - check your modules.ini.
+L 07/19/2024 - 12:27:21: [AMXX] Plugin "admin_awp.amxx" failed to load: Plugin uses an unknown function (name "zp_get_user_survivor") - check your modules.ini.
+L 07/19/2024 - 12:27:21: [AMXX] Plugin "admin_mg3neon.amxx" failed to load: Plugin uses an unknown function (name "zp_get_user_survivor") - check your modules.ini.
+L 07/19/2024 - 12:27:21: [AMXX] Plugin "supAdmin_ak47c.amxx" failed to load: Plugin uses an unknown function (name "zp_get_user_survivor") - check your modules.ini.
+L 07/19/2024 - 12:27:21: [AMXX] Plugin "supAdmin_m4a1c.amxx" failed to load: Plugin uses an unknown function (name "zp_get_user_survivor") - check your modules.ini.
+L 07/19/2024 - 12:27:21: [AMXX] Plugin "supAdmin_spas12ex.amxx" failed to load: Plugin uses an unknown function (name "zp_get_user_survivor") - check your modules.ini.
+L 07/19/2024 - 12:27:21: [AMXX] Plugin "boss_thanatos7_new.amxx" failed to load: Plugin uses an unknown function (name "zp_get_user_zombie") - check your modules.ini.
+L 07/19/2024 - 12:27:21: [AMXX] Plugin "boss_pandacrossbow.amxx" failed to load: Plugin uses an unknown function (name "zp_get_user_survivor") - check your modules.ini.
+L 07/19/2024 - 12:27:21: [AMXX] Plugin "boss_arxmoto.amxx" failed to load: Plugin uses an unknown function (name "zp_get_user_survivor") - check your modules.ini.
+L 07/19/2024 - 12:27:21: [AMXX] Plugin "prem_buffdeagle.amxx" failed to load: Plugin uses an unknown function (name "zp_get_user_zombie") - check your modules.ini.
+L 07/19/2024 - 12:27:21: [AMXX] Plugin "prem_dubstep_gun.amxx" failed to load: Plugin uses an unknown function (name "zp_get_user_survivor") - check your modules.ini.
+L 07/19/2024 - 12:27:21: [AMXX] Plugin "prem_antidote.amxx" failed to load: Plugin uses an unknown function (name "zp_set_user_ammo_packs") - check your modules.ini.
+L 07/19/2024 - 12:27:21: [AMXX] Plugin "lord_pylymet.amxx" failed to load: Plugin uses an unknown function (name "zp_get_user_zombie") - check your modules.ini.
+L 07/19/2024 - 12:27:21: [AMXX] Plugin "lord_awp.amxx" failed to load: Plugin uses an unknown function (name "zp_get_user_survivor") - check your modules.ini.
+L 07/19/2024 - 12:27:21: [AMXX] Plugin "lord_shield_force.amxx" failed to load: Plugin uses an unknown function (name "zp_get_user_nemesis") - check your modules.ini.
+L 07/19/2024 - 12:27:21: [AMXX] Plugin "elite_avt.amxx" failed to load: Plugin uses an unknown function (name "zp_get_user_survivor") - check your modules.ini.
+L 07/19/2024 - 12:27:21: [AMXX] Plugin "elite_shotgun.amxx" failed to load: Plugin uses an unknown function (name "zp_get_user_zombie") - check your modules.ini.
+L 07/19/2024 - 12:27:21: [AMXX] Plugin "elite_pylemet.amxx" failed to load: Plugin uses an unknown function (name "zp_get_user_survivor") - check your modules.ini.
+L 07/19/2024 - 12:27:21: [AMXX] Plugin "god_star_chaser.amxx" failed to load: Plugin uses an unknown function (name "zp_get_user_survivor") - check your modules.ini.
+L 07/19/2024 - 12:27:21: [AMXX] Plugin "god_pistol.amxx" failed to load: Plugin uses an unknown function (name "zp_get_user_zombie") - check your modules.ini.
+L 07/19/2024 - 12:27:21: [AMXX] Plugin "god_pylemet.amxx" failed to load: Plugin uses an unknown function (name "zp_get_user_zombie") - check your modules.ini.
+L 07/19/2024 - 12:27:21: [AMXX] Plugin "creator_hentai.amxx" failed to load: Plugin uses an unknown function (name "zp_get_user_survivor") - check your modules.ini.
+L 07/19/2024 - 12:27:22: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\grab_plus.txt
+L 07/19/2024 - 12:27:23: [admin.amxx] Login: "unnamed<18><STEAM_1:0:1404421313><>" kicked due to invalid password (account "unnamed") (address "172.20.10.2")
+L 07/19/2024 - 12:27:26: [admin.amxx] Login: "unnamed<21><STEAM_1:0:1404421313><>" kicked due to invalid password (account "unnamed") (address "172.20.10.2")
+L 07/19/2024 - 12:27:28: [admin.amxx] Login: "unnamed<24><STEAM_1:0:1404421313><>" kicked due to invalid password (account "unnamed") (address "172.20.10.2")
+L 07/19/2024 - 12:27:28: [admin.amxx] Login: "unnamed<26><STEAM_1:0:1404421313><>" kicked due to invalid password (account "unnamed") (address "172.20.10.2")
+L 07/19/2024 - 12:27:29: [admin.amxx] Login: "unnamed<29><STEAM_1:0:1404421313><>" kicked due to invalid password (account "unnamed") (address "172.20.10.2")
+L 07/19/2024 - 12:27:30: [admin.amxx] Login: "unnamed<30><STEAM_1:0:1404421313><>" kicked due to invalid password (account "unnamed") (address "172.20.10.2")
+L 07/19/2024 - 12:28:24: -------- Mapchange to zm_deko2 --------
+L 07/19/2024 - 12:28:24: [AMXX] Plugin "zp_level_system.amxx" failed to load: Plugin uses an unknown function (name "zp_get_user_last_human") - check your modules.ini.
+L 07/19/2024 - 12:28:24: [AMXX] Plugin "zp_score.amxx" failed to load: Plugin uses an unknown function (name "zp_get_zombie_count") - check your modules.ini.
+L 07/19/2024 - 12:28:24: [AMXX] Plugin "zp_saveAmmo.amxx" failed to load: Plugin uses an unknown function (name "zp_set_user_ammo_packs") - check your modules.ini.
+L 07/19/2024 - 12:28:24: [AMXX] Plugin "priv_jumping.amxx" failed to load: Plugin uses an unknown function (name "zp_get_user_survivor") - check your modules.ini.
+L 07/19/2024 - 12:28:24: [AMXX] Plugin "zp_ammo_ex.amxx" failed to load: Plugin uses an unknown function (name "zp_set_user_ammo_packs") - check your modules.ini.
+L 07/19/2024 - 12:28:24: [AMXX] Plugin "zm_class_Invisible.amxx" failed to load: Plugin uses an unknown function (name "zp_get_user_survivor") - check your modules.ini.
+L 07/19/2024 - 12:28:24: [AMXX] Plugin "zm_class_banchee.amxx" failed to load: Plugin uses an unknown function (name "zp_get_user_zombie") - check your modules.ini.
+L 07/19/2024 - 12:28:24: [AMXX] Plugin "zm_class_heavy.amxx" failed to load: Plugin uses an unknown function (name "zp_get_user_nemesis") - check your modules.ini.
+L 07/19/2024 - 12:28:24: [AMXX] Plugin "zm_class_tank.amxx" failed to load: Plugin uses an unknown function (name "zp_get_user_nemesis") - check your modules.ini.
+L 07/19/2024 - 12:28:24: [AMXX] Plugin "zm_class_rev_fire_vip.amxx" failed to load: Plugin uses an unknown function (name "zp_set_user_ammo_packs") - check your modules.ini.
+L 07/19/2024 - 12:28:24: [AMXX] Plugin "zm_class_rev_ice_admin.amxx" failed to load: Plugin uses an unknown function (name "zp_set_user_zombie_class") - check your modules.ini.
+L 07/19/2024 - 12:28:24: [AMXX] Plugin "zm_class_spider_boss.amxx" failed to load: Plugin uses an unknown function (name "zp_get_user_zombie_class") - check your modules.ini.
+L 07/19/2024 - 12:28:24: [AMXX] Plugin "zm_class_ksenon_prem.amxx" failed to load: Plugin uses an unknown function (name "zp_get_user_zombie_class") - check your modules.ini.
+L 07/19/2024 - 12:28:24: [AMXX] Plugin "zm_class_sting_finger_elite.amxx" failed to load: Plugin uses an unknown function (name "zp_get_user_nemesis") - check your modules.ini.
+L 07/19/2024 - 12:28:24: [AMXX] Plugin "start_menu.amxx" failed to load: Plugin uses an unknown function (name "zp_get_user_survivor") - check your modules.ini.
+L 07/19/2024 - 12:28:24: [AMXX] Plugin "start_avt_xm8.amxx" failed to load: Plugin uses an unknown function (name "zp_get_user_survivor") - check your modules.ini.
+L 07/19/2024 - 12:28:24: [AMXX] Plugin "start_pist.amxx" failed to load: Plugin uses an unknown function (name "zp_get_user_survivor") - check your modules.ini.
+L 07/19/2024 - 12:28:24: [AMXX] Plugin "model_menu.amxx" failed to load: Plugin uses an unknown function (name "give_model") - check your modules.ini.
+L 07/19/2024 - 12:28:24: [AMXX] Plugin "knife_menu.amxx" failed to load: Plugin uses an unknown function (name "zp_disinfect_user") - check your modules.ini.
+L 07/19/2024 - 12:28:24: [AMXX] Plugin "shop_hp_armor.amxx" failed to load: Plugin uses an unknown function (name "zp_register_extra_item") - check your modules.ini.
+L 07/19/2024 - 12:28:24: [AMXX] Plugin "shop_lasermine_28.amxx" failed to load: Plugin uses an unknown function (name "zp_set_user_ammo_packs") - check your modules.ini.
+L 07/19/2024 - 12:28:24: [AMXX] Plugin "shop_no_recoil.amxx" failed to load: Plugin uses an unknown function (name "zp_register_extra_item") - check your modules.ini.
+L 07/19/2024 - 12:28:24: [AMXX] Plugin "shop_ultimateammo.amxx" failed to load: Plugin uses an unknown function (name "zp_register_extra_item") - check your modules.ini.
+L 07/19/2024 - 12:28:24: [AMXX] Plugin "shop_aquablaster.amxx" failed to load: Plugin uses an unknown function (name "zp_get_user_survivor") - check your modules.ini.
+L 07/19/2024 - 12:28:24: [AMXX] Plugin "shop_M16A4.amxx" failed to load: Plugin uses an unknown function (name "zp_register_extra_item") - check your modules.ini.
+L 07/19/2024 - 12:28:24: [AMXX] Plugin "shop_vsk94.amxx" failed to load: Plugin uses an unknown function (name "zp_register_extra_item") - check your modules.ini.
+L 07/19/2024 - 12:28:24: [AMXX] Plugin "shop_Cannon.amxx" failed to load: Plugin uses an unknown function (name "zp_get_user_zombie") - check your modules.ini.
+L 07/19/2024 - 12:28:24: [AMXX] Plugin "Krol_vip_menu.amxx" failed to load: Plugin uses an unknown function (name "zp_get_user_survivor") - check your modules.ini.
+L 07/19/2024 - 12:28:24: [AMXX] Plugin "Krol_admin_menu.amxx" failed to load: Plugin uses an unknown function (name "zp_get_user_survivor") - check your modules.ini.
+L 07/19/2024 - 12:28:24: [AMXX] Plugin "Krol_supadmin_menu.amxx" failed to load: Plugin uses an unknown function (name "zp_get_user_survivor") - check your modules.ini.
+L 07/19/2024 - 12:28:24: [AMXX] Plugin "Krol_boss_menu.amxx" failed to load: Plugin uses an unknown function (name "zp_get_user_survivor") - check your modules.ini.
+L 07/19/2024 - 12:28:24: [AMXX] Plugin "Krol_prem_menu.amxx" failed to load: Plugin uses an unknown function (name "zp_get_user_survivor") - check your modules.ini.
+L 07/19/2024 - 12:28:24: [AMXX] Plugin "Krol_lord_menu.amxx" failed to load: Plugin uses an unknown function (name "zp_get_user_survivor") - check your modules.ini.
+L 07/19/2024 - 12:28:24: [AMXX] Plugin "Krol_elite_menu.amxx" failed to load: Plugin uses an unknown function (name "zp_get_user_survivor") - check your modules.ini.
+L 07/19/2024 - 12:28:24: [AMXX] Plugin "Krol_god_menu.amxx" failed to load: Plugin uses an unknown function (name "zp_get_user_survivor") - check your modules.ini.
+L 07/19/2024 - 12:28:24: [AMXX] Plugin "Krol_creater_menu.amxx" failed to load: Plugin uses an unknown function (name "zp_get_user_survivor") - check your modules.ini.
+L 07/19/2024 - 12:28:24: [AMXX] Plugin "vip_pistol.amxx" failed to load: Plugin uses an unknown function (name "zp_get_user_survivor") - check your modules.ini.
+L 07/19/2024 - 12:28:24: [AMXX] Plugin "vip_avtomat.amxx" failed to load: Plugin uses an unknown function (name "zp_get_user_survivor") - check your modules.ini.
+L 07/19/2024 - 12:28:24: [AMXX] Plugin "vip_shotgun.amxx" failed to load: Plugin uses an unknown function (name "zp_get_user_survivor") - check your modules.ini.
+L 07/19/2024 - 12:28:24: [AMXX] Plugin "admin_jetpack.amxx" failed to load: Plugin uses an unknown function (name "zp_get_user_zombie") - check your modules.ini.
+L 07/19/2024 - 12:28:24: [AMXX] Plugin "admin_awp.amxx" failed to load: Plugin uses an unknown function (name "zp_get_user_survivor") - check your modules.ini.
+L 07/19/2024 - 12:28:24: [AMXX] Plugin "admin_mg3neon.amxx" failed to load: Plugin uses an unknown function (name "zp_get_user_survivor") - check your modules.ini.
+L 07/19/2024 - 12:28:24: [AMXX] Plugin "supAdmin_ak47c.amxx" failed to load: Plugin uses an unknown function (name "zp_get_user_survivor") - check your modules.ini.
+L 07/19/2024 - 12:28:24: [AMXX] Plugin "supAdmin_m4a1c.amxx" failed to load: Plugin uses an unknown function (name "zp_get_user_survivor") - check your modules.ini.
+L 07/19/2024 - 12:28:24: [AMXX] Plugin "supAdmin_spas12ex.amxx" failed to load: Plugin uses an unknown function (name "zp_get_user_survivor") - check your modules.ini.
+L 07/19/2024 - 12:28:24: [AMXX] Plugin "boss_thanatos7_new.amxx" failed to load: Plugin uses an unknown function (name "zp_get_user_zombie") - check your modules.ini.
+L 07/19/2024 - 12:28:24: [AMXX] Plugin "boss_pandacrossbow.amxx" failed to load: Plugin uses an unknown function (name "zp_get_user_survivor") - check your modules.ini.
+L 07/19/2024 - 12:28:24: [AMXX] Plugin "boss_arxmoto.amxx" failed to load: Plugin uses an unknown function (name "zp_get_user_survivor") - check your modules.ini.
+L 07/19/2024 - 12:28:24: [AMXX] Plugin "prem_buffdeagle.amxx" failed to load: Plugin uses an unknown function (name "zp_get_user_zombie") - check your modules.ini.
+L 07/19/2024 - 12:28:24: [AMXX] Plugin "prem_dubstep_gun.amxx" failed to load: Plugin uses an unknown function (name "zp_get_user_survivor") - check your modules.ini.
+L 07/19/2024 - 12:28:24: [AMXX] Plugin "prem_antidote.amxx" failed to load: Plugin uses an unknown function (name "zp_set_user_ammo_packs") - check your modules.ini.
+L 07/19/2024 - 12:28:24: [AMXX] Plugin "lord_pylymet.amxx" failed to load: Plugin uses an unknown function (name "zp_get_user_zombie") - check your modules.ini.
+L 07/19/2024 - 12:28:24: [AMXX] Plugin "lord_awp.amxx" failed to load: Plugin uses an unknown function (name "zp_get_user_survivor") - check your modules.ini.
+L 07/19/2024 - 12:28:24: [AMXX] Plugin "lord_shield_force.amxx" failed to load: Plugin uses an unknown function (name "zp_get_user_nemesis") - check your modules.ini.
+L 07/19/2024 - 12:28:24: [AMXX] Plugin "elite_avt.amxx" failed to load: Plugin uses an unknown function (name "zp_get_user_survivor") - check your modules.ini.
+L 07/19/2024 - 12:28:24: [AMXX] Plugin "elite_shotgun.amxx" failed to load: Plugin uses an unknown function (name "zp_get_user_zombie") - check your modules.ini.
+L 07/19/2024 - 12:28:24: [AMXX] Plugin "elite_pylemet.amxx" failed to load: Plugin uses an unknown function (name "zp_get_user_survivor") - check your modules.ini.
+L 07/19/2024 - 12:28:24: [AMXX] Plugin "god_star_chaser.amxx" failed to load: Plugin uses an unknown function (name "zp_get_user_survivor") - check your modules.ini.
+L 07/19/2024 - 12:28:24: [AMXX] Plugin "god_pistol.amxx" failed to load: Plugin uses an unknown function (name "zp_get_user_zombie") - check your modules.ini.
+L 07/19/2024 - 12:28:24: [AMXX] Plugin "god_pylemet.amxx" failed to load: Plugin uses an unknown function (name "zp_get_user_zombie") - check your modules.ini.
+L 07/19/2024 - 12:28:24: [AMXX] Plugin "creator_hentai.amxx" failed to load: Plugin uses an unknown function (name "zp_get_user_survivor") - check your modules.ini.
+L 07/19/2024 - 12:28:25: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\grab_plus.txt
+L 07/19/2024 - 12:28:29: [admin.amxx] Login: "unnamed<33><STEAM_1:0:1404421313><>" kicked due to invalid password (account "unnamed") (address "172.20.10.2")
+L 07/19/2024 - 12:31:45: -------- Mapchange to zm_deko2 --------
+L 07/19/2024 - 12:31:45: [CSX] Could not load csstats file: cstrike\
+L 07/19/2024 - 12:31:45: [AMXX] Plugin "model_menu.amxx" failed to load: Plugin uses an unknown function (name "give_model") - check your modules.ini.
+L 07/19/2024 - 12:31:46: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\zp_ammo_ex.txt
+L 07/19/2024 - 12:31:46: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\grab_plus.txt
+L 07/19/2024 - 12:31:46: New section, unterminated block (file "cstrike\addons\amxmodx\data\lang\nademodes.txt" key "NADE_HTML :" lang "da")
+L 07/19/2024 - 12:31:46: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\LaserMines.txt
+L 07/19/2024 - 12:35:20: -------- Mapchange to zm_deko2 --------
+L 07/19/2024 - 12:35:20: [AMXX] Plugin "model_menu.amxx" failed to load: Plugin uses an unknown function (name "give_model") - check your modules.ini.
+L 07/19/2024 - 12:35:21: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\zp_ammo_ex.txt
+L 07/19/2024 - 12:35:21: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\grab_plus.txt
+L 07/19/2024 - 12:35:21: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\LaserMines.txt
+L 07/19/2024 - 12:38:39: -------- Mapchange to zm_deko2 --------
+L 07/19/2024 - 12:38:40: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\zp_ammo_ex.txt
+L 07/19/2024 - 12:38:40: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\grab_plus.txt
+L 07/19/2024 - 12:38:40: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\LaserMines.txt
+L 07/19/2024 - 12:39:44: [admin.amxx] Login: "unnamed<9><STEAM_1:0:1404421313><>" kicked due to invalid password (account "unnamed") (address "172.20.10.2")
+L 07/19/2024 - 12:39:46: [admin.amxx] Login: "unnamed<23><STEAM_1:0:1404421313><>" kicked due to invalid password (account "unnamed") (address "172.20.10.2")
+L 07/19/2024 - 12:39:49: [admin.amxx] Login: "unnamed<24><STEAM_1:0:1404421313><>" kicked due to invalid password (account "unnamed") (address "172.20.10.2")
+L 07/19/2024 - 12:40:15: -------- Mapchange to zm_deko2 --------
+L 07/19/2024 - 12:40:16: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\zp_ammo_ex.txt
+L 07/19/2024 - 12:40:16: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\grab_plus.txt
+L 07/19/2024 - 12:40:16: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\LaserMines.txt
+L 07/19/2024 - 12:40:16: [admin.amxx] Login: "unnamedd<25><STEAM_1:0:1404421313><>" kicked due to invalid password (account "unnamedd") (address "172.20.10.2")
+L 07/19/2024 - 12:40:18: [admin.amxx] Login: "unnamedd<26><STEAM_1:0:1404421313><>" became an admin (account "unnamedd") (access "abcdefghijklmnopqrstuv") (address "172.20.10.2")
+L 07/19/2024 - 12:45:36: -------- Mapchange to zm_deko2 --------
+L 07/19/2024 - 12:45:37: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\zp_ammo_ex.txt
+L 07/19/2024 - 12:45:37: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\grab_plus.txt
+L 07/19/2024 - 12:45:37: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\LaserMines.txt
+L 07/19/2024 - 12:45:38: [admin.amxx] Login: "unnamedd<26><STEAM_1:0:1404421313><>" kicked due to invalid password (account "unnamedd") (address "172.20.10.2")
+L 07/19/2024 - 12:45:42: [admin.amxx] Login: "unnamedd<35><STEAM_1:0:1404421313><>" became an admin (account "unnamedd") (access "abcdefghijklmnopqrstuv") (address "172.20.10.2")
+L 07/19/2024 - 12:48:44: -------- Mapchange to zm_deko2 --------
+L 07/19/2024 - 12:48:44: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\zp_ammo_ex.txt
+L 07/19/2024 - 12:48:44: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\grab_plus.txt
+L 07/19/2024 - 12:48:44: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\LaserMines.txt
+L 07/19/2024 - 12:48:45: [admin.amxx] Login: "unnamedd<35><STEAM_1:0:1404421313><>" kicked due to invalid password (account "unnamedd") (address "172.20.10.2")
+L 07/19/2024 - 12:48:46: [admin.amxx] Login: "unnamedd<40><STEAM_1:0:1404421313><>" became an admin (account "unnamedd") (access "abcdefghijklmnopqrstuv") (address "172.20.10.2")
+L 07/19/2024 - 13:06:44: [mapchooser.amxx] Vote: Voting for the nextmap started
+L 07/19/2024 - 13:06:59: [mapchooser.amxx] Vote: Voting for the nextmap finished. The nextmap will be cs_siege
+L 07/19/2024 - 13:09:02: -------- Mapchange to cs_siege --------
+L 07/19/2024 - 13:09:03: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\zp_ammo_ex.txt
+L 07/19/2024 - 13:09:03: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\grab_plus.txt
+L 07/19/2024 - 13:09:03: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\LaserMines.txt
+L 07/19/2024 - 13:09:04: [admin.amxx] Login: "unnamedd<40><STEAM_1:0:1404421313><>" kicked due to invalid password (account "unnamedd") (address "172.20.10.2")
+L 07/19/2024 - 13:11:03: -------- Mapchange to cs_siege --------
+L 07/19/2024 - 13:11:04: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\zp_ammo_ex.txt
+L 07/19/2024 - 13:11:04: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\grab_plus.txt
+L 07/19/2024 - 13:11:04: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\LaserMines.txt
+L 07/19/2024 - 13:11:06: [admin.amxx] Login: "unnamedd<47><STEAM_1:0:1404421313><>" became an admin (account "unnamedd") (access "abcdefghijklmnopqrstuv") (address "172.20.10.2")
+L 07/19/2024 - 13:13:18: -------- Mapchange to zm_deko2 --------
+L 07/19/2024 - 13:13:18: [CSX] Could not load csstats file: cstrike\
+L 07/19/2024 - 13:13:19: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\zp_ammo_ex.txt
+L 07/19/2024 - 13:13:19: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\grab_plus.txt
+L 07/19/2024 - 13:13:19: New section, unterminated block (file "cstrike\addons\amxmodx\data\lang\nademodes.txt" key "NADE_HTML :" lang "da")
+L 07/19/2024 - 13:13:19: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\LaserMines.txt
+L 07/19/2024 - 13:13:22: [admin.amxx] Login: "unnamedd<1><STEAM_1:0:1404421313><>" became an admin (account "unnamedd") (access "abcdefghijklmnopqrstuv") (address "172.20.10.2")
+L 07/19/2024 - 13:23:00: -------- Mapchange to zm_deko2 --------
+L 07/19/2024 - 13:23:33: -------- Mapchange to zm_deko2 --------
+L 07/19/2024 - 13:23:33: [CSX] Could not load csstats file: cstrike\
+L 07/19/2024 - 13:23:48: -------- Mapchange to zm_deko2 --------
+L 07/19/2024 - 13:23:48: [CSX] Could not load csstats file: cstrike\
+L 07/19/2024 - 13:25:43: -------- Mapchange to zm_deko2 --------
+L 07/19/2024 - 13:25:44: [CSX] Could not load csstats file: cstrike\
+L 07/19/2024 - 13:26:16: -------- Mapchange to zm_deko2 --------
+L 07/19/2024 - 13:26:16: [CSX] Could not load csstats file: cstrike\
+L 07/19/2024 - 13:26:52: -------- Mapchange to zm_deko2 --------
+L 07/19/2024 - 13:26:52: [CSX] Could not load csstats file: cstrike\
+L 07/19/2024 - 13:27:43: -------- Mapchange to zm_deko2 --------
+L 07/19/2024 - 13:27:43: [CSX] Could not load csstats file: cstrike\
+L 07/19/2024 - 13:27:44: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\zp_ammo_ex.txt
+L 07/19/2024 - 13:27:44: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\grab_plus.txt
+L 07/19/2024 - 13:27:44: New section, unterminated block (file "cstrike\addons\amxmodx\data\lang\nademodes.txt" key "NADE_HTML :" lang "da")
+L 07/19/2024 - 13:27:44: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\LaserMines.txt
+L 07/19/2024 - 13:27:48: [admin.amxx] Login: "unnamedd<1><STEAM_1:0:1404421313><>" became an admin (account "unnamedd") (access "abcdefghijklmnopqrstuv") (address "172.20.10.2")
+L 07/19/2024 - 13:35:35: -------- Mapchange to zm_deko2 --------
+L 07/19/2024 - 13:35:35: [CSX] Could not load csstats file: cstrike\
+L 07/19/2024 - 13:35:36: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\zp_ammo_ex.txt
+L 07/19/2024 - 13:35:36: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\grab_plus.txt
+L 07/19/2024 - 13:35:36: New section, unterminated block (file "cstrike\addons\amxmodx\data\lang\nademodes.txt" key "NADE_HTML :" lang "da")
+L 07/19/2024 - 13:35:36: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\LaserMines.txt
+L 07/19/2024 - 13:36:33: [admin.amxx] Login: "unnamedd<8><STEAM_1:0:1404421313><>" became an admin (account "unnamedd") (access "abcdefghijklmnopqrstuv") (address "172.20.10.2")
+L 07/19/2024 - 13:54:36: [mapchooser.amxx] Vote: Voting for the nextmap started
+L 07/19/2024 - 13:54:51: [mapchooser.amxx] Vote: Voting for the nextmap finished. The nextmap will be de_airstrip
+L 07/19/2024 - 13:56:48: -------- Mapchange to de_airstrip --------
+L 07/19/2024 - 14:12:39: -------- Mapchange to zm_deko2 --------
+L 07/19/2024 - 14:12:39: [CSX] Could not load csstats file: cstrike\
+L 07/19/2024 - 14:12:40: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\zp_ammo_ex.txt
+L 07/19/2024 - 14:12:40: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\grab_plus.txt
+L 07/19/2024 - 14:12:40: New section, unterminated block (file "cstrike\addons\amxmodx\data\lang\nademodes.txt" key "NADE_HTML :" lang "da")
+L 07/19/2024 - 14:12:40: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\LaserMines.txt
+L 07/19/2024 - 14:12:41: [admin.amxx] Login: "unnamedd<1><STEAM_1:0:1404421313><>" became an admin (account "unnamedd") (access "abcdefghijklmnopqrstuv") (address "172.20.10.2")
+L 07/19/2024 - 14:13:21: [admin.amxx] Login: "unnamedd<9><STEAM_1:0:1404421313><>" became an admin (account "unnamedd") (access "abcdefghijklmnopqrstuv") (address "172.20.10.2")
+L 07/19/2024 - 14:18:31: -------- Mapchange to zm_deko2 --------
+L 07/19/2024 - 14:18:32: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\zp_ammo_ex.txt
+L 07/19/2024 - 14:18:32: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\grab_plus.txt
+L 07/19/2024 - 14:18:32: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\LaserMines.txt
+L 07/19/2024 - 14:18:33: [admin.amxx] Login: "unnamedd<9><STEAM_1:0:1404421313><>" kicked due to invalid password (account "unnamedd") (address "172.20.10.2")
+L 07/19/2024 - 14:18:36: [admin.amxx] Login: "unnamedd<10><STEAM_1:0:1404421313><>" became an admin (account "unnamedd") (access "abcdefghijklmnopqrstuv") (address "172.20.10.2")
+L 07/19/2024 - 14:19:02: -------- Mapchange to zm_deko2 --------
+L 07/19/2024 - 14:19:02: [CSX] Could not load csstats file: cstrike\
+L 07/19/2024 - 14:19:03: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\zp_ammo_ex.txt
+L 07/19/2024 - 14:19:03: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\grab_plus.txt
+L 07/19/2024 - 14:19:03: New section, unterminated block (file "cstrike\addons\amxmodx\data\lang\nademodes.txt" key "NADE_HTML :" lang "da")
+L 07/19/2024 - 14:19:03: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\LaserMines.txt
+L 07/19/2024 - 14:19:04: [admin.amxx] Login: "unnamedd<1><STEAM_1:0:1404421313><>" became an admin (account "unnamedd") (access "abcdefghijklmnopqrstuv") (address "172.20.10.2")
+L 07/19/2024 - 14:21:16: -------- Mapchange to zm_deko2 --------
+L 07/19/2024 - 14:21:18: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\zp_ammo_ex.txt
+L 07/19/2024 - 14:21:18: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\grab_plus.txt
+L 07/19/2024 - 14:21:18: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\LaserMines.txt
+L 07/19/2024 - 14:21:20: [admin.amxx] Login: "unnamed<10><STEAM_1:0:1404421313><>" became an admin (account "unnamed") (access "abcdefghijklmnopqrstuv") (address "172.20.10.2")
+L 07/19/2024 - 14:24:58: [admin.amxx] Login: "unnamedd<19><STEAM_1:0:1404421313><>" kicked due to invalid password (account "unnamedd") (address "172.20.10.2")
+L 07/19/2024 - 14:25:06: [admin.amxx] Login: "unnamedd<21><STEAM_1:0:1404421313><>" kicked due to invalid password (account "unnamedd") (address "172.20.10.2")
+L 07/19/2024 - 14:26:47: [admin.amxx] Login: "unnamed<22><STEAM_1:0:1404421313><>" kicked due to invalid password (account "unnamed") (address "172.20.10.2")
+L 07/19/2024 - 14:27:15: [admin.amxx] Login: "unnamed<23><STEAM_1:0:1404421313><>" kicked due to invalid password (account "unnamed") (address "172.20.10.2")
+L 07/19/2024 - 14:27:20: [admin.amxx] Login: "unnamed<24><STEAM_1:0:1404421313><>" kicked due to invalid password (account "unnamed") (address "172.20.10.2")
+L 07/19/2024 - 14:27:46: -------- Mapchange to zm_deko2 --------
+L 07/19/2024 - 14:27:46: [CSX] Could not load csstats file: cstrike\
+L 07/19/2024 - 14:27:48: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\zp_ammo_ex.txt
+L 07/19/2024 - 14:27:48: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\grab_plus.txt
+L 07/19/2024 - 14:27:48: New section, unterminated block (file "cstrike\addons\amxmodx\data\lang\nademodes.txt" key "NADE_HTML :" lang "da")
+L 07/19/2024 - 14:27:48: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\LaserMines.txt
+L 07/19/2024 - 14:27:51: [admin.amxx] Login: "unnamed<1><STEAM_1:0:1404421313><>" became an admin (account "unnamed") (access "abcdefghijklmnopqrstuv") (address "172.20.10.2")
+L 07/19/2024 - 14:30:33: -------- Mapchange to zm_deko2 --------
+L 07/19/2024 - 14:30:34: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\zp_ammo_ex.txt
+L 07/19/2024 - 14:30:34: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\grab_plus.txt
+L 07/19/2024 - 14:30:34: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\LaserMines.txt
+L 07/19/2024 - 14:30:34: [admin.amxx] Login: "unnamed<1><STEAM_1:0:1404421313><>" kicked due to invalid password (account "unnamed") (address "172.20.10.2")
+L 07/19/2024 - 14:30:37: [admin.amxx] Login: "unnamed<9><STEAM_1:0:1404421313><>" became an admin (account "unnamed") (access "abcdefghijklmnopqrstuv") (address "172.20.10.2")
+L 07/19/2024 - 14:50:30: -------- Mapchange to zm_deko2 --------
+L 07/19/2024 - 14:50:30: [CSX] Could not load csstats file: cstrike\
+L 07/19/2024 - 14:50:32: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\zp_ammo_ex.txt
+L 07/19/2024 - 14:50:32: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\grab_plus.txt
+L 07/19/2024 - 14:50:32: New section, unterminated block (file "cstrike\addons\amxmodx\data\lang\nademodes.txt" key "NADE_HTML :" lang "da")
+L 07/19/2024 - 14:50:32: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\LaserMines.txt
+L 07/19/2024 - 15:03:32: -------- Mapchange to zm_deko2 --------
+L 07/19/2024 - 15:03:33: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\zp_ammo_ex.txt
+L 07/19/2024 - 15:03:33: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\grab_plus.txt
+L 07/19/2024 - 15:03:33: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\LaserMines.txt
+L 07/19/2024 - 15:03:45: [admin.amxx] Login: "unnamed<8><STEAM_1:0:1404421313><>" kicked due to invalid password (account "unnamed") (address "172.20.10.2")
+L 07/19/2024 - 15:03:48: [admin.amxx] Login: "unnamed<16><STEAM_1:0:1404421313><>" kicked due to invalid password (account "unnamed") (address "172.20.10.2")
+L 07/19/2024 - 15:03:52: -------- Mapchange to zm_deko2 --------
+L 07/19/2024 - 15:03:53: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\zp_ammo_ex.txt
+L 07/19/2024 - 15:03:53: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\grab_plus.txt
+L 07/19/2024 - 15:03:53: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\LaserMines.txt
+L 07/19/2024 - 15:03:53: [admin.amxx] Login: "unnamed<17><STEAM_1:0:1404421313><>" kicked due to invalid password (account "unnamed") (address "172.20.10.2")
+L 07/19/2024 - 15:04:11: [admin.amxx] Login: "unnamed<25><STEAM_1:0:1404421313><>" kicked due to invalid password (account "unnamed") (address "172.20.10.2")
+L 07/19/2024 - 15:04:15: -------- Mapchange to zm_deko2 --------
+L 07/19/2024 - 15:04:16: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\zp_ammo_ex.txt
+L 07/19/2024 - 15:04:16: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\grab_plus.txt
+L 07/19/2024 - 15:04:16: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\LaserMines.txt
+L 07/19/2024 - 15:04:18: [admin.amxx] Login: "unnamed<26><STEAM_1:0:1404421313><>" kicked due to invalid password (account "unnamed") (address "172.20.10.2")
+L 07/19/2024 - 15:04:26: [admin.amxx] Login: "unnamedd<34><STEAM_1:0:1404421313><>" kicked due to invalid password (account "unnamedd") (address "172.20.10.2")
+L 07/19/2024 - 15:04:34: -------- Mapchange to zm_deko2 --------
+L 07/19/2024 - 15:04:35: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\zp_ammo_ex.txt
+L 07/19/2024 - 15:04:35: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\grab_plus.txt
+L 07/19/2024 - 15:04:35: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\LaserMines.txt
+L 07/19/2024 - 15:04:41: [admin.amxx] Login: "unnamedd<39><STEAM_1:0:1404421313><>" kicked due to invalid password (account "unnamedd") (address "172.20.10.2")
+L 07/19/2024 - 15:05:42: -------- Mapchange to zm_deko2 --------
+L 07/19/2024 - 15:05:42: [CSX] Could not load csstats file: cstrike\
+L 07/19/2024 - 15:05:43: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\zp_ammo_ex.txt
+L 07/19/2024 - 15:05:43: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\grab_plus.txt
+L 07/19/2024 - 15:05:43: New section, unterminated block (file "cstrike\addons\amxmodx\data\lang\nademodes.txt" key "NADE_HTML :" lang "da")
+L 07/19/2024 - 15:05:43: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\LaserMines.txt
+L 07/19/2024 - 15:05:45: [admin.amxx] Login: "unnamedd<1><STEAM_1:0:1404421313><>" kicked due to invalid password (account "unnamedd") (address "172.20.10.2")
+L 07/19/2024 - 15:05:58: -------- Mapchange to zm_deko2 --------
+L 07/19/2024 - 15:05:59: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\zp_ammo_ex.txt
+L 07/19/2024 - 15:05:59: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\grab_plus.txt
+L 07/19/2024 - 15:05:59: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\LaserMines.txt
+L 07/19/2024 - 15:24:29: [mapchooser.amxx] Vote: Voting for the nextmap started
+L 07/19/2024 - 15:24:44: [mapchooser.amxx] Vote: Voting for the nextmap finished. The nextmap will be cs_havana
+L 07/19/2024 - 15:26:34: -------- Mapchange to cs_havana --------
+L 07/19/2024 - 15:31:38: -------- Mapchange to zm_deko2 --------
+L 07/19/2024 - 15:31:38: [CSX] Could not load csstats file: cstrike\
+L 07/19/2024 - 15:32:52: -------- Mapchange to zm_deko2 --------
+L 07/19/2024 - 15:32:53: [CSX] Could not load csstats file: cstrike\
+L 07/19/2024 - 15:33:01: -------- Mapchange to zm_deko2 --------
+L 07/19/2024 - 15:33:01: [CSX] Could not load csstats file: cstrike\
+L 07/19/2024 - 15:34:25: -------- Mapchange to zm_deko2 --------
+L 07/19/2024 - 15:34:25: [CSX] Could not load csstats file: cstrike\
+L 07/19/2024 - 15:34:26: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\zp_ammo_ex.txt
+L 07/19/2024 - 15:34:26: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\grab_plus.txt
+L 07/19/2024 - 15:34:26: New section, unterminated block (file "cstrike\addons\amxmodx\data\lang\nademodes.txt" key "NADE_HTML :" lang "da")
+L 07/19/2024 - 15:34:26: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\LaserMines.txt
+L 07/19/2024 - 15:45:21: -------- Mapchange to zm_deko2 --------
+L 07/19/2024 - 15:45:21: [CSX] Could not load csstats file: cstrike\
+L 07/19/2024 - 15:45:22: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\zp_ammo_ex.txt
+L 07/19/2024 - 15:45:22: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\grab_plus.txt
+L 07/19/2024 - 15:45:22: New section, unterminated block (file "cstrike\addons\amxmodx\data\lang\nademodes.txt" key "NADE_HTML :" lang "da")
+L 07/19/2024 - 15:45:22: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\LaserMines.txt
+L 07/19/2024 - 15:48:37: -------- Mapchange to zm_deko2 --------
+L 07/19/2024 - 15:48:38: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\zp_ammo_ex.txt
+L 07/19/2024 - 15:48:38: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\grab_plus.txt
+L 07/19/2024 - 15:48:38: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\LaserMines.txt
+L 07/19/2024 - 15:50:40: -------- Mapchange to zm_deko2 --------
+L 07/19/2024 - 15:50:41: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\zp_ammo_ex.txt
+L 07/19/2024 - 15:50:41: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\grab_plus.txt
+L 07/19/2024 - 15:50:41: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\LaserMines.txt
+L 07/19/2024 - 15:54:02: -------- Mapchange to zm_deko2 --------
+L 07/19/2024 - 15:54:03: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\zp_ammo_ex.txt
+L 07/19/2024 - 15:54:03: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\grab_plus.txt
+L 07/19/2024 - 15:54:03: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\LaserMines.txt
+L 07/19/2024 - 15:58:50: -------- Mapchange to zm_deko2 --------
+L 07/19/2024 - 15:58:51: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\zp_ammo_ex.txt
+L 07/19/2024 - 15:58:51: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\grab_plus.txt
+L 07/19/2024 - 15:58:51: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\LaserMines.txt
+L 07/19/2024 - 16:00:21: -------- Mapchange to zm_deko2 --------
+L 07/19/2024 - 16:00:21: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\zp_ammo_ex.txt
+L 07/19/2024 - 16:00:21: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\grab_plus.txt
+L 07/19/2024 - 16:00:21: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\LaserMines.txt
+L 07/19/2024 - 16:01:33: -------- Mapchange to zm_deko2 --------
+L 07/19/2024 - 16:01:33: [CSX] Could not load csstats file: cstrike\
+L 07/19/2024 - 16:01:34: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\zp_ammo_ex.txt
+L 07/19/2024 - 16:01:34: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\grab_plus.txt
+L 07/19/2024 - 16:01:34: New section, unterminated block (file "cstrike\addons\amxmodx\data\lang\nademodes.txt" key "NADE_HTML :" lang "da")
+L 07/19/2024 - 16:01:34: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\LaserMines.txt
+L 07/19/2024 - 16:04:27: -------- Mapchange to zm_deko2 --------
+L 07/19/2024 - 16:04:28: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\zp_ammo_ex.txt
+L 07/19/2024 - 16:04:28: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\grab_plus.txt
+L 07/19/2024 - 16:04:28: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\LaserMines.txt
+L 07/19/2024 - 16:05:09: -------- Mapchange to zm_deko2 --------
+L 07/19/2024 - 16:05:10: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\zp_ammo_ex.txt
+L 07/19/2024 - 16:05:10: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\grab_plus.txt
+L 07/19/2024 - 16:05:10: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\LaserMines.txt
+L 07/19/2024 - 16:10:39: -------- Mapchange to zm_deko2 --------
+L 07/19/2024 - 16:11:04: -------- Mapchange to zm_deko2 --------
+L 07/19/2024 - 16:11:04: [CSX] Could not load csstats file: cstrike\
+L 07/19/2024 - 16:11:05: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\zp_ammo_ex.txt
+L 07/19/2024 - 16:11:05: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\grab_plus.txt
+L 07/19/2024 - 16:11:05: New section, unterminated block (file "cstrike\addons\amxmodx\data\lang\nademodes.txt" key "NADE_HTML :" lang "da")
+L 07/19/2024 - 16:11:05: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\LaserMines.txt
+L 07/19/2024 - 16:13:24: -------- Mapchange to zm_deko2 --------
+L 07/19/2024 - 16:13:25: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\zp_ammo_ex.txt
+L 07/19/2024 - 16:13:25: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\grab_plus.txt
+L 07/19/2024 - 16:13:25: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\LaserMines.txt
+L 07/19/2024 - 16:15:32: -------- Mapchange to zm_deko2 --------
+L 07/19/2024 - 16:15:33: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\zp_ammo_ex.txt
+L 07/19/2024 - 16:15:33: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\grab_plus.txt
+L 07/19/2024 - 16:15:33: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\LaserMines.txt
+L 07/19/2024 - 16:16:07: -------- Mapchange to zm_deko2 --------
+L 07/19/2024 - 16:16:08: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\zp_ammo_ex.txt
+L 07/19/2024 - 16:16:08: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\grab_plus.txt
+L 07/19/2024 - 16:16:08: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\LaserMines.txt
+L 07/19/2024 - 16:16:50: -------- Mapchange to zm_deko2 --------
+L 07/19/2024 - 16:16:51: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\zp_ammo_ex.txt
+L 07/19/2024 - 16:16:51: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\grab_plus.txt
+L 07/19/2024 - 16:16:51: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\LaserMines.txt
+L 07/19/2024 - 16:17:28: -------- Mapchange to zm_deko2 --------
+L 07/19/2024 - 16:17:29: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\zp_ammo_ex.txt
+L 07/19/2024 - 16:17:29: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\grab_plus.txt
+L 07/19/2024 - 16:17:29: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\LaserMines.txt
+L 07/19/2024 - 16:19:12: -------- Mapchange to zm_deko2 --------
+L 07/19/2024 - 16:19:13: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\zp_ammo_ex.txt
+L 07/19/2024 - 16:19:13: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\grab_plus.txt
+L 07/19/2024 - 16:19:13: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\LaserMines.txt
+L 07/19/2024 - 16:20:29: -------- Mapchange to zm_deko2 --------
+L 07/19/2024 - 16:20:30: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\zp_ammo_ex.txt
+L 07/19/2024 - 16:20:30: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\grab_plus.txt
+L 07/19/2024 - 16:20:30: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\LaserMines.txt
+L 07/19/2024 - 16:22:42: -------- Mapchange to zm_deko2 --------
+L 07/19/2024 - 16:22:43: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\zp_ammo_ex.txt
+L 07/19/2024 - 16:22:43: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\grab_plus.txt
+L 07/19/2024 - 16:22:43: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\LaserMines.txt
+L 07/19/2024 - 16:24:57: -------- Mapchange to zm_deko2 --------
+L 07/19/2024 - 16:24:58: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\zp_ammo_ex.txt
+L 07/19/2024 - 16:24:58: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\grab_plus.txt
+L 07/19/2024 - 16:24:58: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\LaserMines.txt
+L 07/19/2024 - 16:37:12: -------- Mapchange to zm_deko2 --------
+L 07/19/2024 - 16:37:12: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\zp_ammo_ex.txt
+L 07/19/2024 - 16:37:12: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\grab_plus.txt
+L 07/19/2024 - 16:37:12: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\LaserMines.txt
+L 07/19/2024 - 16:55:27: [mapchooser.amxx] Vote: Voting for the nextmap started
+L 07/19/2024 - 16:55:42: [mapchooser.amxx] Vote: Voting for the nextmap finished. The nextmap will be de_prodigy
+L 07/19/2024 - 16:57:36: -------- Mapchange to de_prodigy --------
+L 07/19/2024 - 16:57:37: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\zp_ammo_ex.txt
+L 07/19/2024 - 16:57:37: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\grab_plus.txt
+L 07/19/2024 - 16:57:37: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\LaserMines.txt
+L 07/19/2024 - 17:14:41: -------- Mapchange to de_prodigy --------
+L 07/19/2024 - 17:14:42: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\zp_ammo_ex.txt
+L 07/19/2024 - 17:14:42: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\grab_plus.txt
+L 07/19/2024 - 17:14:42: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\LaserMines.txt
+L 07/19/2024 - 17:16:37: -------- Mapchange to zm_deko2 --------
+L 07/19/2024 - 17:16:38: [CSX] Could not load csstats file: cstrike\
+L 07/19/2024 - 17:18:39: -------- Mapchange to zm_deko2 --------
+L 07/19/2024 - 17:18:39: [CSX] Could not load csstats file: cstrike\
+L 07/19/2024 - 17:18:40: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\zp_ammo_ex.txt
+L 07/19/2024 - 17:18:40: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\grab_plus.txt
+L 07/19/2024 - 17:18:40: New section, unterminated block (file "cstrike\addons\amxmodx\data\lang\nademodes.txt" key "NADE_HTML :" lang "da")
+L 07/19/2024 - 17:18:40: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\LaserMines.txt
+L 07/19/2024 - 17:22:53: -------- Mapchange to zm_deko2 --------
+L 07/19/2024 - 17:22:54: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\zp_ammo_ex.txt
+L 07/19/2024 - 17:22:54: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\grab_plus.txt
+L 07/19/2024 - 17:22:54: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\LaserMines.txt
+L 07/19/2024 - 17:32:52: -------- Mapchange to zm_deko2 --------
+L 07/19/2024 - 17:32:52: [CSX] Could not load csstats file: cstrike\
+L 07/19/2024 - 17:33:26: -------- Mapchange to zm_deko2 --------
+L 07/19/2024 - 17:33:26: [CSX] Could not load csstats file: cstrike\
+L 07/19/2024 - 17:33:27: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\zp_ammo_ex.txt
+L 07/19/2024 - 17:33:27: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\grab_plus.txt
+L 07/19/2024 - 17:33:27: New section, unterminated block (file "cstrike\addons\amxmodx\data\lang\nademodes.txt" key "NADE_HTML :" lang "da")
+L 07/19/2024 - 17:33:27: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\LaserMines.txt
+L 07/19/2024 - 17:35:05: -------- Mapchange to zm_deko2 --------
+L 07/19/2024 - 17:35:06: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\zp_ammo_ex.txt
+L 07/19/2024 - 17:35:06: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\grab_plus.txt
+L 07/19/2024 - 17:35:06: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\LaserMines.txt
+L 07/19/2024 - 17:36:58: -------- Mapchange to zm_deko2 --------
+L 07/19/2024 - 17:36:59: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\zp_ammo_ex.txt
+L 07/19/2024 - 17:36:59: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\grab_plus.txt
+L 07/19/2024 - 17:36:59: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\LaserMines.txt
+L 07/19/2024 - 17:54:58: [mapchooser.amxx] Vote: Voting for the nextmap started
+L 07/19/2024 - 17:55:13: [mapchooser.amxx] Vote: Voting for the nextmap finished. The nextmap will be de_chateau
+L 07/19/2024 - 17:57:17: -------- Mapchange to de_chateau --------
+L 07/19/2024 - 17:58:55: -------- Mapchange to zm_deko2 --------
+L 07/19/2024 - 17:58:55: [CSX] Could not load csstats file: cstrike\
+L 07/19/2024 - 17:58:56: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\zp_ammo_ex.txt
+L 07/19/2024 - 17:58:56: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\grab_plus.txt
+L 07/19/2024 - 17:58:56: New section, unterminated block (file "cstrike\addons\amxmodx\data\lang\nademodes.txt" key "NADE_HTML :" lang "da")
+L 07/19/2024 - 17:58:56: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\LaserMines.txt
+L 07/19/2024 - 18:02:00: -------- Mapchange to zm_deko2 --------
+L 07/19/2024 - 18:02:01: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\zp_ammo_ex.txt
+L 07/19/2024 - 18:02:01: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\grab_plus.txt
+L 07/19/2024 - 18:02:01: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\LaserMines.txt
+L 07/19/2024 - 18:02:01: [admin.amxx] Login: "unnamed<10><STEAM_1:0:1404421313><>" kicked due to invalid password (account "unnamed") (address "172.20.10.2")
+L 07/19/2024 - 18:02:03: [admin.amxx] Login: "unnamed<11><STEAM_1:0:1404421313><>" kicked due to invalid password (account "unnamed") (address "172.20.10.2")
+L 07/19/2024 - 18:02:31: -------- Mapchange to zm_deko2 --------
+L 07/19/2024 - 18:02:32: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\zp_ammo_ex.txt
+L 07/19/2024 - 18:02:32: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\grab_plus.txt
+L 07/19/2024 - 18:02:32: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\LaserMines.txt
+L 07/19/2024 - 18:02:44: [admin.amxx] Login: "test<26><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "172.20.10.2")
+L 07/19/2024 - 18:04:29: -------- Mapchange to zm_deko2 --------
+L 07/19/2024 - 18:04:30: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\zp_ammo_ex.txt
+L 07/19/2024 - 18:04:30: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\grab_plus.txt
+L 07/19/2024 - 18:04:30: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\LaserMines.txt
+L 07/19/2024 - 18:04:30: [admin.amxx] Login: "test<26><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "172.20.10.2")
+L 07/19/2024 - 18:22:29: [mapchooser.amxx] Vote: Voting for the nextmap started
+L 07/19/2024 - 18:22:44: [mapchooser.amxx] Vote: Voting for the nextmap finished. The nextmap will be de_aztec
+L 07/19/2024 - 18:24:47: -------- Mapchange to de_aztec --------
+L 07/19/2024 - 18:24:49: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\zp_ammo_ex.txt
+L 07/19/2024 - 18:24:49: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\grab_plus.txt
+L 07/19/2024 - 18:24:49: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\LaserMines.txt
+L 07/19/2024 - 18:24:49: [admin.amxx] Login: "test<26><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "172.20.10.2")
+L 07/19/2024 - 18:42:48: [mapchooser.amxx] Vote: Voting for the nextmap started
+L 07/19/2024 - 18:43:03: [mapchooser.amxx] Vote: Voting for the nextmap finished. The nextmap will be as_oilrig
+L 07/19/2024 - 18:44:57: -------- Mapchange to as_oilrig --------
+L 07/19/2024 - 19:30:38: -------- Mapchange to zm_deko2 --------
+L 07/19/2024 - 19:30:38: [CSX] Could not load csstats file: cstrike\
+L 07/19/2024 - 19:30:39: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\zp_ammo_ex.txt
+L 07/19/2024 - 19:30:39: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\grab_plus.txt
+L 07/19/2024 - 19:30:39: New section, unterminated block (file "cstrike\addons\amxmodx\data\lang\nademodes.txt" key "NADE_HTML :" lang "da")
+L 07/19/2024 - 19:30:39: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\LaserMines.txt
+L 07/19/2024 - 19:30:41: [admin.amxx] Login: "test<1><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "172.20.10.2")
+L 07/19/2024 - 19:33:32: -------- Mapchange to zm_deko2 --------
+L 07/19/2024 - 19:33:34: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\zp_ammo_ex.txt
+L 07/19/2024 - 19:33:34: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\grab_plus.txt
+L 07/19/2024 - 19:33:34: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\LaserMines.txt
+L 07/19/2024 - 19:33:34: [admin.amxx] Login: "test<1><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "172.20.10.2")

@@ -1,0 +1,7 @@
+L 11/26/2024 - 11:10:23: Start of error session.
+L 11/26/2024 - 11:10:23: Info (map "zm_ngamers_lights_f") (file "addons/amxmodx/logs/error_20241126.log")
+L 11/26/2024 - 11:10:23: [FUN] Invalid player 1
+L 11/26/2024 - 11:10:23: [AMXX] Displaying debug trace (plugin "parachute.amxx", version "1.3")
+L 11/26/2024 - 11:10:23: [AMXX] Run time error 10: native error (native "set_user_gravity")
+L 11/26/2024 - 11:10:23: [AMXX]    [0] parachute.sma::parachute_reset (line 104)
+L 11/26/2024 - 11:10:23: [AMXX]    [1] parachute.sma::client_connect (line 81)

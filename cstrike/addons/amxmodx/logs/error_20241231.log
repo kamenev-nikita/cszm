@@ -1,0 +1,7 @@
+L 12/31/2024 - 08:58:11: Start of error session.
+L 12/31/2024 - 08:58:11: Info (map "zm_fdust2x2") (file "addons/amxmodx/logs/error_20241231.log")
+L 12/31/2024 - 08:58:11: [HAMSANDWICH] Failed to retrieve classtype for "", hook for "f_HamWeaponReload" not active.
+L 12/31/2024 - 08:58:11: [AMXX] Displaying debug trace (plugin "K_ZP_main.amxx", version "1.0")
+L 12/31/2024 - 08:58:11: [AMXX] Run time error 10: native error (native "RegisterHam")
+L 12/31/2024 - 08:58:11: [AMXX]    [0] Krol_basic.inc::get_weapon_guns_name_by_id (line 506)
+L 12/31/2024 - 08:58:11: [AMXX]    [1] K_ZP_main.sma::plugin_init (line 33)

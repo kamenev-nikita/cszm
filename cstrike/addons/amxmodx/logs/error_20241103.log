@@ -1,0 +1,449 @@
+L 11/03/2024 - 11:23:41: Start of error session.
+L 11/03/2024 - 11:23:41: Info (map "zm_fdust2x2") (file "addons/amxmodx/logs/error_20241103.log")
+L 11/03/2024 - 11:23:41: Function "native_save_knife" was not found
+L 11/03/2024 - 11:23:41: [AMXX] Run time error 19 (plugin "K_ZP_control_data.amxx") - debug not enabled!
+L 11/03/2024 - 11:23:41: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 11/03/2024 - 11:23:41: [AMXX] Run time error -1 (plugin "K_ZP_control_data.amxx") - debug not enabled!
+L 11/03/2024 - 11:55:21: Start of error session.
+L 11/03/2024 - 11:55:21: Info (map "zm_3rooms") (file "addons/amxmodx/logs/error_20241103.log")
+L 11/03/2024 - 11:55:21: Function "native_save_knife" was not found
+L 11/03/2024 - 11:55:21: [AMXX] Run time error 19 (plugin "K_ZP_control_data.amxx") - debug not enabled!
+L 11/03/2024 - 11:55:21: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 11/03/2024 - 11:55:21: [AMXX] Run time error -1 (plugin "K_ZP_control_data.amxx") - debug not enabled!
+L 11/03/2024 - 12:21:17: Start of error session.
+L 11/03/2024 - 12:21:17: Info (map "zm_3rooms") (file "addons/amxmodx/logs/error_20241103.log")
+L 11/03/2024 - 12:21:17: Function "native_save_knife" was not found
+L 11/03/2024 - 12:21:17: [AMXX] Run time error 19 (plugin "K_ZP_control_data.amxx") - debug not enabled!
+L 11/03/2024 - 12:21:17: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 11/03/2024 - 12:21:17: [AMXX] Run time error -1 (plugin "K_ZP_control_data.amxx") - debug not enabled!
+L 11/03/2024 - 12:21:37: [CSTRIKE] Invalid player 1 (not in-game)
+L 11/03/2024 - 12:21:37: [AMXX] Displaying debug trace (plugin "K_lib_ZP.amxx", version "1.0")
+L 11/03/2024 - 12:21:37: [AMXX] Run time error 10: native error (native "cs_set_user_team")
+L 11/03/2024 - 12:21:37: [AMXX]    [0] K_lib_ZP.sma::native_make_zombie (line 135)
+L 11/03/2024 - 12:21:37: Unhandled dynamic native error
+L 11/03/2024 - 12:21:37: [AMXX] Displaying debug trace (plugin "K_M_ZP.amxx", version "1.0")
+L 11/03/2024 - 12:21:37: [AMXX] Run time error 10: native error (native "make_zombie")
+L 11/03/2024 - 12:21:37: [AMXX]    [0] K_M_ZP.sma::func_menu_list_players (line 162)
+L 11/03/2024 - 12:21:39: [CSTRIKE] Invalid player 1 (not in-game)
+L 11/03/2024 - 12:21:39: [AMXX] Displaying debug trace (plugin "K_lib_ZP.amxx", version "1.0")
+L 11/03/2024 - 12:21:39: [AMXX] Run time error 10: native error (native "cs_set_user_team")
+L 11/03/2024 - 12:21:39: [AMXX]    [0] K_lib_ZP.sma::native_reset_player_for_new_round (line 94)
+L 11/03/2024 - 12:21:39: [AMXX]    [1] K_lib_ZP.sma::native_make_hum (line 159)
+L 11/03/2024 - 12:21:39: Unhandled dynamic native error
+L 11/03/2024 - 12:21:39: [AMXX] Displaying debug trace (plugin "K_M_ZP.amxx", version "1.0")
+L 11/03/2024 - 12:21:39: [AMXX] Run time error 10: native error (native "make_hum")
+L 11/03/2024 - 12:21:39: [AMXX]    [0] K_M_ZP.sma::func_menu_list_players (line 160)
+L 11/03/2024 - 12:21:47: [CSTRIKE] Invalid player 3 (not in-game)
+L 11/03/2024 - 12:21:47: [AMXX] Displaying debug trace (plugin "K_lib_ZP.amxx", version "1.0")
+L 11/03/2024 - 12:21:47: [AMXX] Run time error 10: native error (native "cs_set_user_team")
+L 11/03/2024 - 12:21:47: [AMXX]    [0] K_lib_ZP.sma::native_make_zombie (line 135)
+L 11/03/2024 - 12:21:47: Unhandled dynamic native error
+L 11/03/2024 - 12:21:47: [AMXX] Displaying debug trace (plugin "K_M_ZP.amxx", version "1.0")
+L 11/03/2024 - 12:21:47: [AMXX] Run time error 10: native error (native "make_zombie")
+L 11/03/2024 - 12:21:47: [AMXX]    [0] K_M_ZP.sma::func_menu_list_players (line 162)
+L 11/03/2024 - 12:22:22: Start of error session.
+L 11/03/2024 - 12:22:22: Info (map "zm_3rooms") (file "addons/amxmodx/logs/error_20241103.log")
+L 11/03/2024 - 12:22:22: Function "native_save_knife" was not found
+L 11/03/2024 - 12:22:22: [AMXX] Run time error 19 (plugin "K_ZP_control_data.amxx") - debug not enabled!
+L 11/03/2024 - 12:22:22: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 11/03/2024 - 12:22:22: [AMXX] Run time error -1 (plugin "K_ZP_control_data.amxx") - debug not enabled!
+L 11/03/2024 - 12:23:47: Start of error session.
+L 11/03/2024 - 12:23:47: Info (map "zm_3rooms") (file "addons/amxmodx/logs/error_20241103.log")
+L 11/03/2024 - 12:23:47: Function "native_save_knife" was not found
+L 11/03/2024 - 12:23:47: [AMXX] Run time error 19 (plugin "K_ZP_control_data.amxx") - debug not enabled!
+L 11/03/2024 - 12:23:47: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 11/03/2024 - 12:23:47: [AMXX] Run time error -1 (plugin "K_ZP_control_data.amxx") - debug not enabled!
+L 11/03/2024 - 15:04:00: Start of error session.
+L 11/03/2024 - 15:04:00: Info (map "zm_fdust2x2") (file "addons/amxmodx/logs/error_20241103.log")
+L 11/03/2024 - 15:04:00: Function "native_save_knife" was not found
+L 11/03/2024 - 15:04:01: [AMXX] Run time error 19 (plugin "K_ZP_control_data.amxx") - debug not enabled!
+L 11/03/2024 - 15:04:01: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 11/03/2024 - 15:04:01: [AMXX] Run time error -1 (plugin "K_ZP_control_data.amxx") - debug not enabled!
+L 11/03/2024 - 15:16:14: [FUN] Invalid player 1
+L 11/03/2024 - 15:16:14: [AMXX] Displaying debug trace (plugin "parachute.amxx", version "1.3")
+L 11/03/2024 - 15:16:14: [AMXX] Run time error 10: native error (native "set_user_gravity")
+L 11/03/2024 - 15:16:14: [AMXX]    [0] parachute.sma::parachute_reset (line 104)
+L 11/03/2024 - 15:16:14: [AMXX]    [1] parachute.sma::client_connect (line 81)
+L 11/03/2024 - 15:36:27: Start of error session.
+L 11/03/2024 - 15:36:27: Info (map "zm_3rooms") (file "addons/amxmodx/logs/error_20241103.log")
+L 11/03/2024 - 15:36:27: Function "native_save_knife" was not found
+L 11/03/2024 - 15:36:27: [AMXX] Run time error 19 (plugin "K_ZP_control_data.amxx") - debug not enabled!
+L 11/03/2024 - 15:36:27: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 11/03/2024 - 15:36:27: [AMXX] Run time error -1 (plugin "K_ZP_control_data.amxx") - debug not enabled!
+L 11/03/2024 - 16:08:53: Start of error session.
+L 11/03/2024 - 16:08:53: Info (map "zm_202") (file "addons/amxmodx/logs/error_20241103.log")
+L 11/03/2024 - 16:08:53: Function "native_save_knife" was not found
+L 11/03/2024 - 16:08:53: [AMXX] Run time error 19 (plugin "K_ZP_control_data.amxx") - debug not enabled!
+L 11/03/2024 - 16:08:53: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 11/03/2024 - 16:08:53: [AMXX] Run time error -1 (plugin "K_ZP_control_data.amxx") - debug not enabled!
+L 11/03/2024 - 16:41:19: Start of error session.
+L 11/03/2024 - 16:41:19: Info (map "zm_base_human_lg_new_v2") (file "addons/amxmodx/logs/error_20241103.log")
+L 11/03/2024 - 16:41:19: Function "native_save_knife" was not found
+L 11/03/2024 - 16:41:19: [AMXX] Run time error 19 (plugin "K_ZP_control_data.amxx") - debug not enabled!
+L 11/03/2024 - 16:41:19: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 11/03/2024 - 16:41:19: [AMXX] Run time error -1 (plugin "K_ZP_control_data.amxx") - debug not enabled!
+L 11/03/2024 - 17:13:44: Start of error session.
+L 11/03/2024 - 17:13:44: Info (map "zm_biohazard_base_mx") (file "addons/amxmodx/logs/error_20241103.log")
+L 11/03/2024 - 17:13:44: Function "native_save_knife" was not found
+L 11/03/2024 - 17:13:44: [AMXX] Run time error 19 (plugin "K_ZP_control_data.amxx") - debug not enabled!
+L 11/03/2024 - 17:13:44: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 11/03/2024 - 17:13:44: [AMXX] Run time error -1 (plugin "K_ZP_control_data.amxx") - debug not enabled!
+L 11/03/2024 - 17:46:10: Start of error session.
+L 11/03/2024 - 17:46:10: Info (map "zm_bounty") (file "addons/amxmodx/logs/error_20241103.log")
+L 11/03/2024 - 17:46:10: Function "native_save_knife" was not found
+L 11/03/2024 - 17:46:10: [AMXX] Run time error 19 (plugin "K_ZP_control_data.amxx") - debug not enabled!
+L 11/03/2024 - 17:46:10: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 11/03/2024 - 17:46:10: [AMXX] Run time error -1 (plugin "K_ZP_control_data.amxx") - debug not enabled!
+L 11/03/2024 - 18:18:35: Start of error session.
+L 11/03/2024 - 18:18:35: Info (map "zm_caca") (file "addons/amxmodx/logs/error_20241103.log")
+L 11/03/2024 - 18:18:35: Function "native_save_knife" was not found
+L 11/03/2024 - 18:18:35: [AMXX] Run time error 19 (plugin "K_ZP_control_data.amxx") - debug not enabled!
+L 11/03/2024 - 18:18:35: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 11/03/2024 - 18:18:35: [AMXX] Run time error -1 (plugin "K_ZP_control_data.amxx") - debug not enabled!
+L 11/03/2024 - 18:51:01: Start of error session.
+L 11/03/2024 - 18:51:01: Info (map "zm_creative") (file "addons/amxmodx/logs/error_20241103.log")
+L 11/03/2024 - 18:51:01: Function "native_save_knife" was not found
+L 11/03/2024 - 18:51:01: [AMXX] Run time error 19 (plugin "K_ZP_control_data.amxx") - debug not enabled!
+L 11/03/2024 - 18:51:01: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 11/03/2024 - 18:51:01: [AMXX] Run time error -1 (plugin "K_ZP_control_data.amxx") - debug not enabled!
+L 11/03/2024 - 18:56:31: Start of error session.
+L 11/03/2024 - 18:56:31: Info (map "zm_creative") (file "addons/amxmodx/logs/error_20241103.log")
+L 11/03/2024 - 18:56:31: Function "native_save_knife" was not found
+L 11/03/2024 - 18:56:31: [AMXX] Run time error 19 (plugin "K_ZP_control_data.amxx") - debug not enabled!
+L 11/03/2024 - 18:56:31: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 11/03/2024 - 18:56:31: [AMXX] Run time error -1 (plugin "K_ZP_control_data.amxx") - debug not enabled!
+L 11/03/2024 - 19:09:03: Start of error session.
+L 11/03/2024 - 19:09:03: Info (map "zm_creative") (file "addons/amxmodx/logs/error_20241103.log")
+L 11/03/2024 - 19:09:03: Function "native_save_knife" was not found
+L 11/03/2024 - 19:09:03: [AMXX] Run time error 19 (plugin "K_ZP_control_data.amxx") - debug not enabled!
+L 11/03/2024 - 19:09:03: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 11/03/2024 - 19:09:03: [AMXX] Run time error -1 (plugin "K_ZP_control_data.amxx") - debug not enabled!
+L 11/03/2024 - 19:28:28: Start of error session.
+L 11/03/2024 - 19:28:28: Info (map "zm_creative") (file "addons/amxmodx/logs/error_20241103.log")
+L 11/03/2024 - 19:28:28: Function "native_save_knife" was not found
+L 11/03/2024 - 19:28:28: [AMXX] Run time error 19 (plugin "K_ZP_control_data.amxx") - debug not enabled!
+L 11/03/2024 - 19:28:28: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 11/03/2024 - 19:28:28: [AMXX] Run time error -1 (plugin "K_ZP_control_data.amxx") - debug not enabled!
+L 11/03/2024 - 19:30:50: Start of error session.
+L 11/03/2024 - 19:30:50: Info (map "zm_creative") (file "addons/amxmodx/logs/error_20241103.log")
+L 11/03/2024 - 19:30:50: Function "native_save_knife" was not found
+L 11/03/2024 - 19:30:50: [AMXX] Run time error 19 (plugin "K_ZP_control_data.amxx") - debug not enabled!
+L 11/03/2024 - 19:30:50: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 11/03/2024 - 19:30:50: [AMXX] Run time error -1 (plugin "K_ZP_control_data.amxx") - debug not enabled!
+L 11/03/2024 - 19:33:38: Start of error session.
+L 11/03/2024 - 19:33:38: Info (map "zm_creative") (file "addons/amxmodx/logs/error_20241103.log")
+L 11/03/2024 - 19:33:38: Function "native_save_knife" was not found
+L 11/03/2024 - 19:33:38: [AMXX] Run time error 19 (plugin "K_ZP_control_data.amxx") - debug not enabled!
+L 11/03/2024 - 19:33:38: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 11/03/2024 - 19:33:38: [AMXX] Run time error -1 (plugin "K_ZP_control_data.amxx") - debug not enabled!
+L 11/03/2024 - 19:36:00: Start of error session.
+L 11/03/2024 - 19:36:00: Info (map "zm_creative") (file "addons/amxmodx/logs/error_20241103.log")
+L 11/03/2024 - 19:36:00: Function "native_save_knife" was not found
+L 11/03/2024 - 19:36:00: [AMXX] Run time error 19 (plugin "K_ZP_control_data.amxx") - debug not enabled!
+L 11/03/2024 - 19:36:00: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 11/03/2024 - 19:36:00: [AMXX] Run time error -1 (plugin "K_ZP_control_data.amxx") - debug not enabled!
+L 11/03/2024 - 19:37:47: Start of error session.
+L 11/03/2024 - 19:37:47: Info (map "zm_creative") (file "addons/amxmodx/logs/error_20241103.log")
+L 11/03/2024 - 19:37:47: Function "native_save_knife" was not found
+L 11/03/2024 - 19:37:47: [AMXX] Run time error 19 (plugin "K_ZP_control_data.amxx") - debug not enabled!
+L 11/03/2024 - 19:37:47: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 11/03/2024 - 19:37:47: [AMXX] Run time error -1 (plugin "K_ZP_control_data.amxx") - debug not enabled!
+L 11/03/2024 - 19:41:01: Start of error session.
+L 11/03/2024 - 19:41:01: Info (map "zm_creative") (file "addons/amxmodx/logs/error_20241103.log")
+L 11/03/2024 - 19:41:01: Function "native_save_knife" was not found
+L 11/03/2024 - 19:41:01: [AMXX] Run time error 19 (plugin "K_ZP_control_data.amxx") - debug not enabled!
+L 11/03/2024 - 19:41:01: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 11/03/2024 - 19:41:01: [AMXX] Run time error -1 (plugin "K_ZP_control_data.amxx") - debug not enabled!
+L 11/03/2024 - 19:42:45: Start of error session.
+L 11/03/2024 - 19:42:45: Info (map "zm_creative") (file "addons/amxmodx/logs/error_20241103.log")
+L 11/03/2024 - 19:42:45: Function "native_save_knife" was not found
+L 11/03/2024 - 19:42:45: [AMXX] Run time error 19 (plugin "K_ZP_control_data.amxx") - debug not enabled!
+L 11/03/2024 - 19:42:45: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 11/03/2024 - 19:42:45: [AMXX] Run time error -1 (plugin "K_ZP_control_data.amxx") - debug not enabled!
+L 11/03/2024 - 19:44:46: Start of error session.
+L 11/03/2024 - 19:44:46: Info (map "zm_creative") (file "addons/amxmodx/logs/error_20241103.log")
+L 11/03/2024 - 19:44:46: Function "native_save_knife" was not found
+L 11/03/2024 - 19:44:46: [AMXX] Run time error 19 (plugin "K_ZP_control_data.amxx") - debug not enabled!
+L 11/03/2024 - 19:44:46: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 11/03/2024 - 19:44:46: [AMXX] Run time error -1 (plugin "K_ZP_control_data.amxx") - debug not enabled!
+L 11/03/2024 - 19:46:35: Start of error session.
+L 11/03/2024 - 19:46:35: Info (map "zm_creative") (file "addons/amxmodx/logs/error_20241103.log")
+L 11/03/2024 - 19:46:35: Function "native_save_ammo" was not found
+L 11/03/2024 - 19:46:35: [AMXX] Run time error 19 (plugin "K_ZP_control_data.amxx") - debug not enabled!
+L 11/03/2024 - 19:46:35: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 11/03/2024 - 19:46:35: [AMXX] Run time error -1 (plugin "K_ZP_control_data.amxx") - debug not enabled!
+L 11/03/2024 - 19:46:36: [nVault] Invalid vault id: 0
+
+L 11/03/2024 - 19:46:36: [AMXX] Displaying debug trace (plugin "K_ZP_control_data.amxx", version "1.0")
+L 11/03/2024 - 19:46:36: [AMXX] Run time error 10: native error (native "nvault_set")
+L 11/03/2024 - 19:46:36: [AMXX]    [0] K_ZP_control_data.sma::Save_date (line 136)
+L 11/03/2024 - 19:46:36: [AMXX]    [1] K_ZP_control_data.sma::plugin_init (line 24)
+L 11/03/2024 - 19:48:19: Start of error session.
+L 11/03/2024 - 19:48:19: Info (map "zm_creative") (file "addons/amxmodx/logs/error_20241103.log")
+L 11/03/2024 - 19:48:19: Function "native_save_ammo" was not found
+L 11/03/2024 - 19:48:19: [AMXX] Run time error 19 (plugin "K_ZP_control_data.amxx") - debug not enabled!
+L 11/03/2024 - 19:48:19: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 11/03/2024 - 19:48:19: [AMXX] Run time error -1 (plugin "K_ZP_control_data.amxx") - debug not enabled!
+L 11/03/2024 - 19:48:19: [nVault] Invalid vault id: 0
+
+L 11/03/2024 - 19:48:19: [AMXX] Displaying debug trace (plugin "K_ZP_control_data.amxx", version "1.0")
+L 11/03/2024 - 19:48:19: [AMXX] Run time error 10: native error (native "nvault_set")
+L 11/03/2024 - 19:48:19: [AMXX]    [0] K_ZP_control_data.sma::Save_date (line 136)
+L 11/03/2024 - 19:48:19: [AMXX]    [1] K_ZP_control_data.sma::plugin_init (line 24)
+L 11/03/2024 - 19:51:22: Start of error session.
+L 11/03/2024 - 19:51:22: Info (map "zm_creative") (file "addons/amxmodx/logs/error_20241103.log")
+L 11/03/2024 - 19:51:22: Function "native_save_ammo" was not found
+L 11/03/2024 - 19:51:22: [AMXX] Run time error 19 (plugin "K_ZP_control_data.amxx") - debug not enabled!
+L 11/03/2024 - 19:51:22: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 11/03/2024 - 19:51:22: [AMXX] Run time error -1 (plugin "K_ZP_control_data.amxx") - debug not enabled!
+L 11/03/2024 - 19:51:22: [nVault] Invalid vault id: 0
+
+L 11/03/2024 - 19:51:22: [AMXX] Displaying debug trace (plugin "K_ZP_control_data.amxx", version "1.0")
+L 11/03/2024 - 19:51:22: [AMXX] Run time error 10: native error (native "nvault_set")
+L 11/03/2024 - 19:51:22: [AMXX]    [0] K_ZP_control_data.sma::Save_date (line 136)
+L 11/03/2024 - 19:51:22: [AMXX]    [1] K_ZP_control_data.sma::plugin_init (line 24)
+L 11/03/2024 - 19:52:52: Start of error session.
+L 11/03/2024 - 19:52:52: Info (map "zm_fdust2x2") (file "addons/amxmodx/logs/error_20241103.log")
+L 11/03/2024 - 19:52:52: Function "native_save_ammo" was not found
+L 11/03/2024 - 19:52:52: [AMXX] Run time error 19 (plugin "K_ZP_control_data.amxx") - debug not enabled!
+L 11/03/2024 - 19:52:52: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 11/03/2024 - 19:52:52: [AMXX] Run time error -1 (plugin "K_ZP_control_data.amxx") - debug not enabled!
+L 11/03/2024 - 19:52:53: [nVault] Invalid vault id: 0
+
+L 11/03/2024 - 19:52:53: [AMXX] Displaying debug trace (plugin "K_ZP_control_data.amxx", version "1.0")
+L 11/03/2024 - 19:52:53: [AMXX] Run time error 10: native error (native "nvault_set")
+L 11/03/2024 - 19:52:53: [AMXX]    [0] K_ZP_control_data.sma::Save_date (line 136)
+L 11/03/2024 - 19:52:53: [AMXX]    [1] K_ZP_control_data.sma::plugin_init (line 24)
+L 11/03/2024 - 19:53:02: Start of error session.
+L 11/03/2024 - 19:53:02: Info (map "zm_fdust2x2") (file "addons/amxmodx/logs/error_20241103.log")
+L 11/03/2024 - 19:53:02: Function "native_save_ammo" was not found
+L 11/03/2024 - 19:53:02: [AMXX] Run time error 19 (plugin "K_ZP_control_data.amxx") - debug not enabled!
+L 11/03/2024 - 19:53:02: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 11/03/2024 - 19:53:02: [AMXX] Run time error -1 (plugin "K_ZP_control_data.amxx") - debug not enabled!
+L 11/03/2024 - 19:53:03: [nVault] Invalid vault id: 0
+
+L 11/03/2024 - 19:53:03: [AMXX] Displaying debug trace (plugin "K_ZP_control_data.amxx", version "1.0")
+L 11/03/2024 - 19:53:03: [AMXX] Run time error 10: native error (native "nvault_set")
+L 11/03/2024 - 19:53:03: [AMXX]    [0] K_ZP_control_data.sma::Save_date (line 136)
+L 11/03/2024 - 19:53:03: [AMXX]    [1] K_ZP_control_data.sma::plugin_init (line 24)
+L 11/03/2024 - 19:57:11: Start of error session.
+L 11/03/2024 - 19:57:11: Info (map "zm_fdust2x2") (file "addons/amxmodx/logs/error_20241103.log")
+L 11/03/2024 - 19:57:11: [nVault] Invalid vault id: 0
+
+L 11/03/2024 - 19:57:11: [AMXX] Displaying debug trace (plugin "K_ZP_control_data.amxx", version "1.0")
+L 11/03/2024 - 19:57:11: [AMXX] Run time error 10: native error (native "nvault_set")
+L 11/03/2024 - 19:57:11: [AMXX]    [0] K_ZP_control_data.sma::Save_date (line 136)
+L 11/03/2024 - 19:57:11: [AMXX]    [1] K_ZP_control_data.sma::plugin_init (line 24)
+L 11/03/2024 - 19:58:31: Start of error session.
+L 11/03/2024 - 19:58:31: Info (map "zm_ngamers_lights_f") (file "addons/amxmodx/logs/error_20241103.log")
+L 11/03/2024 - 19:58:31: [nVault] Invalid vault id: 0
+
+L 11/03/2024 - 19:58:31: [AMXX] Displaying debug trace (plugin "K_ZP_control_data.amxx", version "1.0")
+L 11/03/2024 - 19:58:31: [AMXX] Run time error 10: native error (native "nvault_set")
+L 11/03/2024 - 19:58:31: [AMXX]    [0] K_ZP_control_data.sma::Save_date (line 136)
+L 11/03/2024 - 19:58:31: [AMXX]    [1] K_ZP_control_data.sma::plugin_init (line 24)
+L 11/03/2024 - 19:59:17: [AMXX] Displaying debug trace (plugin "K_lib_entity.amxx", version "1.0")
+L 11/03/2024 - 19:59:17: [AMXX] Run time error 4: index out of bounds 
+L 11/03/2024 - 19:59:17: [AMXX]    [0] K_lib_entity.sma::native_new_entity (line 81)
+L 11/03/2024 - 19:59:17: Unhandled dynamic native error
+L 11/03/2024 - 19:59:17: [AMXX] Displaying debug trace (plugin "K_M_knifes.amxx", version "1.0")
+L 11/03/2024 - 19:59:17: [AMXX] Run time error 10: native error (native "new_entity")
+L 11/03/2024 - 19:59:17: [AMXX]    [0] K_M_knifes.sma::use_knife_skill (line 409)
+L 11/03/2024 - 19:59:30: [AMXX] Displaying debug trace (plugin "K_M_knifes.amxx", version "1.0")
+L 11/03/2024 - 19:59:30: [AMXX] Run time error 4: index out of bounds 
+L 11/03/2024 - 19:59:30: [AMXX]    [0] K_M_knifes.sma::EntityTask (line 560)
+L 11/03/2024 - 19:59:30: [AMXX] Displaying debug trace (plugin "K_M_knifes.amxx", version "1.0")
+L 11/03/2024 - 19:59:30: [AMXX] Run time error 4: index out of bounds 
+L 11/03/2024 - 19:59:30: [AMXX]    [0] K_M_knifes.sma::EntityTask (line 560)
+L 11/03/2024 - 19:59:31: [AMXX] Displaying debug trace (plugin "K_M_knifes.amxx", version "1.0")
+L 11/03/2024 - 19:59:31: [AMXX] Run time error 4: index out of bounds 
+L 11/03/2024 - 19:59:31: [AMXX]    [0] K_M_knifes.sma::EntityTask (line 560)
+L 11/03/2024 - 19:59:31: [AMXX] Displaying debug trace (plugin "K_M_knifes.amxx", version "1.0")
+L 11/03/2024 - 19:59:31: [AMXX] Run time error 4: index out of bounds 
+L 11/03/2024 - 19:59:31: [AMXX]    [0] K_M_knifes.sma::EntityTask (line 560)
+L 11/03/2024 - 19:59:31: [AMXX] Displaying debug trace (plugin "K_M_knifes.amxx", version "1.0")
+L 11/03/2024 - 19:59:31: [AMXX] Run time error 4: index out of bounds 
+L 11/03/2024 - 19:59:31: [AMXX]    [0] K_M_knifes.sma::EntityTask (line 560)
+L 11/03/2024 - 19:59:31: [AMXX] Displaying debug trace (plugin "K_M_knifes.amxx", version "1.0")
+L 11/03/2024 - 19:59:31: [AMXX] Run time error 4: index out of bounds 
+L 11/03/2024 - 19:59:31: [AMXX]    [0] K_M_knifes.sma::EntityTask (line 560)
+L 11/03/2024 - 19:59:31: [AMXX] Displaying debug trace (plugin "K_M_knifes.amxx", version "1.0")
+L 11/03/2024 - 19:59:31: [AMXX] Run time error 4: index out of bounds 
+L 11/03/2024 - 19:59:31: [AMXX]    [0] K_M_knifes.sma::EntityTask (line 560)
+L 11/03/2024 - 19:59:32: [AMXX] Displaying debug trace (plugin "K_M_knifes.amxx", version "1.0")
+L 11/03/2024 - 19:59:32: [AMXX] Run time error 4: index out of bounds 
+L 11/03/2024 - 19:59:32: [AMXX]    [0] K_M_knifes.sma::EntityTask (line 560)
+L 11/03/2024 - 19:59:33: [AMXX] Displaying debug trace (plugin "K_M_knifes.amxx", version "1.0")
+L 11/03/2024 - 19:59:33: [AMXX] Run time error 4: index out of bounds 
+L 11/03/2024 - 19:59:33: [AMXX]    [0] K_M_knifes.sma::EntityTask (line 560)
+L 11/03/2024 - 19:59:34: [AMXX] Displaying debug trace (plugin "K_M_knifes.amxx", version "1.0")
+L 11/03/2024 - 19:59:34: [AMXX] Run time error 4: index out of bounds 
+L 11/03/2024 - 19:59:34: [AMXX]    [0] K_M_knifes.sma::EntityTask (line 560)
+L 11/03/2024 - 19:59:34: [AMXX] Displaying debug trace (plugin "K_M_knifes.amxx", version "1.0")
+L 11/03/2024 - 19:59:34: [AMXX] Run time error 4: index out of bounds 
+L 11/03/2024 - 19:59:34: [AMXX]    [0] K_M_knifes.sma::EntityTask (line 560)
+L 11/03/2024 - 19:59:35: [AMXX] Displaying debug trace (plugin "K_M_knifes.amxx", version "1.0")
+L 11/03/2024 - 19:59:35: [AMXX] Run time error 4: index out of bounds 
+L 11/03/2024 - 19:59:35: [AMXX]    [0] K_M_knifes.sma::EntityTask (line 560)
+L 11/03/2024 - 19:59:35: [AMXX] Displaying debug trace (plugin "K_M_knifes.amxx", version "1.0")
+L 11/03/2024 - 19:59:35: [AMXX] Run time error 4: index out of bounds 
+L 11/03/2024 - 19:59:35: [AMXX]    [0] K_M_knifes.sma::EntityTask (line 560)
+L 11/03/2024 - 19:59:40: [AMXX] Displaying debug trace (plugin "K_M_knifes.amxx", version "1.0")
+L 11/03/2024 - 19:59:40: [AMXX] Run time error 4: index out of bounds 
+L 11/03/2024 - 19:59:40: [AMXX]    [0] K_M_knifes.sma::EntityTask (line 560)
+L 11/03/2024 - 19:59:41: [AMXX] Displaying debug trace (plugin "K_M_knifes.amxx", version "1.0")
+L 11/03/2024 - 19:59:41: [AMXX] Run time error 4: index out of bounds 
+L 11/03/2024 - 19:59:41: [AMXX]    [0] K_M_knifes.sma::EntityTask (line 560)
+L 11/03/2024 - 19:59:41: [AMXX] Displaying debug trace (plugin "K_M_knifes.amxx", version "1.0")
+L 11/03/2024 - 19:59:41: [AMXX] Run time error 4: index out of bounds 
+L 11/03/2024 - 19:59:41: [AMXX]    [0] K_M_knifes.sma::EntityTask (line 560)
+L 11/03/2024 - 19:59:41: [AMXX] Displaying debug trace (plugin "K_M_knifes.amxx", version "1.0")
+L 11/03/2024 - 19:59:41: [AMXX] Run time error 4: index out of bounds 
+L 11/03/2024 - 19:59:41: [AMXX]    [0] K_M_knifes.sma::EntityTask (line 560)
+L 11/03/2024 - 19:59:41: [AMXX] Displaying debug trace (plugin "K_M_knifes.amxx", version "1.0")
+L 11/03/2024 - 19:59:41: [AMXX] Run time error 4: index out of bounds 
+L 11/03/2024 - 19:59:41: [AMXX]    [0] K_M_knifes.sma::EntityTask (line 560)
+L 11/03/2024 - 19:59:42: [AMXX] Displaying debug trace (plugin "K_M_knifes.amxx", version "1.0")
+L 11/03/2024 - 19:59:42: [AMXX] Run time error 4: index out of bounds 
+L 11/03/2024 - 19:59:42: [AMXX]    [0] K_M_knifes.sma::EntityTask (line 560)
+L 11/03/2024 - 19:59:43: [AMXX] Displaying debug trace (plugin "K_M_knifes.amxx", version "1.0")
+L 11/03/2024 - 19:59:43: [AMXX] Run time error 4: index out of bounds 
+L 11/03/2024 - 19:59:43: [AMXX]    [0] K_M_knifes.sma::EntityTask (line 560)
+L 11/03/2024 - 19:59:43: [AMXX] Displaying debug trace (plugin "K_M_knifes.amxx", version "1.0")
+L 11/03/2024 - 19:59:43: [AMXX] Run time error 4: index out of bounds 
+L 11/03/2024 - 19:59:43: [AMXX]    [0] K_M_knifes.sma::EntityTask (line 560)
+L 11/03/2024 - 19:59:43: [AMXX] Displaying debug trace (plugin "K_M_knifes.amxx", version "1.0")
+L 11/03/2024 - 19:59:43: [AMXX] Run time error 4: index out of bounds 
+L 11/03/2024 - 19:59:43: [AMXX]    [0] K_M_knifes.sma::EntityTask (line 560)
+L 11/03/2024 - 19:59:44: [AMXX] Displaying debug trace (plugin "K_M_knifes.amxx", version "1.0")
+L 11/03/2024 - 19:59:44: [AMXX] Run time error 4: index out of bounds 
+L 11/03/2024 - 19:59:44: [AMXX]    [0] K_M_knifes.sma::EntityTask (line 560)
+L 11/03/2024 - 19:59:44: [AMXX] Displaying debug trace (plugin "K_M_knifes.amxx", version "1.0")
+L 11/03/2024 - 19:59:44: [AMXX] Run time error 4: index out of bounds 
+L 11/03/2024 - 19:59:44: [AMXX]    [0] K_M_knifes.sma::EntityTask (line 560)
+L 11/03/2024 - 19:59:45: [AMXX] Displaying debug trace (plugin "K_M_knifes.amxx", version "1.0")
+L 11/03/2024 - 19:59:45: [AMXX] Run time error 4: index out of bounds 
+L 11/03/2024 - 19:59:45: [AMXX]    [0] K_M_knifes.sma::EntityTask (line 560)
+L 11/03/2024 - 20:03:23: [AMXX] Displaying debug trace (plugin "K_M_knifes.amxx", version "1.0")
+L 11/03/2024 - 20:03:23: [AMXX] Run time error 4: index out of bounds 
+L 11/03/2024 - 20:03:23: [AMXX]    [0] K_M_knifes.sma::EntityTask (line 560)
+L 11/03/2024 - 20:03:23: [AMXX] Displaying debug trace (plugin "K_M_knifes.amxx", version "1.0")
+L 11/03/2024 - 20:03:23: [AMXX] Run time error 4: index out of bounds 
+L 11/03/2024 - 20:03:23: [AMXX]    [0] K_M_knifes.sma::EntityTask (line 560)
+L 11/03/2024 - 20:03:23: [AMXX] Displaying debug trace (plugin "K_M_knifes.amxx", version "1.0")
+L 11/03/2024 - 20:03:23: [AMXX] Run time error 4: index out of bounds 
+L 11/03/2024 - 20:03:23: [AMXX]    [0] K_M_knifes.sma::EntityTask (line 560)
+L 11/03/2024 - 20:03:24: [AMXX] Displaying debug trace (plugin "K_M_knifes.amxx", version "1.0")
+L 11/03/2024 - 20:03:24: [AMXX] Run time error 4: index out of bounds 
+L 11/03/2024 - 20:03:24: [AMXX]    [0] K_M_knifes.sma::EntityTask (line 560)
+L 11/03/2024 - 20:03:24: [AMXX] Displaying debug trace (plugin "K_M_knifes.amxx", version "1.0")
+L 11/03/2024 - 20:03:24: [AMXX] Run time error 4: index out of bounds 
+L 11/03/2024 - 20:03:24: [AMXX]    [0] K_M_knifes.sma::EntityTask (line 560)
+L 11/03/2024 - 20:03:25: [AMXX] Displaying debug trace (plugin "K_M_knifes.amxx", version "1.0")
+L 11/03/2024 - 20:03:25: [AMXX] Run time error 4: index out of bounds 
+L 11/03/2024 - 20:03:25: [AMXX]    [0] K_M_knifes.sma::EntityTask (line 560)
+L 11/03/2024 - 20:03:25: [AMXX] Displaying debug trace (plugin "K_M_knifes.amxx", version "1.0")
+L 11/03/2024 - 20:03:25: [AMXX] Run time error 4: index out of bounds 
+L 11/03/2024 - 20:03:25: [AMXX]    [0] K_M_knifes.sma::EntityTask (line 560)
+L 11/03/2024 - 20:03:26: [AMXX] Displaying debug trace (plugin "K_M_knifes.amxx", version "1.0")
+L 11/03/2024 - 20:03:26: [AMXX] Run time error 4: index out of bounds 
+L 11/03/2024 - 20:03:26: [AMXX]    [0] K_M_knifes.sma::EntityTask (line 560)
+L 11/03/2024 - 20:03:27: [AMXX] Displaying debug trace (plugin "K_M_knifes.amxx", version "1.0")
+L 11/03/2024 - 20:03:27: [AMXX] Run time error 4: index out of bounds 
+L 11/03/2024 - 20:03:27: [AMXX]    [0] K_M_knifes.sma::EntityTask (line 560)
+L 11/03/2024 - 20:03:27: [AMXX] Displaying debug trace (plugin "K_M_knifes.amxx", version "1.0")
+L 11/03/2024 - 20:03:27: [AMXX] Run time error 4: index out of bounds 
+L 11/03/2024 - 20:03:27: [AMXX]    [0] K_M_knifes.sma::EntityTask (line 560)
+L 11/03/2024 - 20:03:27: [AMXX] Displaying debug trace (plugin "K_M_knifes.amxx", version "1.0")
+L 11/03/2024 - 20:03:27: [AMXX] Run time error 4: index out of bounds 
+L 11/03/2024 - 20:03:27: [AMXX]    [0] K_M_knifes.sma::EntityTask (line 560)
+L 11/03/2024 - 20:19:26: Start of error session.
+L 11/03/2024 - 20:19:26: Info (map "zm_ngamers_lights_f") (file "addons/amxmodx/logs/error_20241103.log")
+L 11/03/2024 - 20:19:26: [nVault] Invalid vault id: 0
+
+L 11/03/2024 - 20:19:26: [AMXX] Displaying debug trace (plugin "K_ZP_control_data.amxx", version "1.0")
+L 11/03/2024 - 20:19:26: [AMXX] Run time error 10: native error (native "nvault_set")
+L 11/03/2024 - 20:19:26: [AMXX]    [0] K_ZP_control_data.sma::Save_date (line 136)
+L 11/03/2024 - 20:19:26: [AMXX]    [1] K_ZP_control_data.sma::plugin_init (line 24)
+L 11/03/2024 - 20:20:29: [AMXX] Displaying debug trace (plugin "K_M_knifes.amxx", version "1.0")
+L 11/03/2024 - 20:20:29: [AMXX] Run time error 4: index out of bounds 
+L 11/03/2024 - 20:20:29: [AMXX]    [0] K_M_knifes.sma::EntityTask (line 560)
+L 11/03/2024 - 20:20:29: [AMXX] Displaying debug trace (plugin "K_M_knifes.amxx", version "1.0")
+L 11/03/2024 - 20:20:29: [AMXX] Run time error 4: index out of bounds 
+L 11/03/2024 - 20:20:29: [AMXX]    [0] K_M_knifes.sma::EntityTask (line 560)
+L 11/03/2024 - 20:20:30: [AMXX] Displaying debug trace (plugin "K_M_knifes.amxx", version "1.0")
+L 11/03/2024 - 20:20:30: [AMXX] Run time error 4: index out of bounds 
+L 11/03/2024 - 20:20:30: [AMXX]    [0] K_M_knifes.sma::EntityTask (line 560)
+L 11/03/2024 - 20:20:30: [AMXX] Displaying debug trace (plugin "K_M_knifes.amxx", version "1.0")
+L 11/03/2024 - 20:20:30: [AMXX] Run time error 4: index out of bounds 
+L 11/03/2024 - 20:20:30: [AMXX]    [0] K_M_knifes.sma::EntityTask (line 560)
+L 11/03/2024 - 20:20:30: [AMXX] Displaying debug trace (plugin "K_M_knifes.amxx", version "1.0")
+L 11/03/2024 - 20:20:30: [AMXX] Run time error 4: index out of bounds 
+L 11/03/2024 - 20:20:30: [AMXX]    [0] K_M_knifes.sma::EntityTask (line 560)
+L 11/03/2024 - 20:20:30: [AMXX] Displaying debug trace (plugin "K_M_knifes.amxx", version "1.0")
+L 11/03/2024 - 20:20:30: [AMXX] Run time error 4: index out of bounds 
+L 11/03/2024 - 20:20:30: [AMXX]    [0] K_M_knifes.sma::EntityTask (line 560)
+L 11/03/2024 - 20:20:31: [AMXX] Displaying debug trace (plugin "K_M_knifes.amxx", version "1.0")
+L 11/03/2024 - 20:20:31: [AMXX] Run time error 4: index out of bounds 
+L 11/03/2024 - 20:20:31: [AMXX]    [0] K_M_knifes.sma::EntityTask (line 560)
+L 11/03/2024 - 20:20:31: [AMXX] Displaying debug trace (plugin "K_M_knifes.amxx", version "1.0")
+L 11/03/2024 - 20:20:31: [AMXX] Run time error 4: index out of bounds 
+L 11/03/2024 - 20:20:31: [AMXX]    [0] K_M_knifes.sma::EntityTask (line 560)
+L 11/03/2024 - 20:20:31: [AMXX] Displaying debug trace (plugin "K_M_knifes.amxx", version "1.0")
+L 11/03/2024 - 20:20:31: [AMXX] Run time error 4: index out of bounds 
+L 11/03/2024 - 20:20:31: [AMXX]    [0] K_M_knifes.sma::EntityTask (line 560)
+L 11/03/2024 - 20:20:31: [AMXX] Displaying debug trace (plugin "K_M_knifes.amxx", version "1.0")
+L 11/03/2024 - 20:20:31: [AMXX] Run time error 4: index out of bounds 
+L 11/03/2024 - 20:20:31: [AMXX]    [0] K_M_knifes.sma::EntityTask (line 560)
+L 11/03/2024 - 20:20:32: [AMXX] Displaying debug trace (plugin "K_M_knifes.amxx", version "1.0")
+L 11/03/2024 - 20:20:32: [AMXX] Run time error 4: index out of bounds 
+L 11/03/2024 - 20:20:32: [AMXX]    [0] K_M_knifes.sma::EntityTask (line 560)
+L 11/03/2024 - 20:20:33: [AMXX] Displaying debug trace (plugin "K_M_knifes.amxx", version "1.0")
+L 11/03/2024 - 20:20:33: [AMXX] Run time error 4: index out of bounds 
+L 11/03/2024 - 20:20:33: [AMXX]    [0] K_M_knifes.sma::EntityTask (line 560)
+L 11/03/2024 - 20:20:33: [AMXX] Displaying debug trace (plugin "K_M_knifes.amxx", version "1.0")
+L 11/03/2024 - 20:20:33: [AMXX] Run time error 4: index out of bounds 
+L 11/03/2024 - 20:20:33: [AMXX]    [0] K_M_knifes.sma::EntityTask (line 560)
+L 11/03/2024 - 20:20:33: [AMXX] Displaying debug trace (plugin "K_M_knifes.amxx", version "1.0")
+L 11/03/2024 - 20:20:33: [AMXX] Run time error 4: index out of bounds 
+L 11/03/2024 - 20:20:33: [AMXX]    [0] K_M_knifes.sma::EntityTask (line 560)
+L 11/03/2024 - 20:21:25: Start of error session.
+L 11/03/2024 - 20:21:25: Info (map "zm_ngamers_lights_f") (file "addons/amxmodx/logs/error_20241103.log")
+L 11/03/2024 - 20:21:25: [nVault] Invalid vault id: 0
+
+L 11/03/2024 - 20:21:25: [AMXX] Displaying debug trace (plugin "K_ZP_control_data.amxx", version "1.0")
+L 11/03/2024 - 20:21:25: [AMXX] Run time error 10: native error (native "nvault_set")
+L 11/03/2024 - 20:21:25: [AMXX]    [0] K_ZP_control_data.sma::Save_date (line 136)
+L 11/03/2024 - 20:21:25: [AMXX]    [1] K_ZP_control_data.sma::plugin_init (line 24)
+L 11/03/2024 - 20:36:01: Start of error session.
+L 11/03/2024 - 20:36:01: Info (map "zm_ngamers_lights_f") (file "addons/amxmodx/logs/error_20241103.log")
+L 11/03/2024 - 20:36:01: [nVault] Invalid vault id: 0
+
+L 11/03/2024 - 20:36:01: [AMXX] Displaying debug trace (plugin "K_ZP_control_data.amxx", version "1.0")
+L 11/03/2024 - 20:36:01: [AMXX] Run time error 10: native error (native "nvault_set")
+L 11/03/2024 - 20:36:01: [AMXX]    [0] K_ZP_control_data.sma::Save_date (line 136)
+L 11/03/2024 - 20:36:01: [AMXX]    [1] K_ZP_control_data.sma::plugin_init (line 24)
+L 11/03/2024 - 20:36:14: Start of error session.
+L 11/03/2024 - 20:36:14: Info (map "zm_ngamers_lights_f") (file "addons/amxmodx/logs/error_20241103.log")
+L 11/03/2024 - 20:36:14: [nVault] Invalid vault id: 0
+
+L 11/03/2024 - 20:36:14: [AMXX] Displaying debug trace (plugin "K_ZP_control_data.amxx", version "1.0")
+L 11/03/2024 - 20:36:14: [AMXX] Run time error 10: native error (native "nvault_set")
+L 11/03/2024 - 20:36:14: [AMXX]    [0] K_ZP_control_data.sma::Save_date (line 136)
+L 11/03/2024 - 20:36:14: [AMXX]    [1] K_ZP_control_data.sma::plugin_init (line 24)
+L 11/03/2024 - 20:40:39: Start of error session.
+L 11/03/2024 - 20:40:39: Info (map "zm_ngamers_lights_f") (file "addons/amxmodx/logs/error_20241103.log")
+L 11/03/2024 - 20:40:39: [nVault] Invalid vault id: 0
+
+L 11/03/2024 - 20:40:39: [AMXX] Displaying debug trace (plugin "K_ZP_control_data.amxx", version "1.0")
+L 11/03/2024 - 20:40:39: [AMXX] Run time error 10: native error (native "nvault_set")
+L 11/03/2024 - 20:40:39: [AMXX]    [0] K_ZP_control_data.sma::Save_date (line 135)
+L 11/03/2024 - 20:40:39: [AMXX]    [1] K_ZP_control_data.sma::plugin_init (line 24)
+L 11/03/2024 - 21:15:08: Start of error session.
+L 11/03/2024 - 21:15:08: Info (map "zm_ngamers_lights_f") (file "addons/amxmodx/logs/error_20241103.log")
+L 11/03/2024 - 21:15:08: [nVault] Invalid vault id: 0
+
+L 11/03/2024 - 21:15:08: [AMXX] Displaying debug trace (plugin "K_ZP_control_data.amxx", version "1.0")
+L 11/03/2024 - 21:15:08: [AMXX] Run time error 10: native error (native "nvault_set")
+L 11/03/2024 - 21:15:08: [AMXX]    [0] K_ZP_control_data.sma::Save_date (line 133)
+L 11/03/2024 - 21:15:08: [AMXX]    [1] K_ZP_control_data.sma::plugin_init (line 24)

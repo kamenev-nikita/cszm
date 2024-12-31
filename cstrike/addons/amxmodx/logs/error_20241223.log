@@ -1,0 +1,552 @@
+L 12/23/2024 - 13:54:38: Start of error session.
+L 12/23/2024 - 13:54:38: Info (map "zm_ngamers_lights_f") (file "addons/amxmodx/logs/error_20241223.log")
+L 12/23/2024 - 13:54:38: [HAMSANDWICH] Failed to retrieve classtype for "", hook for "f_HamWeaponReload" not active.
+L 12/23/2024 - 13:54:38: [AMXX] Displaying debug trace (plugin "K_ZP_main.amxx", version "1.0")
+L 12/23/2024 - 13:54:38: [AMXX] Run time error 10: native error (native "RegisterHam")
+L 12/23/2024 - 13:54:38: [AMXX]    [0] Krol_basic.inc::get_weapon_guns_name_by_id (line 506)
+L 12/23/2024 - 13:54:38: [AMXX]    [1] K_ZP_main.sma::plugin_init (line 33)
+L 12/23/2024 - 13:55:01: Invalid player id 0
+L 12/23/2024 - 13:55:01: [AMXX] Displaying debug trace (plugin "K_lib_ZP.amxx", version "1.0")
+L 12/23/2024 - 13:55:01: [AMXX] Run time error 10: native error (native "get_user_weapons")
+L 12/23/2024 - 13:55:01: [AMXX]    [0] Krol_basic.inc::drop_weapons (line 405)
+L 12/23/2024 - 13:55:01: [AMXX]    [1] K_lib_ZP.sma::native_make_survivor (line 224)
+L 12/23/2024 - 13:55:01: [AMXX]    [2] K_lib_ZP.sma::native_start_mode (line 149)
+L 12/23/2024 - 13:55:01: Unhandled dynamic native error
+L 12/23/2024 - 13:55:01: [AMXX] Displaying debug trace (plugin "K_ZP_main.amxx", version "1.0")
+L 12/23/2024 - 13:55:01: [AMXX] Run time error 10: native error (native "start_mode")
+L 12/23/2024 - 13:55:01: [AMXX]    [0] K_ZP_main.sma::task_start_mode (line 118)
+L 12/23/2024 - 15:25:07: Start of error session.
+L 12/23/2024 - 15:25:07: Info (map "zm_ngamers_lights_f") (file "addons/amxmodx/logs/error_20241223.log")
+L 12/23/2024 - 15:25:07: [HAMSANDWICH] Failed to retrieve classtype for "", hook for "f_HamWeaponReload" not active.
+L 12/23/2024 - 15:25:07: [AMXX] Displaying debug trace (plugin "K_ZP_main.amxx", version "1.0")
+L 12/23/2024 - 15:25:07: [AMXX] Run time error 10: native error (native "RegisterHam")
+L 12/23/2024 - 15:25:07: [AMXX]    [0] Krol_basic.inc::get_weapon_guns_name_by_id (line 506)
+L 12/23/2024 - 15:25:07: [AMXX]    [1] K_ZP_main.sma::plugin_init (line 33)
+L 12/23/2024 - 15:26:09: Start of error session.
+L 12/23/2024 - 15:26:09: Info (map "zm_ngamers_lights_f") (file "addons/amxmodx/logs/error_20241223.log")
+L 12/23/2024 - 15:26:09: [HAMSANDWICH] Failed to retrieve classtype for "", hook for "f_HamWeaponReload" not active.
+L 12/23/2024 - 15:26:09: [AMXX] Displaying debug trace (plugin "K_ZP_main.amxx", version "1.0")
+L 12/23/2024 - 15:26:09: [AMXX] Run time error 10: native error (native "RegisterHam")
+L 12/23/2024 - 15:26:09: [AMXX]    [0] Krol_basic.inc::get_weapon_guns_name_by_id (line 506)
+L 12/23/2024 - 15:26:09: [AMXX]    [1] K_ZP_main.sma::plugin_init (line 33)
+L 12/23/2024 - 15:27:13: Start of error session.
+L 12/23/2024 - 15:27:13: Info (map "zm_ngamers_lights_f") (file "addons/amxmodx/logs/error_20241223.log")
+L 12/23/2024 - 15:27:13: [HAMSANDWICH] Failed to retrieve classtype for "", hook for "f_HamWeaponReload" not active.
+L 12/23/2024 - 15:27:13: [AMXX] Displaying debug trace (plugin "K_ZP_main.amxx", version "1.0")
+L 12/23/2024 - 15:27:13: [AMXX] Run time error 10: native error (native "RegisterHam")
+L 12/23/2024 - 15:27:13: [AMXX]    [0] Krol_basic.inc::get_weapon_guns_name_by_id (line 506)
+L 12/23/2024 - 15:27:13: [AMXX]    [1] K_ZP_main.sma::plugin_init (line 33)
+L 12/23/2024 - 15:29:32: Start of error session.
+L 12/23/2024 - 15:29:32: Info (map "zm_ngamers_lights_f") (file "addons/amxmodx/logs/error_20241223.log")
+L 12/23/2024 - 15:29:32: [HAMSANDWICH] Failed to retrieve classtype for "", hook for "f_HamWeaponReload" not active.
+L 12/23/2024 - 15:29:32: [AMXX] Displaying debug trace (plugin "K_ZP_main.amxx", version "1.0")
+L 12/23/2024 - 15:29:32: [AMXX] Run time error 10: native error (native "RegisterHam")
+L 12/23/2024 - 15:29:32: [AMXX]    [0] Krol_basic.inc::get_weapon_guns_name_by_id (line 506)
+L 12/23/2024 - 15:29:32: [AMXX]    [1] K_ZP_main.sma::plugin_init (line 33)
+L 12/23/2024 - 15:30:32: Start of error session.
+L 12/23/2024 - 15:30:32: Info (map "zm_ngamers_lights_f") (file "addons/amxmodx/logs/error_20241223.log")
+L 12/23/2024 - 15:30:32: [HAMSANDWICH] Failed to retrieve classtype for "", hook for "f_HamWeaponReload" not active.
+L 12/23/2024 - 15:30:32: [AMXX] Displaying debug trace (plugin "K_ZP_main.amxx", version "1.0")
+L 12/23/2024 - 15:30:32: [AMXX] Run time error 10: native error (native "RegisterHam")
+L 12/23/2024 - 15:30:32: [AMXX]    [0] Krol_basic.inc::get_weapon_guns_name_by_id (line 506)
+L 12/23/2024 - 15:30:32: [AMXX]    [1] K_ZP_main.sma::plugin_init (line 33)
+L 12/23/2024 - 15:31:42: Start of error session.
+L 12/23/2024 - 15:31:42: Info (map "zm_ngamers_lights_f") (file "addons/amxmodx/logs/error_20241223.log")
+L 12/23/2024 - 15:31:42: [HAMSANDWICH] Failed to retrieve classtype for "", hook for "f_HamWeaponReload" not active.
+L 12/23/2024 - 15:31:42: [AMXX] Displaying debug trace (plugin "K_ZP_main.amxx", version "1.0")
+L 12/23/2024 - 15:31:42: [AMXX] Run time error 10: native error (native "RegisterHam")
+L 12/23/2024 - 15:31:42: [AMXX]    [0] Krol_basic.inc::get_weapon_guns_name_by_id (line 506)
+L 12/23/2024 - 15:31:42: [AMXX]    [1] K_ZP_main.sma::plugin_init (line 33)
+L 12/23/2024 - 15:32:22: Start of error session.
+L 12/23/2024 - 15:32:22: Info (map "zm_ngamers_lights_f") (file "addons/amxmodx/logs/error_20241223.log")
+L 12/23/2024 - 15:32:22: [HAMSANDWICH] Failed to retrieve classtype for "", hook for "f_HamWeaponReload" not active.
+L 12/23/2024 - 15:32:22: [AMXX] Displaying debug trace (plugin "K_ZP_main.amxx", version "1.0")
+L 12/23/2024 - 15:32:22: [AMXX] Run time error 10: native error (native "RegisterHam")
+L 12/23/2024 - 15:32:22: [AMXX]    [0] Krol_basic.inc::get_weapon_guns_name_by_id (line 506)
+L 12/23/2024 - 15:32:22: [AMXX]    [1] K_ZP_main.sma::plugin_init (line 33)
+L 12/23/2024 - 15:33:01: Start of error session.
+L 12/23/2024 - 15:33:01: Info (map "zm_ngamers_lights_f") (file "addons/amxmodx/logs/error_20241223.log")
+L 12/23/2024 - 15:33:01: [HAMSANDWICH] Failed to retrieve classtype for "", hook for "f_HamWeaponReload" not active.
+L 12/23/2024 - 15:33:01: [AMXX] Displaying debug trace (plugin "K_ZP_main.amxx", version "1.0")
+L 12/23/2024 - 15:33:01: [AMXX] Run time error 10: native error (native "RegisterHam")
+L 12/23/2024 - 15:33:01: [AMXX]    [0] Krol_basic.inc::get_weapon_guns_name_by_id (line 506)
+L 12/23/2024 - 15:33:01: [AMXX]    [1] K_ZP_main.sma::plugin_init (line 33)
+L 12/23/2024 - 15:33:33: Start of error session.
+L 12/23/2024 - 15:33:33: Info (map "zm_ngamers_lights_f") (file "addons/amxmodx/logs/error_20241223.log")
+L 12/23/2024 - 15:33:33: [HAMSANDWICH] Failed to retrieve classtype for "", hook for "f_HamWeaponReload" not active.
+L 12/23/2024 - 15:33:33: [AMXX] Displaying debug trace (plugin "K_ZP_main.amxx", version "1.0")
+L 12/23/2024 - 15:33:33: [AMXX] Run time error 10: native error (native "RegisterHam")
+L 12/23/2024 - 15:33:33: [AMXX]    [0] Krol_basic.inc::get_weapon_guns_name_by_id (line 506)
+L 12/23/2024 - 15:33:33: [AMXX]    [1] K_ZP_main.sma::plugin_init (line 33)
+L 12/23/2024 - 15:33:56: Invalid player id 0
+L 12/23/2024 - 15:33:56: [AMXX] Displaying debug trace (plugin "K_lib_ZP.amxx", version "1.0")
+L 12/23/2024 - 15:33:56: [AMXX] Run time error 10: native error (native "get_user_weapons")
+L 12/23/2024 - 15:33:56: [AMXX]    [0] Krol_basic.inc::drop_weapons (line 405)
+L 12/23/2024 - 15:33:56: [AMXX]    [1] K_lib_ZP.sma::native_make_survivor (line 224)
+L 12/23/2024 - 15:33:56: [AMXX]    [2] K_lib_ZP.sma::native_start_mode (line 149)
+L 12/23/2024 - 15:33:56: Unhandled dynamic native error
+L 12/23/2024 - 15:33:56: [AMXX] Displaying debug trace (plugin "K_ZP_main.amxx", version "1.0")
+L 12/23/2024 - 15:33:56: [AMXX] Run time error 10: native error (native "start_mode")
+L 12/23/2024 - 15:33:56: [AMXX]    [0] K_ZP_main.sma::task_start_mode (line 118)
+L 12/23/2024 - 15:35:02: Start of error session.
+L 12/23/2024 - 15:35:02: Info (map "zm_ngamers_lights_f") (file "addons/amxmodx/logs/error_20241223.log")
+L 12/23/2024 - 15:35:02: [HAMSANDWICH] Failed to retrieve classtype for "", hook for "f_HamWeaponReload" not active.
+L 12/23/2024 - 15:35:02: [AMXX] Displaying debug trace (plugin "K_ZP_main.amxx", version "1.0")
+L 12/23/2024 - 15:35:02: [AMXX] Run time error 10: native error (native "RegisterHam")
+L 12/23/2024 - 15:35:02: [AMXX]    [0] Krol_basic.inc::get_weapon_guns_name_by_id (line 506)
+L 12/23/2024 - 15:35:02: [AMXX]    [1] K_ZP_main.sma::plugin_init (line 33)
+L 12/23/2024 - 16:03:40: Start of error session.
+L 12/23/2024 - 16:03:40: Info (map "zm_ngamers_lights_f") (file "addons/amxmodx/logs/error_20241223.log")
+L 12/23/2024 - 16:03:40: [HAMSANDWICH] Failed to retrieve classtype for "", hook for "f_HamWeaponReload" not active.
+L 12/23/2024 - 16:03:40: [AMXX] Displaying debug trace (plugin "K_ZP_main.amxx", version "1.0")
+L 12/23/2024 - 16:03:40: [AMXX] Run time error 10: native error (native "RegisterHam")
+L 12/23/2024 - 16:03:40: [AMXX]    [0] Krol_basic.inc::get_weapon_guns_name_by_id (line 506)
+L 12/23/2024 - 16:03:40: [AMXX]    [1] K_ZP_main.sma::plugin_init (line 33)
+L 12/23/2024 - 16:05:05: Start of error session.
+L 12/23/2024 - 16:05:05: Info (map "zm_ngamers_lights_f") (file "addons/amxmodx/logs/error_20241223.log")
+L 12/23/2024 - 16:05:05: [HAMSANDWICH] Failed to retrieve classtype for "", hook for "f_HamWeaponReload" not active.
+L 12/23/2024 - 16:05:05: [AMXX] Displaying debug trace (plugin "K_ZP_main.amxx", version "1.0")
+L 12/23/2024 - 16:05:05: [AMXX] Run time error 10: native error (native "RegisterHam")
+L 12/23/2024 - 16:05:05: [AMXX]    [0] Krol_basic.inc::get_weapon_guns_name_by_id (line 506)
+L 12/23/2024 - 16:05:05: [AMXX]    [1] K_ZP_main.sma::plugin_init (line 33)
+L 12/23/2024 - 16:05:56: Start of error session.
+L 12/23/2024 - 16:05:56: Info (map "zm_ngamers_lights_f") (file "addons/amxmodx/logs/error_20241223.log")
+L 12/23/2024 - 16:05:56: [HAMSANDWICH] Failed to retrieve classtype for "", hook for "f_HamWeaponReload" not active.
+L 12/23/2024 - 16:05:56: [AMXX] Displaying debug trace (plugin "K_ZP_main.amxx", version "1.0")
+L 12/23/2024 - 16:05:56: [AMXX] Run time error 10: native error (native "RegisterHam")
+L 12/23/2024 - 16:05:56: [AMXX]    [0] Krol_basic.inc::get_weapon_guns_name_by_id (line 506)
+L 12/23/2024 - 16:05:56: [AMXX]    [1] K_ZP_main.sma::plugin_init (line 33)
+L 12/23/2024 - 16:44:03: Start of error session.
+L 12/23/2024 - 16:44:03: Info (map "zm_ngamers_lights_f") (file "addons/amxmodx/logs/error_20241223.log")
+L 12/23/2024 - 16:44:03: [HAMSANDWICH] Failed to retrieve classtype for "", hook for "f_HamWeaponReload" not active.
+L 12/23/2024 - 16:44:03: [AMXX] Displaying debug trace (plugin "K_ZP_main.amxx", version "1.0")
+L 12/23/2024 - 16:44:03: [AMXX] Run time error 10: native error (native "RegisterHam")
+L 12/23/2024 - 16:44:03: [AMXX]    [0] Krol_basic.inc::get_weapon_guns_name_by_id (line 506)
+L 12/23/2024 - 16:44:03: [AMXX]    [1] K_ZP_main.sma::plugin_init (line 33)
+L 12/23/2024 - 16:44:27: Invalid player id 0
+L 12/23/2024 - 16:44:27: [AMXX] Displaying debug trace (plugin "K_lib_ZP.amxx", version "1.0")
+L 12/23/2024 - 16:44:27: [AMXX] Run time error 10: native error (native "get_user_weapons")
+L 12/23/2024 - 16:44:27: [AMXX]    [0] Krol_basic.inc::drop_weapons (line 405)
+L 12/23/2024 - 16:44:27: [AMXX]    [1] K_lib_ZP.sma::native_make_survivor (line 224)
+L 12/23/2024 - 16:44:27: [AMXX]    [2] K_lib_ZP.sma::native_start_mode (line 149)
+L 12/23/2024 - 16:44:27: Unhandled dynamic native error
+L 12/23/2024 - 16:44:27: [AMXX] Displaying debug trace (plugin "K_ZP_main.amxx", version "1.0")
+L 12/23/2024 - 16:44:27: [AMXX] Run time error 10: native error (native "start_mode")
+L 12/23/2024 - 16:44:27: [AMXX]    [0] K_ZP_main.sma::task_start_mode (line 118)
+L 12/23/2024 - 16:55:33: Start of error session.
+L 12/23/2024 - 16:55:33: Info (map "zm_ngamers_lights_f") (file "addons/amxmodx/logs/error_20241223.log")
+L 12/23/2024 - 16:55:33: [HAMSANDWICH] Failed to retrieve classtype for "", hook for "f_HamWeaponReload" not active.
+L 12/23/2024 - 16:55:33: [AMXX] Displaying debug trace (plugin "K_ZP_main.amxx", version "1.0")
+L 12/23/2024 - 16:55:33: [AMXX] Run time error 10: native error (native "RegisterHam")
+L 12/23/2024 - 16:55:33: [AMXX]    [0] Krol_basic.inc::get_weapon_guns_name_by_id (line 506)
+L 12/23/2024 - 16:55:33: [AMXX]    [1] K_ZP_main.sma::plugin_init (line 33)
+L 12/23/2024 - 17:06:18: Invalid player id 0
+L 12/23/2024 - 17:06:18: [AMXX] Displaying debug trace (plugin "K_lib_ZP.amxx", version "1.0")
+L 12/23/2024 - 17:06:18: [AMXX] Run time error 10: native error (native "get_user_weapons")
+L 12/23/2024 - 17:06:18: [AMXX]    [0] Krol_basic.inc::drop_weapons (line 405)
+L 12/23/2024 - 17:06:18: [AMXX]    [1] K_lib_ZP.sma::native_make_survivor (line 224)
+L 12/23/2024 - 17:06:18: [AMXX]    [2] K_lib_ZP.sma::native_start_mode (line 149)
+L 12/23/2024 - 17:06:18: Unhandled dynamic native error
+L 12/23/2024 - 17:06:18: [AMXX] Displaying debug trace (plugin "K_ZP_main.amxx", version "1.0")
+L 12/23/2024 - 17:06:18: [AMXX] Run time error 10: native error (native "start_mode")
+L 12/23/2024 - 17:06:18: [AMXX]    [0] K_ZP_main.sma::task_start_mode (line 118)
+L 12/23/2024 - 17:08:46: Start of error session.
+L 12/23/2024 - 17:08:46: Info (map "zm_ngamers_lights_f") (file "addons/amxmodx/logs/error_20241223.log")
+L 12/23/2024 - 17:08:46: [HAMSANDWICH] Failed to retrieve classtype for "", hook for "f_HamWeaponReload" not active.
+L 12/23/2024 - 17:08:46: [AMXX] Displaying debug trace (plugin "K_ZP_main.amxx", version "1.0")
+L 12/23/2024 - 17:08:46: [AMXX] Run time error 10: native error (native "RegisterHam")
+L 12/23/2024 - 17:08:46: [AMXX]    [0] Krol_basic.inc::get_weapon_guns_name_by_id (line 506)
+L 12/23/2024 - 17:08:46: [AMXX]    [1] K_ZP_main.sma::plugin_init (line 33)
+L 12/23/2024 - 17:15:31: Start of error session.
+L 12/23/2024 - 17:15:31: Info (map "zm_ngamers_lights_f") (file "addons/amxmodx/logs/error_20241223.log")
+L 12/23/2024 - 17:15:31: [HAMSANDWICH] Failed to retrieve classtype for "", hook for "f_HamWeaponReload" not active.
+L 12/23/2024 - 17:15:31: [AMXX] Displaying debug trace (plugin "K_ZP_main.amxx", version "1.0")
+L 12/23/2024 - 17:15:31: [AMXX] Run time error 10: native error (native "RegisterHam")
+L 12/23/2024 - 17:15:31: [AMXX]    [0] Krol_basic.inc::get_weapon_guns_name_by_id (line 506)
+L 12/23/2024 - 17:15:31: [AMXX]    [1] K_ZP_main.sma::plugin_init (line 33)
+L 12/23/2024 - 17:15:47: Invalid player id 0
+L 12/23/2024 - 17:15:47: [AMXX] Displaying debug trace (plugin "K_lib_ZP.amxx", version "1.0")
+L 12/23/2024 - 17:15:47: [AMXX] Run time error 10: native error (native "get_user_weapons")
+L 12/23/2024 - 17:15:47: [AMXX]    [0] Krol_basic.inc::drop_weapons (line 405)
+L 12/23/2024 - 17:15:47: [AMXX]    [1] K_lib_ZP.sma::native_make_survivor (line 224)
+L 12/23/2024 - 17:15:47: [AMXX]    [2] K_lib_ZP.sma::native_start_mode (line 149)
+L 12/23/2024 - 17:15:47: Unhandled dynamic native error
+L 12/23/2024 - 17:15:47: [AMXX] Displaying debug trace (plugin "K_ZP_main.amxx", version "1.0")
+L 12/23/2024 - 17:15:47: [AMXX] Run time error 10: native error (native "start_mode")
+L 12/23/2024 - 17:15:47: [AMXX]    [0] K_ZP_main.sma::task_start_mode (line 118)
+L 12/23/2024 - 17:25:58: Invalid player id 0
+L 12/23/2024 - 17:25:59: [AMXX] Displaying debug trace (plugin "K_lib_ZP.amxx", version "1.0")
+L 12/23/2024 - 17:25:59: [AMXX] Run time error 10: native error (native "get_user_weapons")
+L 12/23/2024 - 17:25:59: [AMXX]    [0] Krol_basic.inc::drop_weapons (line 405)
+L 12/23/2024 - 17:25:59: [AMXX]    [1] K_lib_ZP.sma::native_make_survivor (line 224)
+L 12/23/2024 - 17:25:59: [AMXX]    [2] K_lib_ZP.sma::native_start_mode (line 149)
+L 12/23/2024 - 17:25:59: Unhandled dynamic native error
+L 12/23/2024 - 17:25:59: [AMXX] Displaying debug trace (plugin "K_ZP_main.amxx", version "1.0")
+L 12/23/2024 - 17:25:59: [AMXX] Run time error 10: native error (native "start_mode")
+L 12/23/2024 - 17:25:59: [AMXX]    [0] K_ZP_main.sma::task_start_mode (line 118)
+L 12/23/2024 - 17:35:42: Start of error session.
+L 12/23/2024 - 17:35:42: Info (map "zm_biohazard_base_mx") (file "addons/amxmodx/logs/error_20241223.log")
+L 12/23/2024 - 17:35:42: [HAMSANDWICH] Failed to retrieve classtype for "", hook for "f_HamWeaponReload" not active.
+L 12/23/2024 - 17:35:42: [AMXX] Displaying debug trace (plugin "K_ZP_main.amxx", version "1.0")
+L 12/23/2024 - 17:35:42: [AMXX] Run time error 10: native error (native "RegisterHam")
+L 12/23/2024 - 17:35:42: [AMXX]    [0] Krol_basic.inc::get_weapon_guns_name_by_id (line 506)
+L 12/23/2024 - 17:35:42: [AMXX]    [1] K_ZP_main.sma::plugin_init (line 33)
+L 12/23/2024 - 17:35:59: Invalid player id 0
+L 12/23/2024 - 17:35:59: [AMXX] Displaying debug trace (plugin "K_lib_ZP.amxx", version "1.0")
+L 12/23/2024 - 17:35:59: [AMXX] Run time error 10: native error (native "get_user_weapons")
+L 12/23/2024 - 17:35:59: [AMXX]    [0] Krol_basic.inc::drop_weapons (line 405)
+L 12/23/2024 - 17:35:59: [AMXX]    [1] K_lib_ZP.sma::native_make_survivor (line 224)
+L 12/23/2024 - 17:35:59: [AMXX]    [2] K_lib_ZP.sma::native_start_mode (line 149)
+L 12/23/2024 - 17:35:59: Unhandled dynamic native error
+L 12/23/2024 - 17:35:59: [AMXX] Displaying debug trace (plugin "K_ZP_main.amxx", version "1.0")
+L 12/23/2024 - 17:35:59: [AMXX] Run time error 10: native error (native "start_mode")
+L 12/23/2024 - 17:35:59: [AMXX]    [0] K_ZP_main.sma::task_start_mode (line 118)
+L 12/23/2024 - 17:53:55: Start of error session.
+L 12/23/2024 - 17:53:55: Info (map "zm_biohazard_base_mx") (file "addons/amxmodx/logs/error_20241223.log")
+L 12/23/2024 - 17:53:55: [HAMSANDWICH] Failed to retrieve classtype for "", hook for "f_HamWeaponReload" not active.
+L 12/23/2024 - 17:53:55: [AMXX] Displaying debug trace (plugin "K_ZP_main.amxx", version "1.0")
+L 12/23/2024 - 17:53:55: [AMXX] Run time error 10: native error (native "RegisterHam")
+L 12/23/2024 - 17:53:55: [AMXX]    [0] Krol_basic.inc::get_weapon_guns_name_by_id (line 506)
+L 12/23/2024 - 17:53:55: [AMXX]    [1] K_ZP_main.sma::plugin_init (line 33)
+L 12/23/2024 - 18:00:33: Start of error session.
+L 12/23/2024 - 18:00:33: Info (map "zm_ngamers_lights_f") (file "addons/amxmodx/logs/error_20241223.log")
+L 12/23/2024 - 18:00:33: [HAMSANDWICH] Failed to retrieve classtype for "", hook for "f_HamWeaponReload" not active.
+L 12/23/2024 - 18:00:33: [AMXX] Displaying debug trace (plugin "K_ZP_main.amxx", version "1.0")
+L 12/23/2024 - 18:00:33: [AMXX] Run time error 10: native error (native "RegisterHam")
+L 12/23/2024 - 18:00:33: [AMXX]    [0] Krol_basic.inc::get_weapon_guns_name_by_id (line 506)
+L 12/23/2024 - 18:00:33: [AMXX]    [1] K_ZP_main.sma::plugin_init (line 33)
+L 12/23/2024 - 18:01:35: Invalid player id 0
+L 12/23/2024 - 18:01:35: [AMXX] Displaying debug trace (plugin "K_lib_ZP.amxx", version "1.0")
+L 12/23/2024 - 18:01:35: [AMXX] Run time error 10: native error (native "get_user_weapons")
+L 12/23/2024 - 18:01:35: [AMXX]    [0] Krol_basic.inc::drop_weapons (line 405)
+L 12/23/2024 - 18:01:35: [AMXX]    [1] K_lib_ZP.sma::native_make_survivor (line 224)
+L 12/23/2024 - 18:01:35: [AMXX]    [2] K_lib_ZP.sma::native_start_mode (line 149)
+L 12/23/2024 - 18:01:35: Unhandled dynamic native error
+L 12/23/2024 - 18:01:35: [AMXX] Displaying debug trace (plugin "K_ZP_main.amxx", version "1.0")
+L 12/23/2024 - 18:01:35: [AMXX] Run time error 10: native error (native "start_mode")
+L 12/23/2024 - 18:01:35: [AMXX]    [0] K_ZP_main.sma::task_start_mode (line 118)
+L 12/23/2024 - 18:02:39: Start of error session.
+L 12/23/2024 - 18:02:39: Info (map "zm_ngamers_lights_f") (file "addons/amxmodx/logs/error_20241223.log")
+L 12/23/2024 - 18:02:39: [HAMSANDWICH] Failed to retrieve classtype for "", hook for "f_HamWeaponReload" not active.
+L 12/23/2024 - 18:02:39: [AMXX] Displaying debug trace (plugin "K_ZP_main.amxx", version "1.0")
+L 12/23/2024 - 18:02:39: [AMXX] Run time error 10: native error (native "RegisterHam")
+L 12/23/2024 - 18:02:39: [AMXX]    [0] Krol_basic.inc::get_weapon_guns_name_by_id (line 506)
+L 12/23/2024 - 18:02:39: [AMXX]    [1] K_ZP_main.sma::plugin_init (line 33)
+L 12/23/2024 - 18:03:39: Start of error session.
+L 12/23/2024 - 18:03:39: Info (map "zm_ngamers_lights_f") (file "addons/amxmodx/logs/error_20241223.log")
+L 12/23/2024 - 18:03:39: [HAMSANDWICH] Failed to retrieve classtype for "", hook for "f_HamWeaponReload" not active.
+L 12/23/2024 - 18:03:39: [AMXX] Displaying debug trace (plugin "K_ZP_main.amxx", version "1.0")
+L 12/23/2024 - 18:03:40: [AMXX] Run time error 10: native error (native "RegisterHam")
+L 12/23/2024 - 18:03:40: [AMXX]    [0] Krol_basic.inc::get_weapon_guns_name_by_id (line 506)
+L 12/23/2024 - 18:03:40: [AMXX]    [1] K_ZP_main.sma::plugin_init (line 33)
+L 12/23/2024 - 18:14:26: Invalid player id 0
+L 12/23/2024 - 18:14:26: [AMXX] Displaying debug trace (plugin "K_lib_ZP.amxx", version "1.0")
+L 12/23/2024 - 18:14:27: [AMXX] Run time error 10: native error (native "get_user_weapons")
+L 12/23/2024 - 18:14:27: [AMXX]    [0] Krol_basic.inc::drop_weapons (line 405)
+L 12/23/2024 - 18:14:27: [AMXX]    [1] K_lib_ZP.sma::native_make_survivor (line 224)
+L 12/23/2024 - 18:14:27: [AMXX]    [2] K_lib_ZP.sma::native_start_mode (line 149)
+L 12/23/2024 - 18:14:27: Unhandled dynamic native error
+L 12/23/2024 - 18:14:27: [AMXX] Displaying debug trace (plugin "K_ZP_main.amxx", version "1.0")
+L 12/23/2024 - 18:14:27: [AMXX] Run time error 10: native error (native "start_mode")
+L 12/23/2024 - 18:14:27: [AMXX]    [0] K_ZP_main.sma::task_start_mode (line 118)
+L 12/23/2024 - 18:17:07: Start of error session.
+L 12/23/2024 - 18:17:07: Info (map "zm_ngamers_lights_f") (file "addons/amxmodx/logs/error_20241223.log")
+L 12/23/2024 - 18:17:07: [HAMSANDWICH] Failed to retrieve classtype for "", hook for "f_HamWeaponReload" not active.
+L 12/23/2024 - 18:17:07: [AMXX] Displaying debug trace (plugin "K_ZP_main.amxx", version "1.0")
+L 12/23/2024 - 18:17:07: [AMXX] Run time error 10: native error (native "RegisterHam")
+L 12/23/2024 - 18:17:07: [AMXX]    [0] Krol_basic.inc::get_weapon_guns_name_by_id (line 506)
+L 12/23/2024 - 18:17:07: [AMXX]    [1] K_ZP_main.sma::plugin_init (line 33)
+L 12/23/2024 - 18:18:32: Player 1 is not in game.
+L 12/23/2024 - 18:18:32: [AMXX] Run time error 10 (plugin "pluginmenu.amxx") (native "menu_display") - debug not enabled!
+L 12/23/2024 - 18:18:32: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 12/23/2024 - 18:18:33: Start of error session.
+L 12/23/2024 - 18:18:33: Info (map "zm_ngamers_lights_f") (file "addons/amxmodx/logs/error_20241223.log")
+L 12/23/2024 - 18:18:33: [HAMSANDWICH] Failed to retrieve classtype for "", hook for "f_HamWeaponReload" not active.
+L 12/23/2024 - 18:18:33: [AMXX] Displaying debug trace (plugin "K_ZP_main.amxx", version "1.0")
+L 12/23/2024 - 18:18:33: [AMXX] Run time error 10: native error (native "RegisterHam")
+L 12/23/2024 - 18:18:33: [AMXX]    [0] Krol_basic.inc::get_weapon_guns_name_by_id (line 506)
+L 12/23/2024 - 18:18:33: [AMXX]    [1] K_ZP_main.sma::plugin_init (line 33)
+L 12/23/2024 - 18:19:54: Start of error session.
+L 12/23/2024 - 18:19:54: Info (map "zm_ngamers_lights_f") (file "addons/amxmodx/logs/error_20241223.log")
+L 12/23/2024 - 18:19:54: [HAMSANDWICH] Failed to retrieve classtype for "", hook for "f_HamWeaponReload" not active.
+L 12/23/2024 - 18:19:54: [AMXX] Displaying debug trace (plugin "K_ZP_main.amxx", version "1.0")
+L 12/23/2024 - 18:19:54: [AMXX] Run time error 10: native error (native "RegisterHam")
+L 12/23/2024 - 18:19:54: [AMXX]    [0] Krol_basic.inc::get_weapon_guns_name_by_id (line 506)
+L 12/23/2024 - 18:19:54: [AMXX]    [1] K_ZP_main.sma::plugin_init (line 33)
+L 12/23/2024 - 18:35:09: Invalid player id 0
+L 12/23/2024 - 18:35:09: [AMXX] Displaying debug trace (plugin "K_lib_ZP.amxx", version "1.0")
+L 12/23/2024 - 18:35:09: [AMXX] Run time error 10: native error (native "get_user_weapons")
+L 12/23/2024 - 18:35:09: [AMXX]    [0] Krol_basic.inc::drop_weapons (line 405)
+L 12/23/2024 - 18:35:09: [AMXX]    [1] K_lib_ZP.sma::native_make_survivor (line 224)
+L 12/23/2024 - 18:35:09: [AMXX]    [2] K_lib_ZP.sma::native_start_mode (line 149)
+L 12/23/2024 - 18:35:09: Unhandled dynamic native error
+L 12/23/2024 - 18:35:09: [AMXX] Displaying debug trace (plugin "K_ZP_main.amxx", version "1.0")
+L 12/23/2024 - 18:35:09: [AMXX] Run time error 10: native error (native "start_mode")
+L 12/23/2024 - 18:35:09: [AMXX]    [0] K_ZP_main.sma::task_start_mode (line 118)
+L 12/23/2024 - 18:40:04: Start of error session.
+L 12/23/2024 - 18:40:04: Info (map "zm_bounty") (file "addons/amxmodx/logs/error_20241223.log")
+L 12/23/2024 - 18:40:04: [HAMSANDWICH] Failed to retrieve classtype for "", hook for "f_HamWeaponReload" not active.
+L 12/23/2024 - 18:40:04: [AMXX] Displaying debug trace (plugin "K_ZP_main.amxx", version "1.0")
+L 12/23/2024 - 18:40:04: [AMXX] Run time error 10: native error (native "RegisterHam")
+L 12/23/2024 - 18:40:04: [AMXX]    [0] Krol_basic.inc::get_weapon_guns_name_by_id (line 506)
+L 12/23/2024 - 18:40:04: [AMXX]    [1] K_ZP_main.sma::plugin_init (line 33)
+L 12/23/2024 - 18:40:21: Invalid player id 0
+L 12/23/2024 - 18:40:21: [AMXX] Displaying debug trace (plugin "K_lib_ZP.amxx", version "1.0")
+L 12/23/2024 - 18:40:21: [AMXX] Run time error 10: native error (native "get_user_weapons")
+L 12/23/2024 - 18:40:21: [AMXX]    [0] Krol_basic.inc::drop_weapons (line 405)
+L 12/23/2024 - 18:40:21: [AMXX]    [1] K_lib_ZP.sma::native_make_survivor (line 224)
+L 12/23/2024 - 18:40:21: [AMXX]    [2] K_lib_ZP.sma::native_start_mode (line 149)
+L 12/23/2024 - 18:40:21: Unhandled dynamic native error
+L 12/23/2024 - 18:40:21: [AMXX] Displaying debug trace (plugin "K_ZP_main.amxx", version "1.0")
+L 12/23/2024 - 18:40:21: [AMXX] Run time error 10: native error (native "start_mode")
+L 12/23/2024 - 18:40:21: [AMXX]    [0] K_ZP_main.sma::task_start_mode (line 118)
+L 12/23/2024 - 19:00:15: Start of error session.
+L 12/23/2024 - 19:00:15: Info (map "zm_caca") (file "addons/amxmodx/logs/error_20241223.log")
+L 12/23/2024 - 19:00:15: [HAMSANDWICH] Failed to retrieve classtype for "", hook for "f_HamWeaponReload" not active.
+L 12/23/2024 - 19:00:15: [AMXX] Displaying debug trace (plugin "K_ZP_main.amxx", version "1.0")
+L 12/23/2024 - 19:00:15: [AMXX] Run time error 10: native error (native "RegisterHam")
+L 12/23/2024 - 19:00:15: [AMXX]    [0] Krol_basic.inc::get_weapon_guns_name_by_id (line 506)
+L 12/23/2024 - 19:00:15: [AMXX]    [1] K_ZP_main.sma::plugin_init (line 33)
+L 12/23/2024 - 19:00:32: Invalid player id 0
+L 12/23/2024 - 19:00:32: [AMXX] Displaying debug trace (plugin "K_lib_ZP.amxx", version "1.0")
+L 12/23/2024 - 19:00:32: [AMXX] Run time error 10: native error (native "get_user_weapons")
+L 12/23/2024 - 19:00:32: [AMXX]    [0] Krol_basic.inc::drop_weapons (line 405)
+L 12/23/2024 - 19:00:32: [AMXX]    [1] K_lib_ZP.sma::native_make_survivor (line 224)
+L 12/23/2024 - 19:00:32: [AMXX]    [2] K_lib_ZP.sma::native_start_mode (line 149)
+L 12/23/2024 - 19:00:32: Unhandled dynamic native error
+L 12/23/2024 - 19:00:32: [AMXX] Displaying debug trace (plugin "K_ZP_main.amxx", version "1.0")
+L 12/23/2024 - 19:00:32: [AMXX] Run time error 10: native error (native "start_mode")
+L 12/23/2024 - 19:00:32: [AMXX]    [0] K_ZP_main.sma::task_start_mode (line 118)
+L 12/23/2024 - 19:20:26: Start of error session.
+L 12/23/2024 - 19:20:26: Info (map "zm_creative") (file "addons/amxmodx/logs/error_20241223.log")
+L 12/23/2024 - 19:20:26: [HAMSANDWICH] Failed to retrieve classtype for "", hook for "f_HamWeaponReload" not active.
+L 12/23/2024 - 19:20:26: [AMXX] Displaying debug trace (plugin "K_ZP_main.amxx", version "1.0")
+L 12/23/2024 - 19:20:26: [AMXX] Run time error 10: native error (native "RegisterHam")
+L 12/23/2024 - 19:20:26: [AMXX]    [0] Krol_basic.inc::get_weapon_guns_name_by_id (line 506)
+L 12/23/2024 - 19:20:26: [AMXX]    [1] K_ZP_main.sma::plugin_init (line 33)
+L 12/23/2024 - 19:20:43: Invalid player id 0
+L 12/23/2024 - 19:20:43: [AMXX] Displaying debug trace (plugin "K_lib_ZP.amxx", version "1.0")
+L 12/23/2024 - 19:20:43: [AMXX] Run time error 10: native error (native "get_user_weapons")
+L 12/23/2024 - 19:20:43: [AMXX]    [0] Krol_basic.inc::drop_weapons (line 405)
+L 12/23/2024 - 19:20:43: [AMXX]    [1] K_lib_ZP.sma::native_make_survivor (line 224)
+L 12/23/2024 - 19:20:43: [AMXX]    [2] K_lib_ZP.sma::native_start_mode (line 149)
+L 12/23/2024 - 19:20:43: Unhandled dynamic native error
+L 12/23/2024 - 19:20:43: [AMXX] Displaying debug trace (plugin "K_ZP_main.amxx", version "1.0")
+L 12/23/2024 - 19:20:43: [AMXX] Run time error 10: native error (native "start_mode")
+L 12/23/2024 - 19:20:43: [AMXX]    [0] K_ZP_main.sma::task_start_mode (line 118)
+L 12/23/2024 - 19:40:36: Start of error session.
+L 12/23/2024 - 19:40:36: Info (map "zm_decay") (file "addons/amxmodx/logs/error_20241223.log")
+L 12/23/2024 - 19:40:36: [HAMSANDWICH] Failed to retrieve classtype for "", hook for "f_HamWeaponReload" not active.
+L 12/23/2024 - 19:40:36: [AMXX] Displaying debug trace (plugin "K_ZP_main.amxx", version "1.0")
+L 12/23/2024 - 19:40:36: [AMXX] Run time error 10: native error (native "RegisterHam")
+L 12/23/2024 - 19:40:36: [AMXX]    [0] Krol_basic.inc::get_weapon_guns_name_by_id (line 506)
+L 12/23/2024 - 19:40:36: [AMXX]    [1] K_ZP_main.sma::plugin_init (line 33)
+L 12/23/2024 - 19:40:58: Invalid player id 0
+L 12/23/2024 - 19:40:58: [AMXX] Displaying debug trace (plugin "K_lib_ZP.amxx", version "1.0")
+L 12/23/2024 - 19:40:58: [AMXX] Run time error 10: native error (native "get_user_weapons")
+L 12/23/2024 - 19:40:58: [AMXX]    [0] Krol_basic.inc::drop_weapons (line 405)
+L 12/23/2024 - 19:40:58: [AMXX]    [1] K_lib_ZP.sma::native_make_survivor (line 224)
+L 12/23/2024 - 19:40:58: [AMXX]    [2] K_lib_ZP.sma::native_start_mode (line 149)
+L 12/23/2024 - 19:40:58: Unhandled dynamic native error
+L 12/23/2024 - 19:40:58: [AMXX] Displaying debug trace (plugin "K_ZP_main.amxx", version "1.0")
+L 12/23/2024 - 19:40:58: [AMXX] Run time error 10: native error (native "start_mode")
+L 12/23/2024 - 19:40:58: [AMXX]    [0] K_ZP_main.sma::task_start_mode (line 118)
+L 12/23/2024 - 19:50:21: Start of error session.
+L 12/23/2024 - 19:50:21: Info (map "zm_decay") (file "addons/amxmodx/logs/error_20241223.log")
+L 12/23/2024 - 19:50:21: [HAMSANDWICH] Failed to retrieve classtype for "", hook for "f_HamWeaponReload" not active.
+L 12/23/2024 - 19:50:21: [AMXX] Displaying debug trace (plugin "K_ZP_main.amxx", version "1.0")
+L 12/23/2024 - 19:50:21: [AMXX] Run time error 10: native error (native "RegisterHam")
+L 12/23/2024 - 19:50:21: [AMXX]    [0] Krol_basic.inc::get_weapon_guns_name_by_id (line 506)
+L 12/23/2024 - 19:50:21: [AMXX]    [1] K_ZP_main.sma::plugin_init (line 33)
+L 12/23/2024 - 19:58:10: Start of error session.
+L 12/23/2024 - 19:58:10: Info (map "zm_decay") (file "addons/amxmodx/logs/error_20241223.log")
+L 12/23/2024 - 19:58:10: [HAMSANDWICH] Failed to retrieve classtype for "", hook for "f_HamWeaponReload" not active.
+L 12/23/2024 - 19:58:10: [AMXX] Displaying debug trace (plugin "K_ZP_main.amxx", version "1.0")
+L 12/23/2024 - 19:58:10: [AMXX] Run time error 10: native error (native "RegisterHam")
+L 12/23/2024 - 19:58:10: [AMXX]    [0] Krol_basic.inc::get_weapon_guns_name_by_id (line 506)
+L 12/23/2024 - 19:58:10: [AMXX]    [1] K_ZP_main.sma::plugin_init (line 33)
+L 12/23/2024 - 19:58:27: Invalid player id 0
+L 12/23/2024 - 19:58:27: [AMXX] Displaying debug trace (plugin "K_lib_ZP.amxx", version "1.0")
+L 12/23/2024 - 19:58:27: [AMXX] Run time error 10: native error (native "get_user_weapons")
+L 12/23/2024 - 19:58:27: [AMXX]    [0] Krol_basic.inc::drop_weapons (line 405)
+L 12/23/2024 - 19:58:27: [AMXX]    [1] K_lib_ZP.sma::native_make_survivor (line 224)
+L 12/23/2024 - 19:58:27: [AMXX]    [2] K_lib_ZP.sma::native_start_mode (line 149)
+L 12/23/2024 - 19:58:27: Unhandled dynamic native error
+L 12/23/2024 - 19:58:27: [AMXX] Displaying debug trace (plugin "K_ZP_main.amxx", version "1.0")
+L 12/23/2024 - 19:58:27: [AMXX] Run time error 10: native error (native "start_mode")
+L 12/23/2024 - 19:58:27: [AMXX]    [0] K_ZP_main.sma::task_start_mode (line 118)
+L 12/23/2024 - 19:58:38: Start of error session.
+L 12/23/2024 - 19:58:38: Info (map "zm_decay") (file "addons/amxmodx/logs/error_20241223.log")
+L 12/23/2024 - 19:58:38: [HAMSANDWICH] Failed to retrieve classtype for "", hook for "f_HamWeaponReload" not active.
+L 12/23/2024 - 19:58:38: [AMXX] Displaying debug trace (plugin "K_ZP_main.amxx", version "1.0")
+L 12/23/2024 - 19:58:38: [AMXX] Run time error 10: native error (native "RegisterHam")
+L 12/23/2024 - 19:58:38: [AMXX]    [0] Krol_basic.inc::get_weapon_guns_name_by_id (line 506)
+L 12/23/2024 - 19:58:38: [AMXX]    [1] K_ZP_main.sma::plugin_init (line 33)
+L 12/23/2024 - 20:03:18: Start of error session.
+L 12/23/2024 - 20:03:18: Info (map "zm_decay") (file "addons/amxmodx/logs/error_20241223.log")
+L 12/23/2024 - 20:03:18: [HAMSANDWICH] Failed to retrieve classtype for "", hook for "f_HamWeaponReload" not active.
+L 12/23/2024 - 20:03:18: [AMXX] Displaying debug trace (plugin "K_ZP_main.amxx", version "1.0")
+L 12/23/2024 - 20:03:18: [AMXX] Run time error 10: native error (native "RegisterHam")
+L 12/23/2024 - 20:03:18: [AMXX]    [0] Krol_basic.inc::get_weapon_guns_name_by_id (line 506)
+L 12/23/2024 - 20:03:18: [AMXX]    [1] K_ZP_main.sma::plugin_init (line 33)
+L 12/23/2024 - 20:04:42: Start of error session.
+L 12/23/2024 - 20:04:42: Info (map "zm_decay") (file "addons/amxmodx/logs/error_20241223.log")
+L 12/23/2024 - 20:04:42: [HAMSANDWICH] Failed to retrieve classtype for "", hook for "f_HamWeaponReload" not active.
+L 12/23/2024 - 20:04:42: [AMXX] Displaying debug trace (plugin "K_ZP_main.amxx", version "1.0")
+L 12/23/2024 - 20:04:42: [AMXX] Run time error 10: native error (native "RegisterHam")
+L 12/23/2024 - 20:04:42: [AMXX]    [0] Krol_basic.inc::get_weapon_guns_name_by_id (line 506)
+L 12/23/2024 - 20:04:42: [AMXX]    [1] K_ZP_main.sma::plugin_init (line 33)
+L 12/23/2024 - 20:10:49: Invalid player id 0
+L 12/23/2024 - 20:10:49: [AMXX] Displaying debug trace (plugin "K_lib_ZP.amxx", version "1.0")
+L 12/23/2024 - 20:10:49: [AMXX] Run time error 10: native error (native "get_user_weapons")
+L 12/23/2024 - 20:10:49: [AMXX]    [0] Krol_basic.inc::drop_weapons (line 405)
+L 12/23/2024 - 20:10:49: [AMXX]    [1] K_lib_ZP.sma::native_make_survivor (line 224)
+L 12/23/2024 - 20:10:49: [AMXX]    [2] K_lib_ZP.sma::native_start_mode (line 149)
+L 12/23/2024 - 20:10:49: Unhandled dynamic native error
+L 12/23/2024 - 20:10:49: [AMXX] Displaying debug trace (plugin "K_ZP_main.amxx", version "1.0")
+L 12/23/2024 - 20:10:49: [AMXX] Run time error 10: native error (native "start_mode")
+L 12/23/2024 - 20:10:49: [AMXX]    [0] K_ZP_main.sma::task_start_mode (line 118)
+L 12/23/2024 - 20:23:45: Start of error session.
+L 12/23/2024 - 20:23:45: Info (map "zm_decay") (file "addons/amxmodx/logs/error_20241223.log")
+L 12/23/2024 - 20:23:45: [HAMSANDWICH] Failed to retrieve classtype for "", hook for "f_HamWeaponReload" not active.
+L 12/23/2024 - 20:23:45: [AMXX] Displaying debug trace (plugin "K_ZP_main.amxx", version "1.0")
+L 12/23/2024 - 20:23:45: [AMXX] Run time error 10: native error (native "RegisterHam")
+L 12/23/2024 - 20:23:45: [AMXX]    [0] Krol_basic.inc::get_weapon_guns_name_by_id (line 506)
+L 12/23/2024 - 20:23:45: [AMXX]    [1] K_ZP_main.sma::plugin_init (line 33)
+L 12/23/2024 - 20:34:20: Invalid player id 0
+L 12/23/2024 - 20:34:20: [AMXX] Displaying debug trace (plugin "K_lib_ZP.amxx", version "1.0")
+L 12/23/2024 - 20:34:20: [AMXX] Run time error 10: native error (native "get_user_weapons")
+L 12/23/2024 - 20:34:20: [AMXX]    [0] Krol_basic.inc::drop_weapons (line 405)
+L 12/23/2024 - 20:34:20: [AMXX]    [1] K_lib_ZP.sma::native_make_survivor (line 224)
+L 12/23/2024 - 20:34:20: [AMXX]    [2] K_lib_ZP.sma::native_start_mode (line 149)
+L 12/23/2024 - 20:34:20: Unhandled dynamic native error
+L 12/23/2024 - 20:34:20: [AMXX] Displaying debug trace (plugin "K_ZP_main.amxx", version "1.0")
+L 12/23/2024 - 20:34:20: [AMXX] Run time error 10: native error (native "start_mode")
+L 12/23/2024 - 20:34:20: [AMXX]    [0] K_ZP_main.sma::task_start_mode (line 118)
+L 12/23/2024 - 20:45:16: Start of error session.
+L 12/23/2024 - 20:45:16: Info (map "zm_ngamers_lights_f") (file "addons/amxmodx/logs/error_20241223.log")
+L 12/23/2024 - 20:45:16: [HAMSANDWICH] Failed to retrieve classtype for "", hook for "f_HamWeaponReload" not active.
+L 12/23/2024 - 20:45:16: [AMXX] Displaying debug trace (plugin "K_ZP_main.amxx", version "1.0")
+L 12/23/2024 - 20:45:16: [AMXX] Run time error 10: native error (native "RegisterHam")
+L 12/23/2024 - 20:45:16: [AMXX]    [0] Krol_basic.inc::get_weapon_guns_name_by_id (line 506)
+L 12/23/2024 - 20:45:16: [AMXX]    [1] K_ZP_main.sma::plugin_init (line 33)
+L 12/23/2024 - 20:47:25: Start of error session.
+L 12/23/2024 - 20:47:25: Info (map "zm_ngamers_lights_f") (file "addons/amxmodx/logs/error_20241223.log")
+L 12/23/2024 - 20:47:25: [HAMSANDWICH] Failed to retrieve classtype for "", hook for "f_HamWeaponReload" not active.
+L 12/23/2024 - 20:47:25: [AMXX] Displaying debug trace (plugin "K_ZP_main.amxx", version "1.0")
+L 12/23/2024 - 20:47:25: [AMXX] Run time error 10: native error (native "RegisterHam")
+L 12/23/2024 - 20:47:25: [AMXX]    [0] Krol_basic.inc::get_weapon_guns_name_by_id (line 506)
+L 12/23/2024 - 20:47:25: [AMXX]    [1] K_ZP_main.sma::plugin_init (line 33)
+L 12/23/2024 - 20:47:49: Invalid player id 0
+L 12/23/2024 - 20:47:49: [AMXX] Displaying debug trace (plugin "K_lib_ZP.amxx", version "1.0")
+L 12/23/2024 - 20:47:49: [AMXX] Run time error 10: native error (native "get_user_weapons")
+L 12/23/2024 - 20:47:49: [AMXX]    [0] Krol_basic.inc::drop_weapons (line 405)
+L 12/23/2024 - 20:47:49: [AMXX]    [1] K_lib_ZP.sma::native_make_survivor (line 224)
+L 12/23/2024 - 20:47:49: [AMXX]    [2] K_lib_ZP.sma::native_start_mode (line 149)
+L 12/23/2024 - 20:47:49: Unhandled dynamic native error
+L 12/23/2024 - 20:47:49: [AMXX] Displaying debug trace (plugin "K_ZP_main.amxx", version "1.0")
+L 12/23/2024 - 20:47:49: [AMXX] Run time error 10: native error (native "start_mode")
+L 12/23/2024 - 20:47:49: [AMXX]    [0] K_ZP_main.sma::task_start_mode (line 118)
+L 12/23/2024 - 20:48:08: Invalid player id 0
+L 12/23/2024 - 20:48:08: [AMXX] Displaying debug trace (plugin "K_lib_ZP.amxx", version "1.0")
+L 12/23/2024 - 20:48:08: [AMXX] Run time error 10: native error (native "get_user_weapons")
+L 12/23/2024 - 20:48:08: [AMXX]    [0] Krol_basic.inc::drop_weapons (line 405)
+L 12/23/2024 - 20:48:08: [AMXX]    [1] K_lib_ZP.sma::native_make_survivor (line 224)
+L 12/23/2024 - 20:48:08: [AMXX]    [2] K_lib_ZP.sma::native_start_mode (line 149)
+L 12/23/2024 - 20:48:08: Unhandled dynamic native error
+L 12/23/2024 - 20:48:08: [AMXX] Displaying debug trace (plugin "K_ZP_main.amxx", version "1.0")
+L 12/23/2024 - 20:48:08: [AMXX] Run time error 10: native error (native "start_mode")
+L 12/23/2024 - 20:48:08: [AMXX]    [0] K_ZP_main.sma::task_start_mode (line 118)
+L 12/23/2024 - 20:56:37: Start of error session.
+L 12/23/2024 - 20:56:37: Info (map "zm_ngamers_lights_f") (file "addons/amxmodx/logs/error_20241223.log")
+L 12/23/2024 - 20:56:37: [HAMSANDWICH] Failed to retrieve classtype for "", hook for "f_HamWeaponReload" not active.
+L 12/23/2024 - 20:56:37: [AMXX] Displaying debug trace (plugin "K_ZP_main.amxx", version "1.0")
+L 12/23/2024 - 20:56:37: [AMXX] Run time error 10: native error (native "RegisterHam")
+L 12/23/2024 - 20:56:37: [AMXX]    [0] Krol_basic.inc::get_weapon_guns_name_by_id (line 506)
+L 12/23/2024 - 20:56:37: [AMXX]    [1] K_ZP_main.sma::plugin_init (line 33)
+L 12/23/2024 - 20:58:36: Start of error session.
+L 12/23/2024 - 20:58:36: Info (map "zm_ngamers_lights_f") (file "addons/amxmodx/logs/error_20241223.log")
+L 12/23/2024 - 20:58:36: [HAMSANDWICH] Failed to retrieve classtype for "", hook for "f_HamWeaponReload" not active.
+L 12/23/2024 - 20:58:36: [AMXX] Displaying debug trace (plugin "K_ZP_main.amxx", version "1.0")
+L 12/23/2024 - 20:58:36: [AMXX] Run time error 10: native error (native "RegisterHam")
+L 12/23/2024 - 20:58:36: [AMXX]    [0] Krol_basic.inc::get_weapon_guns_name_by_id (line 506)
+L 12/23/2024 - 20:58:36: [AMXX]    [1] K_ZP_main.sma::plugin_init (line 33)
+L 12/23/2024 - 20:59:13: Start of error session.
+L 12/23/2024 - 20:59:13: Info (map "zm_fdust2x2") (file "addons/amxmodx/logs/error_20241223.log")
+L 12/23/2024 - 20:59:13: [HAMSANDWICH] Failed to retrieve classtype for "", hook for "f_HamWeaponReload" not active.
+L 12/23/2024 - 20:59:13: [AMXX] Displaying debug trace (plugin "K_ZP_main.amxx", version "1.0")
+L 12/23/2024 - 20:59:13: [AMXX] Run time error 10: native error (native "RegisterHam")
+L 12/23/2024 - 20:59:13: [AMXX]    [0] Krol_basic.inc::get_weapon_guns_name_by_id (line 506)
+L 12/23/2024 - 20:59:13: [AMXX]    [1] K_ZP_main.sma::plugin_init (line 33)
+L 12/23/2024 - 20:59:27: [CSTRIKE] Invalid player 1 (no private data)
+L 12/23/2024 - 20:59:27: [AMXX] Displaying debug trace (plugin "K_M_models.amxx", version "1.0")
+L 12/23/2024 - 20:59:27: [AMXX] Run time error 10: native error (native "cs_set_user_model")
+L 12/23/2024 - 20:59:27: [AMXX]    [0] K_M_models.sma::native_return_ham_skin (line 59)
+L 12/23/2024 - 20:59:27: [AMXX]    [1] K_M_models.sma::client_putinserver (line 113)
+L 12/23/2024 - 20:59:28: [CSTRIKE] Invalid player 3 (no private data)
+L 12/23/2024 - 20:59:28: [AMXX] Displaying debug trace (plugin "K_M_models.amxx", version "1.0")
+L 12/23/2024 - 20:59:28: [AMXX] Run time error 10: native error (native "cs_set_user_model")
+L 12/23/2024 - 20:59:28: [AMXX]    [0] K_M_models.sma::native_return_ham_skin (line 59)
+L 12/23/2024 - 20:59:28: [AMXX]    [1] K_M_models.sma::client_putinserver (line 113)
+L 12/23/2024 - 20:59:28: [CSTRIKE] Invalid player 4 (no private data)
+L 12/23/2024 - 20:59:28: [AMXX] Displaying debug trace (plugin "K_M_models.amxx", version "1.0")
+L 12/23/2024 - 20:59:28: [AMXX] Run time error 10: native error (native "cs_set_user_model")
+L 12/23/2024 - 20:59:28: [AMXX]    [0] K_M_models.sma::native_return_ham_skin (line 59)
+L 12/23/2024 - 20:59:28: [AMXX]    [1] K_M_models.sma::client_putinserver (line 113)
+L 12/23/2024 - 20:59:29: [CSTRIKE] Invalid player 5 (no private data)
+L 12/23/2024 - 20:59:29: [AMXX] Displaying debug trace (plugin "K_M_models.amxx", version "1.0")
+L 12/23/2024 - 20:59:29: [AMXX] Run time error 10: native error (native "cs_set_user_model")
+L 12/23/2024 - 20:59:29: [AMXX]    [0] K_M_models.sma::native_return_ham_skin (line 59)
+L 12/23/2024 - 20:59:29: [AMXX]    [1] K_M_models.sma::client_putinserver (line 113)
+L 12/23/2024 - 20:59:29: [CSTRIKE] Invalid player 6 (no private data)
+L 12/23/2024 - 20:59:29: [AMXX] Displaying debug trace (plugin "K_M_models.amxx", version "1.0")
+L 12/23/2024 - 20:59:29: [AMXX] Run time error 10: native error (native "cs_set_user_model")
+L 12/23/2024 - 20:59:29: [AMXX]    [0] K_M_models.sma::native_return_ham_skin (line 59)
+L 12/23/2024 - 20:59:29: [AMXX]    [1] K_M_models.sma::client_putinserver (line 113)
+L 12/23/2024 - 20:59:30: [CSTRIKE] Invalid player 7 (no private data)
+L 12/23/2024 - 20:59:30: [AMXX] Displaying debug trace (plugin "K_M_models.amxx", version "1.0")
+L 12/23/2024 - 20:59:30: [AMXX] Run time error 10: native error (native "cs_set_user_model")
+L 12/23/2024 - 20:59:30: [AMXX]    [0] K_M_models.sma::native_return_ham_skin (line 59)
+L 12/23/2024 - 20:59:30: [AMXX]    [1] K_M_models.sma::client_putinserver (line 113)
+L 12/23/2024 - 20:59:30: [CSTRIKE] Invalid player 8 (no private data)
+L 12/23/2024 - 20:59:30: [AMXX] Displaying debug trace (plugin "K_M_models.amxx", version "1.0")
+L 12/23/2024 - 20:59:30: [AMXX] Run time error 10: native error (native "cs_set_user_model")
+L 12/23/2024 - 20:59:30: [AMXX]    [0] K_M_models.sma::native_return_ham_skin (line 59)
+L 12/23/2024 - 20:59:30: [AMXX]    [1] K_M_models.sma::client_putinserver (line 113)
+L 12/23/2024 - 21:03:50: Start of error session.
+L 12/23/2024 - 21:03:50: Info (map "zm_fdust2x2") (file "addons/amxmodx/logs/error_20241223.log")
+L 12/23/2024 - 21:03:50: [HAMSANDWICH] Failed to retrieve classtype for "", hook for "f_HamWeaponReload" not active.
+L 12/23/2024 - 21:03:50: [AMXX] Displaying debug trace (plugin "K_ZP_main.amxx", version "1.0")
+L 12/23/2024 - 21:03:50: [AMXX] Run time error 10: native error (native "RegisterHam")
+L 12/23/2024 - 21:03:50: [AMXX]    [0] Krol_basic.inc::get_weapon_guns_name_by_id (line 506)
+L 12/23/2024 - 21:03:50: [AMXX]    [1] K_ZP_main.sma::plugin_init (line 33)
+L 12/23/2024 - 21:03:55: [CSTRIKE] Invalid player 1 (no private data)
+L 12/23/2024 - 21:03:55: [AMXX] Displaying debug trace (plugin "K_M_models.amxx", version "1.0")
+L 12/23/2024 - 21:03:55: [AMXX] Run time error 10: native error (native "cs_set_user_model")
+L 12/23/2024 - 21:03:55: [AMXX]    [0] K_M_models.sma::native_return_ham_skin (line 59)
+L 12/23/2024 - 21:03:55: [AMXX]    [1] K_M_models.sma::client_putinserver (line 113)
+L 12/23/2024 - 21:03:56: [CSTRIKE] Invalid player 3 (no private data)
+L 12/23/2024 - 21:03:56: [AMXX] Displaying debug trace (plugin "K_M_models.amxx", version "1.0")
+L 12/23/2024 - 21:03:56: [AMXX] Run time error 10: native error (native "cs_set_user_model")
+L 12/23/2024 - 21:03:56: [AMXX]    [0] K_M_models.sma::native_return_ham_skin (line 59)
+L 12/23/2024 - 21:03:56: [AMXX]    [1] K_M_models.sma::client_putinserver (line 113)
+L 12/23/2024 - 21:03:56: [CSTRIKE] Invalid player 4 (no private data)
+L 12/23/2024 - 21:03:56: [AMXX] Displaying debug trace (plugin "K_M_models.amxx", version "1.0")
+L 12/23/2024 - 21:03:56: [AMXX] Run time error 10: native error (native "cs_set_user_model")
+L 12/23/2024 - 21:03:56: [AMXX]    [0] K_M_models.sma::native_return_ham_skin (line 59)
+L 12/23/2024 - 21:03:56: [AMXX]    [1] K_M_models.sma::client_putinserver (line 113)
+L 12/23/2024 - 21:03:57: [CSTRIKE] Invalid player 5 (no private data)
+L 12/23/2024 - 21:03:57: [AMXX] Displaying debug trace (plugin "K_M_models.amxx", version "1.0")
+L 12/23/2024 - 21:03:57: [AMXX] Run time error 10: native error (native "cs_set_user_model")
+L 12/23/2024 - 21:03:57: [AMXX]    [0] K_M_models.sma::native_return_ham_skin (line 59)
+L 12/23/2024 - 21:03:57: [AMXX]    [1] K_M_models.sma::client_putinserver (line 113)
+L 12/23/2024 - 21:03:57: [CSTRIKE] Invalid player 6 (no private data)
+L 12/23/2024 - 21:03:58: [AMXX] Displaying debug trace (plugin "K_M_models.amxx", version "1.0")
+L 12/23/2024 - 21:03:58: [AMXX] Run time error 10: native error (native "cs_set_user_model")
+L 12/23/2024 - 21:03:58: [AMXX]    [0] K_M_models.sma::native_return_ham_skin (line 59)
+L 12/23/2024 - 21:03:58: [AMXX]    [1] K_M_models.sma::client_putinserver (line 113)
+L 12/23/2024 - 21:03:58: [CSTRIKE] Invalid player 7 (no private data)
+L 12/23/2024 - 21:03:58: [AMXX] Displaying debug trace (plugin "K_M_models.amxx", version "1.0")
+L 12/23/2024 - 21:03:58: [AMXX] Run time error 10: native error (native "cs_set_user_model")
+L 12/23/2024 - 21:03:58: [AMXX]    [0] K_M_models.sma::native_return_ham_skin (line 59)
+L 12/23/2024 - 21:03:58: [AMXX]    [1] K_M_models.sma::client_putinserver (line 113)

@@ -1,0 +1,840 @@
+L 10/21/2024 - 10:22:14: Start of error session.
+L 10/21/2024 - 10:22:14: Info (map "zm_202") (file "addons/amxmodx/logs/error_20241021.log")
+L 10/21/2024 - 10:22:14: [FAKEMETA] Invalid entity
+L 10/21/2024 - 10:22:14: [AMXX] Run time error 10 (plugin "K_lib_entity.amxx") (native "set_pev") - debug not enabled!
+L 10/21/2024 - 10:22:14: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/21/2024 - 11:39:51: Start of error session.
+L 10/21/2024 - 11:39:51: Info (map "zm_202") (file "addons/amxmodx/logs/error_20241021.log")
+L 10/21/2024 - 11:39:51: [AMXX] Plugin file open error (plugin "scm_entity_editor.amxx")
+L 10/21/2024 - 11:40:38: Start of error session.
+L 10/21/2024 - 11:40:38: Info (map "zm_fdust2x2") (file "addons/amxmodx/logs/error_20241021.log")
+L 10/21/2024 - 11:40:38: [AMXX] Plugin file open error (plugin "scm_entity_editor.amxx")
+L 10/21/2024 - 11:41:10: [FAKEMETA] Invalid entity
+L 10/21/2024 - 11:41:10: [AMXX] Run time error 10 (plugin "K_lib_entity.amxx") (native "set_pev") - debug not enabled!
+L 10/21/2024 - 11:41:10: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/21/2024 - 11:41:34: [FAKEMETA] Invalid entity
+L 10/21/2024 - 11:41:34: [AMXX] Run time error 10 (plugin "K_lib_entity.amxx") (native "set_pev") - debug not enabled!
+L 10/21/2024 - 11:41:34: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/21/2024 - 11:43:26: Start of error session.
+L 10/21/2024 - 11:43:26: Info (map "zm_fdust2x2") (file "addons/amxmodx/logs/error_20241021.log")
+L 10/21/2024 - 11:43:26: [AMXX] Plugin file open error (plugin "scm_entity_editor.amxx")
+L 10/21/2024 - 11:45:19: Start of error session.
+L 10/21/2024 - 11:45:19: Info (map "zm_fdust2x2") (file "addons/amxmodx/logs/error_20241021.log")
+L 10/21/2024 - 11:45:19: [AMXX] Plugin file open error (plugin "scm_entity_editor.amxx")
+L 10/21/2024 - 11:49:47: Start of error session.
+L 10/21/2024 - 11:49:47: Info (map "zm_fdust2x2") (file "addons/amxmodx/logs/error_20241021.log")
+L 10/21/2024 - 11:49:47: [AMXX] Plugin file open error (plugin "scm_entity_editor.amxx")
+L 10/21/2024 - 11:51:21: Start of error session.
+L 10/21/2024 - 11:51:21: Info (map "zm_fdust2x2") (file "addons/amxmodx/logs/error_20241021.log")
+L 10/21/2024 - 11:51:21: [AMXX] Plugin file open error (plugin "scm_entity_editor.amxx")
+L 10/21/2024 - 11:52:09: Start of error session.
+L 10/21/2024 - 11:52:09: Info (map "zm_fdust2x2") (file "addons/amxmodx/logs/error_20241021.log")
+L 10/21/2024 - 11:52:09: [AMXX] Plugin file open error (plugin "scm_entity_editor.amxx")
+L 10/21/2024 - 11:58:07: Start of error session.
+L 10/21/2024 - 11:58:07: Info (map "zm_fdust2x2") (file "addons/amxmodx/logs/error_20241021.log")
+L 10/21/2024 - 11:58:07: [AMXX] Plugin file open error (plugin "scm_entity_editor.amxx")
+L 10/21/2024 - 12:23:58: Start of error session.
+L 10/21/2024 - 12:23:58: Info (map "zm_fdust2x2") (file "addons/amxmodx/logs/error_20241021.log")
+L 10/21/2024 - 12:23:58: [ENGINE] Entity 0 can not be removed
+L 10/21/2024 - 12:23:58: [AMXX] Run time error 10 (plugin "K_ZP_main.amxx") (native "remove_entity") - debug not enabled!
+L 10/21/2024 - 12:23:58: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/21/2024 - 12:25:11: Start of error session.
+L 10/21/2024 - 12:25:11: Info (map "zm_fdust2x2") (file "addons/amxmodx/logs/error_20241021.log")
+L 10/21/2024 - 12:25:11: [ENGINE] Entity 0 can not be removed
+L 10/21/2024 - 12:25:11: [AMXX] Run time error 10 (plugin "K_ZP_main.amxx") (native "remove_entity") - debug not enabled!
+L 10/21/2024 - 12:25:11: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/21/2024 - 12:42:28: Start of error session.
+L 10/21/2024 - 12:42:28: Info (map "zm_fdust2x2") (file "addons/amxmodx/logs/error_20241021.log")
+L 10/21/2024 - 12:42:28: [CSTRIKE] Player out of range (0)
+L 10/21/2024 - 12:42:28: [AMXX] Displaying debug trace (plugin "K_lib_ZP.amxx", version "1.0")
+L 10/21/2024 - 12:42:28: [AMXX] Run time error 10: native error (native "cs_set_user_team")
+L 10/21/2024 - 12:42:28: [AMXX]    [0] K_lib_ZP.sma::native_start_mode (line 120)
+L 10/21/2024 - 12:42:28: Unhandled dynamic native error
+L 10/21/2024 - 12:42:28: [AMXX] Run time error 10 (plugin "K_ZP_main.amxx") (native "start_mode") - debug not enabled!
+L 10/21/2024 - 12:42:28: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/21/2024 - 12:46:31: Start of error session.
+L 10/21/2024 - 12:46:31: Info (map "zm_fdust2x2") (file "addons/amxmodx/logs/error_20241021.log")
+L 10/21/2024 - 12:46:31: Invalid player id 0
+L 10/21/2024 - 12:46:31: [AMXX] Run time error 10 (plugin "K_lib_guns.amxx") (native "get_user_weapons") - debug not enabled!
+L 10/21/2024 - 12:46:31: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/21/2024 - 12:46:31: Unhandled dynamic native error
+L 10/21/2024 - 12:46:31: [AMXX] Displaying debug trace (plugin "K_lib_ZP.amxx", version "1.0")
+L 10/21/2024 - 12:46:31: [AMXX] Run time error 10: native error (native "drop_weapons")
+L 10/21/2024 - 12:46:31: [AMXX]    [0] K_lib_ZP.sma::native_make_zombie (line 135)
+L 10/21/2024 - 12:46:31: [AMXX]    [1] K_lib_ZP.sma::native_start_mode (line 116)
+L 10/21/2024 - 12:46:31: Unhandled dynamic native error
+L 10/21/2024 - 12:46:31: [AMXX] Run time error 10 (plugin "K_ZP_main.amxx") (native "start_mode") - debug not enabled!
+L 10/21/2024 - 12:46:31: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/21/2024 - 12:48:11: Start of error session.
+L 10/21/2024 - 12:48:11: Info (map "zm_fdust2x2") (file "addons/amxmodx/logs/error_20241021.log")
+L 10/21/2024 - 12:48:11: Invalid player id 0
+L 10/21/2024 - 12:48:11: [AMXX] Run time error 10 (plugin "K_lib_guns.amxx") (native "get_user_weapons") - debug not enabled!
+L 10/21/2024 - 12:48:11: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/21/2024 - 12:48:11: Unhandled dynamic native error
+L 10/21/2024 - 12:48:11: [AMXX] Displaying debug trace (plugin "K_lib_ZP.amxx", version "1.0")
+L 10/21/2024 - 12:48:11: [AMXX] Run time error 10: native error (native "drop_weapons")
+L 10/21/2024 - 12:48:11: [AMXX]    [0] K_lib_ZP.sma::native_make_zombie (line 135)
+L 10/21/2024 - 12:48:11: [AMXX]    [1] K_lib_ZP.sma::native_start_mode (line 116)
+L 10/21/2024 - 12:48:11: Unhandled dynamic native error
+L 10/21/2024 - 12:48:11: [AMXX] Run time error 10 (plugin "K_ZP_main.amxx") (native "start_mode") - debug not enabled!
+L 10/21/2024 - 12:48:11: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/21/2024 - 12:49:47: Start of error session.
+L 10/21/2024 - 12:49:47: Info (map "zm_fdust2x2") (file "addons/amxmodx/logs/error_20241021.log")
+L 10/21/2024 - 12:49:47: Invalid player id 0
+L 10/21/2024 - 12:49:47: [AMXX] Run time error 10 (plugin "K_lib_guns.amxx") (native "get_user_weapons") - debug not enabled!
+L 10/21/2024 - 12:49:47: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/21/2024 - 12:49:47: Unhandled dynamic native error
+L 10/21/2024 - 12:49:47: [AMXX] Displaying debug trace (plugin "K_lib_ZP.amxx", version "1.0")
+L 10/21/2024 - 12:49:47: [AMXX] Run time error 10: native error (native "drop_weapons")
+L 10/21/2024 - 12:49:47: [AMXX]    [0] K_lib_ZP.sma::native_make_zombie (line 135)
+L 10/21/2024 - 12:49:47: [AMXX]    [1] K_lib_ZP.sma::native_start_mode (line 116)
+L 10/21/2024 - 12:49:47: Unhandled dynamic native error
+L 10/21/2024 - 12:49:47: [AMXX] Run time error 10 (plugin "K_ZP_main.amxx") (native "start_mode") - debug not enabled!
+L 10/21/2024 - 12:49:47: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/21/2024 - 12:52:05: Start of error session.
+L 10/21/2024 - 12:52:05: Info (map "zm_fdust2x2") (file "addons/amxmodx/logs/error_20241021.log")
+L 10/21/2024 - 12:52:05: Invalid player id 0
+L 10/21/2024 - 12:52:05: [AMXX] Run time error 10 (plugin "K_lib_guns.amxx") (native "get_user_weapons") - debug not enabled!
+L 10/21/2024 - 12:52:05: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/21/2024 - 12:52:05: Unhandled dynamic native error
+L 10/21/2024 - 12:52:05: [AMXX] Displaying debug trace (plugin "K_lib_ZP.amxx", version "1.0")
+L 10/21/2024 - 12:52:05: [AMXX] Run time error 10: native error (native "drop_weapons")
+L 10/21/2024 - 12:52:05: [AMXX]    [0] K_lib_ZP.sma::native_make_zombie (line 135)
+L 10/21/2024 - 12:52:05: [AMXX]    [1] K_lib_ZP.sma::native_start_mode (line 116)
+L 10/21/2024 - 12:52:05: Unhandled dynamic native error
+L 10/21/2024 - 12:52:05: [AMXX] Run time error 10 (plugin "K_ZP_main.amxx") (native "start_mode") - debug not enabled!
+L 10/21/2024 - 12:52:05: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/21/2024 - 13:03:50: Start of error session.
+L 10/21/2024 - 13:03:50: Info (map "zm_fdust2x2") (file "addons/amxmodx/logs/error_20241021.log")
+L 10/21/2024 - 13:03:50: [CSTRIKE] Player out of range (0)
+L 10/21/2024 - 13:03:50: [AMXX] Displaying debug trace (plugin "K_lib_ZP.amxx", version "1.0")
+L 10/21/2024 - 13:03:50: [AMXX] Run time error 10: native error (native "cs_set_user_team")
+L 10/21/2024 - 13:03:50: [AMXX]    [0] K_lib_ZP.sma::native_make_hum (line 163)
+L 10/21/2024 - 13:03:50: [AMXX]    [1] K_lib_ZP.sma::native_make_zombie (line 153)
+L 10/21/2024 - 13:03:50: Unhandled dynamic native error
+L 10/21/2024 - 13:03:50: [AMXX] Run time error 10 (plugin "K_M_ZP.amxx") (native "make_zombie") - debug not enabled!
+L 10/21/2024 - 13:03:50: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/21/2024 - 13:07:17: Start of error session.
+L 10/21/2024 - 13:07:17: Info (map "zm_fdust2x2") (file "addons/amxmodx/logs/error_20241021.log")
+L 10/21/2024 - 13:07:17: [CSTRIKE] Player out of range (0)
+L 10/21/2024 - 13:07:17: [AMXX] Displaying debug trace (plugin "K_lib_ZP.amxx", version "1.0")
+L 10/21/2024 - 13:07:17: [AMXX] Run time error 10: native error (native "cs_set_user_team")
+L 10/21/2024 - 13:07:17: [AMXX]    [0] K_lib_ZP.sma::native_make_hum (line 163)
+L 10/21/2024 - 13:07:17: [AMXX]    [1] K_lib_ZP.sma::native_make_zombie (line 153)
+L 10/21/2024 - 13:07:17: Unhandled dynamic native error
+L 10/21/2024 - 13:07:17: [AMXX] Run time error 10 (plugin "K_M_ZP.amxx") (native "make_zombie") - debug not enabled!
+L 10/21/2024 - 13:07:17: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/21/2024 - 13:07:27: Invalid player id 0
+L 10/21/2024 - 13:07:27: [AMXX] Run time error 10 (plugin "K_lib_guns.amxx") (native "get_user_weapons") - debug not enabled!
+L 10/21/2024 - 13:07:27: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/21/2024 - 13:07:27: Unhandled dynamic native error
+L 10/21/2024 - 13:07:27: [AMXX] Displaying debug trace (plugin "K_lib_ZP.amxx", version "1.0")
+L 10/21/2024 - 13:07:27: [AMXX] Run time error 10: native error (native "drop_weapons")
+L 10/21/2024 - 13:07:27: [AMXX]    [0] K_lib_ZP.sma::native_make_zombie (line 137)
+L 10/21/2024 - 13:07:27: [AMXX]    [1] K_lib_ZP.sma::native_start_mode (line 118)
+L 10/21/2024 - 13:07:27: Unhandled dynamic native error
+L 10/21/2024 - 13:07:27: [AMXX] Run time error 10 (plugin "K_ZP_main.amxx") (native "start_mode") - debug not enabled!
+L 10/21/2024 - 13:07:27: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/21/2024 - 19:39:47: Start of error session.
+L 10/21/2024 - 19:39:47: Info (map "zm_fdust2x2") (file "addons/amxmodx/logs/error_20241021.log")
+L 10/21/2024 - 19:39:47: Invalid player id 0
+L 10/21/2024 - 19:39:47: [AMXX] Run time error 10 (plugin "K_lib_guns.amxx") (native "get_user_weapons") - debug not enabled!
+L 10/21/2024 - 19:39:47: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/21/2024 - 19:39:47: Unhandled dynamic native error
+L 10/21/2024 - 19:39:47: [AMXX] Displaying debug trace (plugin "K_lib_ZP.amxx", version "1.0")
+L 10/21/2024 - 19:39:47: [AMXX] Run time error 10: native error (native "drop_weapons")
+L 10/21/2024 - 19:39:47: [AMXX]    [0] K_lib_ZP.sma::native_make_zombie (line 137)
+L 10/21/2024 - 19:39:47: [AMXX]    [1] K_lib_ZP.sma::native_start_mode (line 118)
+L 10/21/2024 - 19:39:47: Unhandled dynamic native error
+L 10/21/2024 - 19:39:47: [AMXX] Run time error 10 (plugin "K_ZP_main.amxx") (native "start_mode") - debug not enabled!
+L 10/21/2024 - 19:39:47: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/21/2024 - 19:40:19: Invalid player id 0
+L 10/21/2024 - 19:40:19: [AMXX] Run time error 10 (plugin "K_lib_guns.amxx") (native "get_user_weapons") - debug not enabled!
+L 10/21/2024 - 19:40:19: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/21/2024 - 19:40:19: Unhandled dynamic native error
+L 10/21/2024 - 19:40:19: [AMXX] Displaying debug trace (plugin "K_lib_ZP.amxx", version "1.0")
+L 10/21/2024 - 19:40:19: [AMXX] Run time error 10: native error (native "drop_weapons")
+L 10/21/2024 - 19:40:19: [AMXX]    [0] K_lib_ZP.sma::native_make_zombie (line 137)
+L 10/21/2024 - 19:40:19: [AMXX]    [1] K_lib_ZP.sma::native_start_mode (line 118)
+L 10/21/2024 - 19:40:19: Unhandled dynamic native error
+L 10/21/2024 - 19:40:19: [AMXX] Run time error 10 (plugin "K_ZP_main.amxx") (native "start_mode") - debug not enabled!
+L 10/21/2024 - 19:40:19: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/21/2024 - 20:24:15: Start of error session.
+L 10/21/2024 - 20:24:15: Info (map "zm_base_human_lg_new_v2") (file "addons/amxmodx/logs/error_20241021.log")
+L 10/21/2024 - 20:24:15: [nVault] Invalid vault id: 0
+
+L 10/21/2024 - 20:24:15: [AMXX] Run time error 10 (plugin "K_ZP_control_data.amxx") (native "nvault_set") - debug not enabled!
+L 10/21/2024 - 20:24:15: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/21/2024 - 20:24:47: Start of error session.
+L 10/21/2024 - 20:24:47: Info (map "zm_base_human_lg_new_v2") (file "addons/amxmodx/logs/error_20241021.log")
+L 10/21/2024 - 20:24:47: [nVault] Invalid vault id: 0
+
+L 10/21/2024 - 20:24:47: [AMXX] Run time error 10 (plugin "K_ZP_control_data.amxx") (native "nvault_set") - debug not enabled!
+L 10/21/2024 - 20:24:47: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/21/2024 - 20:24:58: [nVault] Invalid vault id: 0
+
+L 10/21/2024 - 20:24:58: [AMXX] Run time error 10 (plugin "K_ZP_control_data.amxx") (native "nvault_set") - debug not enabled!
+L 10/21/2024 - 20:24:58: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/21/2024 - 20:25:06: [nVault] Invalid vault id: 0
+
+L 10/21/2024 - 20:25:06: [AMXX] Run time error 10 (plugin "K_ZP_control_data.amxx") (native "nvault_get") - debug not enabled!
+L 10/21/2024 - 20:25:06: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/21/2024 - 20:25:37: [nVault] Invalid vault id: 0
+
+L 10/21/2024 - 20:25:37: [AMXX] Run time error 10 (plugin "K_ZP_control_data.amxx") (native "nvault_set") - debug not enabled!
+L 10/21/2024 - 20:25:37: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/21/2024 - 20:25:37: Start of error session.
+L 10/21/2024 - 20:25:37: Info (map "zm_base_human_lg_new_v2") (file "addons/amxmodx/logs/error_20241021.log")
+L 10/21/2024 - 20:25:37: [nVault] Invalid vault id: 0
+
+L 10/21/2024 - 20:25:37: [AMXX] Displaying debug trace (plugin "K_ZP_control_data.amxx", version "1.0")
+L 10/21/2024 - 20:25:37: [AMXX] Run time error 10: native error (native "nvault_set")
+L 10/21/2024 - 20:25:37: [AMXX]    [0] K_ZP_control_data.sma::Save_date (line 84)
+L 10/21/2024 - 20:25:37: [AMXX]    [1] K_ZP_control_data.sma::plugin_init (line 22)
+L 10/21/2024 - 20:25:40: [nVault] Invalid vault id: 0
+
+L 10/21/2024 - 20:25:40: [AMXX] Displaying debug trace (plugin "K_ZP_control_data.amxx", version "1.0")
+L 10/21/2024 - 20:25:40: [AMXX] Run time error 10: native error (native "nvault_get")
+L 10/21/2024 - 20:25:40: [AMXX]    [0] K_ZP_control_data.sma::Load_date (line 112)
+L 10/21/2024 - 20:25:40: [AMXX]    [1] K_ZP_control_data.sma::client_putinserver (line 53)
+L 10/21/2024 - 20:27:59: [nVault] Invalid vault id: 0
+
+L 10/21/2024 - 20:27:59: [AMXX] Displaying debug trace (plugin "K_ZP_control_data.amxx", version "1.0")
+L 10/21/2024 - 20:27:59: [AMXX] Run time error 10: native error (native "nvault_set")
+L 10/21/2024 - 20:27:59: [AMXX]    [0] K_ZP_control_data.sma::Save_date (line 84)
+L 10/21/2024 - 20:27:59: [AMXX]    [1] K_ZP_control_data.sma::client_disconnected (line 49)
+L 10/21/2024 - 20:36:01: Start of error session.
+L 10/21/2024 - 20:36:01: Info (map "zm_base_human_lg_new_v2") (file "addons/amxmodx/logs/error_20241021.log")
+L 10/21/2024 - 20:36:01: Invalid message argument 2
+L 10/21/2024 - 20:36:01: [AMXX] Run time error 10 (plugin "K_lib_myFuncs.amxx") (native "get_msg_arg_string") - debug not enabled!
+L 10/21/2024 - 20:36:01: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/21/2024 - 20:36:01: [AMXX] Run time error -1 (plugin "K_lib_myFuncs.amxx") - debug not enabled!
+L 10/21/2024 - 20:36:22: Start of error session.
+L 10/21/2024 - 20:36:22: Info (map "zm_base_human_lg_new_v2") (file "addons/amxmodx/logs/error_20241021.log")
+L 10/21/2024 - 20:36:22: Invalid message argument 2
+L 10/21/2024 - 20:36:22: [AMXX] Run time error 10 (plugin "K_lib_myFuncs.amxx") (native "get_msg_arg_string") - debug not enabled!
+L 10/21/2024 - 20:36:22: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/21/2024 - 20:36:22: [AMXX] Run time error -1 (plugin "K_lib_myFuncs.amxx") - debug not enabled!
+L 10/21/2024 - 20:40:16: Start of error session.
+L 10/21/2024 - 20:40:16: Info (map "zm_base_human_lg_new_v2") (file "addons/amxmodx/logs/error_20241021.log")
+L 10/21/2024 - 20:40:16: Invalid message argument 2
+L 10/21/2024 - 20:40:16: [AMXX] Run time error 10 (plugin "K_lib_myFuncs.amxx") (native "get_msg_arg_string") - debug not enabled!
+L 10/21/2024 - 20:40:16: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/21/2024 - 20:40:16: [AMXX] Run time error -1 (plugin "K_lib_myFuncs.amxx") - debug not enabled!
+L 10/21/2024 - 20:41:22: Start of error session.
+L 10/21/2024 - 20:41:22: Info (map "zm_base_human_lg_new_v2") (file "addons/amxmodx/logs/error_20241021.log")
+L 10/21/2024 - 20:41:22: Invalid message argument 2
+L 10/21/2024 - 20:41:22: [AMXX] Run time error 10 (plugin "K_lib_myFuncs.amxx") (native "get_msg_arg_string") - debug not enabled!
+L 10/21/2024 - 20:41:22: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/21/2024 - 20:41:22: [AMXX] Run time error -1 (plugin "K_lib_myFuncs.amxx") - debug not enabled!
+L 10/21/2024 - 20:45:14: Start of error session.
+L 10/21/2024 - 20:45:14: Info (map "zm_base_human_lg_new_v2") (file "addons/amxmodx/logs/error_20241021.log")
+L 10/21/2024 - 20:45:14: Invalid message argument 2
+L 10/21/2024 - 20:45:14: [AMXX] Run time error 10 (plugin "K_lib_myFuncs.amxx") (native "get_msg_arg_string") - debug not enabled!
+L 10/21/2024 - 20:45:14: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/21/2024 - 20:45:14: [AMXX] Run time error -1 (plugin "K_lib_myFuncs.amxx") - debug not enabled!
+L 10/21/2024 - 20:46:21: Start of error session.
+L 10/21/2024 - 20:46:21: Info (map "zm_base_human_lg_new_v2") (file "addons/amxmodx/logs/error_20241021.log")
+L 10/21/2024 - 20:46:21: Invalid message argument 2
+L 10/21/2024 - 20:46:21: [AMXX] Run time error 10 (plugin "K_lib_myFuncs.amxx") (native "get_msg_arg_string") - debug not enabled!
+L 10/21/2024 - 20:46:21: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/21/2024 - 20:46:21: [AMXX] Run time error -1 (plugin "K_lib_myFuncs.amxx") - debug not enabled!
+L 10/21/2024 - 20:47:28: Start of error session.
+L 10/21/2024 - 20:47:28: Info (map "zm_base_human_lg_new_v2") (file "addons/amxmodx/logs/error_20241021.log")
+L 10/21/2024 - 20:47:28: Invalid message argument 2
+L 10/21/2024 - 20:47:28: [AMXX] Run time error 10 (plugin "K_lib_myFuncs.amxx") (native "get_msg_arg_string") - debug not enabled!
+L 10/21/2024 - 20:47:28: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/21/2024 - 20:47:28: [AMXX] Run time error -1 (plugin "K_lib_myFuncs.amxx") - debug not enabled!
+L 10/21/2024 - 20:47:41: Start of error session.
+L 10/21/2024 - 20:47:41: Info (map "zm_base_human_lg_new_v2") (file "addons/amxmodx/logs/error_20241021.log")
+L 10/21/2024 - 20:47:41: Invalid message argument 2
+L 10/21/2024 - 20:47:41: [AMXX] Run time error 10 (plugin "K_lib_myFuncs.amxx") (native "get_msg_arg_string") - debug not enabled!
+L 10/21/2024 - 20:47:41: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/21/2024 - 20:47:41: [AMXX] Run time error -1 (plugin "K_lib_myFuncs.amxx") - debug not enabled!
+L 10/21/2024 - 20:48:01: Start of error session.
+L 10/21/2024 - 20:48:01: Info (map "zm_base_human_lg_new_v2") (file "addons/amxmodx/logs/error_20241021.log")
+L 10/21/2024 - 20:48:01: Invalid message argument 2
+L 10/21/2024 - 20:48:01: [AMXX] Run time error 10 (plugin "K_lib_myFuncs.amxx") (native "get_msg_arg_string") - debug not enabled!
+L 10/21/2024 - 20:48:01: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/21/2024 - 20:48:01: [AMXX] Run time error -1 (plugin "K_lib_myFuncs.amxx") - debug not enabled!
+L 10/21/2024 - 20:48:06: Start of error session.
+L 10/21/2024 - 20:48:06: Info (map "zm_base_human_lg_new_v2") (file "addons/amxmodx/logs/error_20241021.log")
+L 10/21/2024 - 20:48:06: Invalid message argument 2
+L 10/21/2024 - 20:48:06: [AMXX] Run time error 10 (plugin "K_lib_myFuncs.amxx") (native "get_msg_arg_string") - debug not enabled!
+L 10/21/2024 - 20:48:06: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/21/2024 - 20:48:06: [AMXX] Run time error -1 (plugin "K_lib_myFuncs.amxx") - debug not enabled!
+L 10/21/2024 - 20:49:23: Start of error session.
+L 10/21/2024 - 20:49:23: Info (map "zm_base_human_lg_new_v2") (file "addons/amxmodx/logs/error_20241021.log")
+L 10/21/2024 - 20:49:23: Invalid message argument 2
+L 10/21/2024 - 20:49:23: [AMXX] Run time error 10 (plugin "K_lib_myFuncs.amxx") (native "get_msg_arg_string") - debug not enabled!
+L 10/21/2024 - 20:49:23: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/21/2024 - 20:49:23: [AMXX] Run time error -1 (plugin "K_lib_myFuncs.amxx") - debug not enabled!
+L 10/21/2024 - 20:49:26: Start of error session.
+L 10/21/2024 - 20:49:26: Info (map "zm_base_human_lg_new_v2") (file "addons/amxmodx/logs/error_20241021.log")
+L 10/21/2024 - 20:49:26: Invalid message argument 2
+L 10/21/2024 - 20:49:26: [AMXX] Run time error 10 (plugin "K_lib_myFuncs.amxx") (native "get_msg_arg_string") - debug not enabled!
+L 10/21/2024 - 20:49:26: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/21/2024 - 20:49:26: [AMXX] Run time error -1 (plugin "K_lib_myFuncs.amxx") - debug not enabled!
+L 10/21/2024 - 20:53:36: Start of error session.
+L 10/21/2024 - 20:53:36: Info (map "zm_base_human_lg_new_v2") (file "addons/amxmodx/logs/error_20241021.log")
+L 10/21/2024 - 20:53:36: Function is not present (function "update_weather") (plugin "K_ZP_main.amxx")
+L 10/21/2024 - 20:53:36: [AMXX] Displaying debug trace (plugin "K_ZP_main.amxx", version "1.0")
+L 10/21/2024 - 20:53:36: [AMXX] Run time error 10: native error (native "set_task")
+L 10/21/2024 - 20:53:36: [AMXX]    [0] K_ZP_main.sma::plugin_init (line 45)
+L 10/21/2024 - 20:53:36: [AMXX] Displaying debug trace (plugin "K_ZP_control_data.amxx", version "1.0")
+L 10/21/2024 - 20:53:36: [AMXX] Run time error 4: index out of bounds 
+L 10/21/2024 - 20:53:36: [AMXX]    [0] K_ZP_control_data.sma::native_get_is_zombie (line 63)
+L 10/21/2024 - 20:53:36: Unhandled dynamic native error
+L 10/21/2024 - 20:53:36: [AMXX] Displaying debug trace (plugin "K_ZP_main.amxx", version "1.0")
+L 10/21/2024 - 20:53:36: [AMXX] Run time error 10: native error (native "get_is_zombie")
+L 10/21/2024 - 20:53:36: [AMXX]    [0] K_ZP_main.sma::fw_block_pickup_gun (line 81)
+L 10/21/2024 - 20:53:36: [AMXX] Displaying debug trace (plugin "K_ZP_control_data.amxx", version "1.0")
+L 10/21/2024 - 20:53:36: [AMXX] Run time error 4: index out of bounds 
+L 10/21/2024 - 20:53:36: [AMXX]    [0] K_ZP_control_data.sma::native_get_is_zombie (line 63)
+L 10/21/2024 - 20:53:36: Unhandled dynamic native error
+L 10/21/2024 - 20:53:36: [AMXX] Displaying debug trace (plugin "K_ZP_main.amxx", version "1.0")
+L 10/21/2024 - 20:53:36: [AMXX] Run time error 10: native error (native "get_is_zombie")
+L 10/21/2024 - 20:53:36: [AMXX]    [0] K_ZP_main.sma::fw_block_pickup_gun (line 81)
+L 10/21/2024 - 20:53:36: [AMXX] Displaying debug trace (plugin "K_ZP_control_data.amxx", version "1.0")
+L 10/21/2024 - 20:53:36: [AMXX] Run time error 4: index out of bounds 
+L 10/21/2024 - 20:53:36: [AMXX]    [0] K_ZP_control_data.sma::native_get_is_zombie (line 63)
+L 10/21/2024 - 20:53:36: Unhandled dynamic native error
+L 10/21/2024 - 20:53:36: [AMXX] Displaying debug trace (plugin "K_ZP_main.amxx", version "1.0")
+L 10/21/2024 - 20:53:36: [AMXX] Run time error 10: native error (native "get_is_zombie")
+L 10/21/2024 - 20:53:36: [AMXX]    [0] K_ZP_main.sma::fw_block_pickup_gun (line 81)
+L 10/21/2024 - 20:53:36: [AMXX] Displaying debug trace (plugin "K_ZP_control_data.amxx", version "1.0")
+L 10/21/2024 - 20:53:36: [AMXX] Run time error 4: index out of bounds 
+L 10/21/2024 - 20:53:36: [AMXX]    [0] K_ZP_control_data.sma::native_get_is_zombie (line 63)
+L 10/21/2024 - 20:53:36: Unhandled dynamic native error
+L 10/21/2024 - 20:53:36: [AMXX] Displaying debug trace (plugin "K_ZP_main.amxx", version "1.0")
+L 10/21/2024 - 20:53:36: [AMXX] Run time error 10: native error (native "get_is_zombie")
+L 10/21/2024 - 20:53:36: [AMXX]    [0] K_ZP_main.sma::fw_block_pickup_gun (line 81)
+L 10/21/2024 - 20:53:36: [AMXX] Displaying debug trace (plugin "K_ZP_control_data.amxx", version "1.0")
+L 10/21/2024 - 20:53:36: [AMXX] Run time error 4: index out of bounds 
+L 10/21/2024 - 20:53:36: [AMXX]    [0] K_ZP_control_data.sma::native_get_is_zombie (line 63)
+L 10/21/2024 - 20:53:36: Unhandled dynamic native error
+L 10/21/2024 - 20:53:36: [AMXX] Displaying debug trace (plugin "K_ZP_main.amxx", version "1.0")
+L 10/21/2024 - 20:53:36: [AMXX] Run time error 10: native error (native "get_is_zombie")
+L 10/21/2024 - 20:53:36: [AMXX]    [0] K_ZP_main.sma::fw_block_pickup_gun (line 81)
+L 10/21/2024 - 20:53:36: [AMXX] Displaying debug trace (plugin "K_ZP_control_data.amxx", version "1.0")
+L 10/21/2024 - 20:53:36: [AMXX] Run time error 4: index out of bounds 
+L 10/21/2024 - 20:53:36: [AMXX]    [0] K_ZP_control_data.sma::native_get_is_zombie (line 63)
+L 10/21/2024 - 20:53:36: Unhandled dynamic native error
+L 10/21/2024 - 20:53:36: [AMXX] Displaying debug trace (plugin "K_ZP_main.amxx", version "1.0")
+L 10/21/2024 - 20:53:36: [AMXX] Run time error 10: native error (native "get_is_zombie")
+L 10/21/2024 - 20:53:36: [AMXX]    [0] K_ZP_main.sma::fw_block_pickup_gun (line 81)
+L 10/21/2024 - 20:53:36: [AMXX] Displaying debug trace (plugin "K_ZP_control_data.amxx", version "1.0")
+L 10/21/2024 - 20:53:36: [AMXX] Run time error 4: index out of bounds 
+L 10/21/2024 - 20:53:36: [AMXX]    [0] K_ZP_control_data.sma::native_get_is_zombie (line 63)
+L 10/21/2024 - 20:53:36: Unhandled dynamic native error
+L 10/21/2024 - 20:53:36: [AMXX] Displaying debug trace (plugin "K_ZP_main.amxx", version "1.0")
+L 10/21/2024 - 20:53:36: [AMXX] Run time error 10: native error (native "get_is_zombie")
+L 10/21/2024 - 20:53:36: [AMXX]    [0] K_ZP_main.sma::fw_block_pickup_gun (line 81)
+L 10/21/2024 - 20:53:36: [AMXX] Displaying debug trace (plugin "K_ZP_control_data.amxx", version "1.0")
+L 10/21/2024 - 20:53:36: [AMXX] Run time error 4: index out of bounds 
+L 10/21/2024 - 20:53:36: [AMXX]    [0] K_ZP_control_data.sma::native_get_is_zombie (line 63)
+L 10/21/2024 - 20:53:36: Unhandled dynamic native error
+L 10/21/2024 - 20:53:36: [AMXX] Displaying debug trace (plugin "K_ZP_main.amxx", version "1.0")
+L 10/21/2024 - 20:53:36: [AMXX] Run time error 10: native error (native "get_is_zombie")
+L 10/21/2024 - 20:53:36: [AMXX]    [0] K_ZP_main.sma::fw_block_pickup_gun (line 81)
+L 10/21/2024 - 20:53:36: [AMXX] Displaying debug trace (plugin "K_ZP_control_data.amxx", version "1.0")
+L 10/21/2024 - 20:53:36: [AMXX] Run time error 4: index out of bounds 
+L 10/21/2024 - 20:53:36: [AMXX]    [0] K_ZP_control_data.sma::native_get_is_zombie (line 63)
+L 10/21/2024 - 20:53:36: Unhandled dynamic native error
+L 10/21/2024 - 20:53:36: [AMXX] Displaying debug trace (plugin "K_ZP_main.amxx", version "1.0")
+L 10/21/2024 - 20:53:36: [AMXX] Run time error 10: native error (native "get_is_zombie")
+L 10/21/2024 - 20:53:36: [AMXX]    [0] K_ZP_main.sma::fw_block_pickup_gun (line 81)
+L 10/21/2024 - 20:53:36: [AMXX] Displaying debug trace (plugin "K_ZP_control_data.amxx", version "1.0")
+L 10/21/2024 - 20:53:36: [AMXX] Run time error 4: index out of bounds 
+L 10/21/2024 - 20:53:36: [AMXX]    [0] K_ZP_control_data.sma::native_get_is_zombie (line 63)
+L 10/21/2024 - 20:53:36: Unhandled dynamic native error
+L 10/21/2024 - 20:53:36: [AMXX] Displaying debug trace (plugin "K_ZP_main.amxx", version "1.0")
+L 10/21/2024 - 20:53:36: [AMXX] Run time error 10: native error (native "get_is_zombie")
+L 10/21/2024 - 20:53:36: [AMXX]    [0] K_ZP_main.sma::fw_block_pickup_gun (line 81)
+L 10/21/2024 - 20:53:36: [AMXX] Displaying debug trace (plugin "K_ZP_control_data.amxx", version "1.0")
+L 10/21/2024 - 20:53:36: [AMXX] Run time error 4: index out of bounds 
+L 10/21/2024 - 20:53:36: [AMXX]    [0] K_ZP_control_data.sma::native_get_is_zombie (line 63)
+L 10/21/2024 - 20:53:36: Unhandled dynamic native error
+L 10/21/2024 - 20:53:36: [AMXX] Displaying debug trace (plugin "K_ZP_main.amxx", version "1.0")
+L 10/21/2024 - 20:53:36: [AMXX] Run time error 10: native error (native "get_is_zombie")
+L 10/21/2024 - 20:53:36: [AMXX]    [0] K_ZP_main.sma::fw_block_pickup_gun (line 81)
+L 10/21/2024 - 20:53:36: [AMXX] Displaying debug trace (plugin "K_ZP_control_data.amxx", version "1.0")
+L 10/21/2024 - 20:53:36: [AMXX] Run time error 4: index out of bounds 
+L 10/21/2024 - 20:53:36: [AMXX]    [0] K_ZP_control_data.sma::native_get_is_zombie (line 63)
+L 10/21/2024 - 20:53:36: Unhandled dynamic native error
+L 10/21/2024 - 20:53:36: [AMXX] Displaying debug trace (plugin "K_ZP_main.amxx", version "1.0")
+L 10/21/2024 - 20:53:36: [AMXX] Run time error 10: native error (native "get_is_zombie")
+L 10/21/2024 - 20:53:36: [AMXX]    [0] K_ZP_main.sma::fw_block_pickup_gun (line 81)
+L 10/21/2024 - 20:53:36: [AMXX] Displaying debug trace (plugin "K_ZP_control_data.amxx", version "1.0")
+L 10/21/2024 - 20:53:36: [AMXX] Run time error 4: index out of bounds 
+L 10/21/2024 - 20:53:36: [AMXX]    [0] K_ZP_control_data.sma::native_get_is_zombie (line 63)
+L 10/21/2024 - 20:53:36: Unhandled dynamic native error
+L 10/21/2024 - 20:53:36: [AMXX] Displaying debug trace (plugin "K_ZP_main.amxx", version "1.0")
+L 10/21/2024 - 20:53:36: [AMXX] Run time error 10: native error (native "get_is_zombie")
+L 10/21/2024 - 20:53:36: [AMXX]    [0] K_ZP_main.sma::fw_block_pickup_gun (line 81)
+L 10/21/2024 - 20:53:36: [AMXX] Displaying debug trace (plugin "K_ZP_control_data.amxx", version "1.0")
+L 10/21/2024 - 20:53:36: [AMXX] Run time error 4: index out of bounds 
+L 10/21/2024 - 20:53:36: [AMXX]    [0] K_ZP_control_data.sma::native_get_is_zombie (line 63)
+L 10/21/2024 - 20:53:36: Unhandled dynamic native error
+L 10/21/2024 - 20:53:36: [AMXX] Displaying debug trace (plugin "K_ZP_main.amxx", version "1.0")
+L 10/21/2024 - 20:53:36: [AMXX] Run time error 10: native error (native "get_is_zombie")
+L 10/21/2024 - 20:53:36: [AMXX]    [0] K_ZP_main.sma::fw_block_pickup_gun (line 81)
+L 10/21/2024 - 20:53:36: [AMXX] Displaying debug trace (plugin "K_ZP_control_data.amxx", version "1.0")
+L 10/21/2024 - 20:53:36: [AMXX] Run time error 4: index out of bounds 
+L 10/21/2024 - 20:53:36: [AMXX]    [0] K_ZP_control_data.sma::native_get_is_zombie (line 63)
+L 10/21/2024 - 20:53:36: Unhandled dynamic native error
+L 10/21/2024 - 20:53:36: [AMXX] Displaying debug trace (plugin "K_ZP_main.amxx", version "1.0")
+L 10/21/2024 - 20:53:36: [AMXX] Run time error 10: native error (native "get_is_zombie")
+L 10/21/2024 - 20:53:36: [AMXX]    [0] K_ZP_main.sma::fw_block_pickup_gun (line 81)
+L 10/21/2024 - 20:53:36: [AMXX] Displaying debug trace (plugin "K_ZP_control_data.amxx", version "1.0")
+L 10/21/2024 - 20:53:36: [AMXX] Run time error 4: index out of bounds 
+L 10/21/2024 - 20:53:36: [AMXX]    [0] K_ZP_control_data.sma::native_get_is_zombie (line 63)
+L 10/21/2024 - 20:53:36: Unhandled dynamic native error
+L 10/21/2024 - 20:53:36: [AMXX] Displaying debug trace (plugin "K_ZP_main.amxx", version "1.0")
+L 10/21/2024 - 20:53:36: [AMXX] Run time error 10: native error (native "get_is_zombie")
+L 10/21/2024 - 20:53:36: [AMXX]    [0] K_ZP_main.sma::fw_block_pickup_gun (line 81)
+L 10/21/2024 - 20:53:36: [AMXX] Displaying debug trace (plugin "K_ZP_control_data.amxx", version "1.0")
+L 10/21/2024 - 20:53:36: [AMXX] Run time error 4: index out of bounds 
+L 10/21/2024 - 20:53:36: [AMXX]    [0] K_ZP_control_data.sma::native_get_is_zombie (line 63)
+L 10/21/2024 - 20:53:36: Unhandled dynamic native error
+L 10/21/2024 - 20:53:36: [AMXX] Displaying debug trace (plugin "K_ZP_main.amxx", version "1.0")
+L 10/21/2024 - 20:53:36: [AMXX] Run time error 10: native error (native "get_is_zombie")
+L 10/21/2024 - 20:53:36: [AMXX]    [0] K_ZP_main.sma::fw_block_pickup_gun (line 81)
+L 10/21/2024 - 20:53:36: [AMXX] Displaying debug trace (plugin "K_ZP_control_data.amxx", version "1.0")
+L 10/21/2024 - 20:53:36: [AMXX] Run time error 4: index out of bounds 
+L 10/21/2024 - 20:53:36: [AMXX]    [0] K_ZP_control_data.sma::native_get_is_zombie (line 63)
+L 10/21/2024 - 20:53:36: Unhandled dynamic native error
+L 10/21/2024 - 20:53:36: [AMXX] Displaying debug trace (plugin "K_ZP_main.amxx", version "1.0")
+L 10/21/2024 - 20:53:36: [AMXX] Run time error 10: native error (native "get_is_zombie")
+L 10/21/2024 - 20:53:36: [AMXX]    [0] K_ZP_main.sma::fw_block_pickup_gun (line 81)
+L 10/21/2024 - 20:53:36: [AMXX] Displaying debug trace (plugin "K_ZP_control_data.amxx", version "1.0")
+L 10/21/2024 - 20:53:36: [AMXX] Run time error 4: index out of bounds 
+L 10/21/2024 - 20:53:36: [AMXX]    [0] K_ZP_control_data.sma::native_get_is_zombie (line 63)
+L 10/21/2024 - 20:53:36: Unhandled dynamic native error
+L 10/21/2024 - 20:53:36: [AMXX] Displaying debug trace (plugin "K_ZP_main.amxx", version "1.0")
+L 10/21/2024 - 20:53:36: [AMXX] Run time error 10: native error (native "get_is_zombie")
+L 10/21/2024 - 20:53:36: [AMXX]    [0] K_ZP_main.sma::fw_block_pickup_gun (line 81)
+L 10/21/2024 - 20:53:47: Start of error session.
+L 10/21/2024 - 20:53:47: Info (map "zm_base_human_lg_new_v2") (file "addons/amxmodx/logs/error_20241021.log")
+L 10/21/2024 - 20:53:47: Function is not present (function "update_weather") (plugin "K_ZP_main.amxx")
+L 10/21/2024 - 20:53:47: [AMXX] Displaying debug trace (plugin "K_ZP_main.amxx", version "1.0")
+L 10/21/2024 - 20:53:47: [AMXX] Run time error 10: native error (native "set_task")
+L 10/21/2024 - 20:53:47: [AMXX]    [0] K_ZP_main.sma::plugin_init (line 45)
+L 10/21/2024 - 20:53:47: [AMXX] Displaying debug trace (plugin "K_ZP_control_data.amxx", version "1.0")
+L 10/21/2024 - 20:53:47: [AMXX] Run time error 4: index out of bounds 
+L 10/21/2024 - 20:53:47: [AMXX]    [0] K_ZP_control_data.sma::native_get_is_zombie (line 63)
+L 10/21/2024 - 20:53:47: Unhandled dynamic native error
+L 10/21/2024 - 20:53:47: [AMXX] Displaying debug trace (plugin "K_ZP_main.amxx", version "1.0")
+L 10/21/2024 - 20:53:47: [AMXX] Run time error 10: native error (native "get_is_zombie")
+L 10/21/2024 - 20:53:47: [AMXX]    [0] K_ZP_main.sma::fw_block_pickup_gun (line 81)
+L 10/21/2024 - 20:53:47: [AMXX] Displaying debug trace (plugin "K_ZP_control_data.amxx", version "1.0")
+L 10/21/2024 - 20:53:47: [AMXX] Run time error 4: index out of bounds 
+L 10/21/2024 - 20:53:47: [AMXX]    [0] K_ZP_control_data.sma::native_get_is_zombie (line 63)
+L 10/21/2024 - 20:53:47: Unhandled dynamic native error
+L 10/21/2024 - 20:53:47: [AMXX] Displaying debug trace (plugin "K_ZP_main.amxx", version "1.0")
+L 10/21/2024 - 20:53:47: [AMXX] Run time error 10: native error (native "get_is_zombie")
+L 10/21/2024 - 20:53:47: [AMXX]    [0] K_ZP_main.sma::fw_block_pickup_gun (line 81)
+L 10/21/2024 - 20:53:47: [AMXX] Displaying debug trace (plugin "K_ZP_control_data.amxx", version "1.0")
+L 10/21/2024 - 20:53:47: [AMXX] Run time error 4: index out of bounds 
+L 10/21/2024 - 20:53:47: [AMXX]    [0] K_ZP_control_data.sma::native_get_is_zombie (line 63)
+L 10/21/2024 - 20:53:47: Unhandled dynamic native error
+L 10/21/2024 - 20:53:47: [AMXX] Displaying debug trace (plugin "K_ZP_main.amxx", version "1.0")
+L 10/21/2024 - 20:53:47: [AMXX] Run time error 10: native error (native "get_is_zombie")
+L 10/21/2024 - 20:53:47: [AMXX]    [0] K_ZP_main.sma::fw_block_pickup_gun (line 81)
+L 10/21/2024 - 20:53:47: [AMXX] Displaying debug trace (plugin "K_ZP_control_data.amxx", version "1.0")
+L 10/21/2024 - 20:53:47: [AMXX] Run time error 4: index out of bounds 
+L 10/21/2024 - 20:53:47: [AMXX]    [0] K_ZP_control_data.sma::native_get_is_zombie (line 63)
+L 10/21/2024 - 20:53:47: Unhandled dynamic native error
+L 10/21/2024 - 20:53:47: [AMXX] Displaying debug trace (plugin "K_ZP_main.amxx", version "1.0")
+L 10/21/2024 - 20:53:47: [AMXX] Run time error 10: native error (native "get_is_zombie")
+L 10/21/2024 - 20:53:47: [AMXX]    [0] K_ZP_main.sma::fw_block_pickup_gun (line 81)
+L 10/21/2024 - 20:53:47: [AMXX] Displaying debug trace (plugin "K_ZP_control_data.amxx", version "1.0")
+L 10/21/2024 - 20:53:47: [AMXX] Run time error 4: index out of bounds 
+L 10/21/2024 - 20:53:47: [AMXX]    [0] K_ZP_control_data.sma::native_get_is_zombie (line 63)
+L 10/21/2024 - 20:53:47: Unhandled dynamic native error
+L 10/21/2024 - 20:53:47: [AMXX] Displaying debug trace (plugin "K_ZP_main.amxx", version "1.0")
+L 10/21/2024 - 20:53:47: [AMXX] Run time error 10: native error (native "get_is_zombie")
+L 10/21/2024 - 20:53:47: [AMXX]    [0] K_ZP_main.sma::fw_block_pickup_gun (line 81)
+L 10/21/2024 - 20:53:47: [AMXX] Displaying debug trace (plugin "K_ZP_control_data.amxx", version "1.0")
+L 10/21/2024 - 20:53:47: [AMXX] Run time error 4: index out of bounds 
+L 10/21/2024 - 20:53:47: [AMXX]    [0] K_ZP_control_data.sma::native_get_is_zombie (line 63)
+L 10/21/2024 - 20:53:47: Unhandled dynamic native error
+L 10/21/2024 - 20:53:47: [AMXX] Displaying debug trace (plugin "K_ZP_main.amxx", version "1.0")
+L 10/21/2024 - 20:53:47: [AMXX] Run time error 10: native error (native "get_is_zombie")
+L 10/21/2024 - 20:53:47: [AMXX]    [0] K_ZP_main.sma::fw_block_pickup_gun (line 81)
+L 10/21/2024 - 20:53:47: [AMXX] Displaying debug trace (plugin "K_ZP_control_data.amxx", version "1.0")
+L 10/21/2024 - 20:53:47: [AMXX] Run time error 4: index out of bounds 
+L 10/21/2024 - 20:53:47: [AMXX]    [0] K_ZP_control_data.sma::native_get_is_zombie (line 63)
+L 10/21/2024 - 20:53:47: Unhandled dynamic native error
+L 10/21/2024 - 20:53:47: [AMXX] Displaying debug trace (plugin "K_ZP_main.amxx", version "1.0")
+L 10/21/2024 - 20:53:47: [AMXX] Run time error 10: native error (native "get_is_zombie")
+L 10/21/2024 - 20:53:47: [AMXX]    [0] K_ZP_main.sma::fw_block_pickup_gun (line 81)
+L 10/21/2024 - 20:53:47: [AMXX] Displaying debug trace (plugin "K_ZP_control_data.amxx", version "1.0")
+L 10/21/2024 - 20:53:47: [AMXX] Run time error 4: index out of bounds 
+L 10/21/2024 - 20:53:47: [AMXX]    [0] K_ZP_control_data.sma::native_get_is_zombie (line 63)
+L 10/21/2024 - 20:53:47: Unhandled dynamic native error
+L 10/21/2024 - 20:53:47: [AMXX] Displaying debug trace (plugin "K_ZP_main.amxx", version "1.0")
+L 10/21/2024 - 20:53:47: [AMXX] Run time error 10: native error (native "get_is_zombie")
+L 10/21/2024 - 20:53:47: [AMXX]    [0] K_ZP_main.sma::fw_block_pickup_gun (line 81)
+L 10/21/2024 - 20:53:47: [AMXX] Displaying debug trace (plugin "K_ZP_control_data.amxx", version "1.0")
+L 10/21/2024 - 20:53:47: [AMXX] Run time error 4: index out of bounds 
+L 10/21/2024 - 20:53:47: [AMXX]    [0] K_ZP_control_data.sma::native_get_is_zombie (line 63)
+L 10/21/2024 - 20:53:47: Unhandled dynamic native error
+L 10/21/2024 - 20:53:47: [AMXX] Displaying debug trace (plugin "K_ZP_main.amxx", version "1.0")
+L 10/21/2024 - 20:53:47: [AMXX] Run time error 10: native error (native "get_is_zombie")
+L 10/21/2024 - 20:53:47: [AMXX]    [0] K_ZP_main.sma::fw_block_pickup_gun (line 81)
+L 10/21/2024 - 20:53:47: [AMXX] Displaying debug trace (plugin "K_ZP_control_data.amxx", version "1.0")
+L 10/21/2024 - 20:53:47: [AMXX] Run time error 4: index out of bounds 
+L 10/21/2024 - 20:53:47: [AMXX]    [0] K_ZP_control_data.sma::native_get_is_zombie (line 63)
+L 10/21/2024 - 20:53:47: Unhandled dynamic native error
+L 10/21/2024 - 20:53:47: [AMXX] Displaying debug trace (plugin "K_ZP_main.amxx", version "1.0")
+L 10/21/2024 - 20:53:47: [AMXX] Run time error 10: native error (native "get_is_zombie")
+L 10/21/2024 - 20:53:47: [AMXX]    [0] K_ZP_main.sma::fw_block_pickup_gun (line 81)
+L 10/21/2024 - 20:53:47: [AMXX] Displaying debug trace (plugin "K_ZP_control_data.amxx", version "1.0")
+L 10/21/2024 - 20:53:47: [AMXX] Run time error 4: index out of bounds 
+L 10/21/2024 - 20:53:47: [AMXX]    [0] K_ZP_control_data.sma::native_get_is_zombie (line 63)
+L 10/21/2024 - 20:53:47: Unhandled dynamic native error
+L 10/21/2024 - 20:53:47: [AMXX] Displaying debug trace (plugin "K_ZP_main.amxx", version "1.0")
+L 10/21/2024 - 20:53:47: [AMXX] Run time error 10: native error (native "get_is_zombie")
+L 10/21/2024 - 20:53:47: [AMXX]    [0] K_ZP_main.sma::fw_block_pickup_gun (line 81)
+L 10/21/2024 - 20:53:47: [AMXX] Displaying debug trace (plugin "K_ZP_control_data.amxx", version "1.0")
+L 10/21/2024 - 20:53:47: [AMXX] Run time error 4: index out of bounds 
+L 10/21/2024 - 20:53:47: [AMXX]    [0] K_ZP_control_data.sma::native_get_is_zombie (line 63)
+L 10/21/2024 - 20:53:47: Unhandled dynamic native error
+L 10/21/2024 - 20:53:47: [AMXX] Displaying debug trace (plugin "K_ZP_main.amxx", version "1.0")
+L 10/21/2024 - 20:53:47: [AMXX] Run time error 10: native error (native "get_is_zombie")
+L 10/21/2024 - 20:53:47: [AMXX]    [0] K_ZP_main.sma::fw_block_pickup_gun (line 81)
+L 10/21/2024 - 20:53:47: [AMXX] Displaying debug trace (plugin "K_ZP_control_data.amxx", version "1.0")
+L 10/21/2024 - 20:53:47: [AMXX] Run time error 4: index out of bounds 
+L 10/21/2024 - 20:53:47: [AMXX]    [0] K_ZP_control_data.sma::native_get_is_zombie (line 63)
+L 10/21/2024 - 20:53:47: Unhandled dynamic native error
+L 10/21/2024 - 20:53:47: [AMXX] Displaying debug trace (plugin "K_ZP_main.amxx", version "1.0")
+L 10/21/2024 - 20:53:47: [AMXX] Run time error 10: native error (native "get_is_zombie")
+L 10/21/2024 - 20:53:47: [AMXX]    [0] K_ZP_main.sma::fw_block_pickup_gun (line 81)
+L 10/21/2024 - 20:53:47: [AMXX] Displaying debug trace (plugin "K_ZP_control_data.amxx", version "1.0")
+L 10/21/2024 - 20:53:47: [AMXX] Run time error 4: index out of bounds 
+L 10/21/2024 - 20:53:47: [AMXX]    [0] K_ZP_control_data.sma::native_get_is_zombie (line 63)
+L 10/21/2024 - 20:53:47: Unhandled dynamic native error
+L 10/21/2024 - 20:53:47: [AMXX] Displaying debug trace (plugin "K_ZP_main.amxx", version "1.0")
+L 10/21/2024 - 20:53:47: [AMXX] Run time error 10: native error (native "get_is_zombie")
+L 10/21/2024 - 20:53:47: [AMXX]    [0] K_ZP_main.sma::fw_block_pickup_gun (line 81)
+L 10/21/2024 - 20:53:47: [AMXX] Displaying debug trace (plugin "K_ZP_control_data.amxx", version "1.0")
+L 10/21/2024 - 20:53:47: [AMXX] Run time error 4: index out of bounds 
+L 10/21/2024 - 20:53:47: [AMXX]    [0] K_ZP_control_data.sma::native_get_is_zombie (line 63)
+L 10/21/2024 - 20:53:47: Unhandled dynamic native error
+L 10/21/2024 - 20:53:47: [AMXX] Displaying debug trace (plugin "K_ZP_main.amxx", version "1.0")
+L 10/21/2024 - 20:53:48: [AMXX] Run time error 10: native error (native "get_is_zombie")
+L 10/21/2024 - 20:53:48: [AMXX]    [0] K_ZP_main.sma::fw_block_pickup_gun (line 81)
+L 10/21/2024 - 20:53:48: [AMXX] Displaying debug trace (plugin "K_ZP_control_data.amxx", version "1.0")
+L 10/21/2024 - 20:53:48: [AMXX] Run time error 4: index out of bounds 
+L 10/21/2024 - 20:53:48: [AMXX]    [0] K_ZP_control_data.sma::native_get_is_zombie (line 63)
+L 10/21/2024 - 20:53:48: Unhandled dynamic native error
+L 10/21/2024 - 20:53:48: [AMXX] Displaying debug trace (plugin "K_ZP_main.amxx", version "1.0")
+L 10/21/2024 - 20:53:48: [AMXX] Run time error 10: native error (native "get_is_zombie")
+L 10/21/2024 - 20:53:48: [AMXX]    [0] K_ZP_main.sma::fw_block_pickup_gun (line 81)
+L 10/21/2024 - 20:53:48: [AMXX] Displaying debug trace (plugin "K_ZP_control_data.amxx", version "1.0")
+L 10/21/2024 - 20:53:48: [AMXX] Run time error 4: index out of bounds 
+L 10/21/2024 - 20:53:48: [AMXX]    [0] K_ZP_control_data.sma::native_get_is_zombie (line 63)
+L 10/21/2024 - 20:53:48: Unhandled dynamic native error
+L 10/21/2024 - 20:53:48: [AMXX] Displaying debug trace (plugin "K_ZP_main.amxx", version "1.0")
+L 10/21/2024 - 20:53:48: [AMXX] Run time error 10: native error (native "get_is_zombie")
+L 10/21/2024 - 20:53:48: [AMXX]    [0] K_ZP_main.sma::fw_block_pickup_gun (line 81)
+L 10/21/2024 - 20:53:48: [AMXX] Displaying debug trace (plugin "K_ZP_control_data.amxx", version "1.0")
+L 10/21/2024 - 20:53:48: [AMXX] Run time error 4: index out of bounds 
+L 10/21/2024 - 20:53:48: [AMXX]    [0] K_ZP_control_data.sma::native_get_is_zombie (line 63)
+L 10/21/2024 - 20:53:48: Unhandled dynamic native error
+L 10/21/2024 - 20:53:48: [AMXX] Displaying debug trace (plugin "K_ZP_main.amxx", version "1.0")
+L 10/21/2024 - 20:53:48: [AMXX] Run time error 10: native error (native "get_is_zombie")
+L 10/21/2024 - 20:53:48: [AMXX]    [0] K_ZP_main.sma::fw_block_pickup_gun (line 81)
+L 10/21/2024 - 20:53:48: [AMXX] Displaying debug trace (plugin "K_ZP_control_data.amxx", version "1.0")
+L 10/21/2024 - 20:53:48: [AMXX] Run time error 4: index out of bounds 
+L 10/21/2024 - 20:53:48: [AMXX]    [0] K_ZP_control_data.sma::native_get_is_zombie (line 63)
+L 10/21/2024 - 20:53:48: Unhandled dynamic native error
+L 10/21/2024 - 20:53:48: [AMXX] Displaying debug trace (plugin "K_ZP_main.amxx", version "1.0")
+L 10/21/2024 - 20:53:48: [AMXX] Run time error 10: native error (native "get_is_zombie")
+L 10/21/2024 - 20:53:48: [AMXX]    [0] K_ZP_main.sma::fw_block_pickup_gun (line 81)
+L 10/21/2024 - 20:54:39: Start of error session.
+L 10/21/2024 - 20:54:39: Info (map "zm_base_human_lg_new_v2") (file "addons/amxmodx/logs/error_20241021.log")
+L 10/21/2024 - 20:54:39: Function is not present (function "update_weather") (plugin "K_ZP_main.amxx")
+L 10/21/2024 - 20:54:39: [AMXX] Displaying debug trace (plugin "K_ZP_main.amxx", version "1.0")
+L 10/21/2024 - 20:54:39: [AMXX] Run time error 10: native error (native "set_task")
+L 10/21/2024 - 20:54:39: [AMXX]    [0] K_ZP_main.sma::plugin_init (line 45)
+L 10/21/2024 - 20:54:40: [AMXX] Displaying debug trace (plugin "K_ZP_control_data.amxx", version "1.0")
+L 10/21/2024 - 20:54:40: [AMXX] Run time error 4: index out of bounds 
+L 10/21/2024 - 20:54:40: [AMXX]    [0] K_ZP_control_data.sma::native_get_is_zombie (line 63)
+L 10/21/2024 - 20:54:40: Unhandled dynamic native error
+L 10/21/2024 - 20:54:40: [AMXX] Displaying debug trace (plugin "K_ZP_main.amxx", version "1.0")
+L 10/21/2024 - 20:54:40: [AMXX] Run time error 10: native error (native "get_is_zombie")
+L 10/21/2024 - 20:54:40: [AMXX]    [0] K_ZP_main.sma::fw_block_pickup_gun (line 81)
+L 10/21/2024 - 20:54:40: [AMXX] Displaying debug trace (plugin "K_ZP_control_data.amxx", version "1.0")
+L 10/21/2024 - 20:54:40: [AMXX] Run time error 4: index out of bounds 
+L 10/21/2024 - 20:54:40: [AMXX]    [0] K_ZP_control_data.sma::native_get_is_zombie (line 63)
+L 10/21/2024 - 20:54:40: Unhandled dynamic native error
+L 10/21/2024 - 20:54:40: [AMXX] Displaying debug trace (plugin "K_ZP_main.amxx", version "1.0")
+L 10/21/2024 - 20:54:40: [AMXX] Run time error 10: native error (native "get_is_zombie")
+L 10/21/2024 - 20:54:40: [AMXX]    [0] K_ZP_main.sma::fw_block_pickup_gun (line 81)
+L 10/21/2024 - 20:54:40: [AMXX] Displaying debug trace (plugin "K_ZP_control_data.amxx", version "1.0")
+L 10/21/2024 - 20:54:40: [AMXX] Run time error 4: index out of bounds 
+L 10/21/2024 - 20:54:40: [AMXX]    [0] K_ZP_control_data.sma::native_get_is_zombie (line 63)
+L 10/21/2024 - 20:54:40: Unhandled dynamic native error
+L 10/21/2024 - 20:54:40: [AMXX] Displaying debug trace (plugin "K_ZP_main.amxx", version "1.0")
+L 10/21/2024 - 20:54:40: [AMXX] Run time error 10: native error (native "get_is_zombie")
+L 10/21/2024 - 20:54:40: [AMXX]    [0] K_ZP_main.sma::fw_block_pickup_gun (line 81)
+L 10/21/2024 - 20:54:40: [AMXX] Displaying debug trace (plugin "K_ZP_control_data.amxx", version "1.0")
+L 10/21/2024 - 20:54:40: [AMXX] Run time error 4: index out of bounds 
+L 10/21/2024 - 20:54:40: [AMXX]    [0] K_ZP_control_data.sma::native_get_is_zombie (line 63)
+L 10/21/2024 - 20:54:40: Unhandled dynamic native error
+L 10/21/2024 - 20:54:40: [AMXX] Displaying debug trace (plugin "K_ZP_main.amxx", version "1.0")
+L 10/21/2024 - 20:54:40: [AMXX] Run time error 10: native error (native "get_is_zombie")
+L 10/21/2024 - 20:54:40: [AMXX]    [0] K_ZP_main.sma::fw_block_pickup_gun (line 81)
+L 10/21/2024 - 20:54:40: [AMXX] Displaying debug trace (plugin "K_ZP_control_data.amxx", version "1.0")
+L 10/21/2024 - 20:54:40: [AMXX] Run time error 4: index out of bounds 
+L 10/21/2024 - 20:54:40: [AMXX]    [0] K_ZP_control_data.sma::native_get_is_zombie (line 63)
+L 10/21/2024 - 20:54:40: Unhandled dynamic native error
+L 10/21/2024 - 20:54:40: [AMXX] Displaying debug trace (plugin "K_ZP_main.amxx", version "1.0")
+L 10/21/2024 - 20:54:40: [AMXX] Run time error 10: native error (native "get_is_zombie")
+L 10/21/2024 - 20:54:40: [AMXX]    [0] K_ZP_main.sma::fw_block_pickup_gun (line 81)
+L 10/21/2024 - 20:54:40: [AMXX] Displaying debug trace (plugin "K_ZP_control_data.amxx", version "1.0")
+L 10/21/2024 - 20:54:40: [AMXX] Run time error 4: index out of bounds 
+L 10/21/2024 - 20:54:40: [AMXX]    [0] K_ZP_control_data.sma::native_get_is_zombie (line 63)
+L 10/21/2024 - 20:54:40: Unhandled dynamic native error
+L 10/21/2024 - 20:54:40: [AMXX] Displaying debug trace (plugin "K_ZP_main.amxx", version "1.0")
+L 10/21/2024 - 20:54:40: [AMXX] Run time error 10: native error (native "get_is_zombie")
+L 10/21/2024 - 20:54:40: [AMXX]    [0] K_ZP_main.sma::fw_block_pickup_gun (line 81)
+L 10/21/2024 - 20:54:40: [AMXX] Displaying debug trace (plugin "K_ZP_control_data.amxx", version "1.0")
+L 10/21/2024 - 20:54:40: [AMXX] Run time error 4: index out of bounds 
+L 10/21/2024 - 20:54:40: [AMXX]    [0] K_ZP_control_data.sma::native_get_is_zombie (line 63)
+L 10/21/2024 - 20:54:40: Unhandled dynamic native error
+L 10/21/2024 - 20:54:40: [AMXX] Displaying debug trace (plugin "K_ZP_main.amxx", version "1.0")
+L 10/21/2024 - 20:54:40: [AMXX] Run time error 10: native error (native "get_is_zombie")
+L 10/21/2024 - 20:54:40: [AMXX]    [0] K_ZP_main.sma::fw_block_pickup_gun (line 81)
+L 10/21/2024 - 20:54:40: [AMXX] Displaying debug trace (plugin "K_ZP_control_data.amxx", version "1.0")
+L 10/21/2024 - 20:54:40: [AMXX] Run time error 4: index out of bounds 
+L 10/21/2024 - 20:54:40: [AMXX]    [0] K_ZP_control_data.sma::native_get_is_zombie (line 63)
+L 10/21/2024 - 20:54:40: Unhandled dynamic native error
+L 10/21/2024 - 20:54:40: [AMXX] Displaying debug trace (plugin "K_ZP_main.amxx", version "1.0")
+L 10/21/2024 - 20:54:40: [AMXX] Run time error 10: native error (native "get_is_zombie")
+L 10/21/2024 - 20:54:40: [AMXX]    [0] K_ZP_main.sma::fw_block_pickup_gun (line 81)
+L 10/21/2024 - 20:54:40: [AMXX] Displaying debug trace (plugin "K_ZP_control_data.amxx", version "1.0")
+L 10/21/2024 - 20:54:40: [AMXX] Run time error 4: index out of bounds 
+L 10/21/2024 - 20:54:40: [AMXX]    [0] K_ZP_control_data.sma::native_get_is_zombie (line 63)
+L 10/21/2024 - 20:54:40: Unhandled dynamic native error
+L 10/21/2024 - 20:54:40: [AMXX] Displaying debug trace (plugin "K_ZP_main.amxx", version "1.0")
+L 10/21/2024 - 20:54:40: [AMXX] Run time error 10: native error (native "get_is_zombie")
+L 10/21/2024 - 20:54:40: [AMXX]    [0] K_ZP_main.sma::fw_block_pickup_gun (line 81)
+L 10/21/2024 - 20:54:40: [AMXX] Displaying debug trace (plugin "K_ZP_control_data.amxx", version "1.0")
+L 10/21/2024 - 20:54:40: [AMXX] Run time error 4: index out of bounds 
+L 10/21/2024 - 20:54:40: [AMXX]    [0] K_ZP_control_data.sma::native_get_is_zombie (line 63)
+L 10/21/2024 - 20:54:40: Unhandled dynamic native error
+L 10/21/2024 - 20:54:40: [AMXX] Displaying debug trace (plugin "K_ZP_main.amxx", version "1.0")
+L 10/21/2024 - 20:54:40: [AMXX] Run time error 10: native error (native "get_is_zombie")
+L 10/21/2024 - 20:54:40: [AMXX]    [0] K_ZP_main.sma::fw_block_pickup_gun (line 81)
+L 10/21/2024 - 20:54:40: [AMXX] Displaying debug trace (plugin "K_ZP_control_data.amxx", version "1.0")
+L 10/21/2024 - 20:54:40: [AMXX] Run time error 4: index out of bounds 
+L 10/21/2024 - 20:54:40: [AMXX]    [0] K_ZP_control_data.sma::native_get_is_zombie (line 63)
+L 10/21/2024 - 20:54:40: Unhandled dynamic native error
+L 10/21/2024 - 20:54:40: [AMXX] Displaying debug trace (plugin "K_ZP_main.amxx", version "1.0")
+L 10/21/2024 - 20:54:40: [AMXX] Run time error 10: native error (native "get_is_zombie")
+L 10/21/2024 - 20:54:40: [AMXX]    [0] K_ZP_main.sma::fw_block_pickup_gun (line 81)
+L 10/21/2024 - 20:54:40: [AMXX] Displaying debug trace (plugin "K_ZP_control_data.amxx", version "1.0")
+L 10/21/2024 - 20:54:40: [AMXX] Run time error 4: index out of bounds 
+L 10/21/2024 - 20:54:40: [AMXX]    [0] K_ZP_control_data.sma::native_get_is_zombie (line 63)
+L 10/21/2024 - 20:54:40: Unhandled dynamic native error
+L 10/21/2024 - 20:54:40: [AMXX] Displaying debug trace (plugin "K_ZP_main.amxx", version "1.0")
+L 10/21/2024 - 20:54:40: [AMXX] Run time error 10: native error (native "get_is_zombie")
+L 10/21/2024 - 20:54:40: [AMXX]    [0] K_ZP_main.sma::fw_block_pickup_gun (line 81)
+L 10/21/2024 - 20:54:40: [AMXX] Displaying debug trace (plugin "K_ZP_control_data.amxx", version "1.0")
+L 10/21/2024 - 20:54:40: [AMXX] Run time error 4: index out of bounds 
+L 10/21/2024 - 20:54:40: [AMXX]    [0] K_ZP_control_data.sma::native_get_is_zombie (line 63)
+L 10/21/2024 - 20:54:40: Unhandled dynamic native error
+L 10/21/2024 - 20:54:40: [AMXX] Displaying debug trace (plugin "K_ZP_main.amxx", version "1.0")
+L 10/21/2024 - 20:54:40: [AMXX] Run time error 10: native error (native "get_is_zombie")
+L 10/21/2024 - 20:54:40: [AMXX]    [0] K_ZP_main.sma::fw_block_pickup_gun (line 81)
+L 10/21/2024 - 20:54:40: [AMXX] Displaying debug trace (plugin "K_ZP_control_data.amxx", version "1.0")
+L 10/21/2024 - 20:54:40: [AMXX] Run time error 4: index out of bounds 
+L 10/21/2024 - 20:54:40: [AMXX]    [0] K_ZP_control_data.sma::native_get_is_zombie (line 63)
+L 10/21/2024 - 20:54:40: Unhandled dynamic native error
+L 10/21/2024 - 20:54:40: [AMXX] Displaying debug trace (plugin "K_ZP_main.amxx", version "1.0")
+L 10/21/2024 - 20:54:40: [AMXX] Run time error 10: native error (native "get_is_zombie")
+L 10/21/2024 - 20:54:40: [AMXX]    [0] K_ZP_main.sma::fw_block_pickup_gun (line 81)
+L 10/21/2024 - 20:54:40: [AMXX] Displaying debug trace (plugin "K_ZP_control_data.amxx", version "1.0")
+L 10/21/2024 - 20:54:40: [AMXX] Run time error 4: index out of bounds 
+L 10/21/2024 - 20:54:40: [AMXX]    [0] K_ZP_control_data.sma::native_get_is_zombie (line 63)
+L 10/21/2024 - 20:54:40: Unhandled dynamic native error
+L 10/21/2024 - 20:54:40: [AMXX] Displaying debug trace (plugin "K_ZP_main.amxx", version "1.0")
+L 10/21/2024 - 20:54:40: [AMXX] Run time error 10: native error (native "get_is_zombie")
+L 10/21/2024 - 20:54:40: [AMXX]    [0] K_ZP_main.sma::fw_block_pickup_gun (line 81)
+L 10/21/2024 - 20:54:40: [AMXX] Displaying debug trace (plugin "K_ZP_control_data.amxx", version "1.0")
+L 10/21/2024 - 20:54:40: [AMXX] Run time error 4: index out of bounds 
+L 10/21/2024 - 20:54:40: [AMXX]    [0] K_ZP_control_data.sma::native_get_is_zombie (line 63)
+L 10/21/2024 - 20:54:40: Unhandled dynamic native error
+L 10/21/2024 - 20:54:40: [AMXX] Displaying debug trace (plugin "K_ZP_main.amxx", version "1.0")
+L 10/21/2024 - 20:54:40: [AMXX] Run time error 10: native error (native "get_is_zombie")
+L 10/21/2024 - 20:54:40: [AMXX]    [0] K_ZP_main.sma::fw_block_pickup_gun (line 81)
+L 10/21/2024 - 20:54:40: [AMXX] Displaying debug trace (plugin "K_ZP_control_data.amxx", version "1.0")
+L 10/21/2024 - 20:54:40: [AMXX] Run time error 4: index out of bounds 
+L 10/21/2024 - 20:54:40: [AMXX]    [0] K_ZP_control_data.sma::native_get_is_zombie (line 63)
+L 10/21/2024 - 20:54:40: Unhandled dynamic native error
+L 10/21/2024 - 20:54:40: [AMXX] Displaying debug trace (plugin "K_ZP_main.amxx", version "1.0")
+L 10/21/2024 - 20:54:40: [AMXX] Run time error 10: native error (native "get_is_zombie")
+L 10/21/2024 - 20:54:40: [AMXX]    [0] K_ZP_main.sma::fw_block_pickup_gun (line 81)
+L 10/21/2024 - 20:54:40: [AMXX] Displaying debug trace (plugin "K_ZP_control_data.amxx", version "1.0")
+L 10/21/2024 - 20:54:40: [AMXX] Run time error 4: index out of bounds 
+L 10/21/2024 - 20:54:40: [AMXX]    [0] K_ZP_control_data.sma::native_get_is_zombie (line 63)
+L 10/21/2024 - 20:54:40: Unhandled dynamic native error
+L 10/21/2024 - 20:54:40: [AMXX] Displaying debug trace (plugin "K_ZP_main.amxx", version "1.0")
+L 10/21/2024 - 20:54:40: [AMXX] Run time error 10: native error (native "get_is_zombie")
+L 10/21/2024 - 20:54:40: [AMXX]    [0] K_ZP_main.sma::fw_block_pickup_gun (line 81)
+L 10/21/2024 - 20:54:40: [AMXX] Displaying debug trace (plugin "K_ZP_control_data.amxx", version "1.0")
+L 10/21/2024 - 20:54:40: [AMXX] Run time error 4: index out of bounds 
+L 10/21/2024 - 20:54:40: [AMXX]    [0] K_ZP_control_data.sma::native_get_is_zombie (line 63)
+L 10/21/2024 - 20:54:40: Unhandled dynamic native error
+L 10/21/2024 - 20:54:40: [AMXX] Displaying debug trace (plugin "K_ZP_main.amxx", version "1.0")
+L 10/21/2024 - 20:54:40: [AMXX] Run time error 10: native error (native "get_is_zombie")
+L 10/21/2024 - 20:54:40: [AMXX]    [0] K_ZP_main.sma::fw_block_pickup_gun (line 81)
+L 10/21/2024 - 20:55:09: Start of error session.
+L 10/21/2024 - 20:55:09: Info (map "zm_base_human_lg_new_v2") (file "addons/amxmodx/logs/error_20241021.log")
+L 10/21/2024 - 20:55:09: Function is not present (function "update_weather") (plugin "K_ZP_main.amxx")
+L 10/21/2024 - 20:55:09: [AMXX] Displaying debug trace (plugin "K_ZP_main.amxx", version "1.0")
+L 10/21/2024 - 20:55:09: [AMXX] Run time error 10: native error (native "set_task")
+L 10/21/2024 - 20:55:09: [AMXX]    [0] K_ZP_main.sma::plugin_init (line 45)
+L 10/21/2024 - 22:30:59: Start of error session.
+L 10/21/2024 - 22:30:59: Info (map "zm_fdust2x2") (file "addons/amxmodx/logs/error_20241021.log")
+L 10/21/2024 - 22:30:59: Function "test_f" was not found
+L 10/21/2024 - 22:30:59: [AMXX] Displaying debug trace (plugin "K_lib_ZP.amxx", version "1.0")
+L 10/21/2024 - 22:30:59: [AMXX] Run time error 19: function not found 
+L 10/21/2024 - 22:30:59: [AMXX]    [0] K_lib_ZP.sma::plugin_init (line 26)
+L 10/21/2024 - 22:33:18: Start of error session.
+L 10/21/2024 - 22:33:18: Info (map "zm_fdust2x2") (file "addons/amxmodx/logs/error_20241021.log")
+L 10/21/2024 - 22:33:18: Function "test_f" was not found
+L 10/21/2024 - 22:33:18: [AMXX] Displaying debug trace (plugin "K_lib_ZP.amxx", version "1.0")
+L 10/21/2024 - 22:33:18: [AMXX] Run time error 19: function not found 
+L 10/21/2024 - 22:33:18: [AMXX]    [0] K_lib_ZP.sma::plugin_init (line 26)
+L 10/21/2024 - 22:53:35: Start of error session.
+L 10/21/2024 - 22:53:35: Info (map "zm_caca") (file "addons/amxmodx/logs/error_20241021.log")
+L 10/21/2024 - 22:53:35: Function "test_f" was not found
+L 10/21/2024 - 22:53:35: [AMXX] Displaying debug trace (plugin "K_lib_ZP.amxx", version "1.0")
+L 10/21/2024 - 22:53:35: [AMXX] Run time error 19: function not found 
+L 10/21/2024 - 22:53:35: [AMXX]    [0] K_lib_ZP.sma::plugin_init (line 26)
+L 10/21/2024 - 23:13:53: Start of error session.
+L 10/21/2024 - 23:13:53: Info (map "zm_creative") (file "addons/amxmodx/logs/error_20241021.log")
+L 10/21/2024 - 23:13:53: Function "test_f" was not found
+L 10/21/2024 - 23:13:53: [AMXX] Displaying debug trace (plugin "K_lib_ZP.amxx", version "1.0")
+L 10/21/2024 - 23:13:53: [AMXX] Run time error 19: function not found 
+L 10/21/2024 - 23:13:53: [AMXX]    [0] K_lib_ZP.sma::plugin_init (line 26)
+L 10/21/2024 - 23:17:01: Start of error session.
+L 10/21/2024 - 23:17:01: Info (map "zm_creative") (file "addons/amxmodx/logs/error_20241021.log")
+L 10/21/2024 - 23:17:01: Function "test_f" was not found
+L 10/21/2024 - 23:17:01: [AMXX] Displaying debug trace (plugin "K_lib_ZP.amxx", version "1.0")
+L 10/21/2024 - 23:17:01: [AMXX] Run time error 19: function not found 
+L 10/21/2024 - 23:17:01: [AMXX]    [0] K_lib_ZP.sma::plugin_init (line 26)
+L 10/21/2024 - 23:18:49: Start of error session.
+L 10/21/2024 - 23:18:49: Info (map "zm_creative") (file "addons/amxmodx/logs/error_20241021.log")
+L 10/21/2024 - 23:18:49: Function "test_f" was not found
+L 10/21/2024 - 23:18:49: [AMXX] Displaying debug trace (plugin "K_lib_ZP.amxx", version "1.0")
+L 10/21/2024 - 23:18:49: [AMXX] Run time error 19: function not found 
+L 10/21/2024 - 23:18:49: [AMXX]    [0] K_lib_ZP.sma::plugin_init (line 26)
+L 10/21/2024 - 23:20:19: Start of error session.
+L 10/21/2024 - 23:20:19: Info (map "zm_creative") (file "addons/amxmodx/logs/error_20241021.log")
+L 10/21/2024 - 23:20:19: Function "test_f" was not found
+L 10/21/2024 - 23:20:19: [AMXX] Displaying debug trace (plugin "K_lib_ZP.amxx", version "1.0")
+L 10/21/2024 - 23:20:19: [AMXX] Run time error 19: function not found 
+L 10/21/2024 - 23:20:19: [AMXX]    [0] K_lib_ZP.sma::plugin_init (line 26)
+L 10/21/2024 - 23:20:32: [CSTRIKE] Player out of range (0)
+L 10/21/2024 - 23:20:32: [AMXX] Displaying debug trace (plugin "K_lib_ZP.amxx", version "1.0")
+L 10/21/2024 - 23:20:32: [AMXX] Run time error 10: native error (native "cs_set_user_team")
+L 10/21/2024 - 23:20:32: [AMXX]    [0] K_lib_ZP.sma::native_reset_player_for_new_round (line 103)
+L 10/21/2024 - 23:20:32: Unhandled dynamic native error
+L 10/21/2024 - 23:20:32: [AMXX] Displaying debug trace (plugin "K_ZP_main.amxx", version "1.0")
+L 10/21/2024 - 23:20:32: [AMXX] Run time error 10: native error (native "reset_player_for_new_round")
+L 10/21/2024 - 23:20:32: [AMXX]    [0] K_ZP_main.sma::fw_new_round (line 82)
+L 10/21/2024 - 23:21:49: Start of error session.
+L 10/21/2024 - 23:21:49: Info (map "zm_creative") (file "addons/amxmodx/logs/error_20241021.log")
+L 10/21/2024 - 23:21:49: Function "test_f" was not found
+L 10/21/2024 - 23:21:49: [AMXX] Displaying debug trace (plugin "K_lib_ZP.amxx", version "1.0")
+L 10/21/2024 - 23:21:49: [AMXX] Run time error 19: function not found 
+L 10/21/2024 - 23:21:49: [AMXX]    [0] K_lib_ZP.sma::plugin_init (line 26)
+L 10/21/2024 - 23:22:50: Start of error session.
+L 10/21/2024 - 23:22:50: Info (map "zm_creative") (file "addons/amxmodx/logs/error_20241021.log")
+L 10/21/2024 - 23:22:50: Function "test_f" was not found
+L 10/21/2024 - 23:22:50: [AMXX] Displaying debug trace (plugin "K_lib_ZP.amxx", version "1.0")
+L 10/21/2024 - 23:22:50: [AMXX] Run time error 19: function not found 
+L 10/21/2024 - 23:22:50: [AMXX]    [0] K_lib_ZP.sma::plugin_init (line 26)
+L 10/21/2024 - 23:24:34: Start of error session.
+L 10/21/2024 - 23:24:34: Info (map "zm_creative") (file "addons/amxmodx/logs/error_20241021.log")
+L 10/21/2024 - 23:24:34: [CSTRIKE] Player out of range (0)
+L 10/21/2024 - 23:24:34: [AMXX] Displaying debug trace (plugin "K_lib_ZP.amxx", version "1.0")
+L 10/21/2024 - 23:24:34: [AMXX] Run time error 10: native error (native "cs_set_user_team")
+L 10/21/2024 - 23:24:34: [AMXX]    [0] K_lib_ZP.sma::native_reset_player_for_new_round (line 100)
+L 10/21/2024 - 23:24:34: Unhandled dynamic native error
+L 10/21/2024 - 23:24:34: [AMXX] Displaying debug trace (plugin "K_ZP_main.amxx", version "1.0")
+L 10/21/2024 - 23:24:34: [AMXX] Run time error 10: native error (native "reset_player_for_new_round")
+L 10/21/2024 - 23:24:34: [AMXX]    [0] K_ZP_main.sma::fw_new_round (line 82)
+L 10/21/2024 - 23:25:27: Start of error session.
+L 10/21/2024 - 23:25:27: Info (map "zm_creative") (file "addons/amxmodx/logs/error_20241021.log")
+L 10/21/2024 - 23:25:27: [CSTRIKE] Player out of range (0)
+L 10/21/2024 - 23:25:27: [AMXX] Displaying debug trace (plugin "K_lib_ZP.amxx", version "1.0")
+L 10/21/2024 - 23:25:27: [AMXX] Run time error 10: native error (native "cs_set_user_team")
+L 10/21/2024 - 23:25:27: [AMXX]    [0] K_lib_ZP.sma::native_reset_player_for_new_round (line 100)
+L 10/21/2024 - 23:25:27: Unhandled dynamic native error
+L 10/21/2024 - 23:25:27: [AMXX] Displaying debug trace (plugin "K_ZP_main.amxx", version "1.0")
+L 10/21/2024 - 23:25:27: [AMXX] Run time error 10: native error (native "reset_player_for_new_round")
+L 10/21/2024 - 23:25:27: [AMXX]    [0] K_ZP_main.sma::fw_new_round (line 82)
+L 10/21/2024 - 23:27:23: Start of error session.
+L 10/21/2024 - 23:27:23: Info (map "zm_creative") (file "addons/amxmodx/logs/error_20241021.log")
+L 10/21/2024 - 23:27:23: [CSTRIKE] Player out of range (0)
+L 10/21/2024 - 23:27:23: [AMXX] Displaying debug trace (plugin "K_lib_ZP.amxx", version "1.0")
+L 10/21/2024 - 23:27:23: [AMXX] Run time error 10: native error (native "cs_set_user_team")
+L 10/21/2024 - 23:27:23: [AMXX]    [0] K_lib_ZP.sma::native_reset_player_for_new_round (line 100)
+L 10/21/2024 - 23:27:23: Unhandled dynamic native error
+L 10/21/2024 - 23:27:23: [AMXX] Displaying debug trace (plugin "K_ZP_main.amxx", version "1.0")
+L 10/21/2024 - 23:27:23: [AMXX] Run time error 10: native error (native "reset_player_for_new_round")
+L 10/21/2024 - 23:27:23: [AMXX]    [0] K_ZP_main.sma::fw_new_round (line 82)
+L 10/21/2024 - 23:31:16: Start of error session.
+L 10/21/2024 - 23:31:16: Info (map "zm_creative") (file "addons/amxmodx/logs/error_20241021.log")
+L 10/21/2024 - 23:31:16: [CSTRIKE] Player out of range (0)
+L 10/21/2024 - 23:31:16: [AMXX] Displaying debug trace (plugin "K_lib_ZP.amxx", version "1.0")
+L 10/21/2024 - 23:31:16: [AMXX] Run time error 10: native error (native "cs_set_user_team")
+L 10/21/2024 - 23:31:16: [AMXX]    [0] K_lib_ZP.sma::native_reset_player_for_new_round (line 98)
+L 10/21/2024 - 23:31:16: Unhandled dynamic native error
+L 10/21/2024 - 23:31:16: [AMXX] Displaying debug trace (plugin "K_ZP_main.amxx", version "1.0")
+L 10/21/2024 - 23:31:16: [AMXX] Run time error 10: native error (native "reset_player_for_new_round")
+L 10/21/2024 - 23:31:16: [AMXX]    [0] K_ZP_main.sma::fw_new_round (line 82)
+L 10/21/2024 - 23:32:49: Start of error session.
+L 10/21/2024 - 23:32:49: Info (map "zm_creative") (file "addons/amxmodx/logs/error_20241021.log")
+L 10/21/2024 - 23:32:49: [CSTRIKE] Player out of range (0)
+L 10/21/2024 - 23:32:49: [AMXX] Displaying debug trace (plugin "K_lib_ZP.amxx", version "1.0")
+L 10/21/2024 - 23:32:49: [AMXX] Run time error 10: native error (native "cs_set_user_team")
+L 10/21/2024 - 23:32:49: [AMXX]    [0] K_lib_ZP.sma::native_reset_player_for_new_round (line 98)
+L 10/21/2024 - 23:32:49: Unhandled dynamic native error
+L 10/21/2024 - 23:32:49: [AMXX] Displaying debug trace (plugin "K_ZP_main.amxx", version "1.0")
+L 10/21/2024 - 23:32:49: [AMXX] Run time error 10: native error (native "reset_player_for_new_round")
+L 10/21/2024 - 23:32:49: [AMXX]    [0] K_ZP_main.sma::fw_new_round (line 84)
+L 10/21/2024 - 23:34:07: Start of error session.
+L 10/21/2024 - 23:34:07: Info (map "zm_creative") (file "addons/amxmodx/logs/error_20241021.log")
+L 10/21/2024 - 23:34:07: [CSTRIKE] Player out of range (0)
+L 10/21/2024 - 23:34:07: [AMXX] Displaying debug trace (plugin "K_lib_ZP.amxx", version "1.0")
+L 10/21/2024 - 23:34:07: [AMXX] Run time error 10: native error (native "cs_set_user_team")
+L 10/21/2024 - 23:34:07: [AMXX]    [0] K_lib_ZP.sma::native_reset_player_for_new_round (line 94)
+L 10/21/2024 - 23:34:07: Unhandled dynamic native error
+L 10/21/2024 - 23:34:07: [AMXX] Displaying debug trace (plugin "K_ZP_main.amxx", version "1.0")
+L 10/21/2024 - 23:34:07: [AMXX] Run time error 10: native error (native "reset_player_for_new_round")
+L 10/21/2024 - 23:34:07: [AMXX]    [0] K_ZP_main.sma::fw_new_round (line 84)
+L 10/21/2024 - 23:34:20: [CSTRIKE] Player out of range (0)
+L 10/21/2024 - 23:34:20: [AMXX] Displaying debug trace (plugin "K_lib_ZP.amxx", version "1.0")
+L 10/21/2024 - 23:34:20: [AMXX] Run time error 10: native error (native "cs_set_user_team")
+L 10/21/2024 - 23:34:20: [AMXX]    [0] K_lib_ZP.sma::native_reset_player_for_new_round (line 94)
+L 10/21/2024 - 23:34:20: Unhandled dynamic native error
+L 10/21/2024 - 23:34:20: [AMXX] Displaying debug trace (plugin "K_ZP_main.amxx", version "1.0")
+L 10/21/2024 - 23:34:20: [AMXX] Run time error 10: native error (native "reset_player_for_new_round")
+L 10/21/2024 - 23:34:20: [AMXX]    [0] K_ZP_main.sma::fw_new_round (line 84)
+L 10/21/2024 - 23:35:25: Start of error session.
+L 10/21/2024 - 23:35:25: Info (map "zm_creative") (file "addons/amxmodx/logs/error_20241021.log")
+L 10/21/2024 - 23:35:25: [CSTRIKE] Player out of range (0)
+L 10/21/2024 - 23:35:25: [AMXX] Displaying debug trace (plugin "K_ZP_main.amxx", version "1.0")
+L 10/21/2024 - 23:35:25: [AMXX] Run time error 10: native error (native "cs_set_user_team")
+L 10/21/2024 - 23:35:25: [AMXX]    [0] K_ZP_main.sma::fw_new_round (line 84)
+L 10/21/2024 - 23:35:36: [CSTRIKE] Player out of range (0)
+L 10/21/2024 - 23:35:36: [AMXX] Displaying debug trace (plugin "K_ZP_main.amxx", version "1.0")
+L 10/21/2024 - 23:35:36: [AMXX] Run time error 10: native error (native "cs_set_user_team")
+L 10/21/2024 - 23:35:36: [AMXX]    [0] K_ZP_main.sma::fw_new_round (line 84)

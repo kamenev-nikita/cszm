@@ -1,0 +1,98 @@
+L 10/30/2024 - 00:01:36: Start of error session.
+L 10/30/2024 - 00:01:36: Info (map "zm_texas_night") (file "addons/amxmodx/logs/error_20241030.log")
+L 10/30/2024 - 00:01:36: Player 1 is not in game.
+L 10/30/2024 - 00:01:36: [AMXX] Run time error 10 (plugin "pluginmenu.amxx") (native "menu_display") - debug not enabled!
+L 10/30/2024 - 00:01:36: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/30/2024 - 00:11:10: Start of error session.
+L 10/30/2024 - 00:11:10: Info (map "zm_fox") (file "addons/amxmodx/logs/error_20241030.log")
+L 10/30/2024 - 00:11:10: Player 1 is not in game.
+L 10/30/2024 - 00:11:10: [AMXX] Run time error 10 (plugin "pluginmenu.amxx") (native "menu_display") - debug not enabled!
+L 10/30/2024 - 00:11:10: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/30/2024 - 12:04:28: Start of error session.
+L 10/30/2024 - 12:04:28: Info (map "zm_fox") (file "addons/amxmodx/logs/error_20241030.log")
+L 10/30/2024 - 12:04:28: [FUN] Invalid player 1
+L 10/30/2024 - 12:04:28: [AMXX] Displaying debug trace (plugin "parachute.amxx", version "1.3")
+L 10/30/2024 - 12:04:28: [AMXX] Run time error 10: native error (native "set_user_gravity")
+L 10/30/2024 - 12:04:28: [AMXX]    [0] parachute.sma::parachute_reset (line 104)
+L 10/30/2024 - 12:04:28: [AMXX]    [1] parachute.sma::client_connect (line 81)
+L 10/30/2024 - 12:05:04: [FUN] Invalid player 1
+L 10/30/2024 - 12:05:04: [AMXX] Displaying debug trace (plugin "parachute.amxx", version "1.3")
+L 10/30/2024 - 12:05:04: [AMXX] Run time error 10: native error (native "set_user_gravity")
+L 10/30/2024 - 12:05:04: [AMXX]    [0] parachute.sma::parachute_reset (line 104)
+L 10/30/2024 - 12:05:04: [AMXX]    [1] parachute.sma::client_connect (line 81)
+L 10/30/2024 - 12:39:09: Start of error session.
+L 10/30/2024 - 12:39:09: Info (map "zm_fox") (file "addons/amxmodx/logs/error_20241030.log")
+L 10/30/2024 - 12:39:09: [FUN] Invalid player 1
+L 10/30/2024 - 12:39:09: [AMXX] Displaying debug trace (plugin "parachute.amxx", version "1.3")
+L 10/30/2024 - 12:39:09: [AMXX] Run time error 10: native error (native "set_user_gravity")
+L 10/30/2024 - 12:39:09: [AMXX]    [0] parachute.sma::parachute_reset (line 104)
+L 10/30/2024 - 12:39:09: [AMXX]    [1] parachute.sma::client_connect (line 81)
+L 10/30/2024 - 13:11:39: Start of error session.
+L 10/30/2024 - 13:11:39: Info (map "zm_3rooms") (file "addons/amxmodx/logs/error_20241030.log")
+L 10/30/2024 - 13:11:39: [FUN] Invalid player 1
+L 10/30/2024 - 13:11:39: [AMXX] Displaying debug trace (plugin "parachute.amxx", version "1.3")
+L 10/30/2024 - 13:11:39: [AMXX] Run time error 10: native error (native "set_user_gravity")
+L 10/30/2024 - 13:11:39: [AMXX]    [0] parachute.sma::parachute_reset (line 104)
+L 10/30/2024 - 13:11:39: [AMXX]    [1] parachute.sma::client_connect (line 81)
+L 10/30/2024 - 13:34:03: Start of error session.
+L 10/30/2024 - 13:34:03: Info (map "zm_3rooms") (file "addons/amxmodx/logs/error_20241030.log")
+L 10/30/2024 - 13:34:03: Invalid player id 0
+L 10/30/2024 - 13:34:03: [AMXX] Displaying debug trace (plugin "K_lib_skins.amxx", version "1.0")
+L 10/30/2024 - 13:34:03: [AMXX] Run time error 10: native error (native "get_user_origin")
+L 10/30/2024 - 13:34:03: [AMXX]    [0] K_lib_skins.sma::native_create_spr (line 104)
+L 10/30/2024 - 13:34:03: Unhandled dynamic native error
+L 10/30/2024 - 13:34:03: [AMXX] Displaying debug trace (plugin "zm_skill_heal.amxx", version "1.0")
+L 10/30/2024 - 13:34:03: [AMXX] Run time error 10: native error (native "create_spr")
+L 10/30/2024 - 13:34:03: [AMXX]    [0] zm_skill_heal.sma::native_use_zm_skill_heal (line 43)
+L 10/30/2024 - 13:34:03: Unhandled dynamic native error
+L 10/30/2024 - 13:34:03: [AMXX] Displaying debug trace (plugin "zm_skills.amxx", version "1.0")
+L 10/30/2024 - 13:34:03: [AMXX] Run time error 10: native error (native "use_zm_skill_heal")
+L 10/30/2024 - 13:34:03: [AMXX]    [0] zm_skills.sma::use_zm_skill (line 63)
+L 10/30/2024 - 21:22:21: Start of error session.
+L 10/30/2024 - 21:22:21: Info (map "zm_202") (file "addons/amxmodx/logs/error_20241030.log")
+L 10/30/2024 - 21:22:21: [CSTRIKE] Invalid player 3 (not in-game)
+L 10/30/2024 - 21:22:21: [AMXX] Displaying debug trace (plugin "K_lib_ZP.amxx", version "1.0")
+L 10/30/2024 - 21:22:21: [AMXX] Run time error 10: native error (native "cs_set_user_team")
+L 10/30/2024 - 21:22:21: [AMXX]    [0] K_lib_ZP.sma::native_make_zombie (line 135)
+L 10/30/2024 - 21:22:21: Unhandled dynamic native error
+L 10/30/2024 - 21:22:21: [AMXX] Displaying debug trace (plugin "K_M_ZP.amxx", version "1.0")
+L 10/30/2024 - 21:22:21: [AMXX] Run time error 10: native error (native "make_zombie")
+L 10/30/2024 - 21:22:21: [AMXX]    [0] K_M_ZP.sma::func_menu_list_players (line 162)
+L 10/30/2024 - 21:33:32: Start of error session.
+L 10/30/2024 - 21:33:32: Info (map "zm_202") (file "addons/amxmodx/logs/error_20241030.log")
+L 10/30/2024 - 21:33:32: [CSTRIKE] Invalid player 3 (not in-game)
+L 10/30/2024 - 21:33:32: [AMXX] Displaying debug trace (plugin "K_lib_ZP.amxx", version "1.0")
+L 10/30/2024 - 21:33:32: [AMXX] Run time error 10: native error (native "cs_set_user_team")
+L 10/30/2024 - 21:33:32: [AMXX]    [0] K_lib_ZP.sma::native_make_zombie (line 135)
+L 10/30/2024 - 21:33:32: Unhandled dynamic native error
+L 10/30/2024 - 21:33:32: [AMXX] Displaying debug trace (plugin "K_M_ZP.amxx", version "1.0")
+L 10/30/2024 - 21:33:32: [AMXX] Run time error 10: native error (native "make_zombie")
+L 10/30/2024 - 21:33:32: [AMXX]    [0] K_M_ZP.sma::func_menu_list_players (line 162)
+L 10/30/2024 - 22:48:18: Start of error session.
+L 10/30/2024 - 22:48:18: Info (map "zm_fdust2x2") (file "addons/amxmodx/logs/error_20241030.log")
+L 10/30/2024 - 22:48:18: [FUN] Invalid player 1
+L 10/30/2024 - 22:48:18: [AMXX] Displaying debug trace (plugin "parachute.amxx", version "1.3")
+L 10/30/2024 - 22:48:18: [AMXX] Run time error 10: native error (native "set_user_gravity")
+L 10/30/2024 - 22:48:18: [AMXX]    [0] parachute.sma::parachute_reset (line 104)
+L 10/30/2024 - 22:48:18: [AMXX]    [1] parachute.sma::client_connect (line 81)
+L 10/30/2024 - 23:07:33: Start of error session.
+L 10/30/2024 - 23:07:33: Info (map "zm_fdust2x2") (file "addons/amxmodx/logs/error_20241030.log")
+L 10/30/2024 - 23:07:33: [FUN] Invalid player 1
+L 10/30/2024 - 23:07:33: [AMXX] Displaying debug trace (plugin "parachute.amxx", version "1.3")
+L 10/30/2024 - 23:07:33: [AMXX] Run time error 10: native error (native "set_user_gravity")
+L 10/30/2024 - 23:07:33: [AMXX]    [0] parachute.sma::parachute_reset (line 104)
+L 10/30/2024 - 23:07:33: [AMXX]    [1] parachute.sma::client_connect (line 81)
+L 10/30/2024 - 23:08:32: Start of error session.
+L 10/30/2024 - 23:08:32: Info (map "zm_fdust2x2") (file "addons/amxmodx/logs/error_20241030.log")
+L 10/30/2024 - 23:08:32: [FUN] Invalid player 1
+L 10/30/2024 - 23:08:32: [AMXX] Displaying debug trace (plugin "parachute.amxx", version "1.3")
+L 10/30/2024 - 23:08:32: [AMXX] Run time error 10: native error (native "set_user_gravity")
+L 10/30/2024 - 23:08:32: [AMXX]    [0] parachute.sma::parachute_reset (line 104)
+L 10/30/2024 - 23:08:32: [AMXX]    [1] parachute.sma::client_connect (line 81)
+L 10/30/2024 - 23:09:58: Start of error session.
+L 10/30/2024 - 23:09:58: Info (map "zm_fdust2x2") (file "addons/amxmodx/logs/error_20241030.log")
+L 10/30/2024 - 23:09:58: [FUN] Invalid player 1
+L 10/30/2024 - 23:09:58: [AMXX] Displaying debug trace (plugin "parachute.amxx", version "1.3")
+L 10/30/2024 - 23:09:58: [AMXX] Run time error 10: native error (native "set_user_gravity")
+L 10/30/2024 - 23:09:58: [AMXX]    [0] parachute.sma::parachute_reset (line 104)
+L 10/30/2024 - 23:09:58: [AMXX]    [1] parachute.sma::client_connect (line 81)

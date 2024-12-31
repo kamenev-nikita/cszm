@@ -1,0 +1,59 @@
+L 10/16/2024 - 10:11:05: Start of error session.
+L 10/16/2024 - 10:11:05: Info (map "de_dust2") (file "addons/amxmodx/logs/error_20241016.log")
+L 10/16/2024 - 10:11:05: Invalid player id 25
+L 10/16/2024 - 10:11:05: [AMXX] Run time error 10 (plugin "K_ZP_main.amxx") (native "engclient_cmd") - debug not enabled!
+L 10/16/2024 - 10:11:05: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/16/2024 - 10:11:18: Invalid player id 25
+L 10/16/2024 - 10:11:18: [AMXX] Run time error 10 (plugin "K_ZP_main.amxx") (native "engclient_cmd") - debug not enabled!
+L 10/16/2024 - 10:11:18: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/16/2024 - 10:21:35: Start of error session.
+L 10/16/2024 - 10:21:35: Info (map "de_dust2") (file "addons/amxmodx/logs/error_20241016.log")
+L 10/16/2024 - 10:21:35: [HAMSANDWICH] Function anti_weapon_pickup not found.
+L 10/16/2024 - 10:21:35: [AMXX] Run time error 10 (plugin "K_ZP_main.amxx") (native "RegisterHam") - debug not enabled!
+L 10/16/2024 - 10:21:35: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/16/2024 - 10:22:18: Start of error session.
+L 10/16/2024 - 10:22:18: Info (map "de_dust2") (file "addons/amxmodx/logs/error_20241016.log")
+L 10/16/2024 - 10:22:18: [HAMSANDWICH] Function anti_weapon_pickup not found.
+L 10/16/2024 - 10:22:18: [AMXX] Run time error 10 (plugin "K_ZP_main.amxx") (native "RegisterHam") - debug not enabled!
+L 10/16/2024 - 10:22:18: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/16/2024 - 11:43:13: Start of error session.
+L 10/16/2024 - 11:43:13: Info (map "de_prodigy") (file "addons/amxmodx/logs/error_20241016.log")
+L 10/16/2024 - 11:43:13: [ReAPI] ReGameDll: isn't available
+L 10/16/2024 - 11:43:13: [AMXX] Run time error 10 (plugin "K_lib_ZP.amxx") (native "set_member") - debug not enabled!
+L 10/16/2024 - 11:43:13: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/16/2024 - 11:43:20: [ReAPI] ReGameDll: isn't available
+L 10/16/2024 - 11:43:20: [AMXX] Run time error 10 (plugin "K_lib_ZP.amxx") (native "set_member") - debug not enabled!
+L 10/16/2024 - 11:43:20: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/16/2024 - 11:46:53: Start of error session.
+L 10/16/2024 - 11:46:53: Info (map "de_prodigy") (file "addons/amxmodx/logs/error_20241016.log")
+L 10/16/2024 - 11:46:53: [ReAPI] ReGameDll: isn't available
+L 10/16/2024 - 11:46:53: [AMXX] Run time error 10 (plugin "K_lib_ZP.amxx") (native "set_member") - debug not enabled!
+L 10/16/2024 - 11:46:53: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/16/2024 - 11:48:13: Start of error session.
+L 10/16/2024 - 11:48:13: Info (map "de_dust2") (file "addons/amxmodx/logs/error_20241016.log")
+L 10/16/2024 - 11:48:13: [ReAPI] ReGameDll: isn't available
+L 10/16/2024 - 11:48:13: [AMXX] Run time error 10 (plugin "K_lib_ZP.amxx") (native "set_member") - debug not enabled!
+L 10/16/2024 - 11:48:13: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/16/2024 - 12:26:27: Start of error session.
+L 10/16/2024 - 12:26:27: Info (map "de_dust2") (file "addons/amxmodx/logs/error_20241016.log")
+L 10/16/2024 - 12:26:27: Called dynanative into a paused plugin.
+L 10/16/2024 - 12:26:27: [AMXX] Run time error 10 (plugin "K_ZP_main.amxx") (native "show_main_menu") - debug not enabled!
+L 10/16/2024 - 12:26:27: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/16/2024 - 12:47:06: Start of error session.
+L 10/16/2024 - 12:47:06: Info (map "de_dust2") (file "addons/amxmodx/logs/error_20241016.log")
+L 10/16/2024 - 12:47:06: Function "native_make_hum" was not found
+L 10/16/2024 - 12:47:06: [AMXX] Run time error 19 (plugin "K_lib_ZP.amxx") - debug not enabled!
+L 10/16/2024 - 12:47:06: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/16/2024 - 12:47:06: [AMXX] Run time error -1 (plugin "K_lib_ZP.amxx") - debug not enabled!
+L 10/16/2024 - 12:47:27: Called dynanative into a paused plugin.
+L 10/16/2024 - 12:47:27: [AMXX] Run time error 10 (plugin "K_M_mainMenu.amxx") (native "show_shop_zm_menu") - debug not enabled!
+L 10/16/2024 - 12:47:27: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/16/2024 - 12:47:28: Called dynanative into a paused plugin.
+L 10/16/2024 - 12:47:28: [AMXX] Run time error 10 (plugin "K_ZP_main.amxx") (native "show_main_menu") - debug not enabled!
+L 10/16/2024 - 12:47:28: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/16/2024 - 12:49:25: Start of error session.
+L 10/16/2024 - 12:49:25: Info (map "de_dust2") (file "addons/amxmodx/logs/error_20241016.log")
+L 10/16/2024 - 12:49:25: Function "native_make_hum" was not found
+L 10/16/2024 - 12:49:25: [AMXX] Run time error 19 (plugin "K_lib_ZP.amxx") - debug not enabled!
+L 10/16/2024 - 12:49:25: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/16/2024 - 12:49:25: [AMXX] Run time error -1 (plugin "K_lib_ZP.amxx") - debug not enabled!

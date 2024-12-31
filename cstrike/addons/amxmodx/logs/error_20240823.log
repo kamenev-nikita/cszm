@@ -1,0 +1,649 @@
+L 08/23/2024 - 09:02:14: Start of error session.
+L 08/23/2024 - 09:02:14: Info (map "zm_fdust2x2") (file "addons/amxmodx/logs/error_20240823.log")
+L 08/23/2024 - 09:02:14: [AMXX] Plugin file open error (plugin "scm_entity_editor.amxx")
+L 08/23/2024 - 09:02:26: [CS] Player is not in game (4)
+L 08/23/2024 - 09:02:26: [AMXX] Run time error 10 (plugin "K_menu_model.amxx") (native "cs_set_player_model") - debug not enabled!
+L 08/23/2024 - 09:02:26: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/23/2024 - 09:02:32: [CS] Player is not in game (1)
+L 08/23/2024 - 09:02:32: [AMXX] Run time error 10 (plugin "K_menu_model.amxx") (native "cs_set_player_model") - debug not enabled!
+L 08/23/2024 - 09:02:32: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/23/2024 - 09:07:43: [CS] Player is not in game (1)
+L 08/23/2024 - 09:07:43: [AMXX] Run time error 10 (plugin "K_menu_model.amxx") (native "cs_set_player_model") - debug not enabled!
+L 08/23/2024 - 09:07:43: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/23/2024 - 09:09:13: Start of error session.
+L 08/23/2024 - 09:09:13: Info (map "zm_fdust2x2") (file "addons/amxmodx/logs/error_20240823.log")
+L 08/23/2024 - 09:09:13: [AMXX] Plugin file open error (plugin "scm_entity_editor.amxx")
+L 08/23/2024 - 09:09:55: Start of error session.
+L 08/23/2024 - 09:09:55: Info (map "zm_fdust2x2") (file "addons/amxmodx/logs/error_20240823.log")
+L 08/23/2024 - 09:09:55: [AMXX] Plugin file open error (plugin "scm_entity_editor.amxx")
+L 08/23/2024 - 09:10:07: [CS] Player is not in game (1)
+L 08/23/2024 - 09:10:07: [AMXX] Run time error 10 (plugin "K_menu_model.amxx") (native "cs_set_player_model") - debug not enabled!
+L 08/23/2024 - 09:10:07: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/23/2024 - 09:10:28: [CS] Player is not in game (2)
+L 08/23/2024 - 09:10:28: [AMXX] Run time error 10 (plugin "K_menu_model.amxx") (native "cs_set_player_model") - debug not enabled!
+L 08/23/2024 - 09:10:28: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/23/2024 - 09:13:16: Start of error session.
+L 08/23/2024 - 09:13:16: Info (map "zm_fdust2x2") (file "addons/amxmodx/logs/error_20240823.log")
+L 08/23/2024 - 09:13:16: [AMXX] Plugin file open error (plugin "scm_entity_editor.amxx")
+L 08/23/2024 - 09:13:27: [CS] Player is not in game (8)
+L 08/23/2024 - 09:13:27: [AMXX] Run time error 10 (plugin "K_menu_model.amxx") (native "cs_set_player_model") - debug not enabled!
+L 08/23/2024 - 09:13:27: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/23/2024 - 09:14:09: Start of error session.
+L 08/23/2024 - 09:14:09: Info (map "zm_fdust2x2") (file "addons/amxmodx/logs/error_20240823.log")
+L 08/23/2024 - 09:14:09: [AMXX] Plugin file open error (plugin "scm_entity_editor.amxx")
+L 08/23/2024 - 09:14:20: [CS] Player is not in game (8)
+L 08/23/2024 - 09:14:20: [AMXX] Run time error 10 (plugin "K_menu_model.amxx") (native "cs_set_player_model") - debug not enabled!
+L 08/23/2024 - 09:14:20: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/23/2024 - 09:19:31: [CS] Player is not in game (8)
+L 08/23/2024 - 09:19:31: [AMXX] Run time error 10 (plugin "K_menu_model.amxx") (native "cs_set_player_model") - debug not enabled!
+L 08/23/2024 - 09:19:31: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/23/2024 - 09:24:42: [CS] Player is not in game (8)
+L 08/23/2024 - 09:24:42: [AMXX] Run time error 10 (plugin "K_menu_model.amxx") (native "cs_set_player_model") - debug not enabled!
+L 08/23/2024 - 09:24:42: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/23/2024 - 09:29:53: [CS] Player is not in game (8)
+L 08/23/2024 - 09:29:53: [AMXX] Run time error 10 (plugin "K_menu_model.amxx") (native "cs_set_player_model") - debug not enabled!
+L 08/23/2024 - 09:29:53: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/23/2024 - 09:32:19: Start of error session.
+L 08/23/2024 - 09:32:19: Info (map "zm_fdust2x2") (file "addons/amxmodx/logs/error_20240823.log")
+L 08/23/2024 - 09:32:19: [AMXX] Plugin file open error (plugin "scm_entity_editor.amxx")
+L 08/23/2024 - 09:32:31: [CS] Player is not in game (8)
+L 08/23/2024 - 09:32:31: [AMXX] Run time error 10 (plugin "K_menu_model.amxx") (native "cs_set_player_model") - debug not enabled!
+L 08/23/2024 - 09:32:31: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/23/2024 - 09:37:27: Start of error session.
+L 08/23/2024 - 09:37:27: Info (map "zm_fdust2x2") (file "addons/amxmodx/logs/error_20240823.log")
+L 08/23/2024 - 09:37:27: [AMXX] Plugin file open error (plugin "scm_entity_editor.amxx")
+L 08/23/2024 - 09:37:38: [CS] Player is not in game (8)
+L 08/23/2024 - 09:37:38: [AMXX] Run time error 10 (plugin "K_menu_model.amxx") (native "cs_set_player_model") - debug not enabled!
+L 08/23/2024 - 09:37:38: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/23/2024 - 09:39:29: Start of error session.
+L 08/23/2024 - 09:39:29: Info (map "zm_fdust2x2") (file "addons/amxmodx/logs/error_20240823.log")
+L 08/23/2024 - 09:39:29: [AMXX] Plugin file open error (plugin "scm_entity_editor.amxx")
+L 08/23/2024 - 09:39:38: [CS] Player is not in game (8)
+L 08/23/2024 - 09:39:38: [AMXX] Run time error 10 (plugin "K_menu_model.amxx") (native "cs_set_player_model") - debug not enabled!
+L 08/23/2024 - 09:39:38: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/23/2024 - 09:44:49: [CS] Player is not in game (8)
+L 08/23/2024 - 09:45:00: [AMXX] Run time error 10 (plugin "K_menu_model.amxx") (native "cs_set_player_model") - debug not enabled!
+L 08/23/2024 - 09:45:00: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/23/2024 - 09:49:47: Start of error session.
+L 08/23/2024 - 09:49:47: Info (map "zm_fdust2x2") (file "addons/amxmodx/logs/error_20240823.log")
+L 08/23/2024 - 09:49:47: [AMXX] Plugin file open error (plugin "scm_entity_editor.amxx")
+L 08/23/2024 - 09:49:56: [CS] Player is not in game (8)
+L 08/23/2024 - 09:49:56: [AMXX] Run time error 10 (plugin "K_menu_model.amxx") (native "cs_set_player_model") - debug not enabled!
+L 08/23/2024 - 09:49:56: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/23/2024 - 09:51:50: Start of error session.
+L 08/23/2024 - 09:51:50: Info (map "zm_fdust2x2") (file "addons/amxmodx/logs/error_20240823.log")
+L 08/23/2024 - 09:51:50: [AMXX] Plugin file open error (plugin "scm_entity_editor.amxx")
+L 08/23/2024 - 09:52:01: [CS] Player is not in game (8)
+L 08/23/2024 - 09:52:01: [AMXX] Run time error 10 (plugin "K_menu_model.amxx") (native "cs_set_player_model") - debug not enabled!
+L 08/23/2024 - 09:52:01: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/23/2024 - 09:57:12: [CS] Player is not in game (8)
+L 08/23/2024 - 09:57:12: [AMXX] Run time error 10 (plugin "K_menu_model.amxx") (native "cs_set_player_model") - debug not enabled!
+L 08/23/2024 - 09:57:12: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/23/2024 - 09:58:38: Start of error session.
+L 08/23/2024 - 09:58:38: Info (map "zm_fdust2x2") (file "addons/amxmodx/logs/error_20240823.log")
+L 08/23/2024 - 09:58:38: [AMXX] Plugin file open error (plugin "scm_entity_editor.amxx")
+L 08/23/2024 - 09:58:47: [CS] Player is not in game (8)
+L 08/23/2024 - 09:58:47: [AMXX] Run time error 10 (plugin "K_menu_model.amxx") (native "cs_set_player_model") - debug not enabled!
+L 08/23/2024 - 09:58:47: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/23/2024 - 10:03:58: [CS] Player is not in game (8)
+L 08/23/2024 - 10:03:58: [AMXX] Run time error 10 (plugin "K_menu_model.amxx") (native "cs_set_player_model") - debug not enabled!
+L 08/23/2024 - 10:03:58: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/23/2024 - 10:04:52: Start of error session.
+L 08/23/2024 - 10:04:52: Info (map "zm_fdust2x2") (file "addons/amxmodx/logs/error_20240823.log")
+L 08/23/2024 - 10:04:52: [AMXX] Plugin file open error (plugin "scm_entity_editor.amxx")
+L 08/23/2024 - 10:05:03: [CS] Player is not in game (8)
+L 08/23/2024 - 10:05:03: [AMXX] Run time error 10 (plugin "K_menu_model.amxx") (native "cs_set_player_model") - debug not enabled!
+L 08/23/2024 - 10:05:03: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/23/2024 - 10:05:30: Start of error session.
+L 08/23/2024 - 10:05:30: Info (map "zm_fdust2x2") (file "addons/amxmodx/logs/error_20240823.log")
+L 08/23/2024 - 10:05:30: [AMXX] Plugin file open error (plugin "scm_entity_editor.amxx")
+L 08/23/2024 - 10:05:40: [CS] Player is not in game (8)
+L 08/23/2024 - 10:05:40: [AMXX] Run time error 10 (plugin "K_menu_model.amxx") (native "cs_set_player_model") - debug not enabled!
+L 08/23/2024 - 10:05:40: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/23/2024 - 10:07:06: Start of error session.
+L 08/23/2024 - 10:07:06: Info (map "zm_fdust2x2") (file "addons/amxmodx/logs/error_20240823.log")
+L 08/23/2024 - 10:07:06: [AMXX] Plugin file open error (plugin "scm_entity_editor.amxx")
+L 08/23/2024 - 10:07:15: [CS] Player is not in game (8)
+L 08/23/2024 - 10:07:15: [AMXX] Run time error 10 (plugin "K_menu_model.amxx") (native "cs_set_player_model") - debug not enabled!
+L 08/23/2024 - 10:07:15: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/23/2024 - 10:12:26: [CS] Player is not in game (8)
+L 08/23/2024 - 10:12:26: [AMXX] Run time error 10 (plugin "K_menu_model.amxx") (native "cs_set_player_model") - debug not enabled!
+L 08/23/2024 - 10:12:26: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/23/2024 - 10:13:39: Start of error session.
+L 08/23/2024 - 10:13:39: Info (map "zm_fdust2x2") (file "addons/amxmodx/logs/error_20240823.log")
+L 08/23/2024 - 10:13:39: [AMXX] Plugin file open error (plugin "scm_entity_editor.amxx")
+L 08/23/2024 - 10:13:47: [CS] Player is not in game (8)
+L 08/23/2024 - 10:13:47: [AMXX] Run time error 10 (plugin "K_menu_model.amxx") (native "cs_set_player_model") - debug not enabled!
+L 08/23/2024 - 10:13:47: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/23/2024 - 10:14:09: Start of error session.
+L 08/23/2024 - 10:14:09: Info (map "zm_fdust2x2") (file "addons/amxmodx/logs/error_20240823.log")
+L 08/23/2024 - 10:14:09: [AMXX] Plugin file open error (plugin "scm_entity_editor.amxx")
+L 08/23/2024 - 10:14:20: [CS] Player is not in game (8)
+L 08/23/2024 - 10:14:20: [AMXX] Run time error 10 (plugin "K_menu_model.amxx") (native "cs_set_player_model") - debug not enabled!
+L 08/23/2024 - 10:14:20: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/23/2024 - 10:16:42: Start of error session.
+L 08/23/2024 - 10:16:42: Info (map "zm_fdust2x2") (file "addons/amxmodx/logs/error_20240823.log")
+L 08/23/2024 - 10:16:42: [AMXX] Plugin file open error (plugin "SymbolChat.amxx")
+L 08/23/2024 - 10:16:42: [AMXX] Plugin file open error (plugin "scm_entity_editor.amxx")
+L 08/23/2024 - 10:16:50: [CS] Player is not in game (8)
+L 08/23/2024 - 10:16:50: [AMXX] Run time error 10 (plugin "K_menu_model.amxx") (native "cs_set_player_model") - debug not enabled!
+L 08/23/2024 - 10:16:50: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/23/2024 - 10:22:01: [CS] Player is not in game (8)
+L 08/23/2024 - 10:22:01: [AMXX] Run time error 10 (plugin "K_menu_model.amxx") (native "cs_set_player_model") - debug not enabled!
+L 08/23/2024 - 10:22:01: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/23/2024 - 10:27:12: [CS] Player is not in game (8)
+L 08/23/2024 - 10:27:12: [AMXX] Run time error 10 (plugin "K_menu_model.amxx") (native "cs_set_player_model") - debug not enabled!
+L 08/23/2024 - 10:27:12: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/23/2024 - 10:29:00: Start of error session.
+L 08/23/2024 - 10:29:00: Info (map "zm_fdust2x2") (file "addons/amxmodx/logs/error_20240823.log")
+L 08/23/2024 - 10:29:00: [AMXX] Plugin file open error (plugin "scm_entity_editor.amxx")
+L 08/23/2024 - 10:29:11: [CS] Player is not in game (8)
+L 08/23/2024 - 10:29:11: [AMXX] Run time error 10 (plugin "K_menu_model.amxx") (native "cs_set_player_model") - debug not enabled!
+L 08/23/2024 - 10:29:11: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/23/2024 - 10:31:31: Start of error session.
+L 08/23/2024 - 10:31:31: Info (map "zm_fdust2x2") (file "addons/amxmodx/logs/error_20240823.log")
+L 08/23/2024 - 10:31:31: [AMXX] Plugin file open error (plugin "scm_entity_editor.amxx")
+L 08/23/2024 - 10:31:40: [CS] Player is not in game (8)
+L 08/23/2024 - 10:31:40: [AMXX] Run time error 10 (plugin "K_menu_model.amxx") (native "cs_set_player_model") - debug not enabled!
+L 08/23/2024 - 10:31:40: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/23/2024 - 10:32:56: Start of error session.
+L 08/23/2024 - 10:32:56: Info (map "zm_fdust2x2") (file "addons/amxmodx/logs/error_20240823.log")
+L 08/23/2024 - 10:32:56: [AMXX] Plugin file open error (plugin "scm_entity_editor.amxx")
+L 08/23/2024 - 10:33:07: [CS] Player is not in game (8)
+L 08/23/2024 - 10:33:07: [AMXX] Run time error 10 (plugin "K_menu_model.amxx") (native "cs_set_player_model") - debug not enabled!
+L 08/23/2024 - 10:33:07: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/23/2024 - 10:38:18: [CS] Player is not in game (8)
+L 08/23/2024 - 10:38:18: [AMXX] Run time error 10 (plugin "K_menu_model.amxx") (native "cs_set_player_model") - debug not enabled!
+L 08/23/2024 - 10:38:18: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/23/2024 - 10:39:41: Start of error session.
+L 08/23/2024 - 10:39:41: Info (map "zm_fdust2x2") (file "addons/amxmodx/logs/error_20240823.log")
+L 08/23/2024 - 10:39:41: [AMXX] Plugin file open error (plugin "scm_entity_editor.amxx")
+L 08/23/2024 - 10:39:50: [CS] Player is not in game (8)
+L 08/23/2024 - 10:39:50: [AMXX] Run time error 10 (plugin "K_menu_model.amxx") (native "cs_set_player_model") - debug not enabled!
+L 08/23/2024 - 10:39:50: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/23/2024 - 10:45:01: [CS] Player is not in game (8)
+L 08/23/2024 - 10:45:01: [AMXX] Run time error 10 (plugin "K_menu_model.amxx") (native "cs_set_player_model") - debug not enabled!
+L 08/23/2024 - 10:45:01: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/23/2024 - 10:45:07: Start of error session.
+L 08/23/2024 - 10:45:07: Info (map "zm_fdust2x2") (file "addons/amxmodx/logs/error_20240823.log")
+L 08/23/2024 - 10:45:07: [AMXX] Plugin file open error (plugin "scm_entity_editor.amxx")
+L 08/23/2024 - 10:45:18: [CS] Player is not in game (8)
+L 08/23/2024 - 10:45:18: [AMXX] Run time error 10 (plugin "K_menu_model.amxx") (native "cs_set_player_model") - debug not enabled!
+L 08/23/2024 - 10:45:18: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/23/2024 - 10:46:41: Start of error session.
+L 08/23/2024 - 10:46:41: Info (map "zm_fdust2x2") (file "addons/amxmodx/logs/error_20240823.log")
+L 08/23/2024 - 10:46:41: [AMXX] Plugin file open error (plugin "scm_entity_editor.amxx")
+L 08/23/2024 - 10:46:52: [CS] Player is not in game (8)
+L 08/23/2024 - 10:46:52: [AMXX] Run time error 10 (plugin "K_menu_model.amxx") (native "cs_set_player_model") - debug not enabled!
+L 08/23/2024 - 10:46:52: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/23/2024 - 10:52:03: [CS] Player is not in game (8)
+L 08/23/2024 - 10:52:03: [AMXX] Run time error 10 (plugin "K_menu_model.amxx") (native "cs_set_player_model") - debug not enabled!
+L 08/23/2024 - 10:52:03: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/23/2024 - 10:53:18: Start of error session.
+L 08/23/2024 - 10:53:18: Info (map "zm_fdust2x2") (file "addons/amxmodx/logs/error_20240823.log")
+L 08/23/2024 - 10:53:18: [AMXX] Plugin file open error (plugin "scm_entity_editor.amxx")
+L 08/23/2024 - 10:53:26: [CS] Player is not in game (8)
+L 08/23/2024 - 10:53:26: [AMXX] Run time error 10 (plugin "K_menu_model.amxx") (native "cs_set_player_model") - debug not enabled!
+L 08/23/2024 - 10:53:26: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/23/2024 - 10:58:37: [CS] Player is not in game (8)
+L 08/23/2024 - 10:58:37: [AMXX] Run time error 10 (plugin "K_menu_model.amxx") (native "cs_set_player_model") - debug not enabled!
+L 08/23/2024 - 10:58:37: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/23/2024 - 11:03:48: [CS] Player is not in game (8)
+L 08/23/2024 - 11:03:48: [AMXX] Run time error 10 (plugin "K_menu_model.amxx") (native "cs_set_player_model") - debug not enabled!
+L 08/23/2024 - 11:03:48: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/23/2024 - 11:08:51: Start of error session.
+L 08/23/2024 - 11:08:51: Info (map "zm_fdust2x2") (file "addons/amxmodx/logs/error_20240823.log")
+L 08/23/2024 - 11:08:51: [AMXX] Plugin file open error (plugin "scm_entity_editor.amxx")
+L 08/23/2024 - 11:09:01: [CS] Player is not in game (8)
+L 08/23/2024 - 11:09:01: [AMXX] Run time error 10 (plugin "K_menu_model.amxx") (native "cs_set_player_model") - debug not enabled!
+L 08/23/2024 - 11:09:01: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/23/2024 - 11:14:12: [CS] Player is not in game (8)
+L 08/23/2024 - 11:14:12: [AMXX] Run time error 10 (plugin "K_menu_model.amxx") (native "cs_set_player_model") - debug not enabled!
+L 08/23/2024 - 11:14:12: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/23/2024 - 11:15:25: Start of error session.
+L 08/23/2024 - 11:15:25: Info (map "zm_fdust2x2") (file "addons/amxmodx/logs/error_20240823.log")
+L 08/23/2024 - 11:15:25: [AMXX] Plugin file open error (plugin "scm_entity_editor.amxx")
+L 08/23/2024 - 11:15:36: [CS] Player is not in game (8)
+L 08/23/2024 - 11:15:36: [AMXX] Run time error 10 (plugin "K_menu_model.amxx") (native "cs_set_player_model") - debug not enabled!
+L 08/23/2024 - 11:15:36: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/23/2024 - 11:17:05: Start of error session.
+L 08/23/2024 - 11:17:05: Info (map "zm_fdust2x2") (file "addons/amxmodx/logs/error_20240823.log")
+L 08/23/2024 - 11:17:05: [AMXX] Plugin file open error (plugin "scm_entity_editor.amxx")
+L 08/23/2024 - 11:17:16: [CS] Player is not in game (8)
+L 08/23/2024 - 11:17:16: [AMXX] Run time error 10 (plugin "K_menu_model.amxx") (native "cs_set_player_model") - debug not enabled!
+L 08/23/2024 - 11:17:16: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/23/2024 - 11:22:27: [CS] Player is not in game (8)
+L 08/23/2024 - 11:22:27: [AMXX] Run time error 10 (plugin "K_menu_model.amxx") (native "cs_set_player_model") - debug not enabled!
+L 08/23/2024 - 11:22:27: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/23/2024 - 11:27:38: [CS] Player is not in game (8)
+L 08/23/2024 - 11:27:38: [AMXX] Run time error 10 (plugin "K_menu_model.amxx") (native "cs_set_player_model") - debug not enabled!
+L 08/23/2024 - 11:27:38: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/23/2024 - 11:32:49: [CS] Player is not in game (8)
+L 08/23/2024 - 11:32:49: [AMXX] Run time error 10 (plugin "K_menu_model.amxx") (native "cs_set_player_model") - debug not enabled!
+L 08/23/2024 - 11:32:49: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/23/2024 - 11:33:35: Start of error session.
+L 08/23/2024 - 11:33:35: Info (map "zm_fdust2x2") (file "addons/amxmodx/logs/error_20240823.log")
+L 08/23/2024 - 11:33:35: [AMXX] Plugin file open error (plugin "scm_entity_editor.amxx")
+L 08/23/2024 - 11:33:46: [CS] Player is not in game (8)
+L 08/23/2024 - 11:33:46: [AMXX] Run time error 10 (plugin "K_menu_model.amxx") (native "cs_set_player_model") - debug not enabled!
+L 08/23/2024 - 11:33:46: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/23/2024 - 11:36:07: Start of error session.
+L 08/23/2024 - 11:36:07: Info (map "zm_fdust2x2") (file "addons/amxmodx/logs/error_20240823.log")
+L 08/23/2024 - 11:36:07: [AMXX] Plugin file open error (plugin "scm_entity_editor.amxx")
+L 08/23/2024 - 11:36:18: [CS] Player is not in game (8)
+L 08/23/2024 - 11:36:18: [AMXX] Run time error 10 (plugin "K_menu_model.amxx") (native "cs_set_player_model") - debug not enabled!
+L 08/23/2024 - 11:36:18: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/23/2024 - 11:38:09: Start of error session.
+L 08/23/2024 - 11:38:09: Info (map "zm_fdust2x2") (file "addons/amxmodx/logs/error_20240823.log")
+L 08/23/2024 - 11:38:09: [AMXX] Plugin file open error (plugin "scm_entity_editor.amxx")
+L 08/23/2024 - 11:38:18: [CS] Player is not in game (8)
+L 08/23/2024 - 11:38:18: [AMXX] Run time error 10 (plugin "K_menu_model.amxx") (native "cs_set_player_model") - debug not enabled!
+L 08/23/2024 - 11:38:18: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/23/2024 - 11:38:30: Invalid index -1 (count: 9)
+L 08/23/2024 - 11:38:30: [AMXX] Run time error 10 (plugin "zombie_plague40.amxx") (native "ArrayGetString") - debug not enabled!
+L 08/23/2024 - 11:38:30: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/23/2024 - 11:38:30: Invalid index -1 (count: 9)
+L 08/23/2024 - 11:38:30: [AMXX] Run time error 10 (plugin "zombie_plague40.amxx") (native "ArrayGetString") - debug not enabled!
+L 08/23/2024 - 11:38:30: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/23/2024 - 11:38:36: [CS] Player is not in game (8)
+L 08/23/2024 - 11:38:36: [AMXX] Run time error 10 (plugin "K_menu_model.amxx") (native "cs_set_player_model") - debug not enabled!
+L 08/23/2024 - 11:38:36: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/23/2024 - 11:39:18: Start of error session.
+L 08/23/2024 - 11:39:18: Info (map "zm_fdust2x2") (file "addons/amxmodx/logs/error_20240823.log")
+L 08/23/2024 - 11:39:18: [AMXX] Plugin file open error (plugin "scm_entity_editor.amxx")
+L 08/23/2024 - 11:39:26: [CS] Player is not in game (8)
+L 08/23/2024 - 11:39:26: [AMXX] Run time error 10 (plugin "K_menu_model.amxx") (native "cs_set_player_model") - debug not enabled!
+L 08/23/2024 - 11:39:26: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/23/2024 - 11:39:40: Invalid index -1 (count: 9)
+L 08/23/2024 - 11:39:40: [AMXX] Run time error 10 (plugin "zombie_plague40.amxx") (native "ArrayGetString") - debug not enabled!
+L 08/23/2024 - 11:39:40: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/23/2024 - 11:39:40: Invalid index -1 (count: 9)
+L 08/23/2024 - 11:39:40: [AMXX] Run time error 10 (plugin "zombie_plague40.amxx") (native "ArrayGetString") - debug not enabled!
+L 08/23/2024 - 11:39:40: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/23/2024 - 11:39:46: [CS] Player is not in game (8)
+L 08/23/2024 - 11:39:46: [AMXX] Run time error 10 (plugin "K_menu_model.amxx") (native "cs_set_player_model") - debug not enabled!
+L 08/23/2024 - 11:39:46: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/23/2024 - 11:40:39: Invalid index -1 (count: 9)
+L 08/23/2024 - 11:40:39: [AMXX] Run time error 10 (plugin "zombie_plague40.amxx") (native "ArrayGetString") - debug not enabled!
+L 08/23/2024 - 11:40:39: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/23/2024 - 11:40:39: Invalid index -1 (count: 9)
+L 08/23/2024 - 11:40:39: [AMXX] Run time error 10 (plugin "zombie_plague40.amxx") (native "ArrayGetString") - debug not enabled!
+L 08/23/2024 - 11:40:39: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/23/2024 - 11:40:45: [CS] Player is not in game (8)
+L 08/23/2024 - 11:40:45: [AMXX] Run time error 10 (plugin "K_menu_model.amxx") (native "cs_set_player_model") - debug not enabled!
+L 08/23/2024 - 11:40:45: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/23/2024 - 11:40:50: Start of error session.
+L 08/23/2024 - 11:40:50: Info (map "zm_texas_night") (file "addons/amxmodx/logs/error_20240823.log")
+L 08/23/2024 - 11:40:50: [AMXX] Plugin file open error (plugin "scm_entity_editor.amxx")
+L 08/23/2024 - 11:46:04: [CS] Player is not in game (2)
+L 08/23/2024 - 11:46:04: [AMXX] Run time error 10 (plugin "K_menu_model.amxx") (native "cs_set_player_model") - debug not enabled!
+L 08/23/2024 - 11:46:04: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/23/2024 - 11:51:15: [CS] Player is not in game (2)
+L 08/23/2024 - 11:51:15: [AMXX] Run time error 10 (plugin "K_menu_model.amxx") (native "cs_set_player_model") - debug not enabled!
+L 08/23/2024 - 11:51:15: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/23/2024 - 11:56:16: [CS] Player is not in game (1)
+L 08/23/2024 - 11:56:16: [AMXX] Run time error 10 (plugin "K_menu_model.amxx") (native "cs_set_player_model") - debug not enabled!
+L 08/23/2024 - 11:56:16: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/23/2024 - 12:00:53: Start of error session.
+L 08/23/2024 - 12:00:53: Info (map "zm_texas_night") (file "addons/amxmodx/logs/error_20240823.log")
+L 08/23/2024 - 12:00:53: [AMXX] Plugin file open error (plugin "scm_entity_editor.amxx")
+L 08/23/2024 - 12:03:06: Start of error session.
+L 08/23/2024 - 12:03:06: Info (map "zm_texas_night") (file "addons/amxmodx/logs/error_20240823.log")
+L 08/23/2024 - 12:03:06: [AMXX] Plugin file open error (plugin "scm_entity_editor.amxx")
+L 08/23/2024 - 12:03:34: Start of error session.
+L 08/23/2024 - 12:03:34: Info (map "zm_texas_night") (file "addons/amxmodx/logs/error_20240823.log")
+L 08/23/2024 - 12:03:34: [AMXX] Plugin file open error (plugin "scm_entity_editor.amxx")
+L 08/23/2024 - 12:08:08: Start of error session.
+L 08/23/2024 - 12:08:08: Info (map "zm_texas_night") (file "addons/amxmodx/logs/error_20240823.log")
+L 08/23/2024 - 12:08:08: [AMXX] Plugin file open error (plugin "scm_entity_editor.amxx")
+L 08/23/2024 - 12:11:03: Start of error session.
+L 08/23/2024 - 12:11:03: Info (map "zm_texas_night") (file "addons/amxmodx/logs/error_20240823.log")
+L 08/23/2024 - 12:11:03: [AMXX] Plugin file open error (plugin "scm_entity_editor.amxx")
+L 08/23/2024 - 12:12:52: Start of error session.
+L 08/23/2024 - 12:12:52: Info (map "zm_texas_night") (file "addons/amxmodx/logs/error_20240823.log")
+L 08/23/2024 - 12:12:52: [AMXX] Plugin file open error (plugin "scm_entity_editor.amxx")
+L 08/23/2024 - 12:15:11: Start of error session.
+L 08/23/2024 - 12:15:11: Info (map "zm_texas_night") (file "addons/amxmodx/logs/error_20240823.log")
+L 08/23/2024 - 12:15:11: [AMXX] Plugin file open error (plugin "scm_entity_editor.amxx")
+L 08/23/2024 - 12:20:25: [CS] Player is not in game (2)
+L 08/23/2024 - 12:20:25: [AMXX] Run time error 10 (plugin "K_menu_model.amxx") (native "cs_set_player_model") - debug not enabled!
+L 08/23/2024 - 12:20:25: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/23/2024 - 12:25:36: [CS] Player is not in game (2)
+L 08/23/2024 - 12:25:36: [AMXX] Run time error 10 (plugin "K_menu_model.amxx") (native "cs_set_player_model") - debug not enabled!
+L 08/23/2024 - 12:25:36: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/23/2024 - 12:30:47: [CS] Player is not in game (2)
+L 08/23/2024 - 12:30:47: [AMXX] Run time error 10 (plugin "K_menu_model.amxx") (native "cs_set_player_model") - debug not enabled!
+L 08/23/2024 - 12:30:47: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/23/2024 - 12:31:25: Start of error session.
+L 08/23/2024 - 12:31:25: Info (map "zm_texas_night") (file "addons/amxmodx/logs/error_20240823.log")
+L 08/23/2024 - 12:31:25: [AMXX] Plugin file open error (plugin "scm_entity_editor.amxx")
+L 08/23/2024 - 12:35:54: Start of error session.
+L 08/23/2024 - 12:35:54: Info (map "zm_texas_night") (file "addons/amxmodx/logs/error_20240823.log")
+L 08/23/2024 - 12:35:54: [AMXX] Plugin file open error (plugin "scm_entity_editor.amxx")
+L 08/23/2024 - 12:41:07: [CS] Player is not in game (2)
+L 08/23/2024 - 12:41:07: [AMXX] Run time error 10 (plugin "K_menu_model.amxx") (native "cs_set_player_model") - debug not enabled!
+L 08/23/2024 - 12:41:07: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/23/2024 - 12:43:10: Start of error session.
+L 08/23/2024 - 12:43:10: Info (map "zm_texas_night") (file "addons/amxmodx/logs/error_20240823.log")
+L 08/23/2024 - 12:43:10: [AMXX] Plugin file open error (plugin "scm_entity_editor.amxx")
+L 08/23/2024 - 12:44:34: Start of error session.
+L 08/23/2024 - 12:44:34: Info (map "zm_texas_night") (file "addons/amxmodx/logs/error_20240823.log")
+L 08/23/2024 - 12:44:34: [AMXX] Plugin file open error (plugin "scm_entity_editor.amxx")
+L 08/23/2024 - 12:49:47: [CS] Player is not in game (2)
+L 08/23/2024 - 12:49:47: [AMXX] Run time error 10 (plugin "K_menu_model.amxx") (native "cs_set_player_model") - debug not enabled!
+L 08/23/2024 - 12:49:47: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/23/2024 - 12:52:32: Start of error session.
+L 08/23/2024 - 12:52:32: Info (map "zm_texas_night") (file "addons/amxmodx/logs/error_20240823.log")
+L 08/23/2024 - 12:52:32: [AMXX] Plugin file open error (plugin "scm_entity_editor.amxx")
+L 08/23/2024 - 12:52:40: Invalid menu id 0(0)
+L 08/23/2024 - 12:52:40: [AMXX] Run time error 10 (plugin "Camera_Changer.amxx") (native "menu_item_getinfo") - debug not enabled!
+L 08/23/2024 - 12:52:40: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/23/2024 - 12:52:47: Invalid menu id 3(0)
+L 08/23/2024 - 12:52:47: [AMXX] Run time error 10 (plugin "Camera_Changer.amxx") (native "menu_item_getinfo") - debug not enabled!
+L 08/23/2024 - 12:52:47: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/23/2024 - 12:52:59: Invalid menu id 0(0)
+L 08/23/2024 - 12:52:59: [AMXX] Run time error 10 (plugin "Camera_Changer.amxx") (native "menu_item_getinfo") - debug not enabled!
+L 08/23/2024 - 12:52:59: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/23/2024 - 12:55:22: Start of error session.
+L 08/23/2024 - 12:55:22: Info (map "zm_texas_night") (file "addons/amxmodx/logs/error_20240823.log")
+L 08/23/2024 - 12:55:22: [AMXX] Plugin file open error (plugin "scm_entity_editor.amxx")
+L 08/23/2024 - 12:55:32: Invalid menu id 0(0)
+L 08/23/2024 - 12:55:32: [AMXX] Run time error 10 (plugin "Camera_Changer.amxx") (native "menu_item_getinfo") - debug not enabled!
+L 08/23/2024 - 12:55:32: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/23/2024 - 12:55:38: Invalid menu id 0(0)
+L 08/23/2024 - 12:55:38: [AMXX] Run time error 10 (plugin "Camera_Changer.amxx") (native "menu_item_getinfo") - debug not enabled!
+L 08/23/2024 - 12:55:38: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/23/2024 - 12:56:45: Start of error session.
+L 08/23/2024 - 12:56:45: Info (map "zm_texas_night") (file "addons/amxmodx/logs/error_20240823.log")
+L 08/23/2024 - 12:56:45: [AMXX] Plugin file open error (plugin "scm_entity_editor.amxx")
+L 08/23/2024 - 12:57:24: Start of error session.
+L 08/23/2024 - 12:57:24: Info (map "zm_texas_night") (file "addons/amxmodx/logs/error_20240823.log")
+L 08/23/2024 - 12:57:24: [AMXX] Plugin file open error (plugin "scm_entity_editor.amxx")
+L 08/23/2024 - 13:00:43: Start of error session.
+L 08/23/2024 - 13:00:43: Info (map "zm_texas_night") (file "addons/amxmodx/logs/error_20240823.log")
+L 08/23/2024 - 13:00:43: [AMXX] Plugin file open error (plugin "scm_entity_editor.amxx")
+L 08/23/2024 - 13:02:02: Start of error session.
+L 08/23/2024 - 13:02:02: Info (map "zm_texas_night") (file "addons/amxmodx/logs/error_20240823.log")
+L 08/23/2024 - 13:02:02: [AMXX] Plugin file open error (plugin "scm_entity_editor.amxx")
+L 08/23/2024 - 13:02:38: Start of error session.
+L 08/23/2024 - 13:02:38: Info (map "zm_texas_night") (file "addons/amxmodx/logs/error_20240823.log")
+L 08/23/2024 - 13:02:38: [AMXX] Plugin file open error (plugin "scm_entity_editor.amxx")
+L 08/23/2024 - 13:03:34: Start of error session.
+L 08/23/2024 - 13:03:34: Info (map "zm_texas_night") (file "addons/amxmodx/logs/error_20240823.log")
+L 08/23/2024 - 13:03:34: [AMXX] Plugin file open error (plugin "scm_entity_editor.amxx")
+L 08/23/2024 - 13:05:20: Start of error session.
+L 08/23/2024 - 13:05:20: Info (map "zm_texas_night") (file "addons/amxmodx/logs/error_20240823.log")
+L 08/23/2024 - 13:05:20: [AMXX] Plugin file open error (plugin "scm_entity_editor.amxx")
+L 08/23/2024 - 13:06:06: [CS] Player is not in game (1)
+L 08/23/2024 - 13:06:06: [AMXX] Run time error 10 (plugin "K_menu_model.amxx") (native "cs_set_player_model") - debug not enabled!
+L 08/23/2024 - 13:06:06: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/23/2024 - 13:07:42: Start of error session.
+L 08/23/2024 - 13:07:42: Info (map "zm_texas_night") (file "addons/amxmodx/logs/error_20240823.log")
+L 08/23/2024 - 13:07:42: [AMXX] Plugin file open error (plugin "scm_entity_editor.amxx")
+L 08/23/2024 - 13:09:40: Start of error session.
+L 08/23/2024 - 13:09:40: Info (map "zm_texas_night") (file "addons/amxmodx/logs/error_20240823.log")
+L 08/23/2024 - 13:09:40: [AMXX] Plugin file open error (plugin "scm_entity_editor.amxx")
+L 08/23/2024 - 13:12:39: Start of error session.
+L 08/23/2024 - 13:12:39: Info (map "zm_texas_night") (file "addons/amxmodx/logs/error_20240823.log")
+L 08/23/2024 - 13:12:39: [AMXX] Plugin file open error (plugin "scm_entity_editor.amxx")
+L 08/23/2024 - 13:14:01: Start of error session.
+L 08/23/2024 - 13:14:01: Info (map "zm_texas_night") (file "addons/amxmodx/logs/error_20240823.log")
+L 08/23/2024 - 13:14:01: [AMXX] Plugin file open error (plugin "scm_entity_editor.amxx")
+L 08/23/2024 - 13:16:50: Start of error session.
+L 08/23/2024 - 13:16:50: Info (map "zm_texas_night") (file "addons/amxmodx/logs/error_20240823.log")
+L 08/23/2024 - 13:16:50: [AMXX] Plugin file open error (plugin "scm_entity_editor.amxx")
+L 08/23/2024 - 13:37:42: Start of error session.
+L 08/23/2024 - 13:37:42: Info (map "zm_texas_night") (file "addons/amxmodx/logs/error_20240823.log")
+L 08/23/2024 - 13:37:42: [AMXX] Plugin file open error (plugin "scm_entity_editor.amxx")
+L 08/23/2024 - 13:38:24: Start of error session.
+L 08/23/2024 - 13:38:24: Info (map "zm_texas_night") (file "addons/amxmodx/logs/error_20240823.log")
+L 08/23/2024 - 13:38:24: [AMXX] Plugin file open error (plugin "scm_entity_editor.amxx")
+L 08/23/2024 - 13:43:38: [CS] Player is not in game (2)
+L 08/23/2024 - 13:46:18: [AMXX] Run time error 10 (plugin "K_menu_model.amxx") (native "cs_set_player_model") - debug not enabled!
+L 08/23/2024 - 13:46:18: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/23/2024 - 13:46:37: Start of error session.
+L 08/23/2024 - 13:46:37: Info (map "zm_fdust2x2") (file "addons/amxmodx/logs/error_20240823.log")
+L 08/23/2024 - 13:46:37: [AMXX] Plugin file open error (plugin "scm_entity_editor.amxx")
+L 08/23/2024 - 13:46:49: [CS] Player is not in game (8)
+L 08/23/2024 - 13:46:49: [AMXX] Run time error 10 (plugin "K_menu_model.amxx") (native "cs_set_player_model") - debug not enabled!
+L 08/23/2024 - 13:46:49: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/23/2024 - 13:48:28: Start of error session.
+L 08/23/2024 - 13:48:28: Info (map "zm_fdust2x2") (file "addons/amxmodx/logs/error_20240823.log")
+L 08/23/2024 - 13:48:28: [AMXX] Plugin file open error (plugin "scm_entity_editor.amxx")
+L 08/23/2024 - 13:48:38: [CS] Player is not in game (1)
+L 08/23/2024 - 13:48:38: [AMXX] Run time error 10 (plugin "K_menu_model.amxx") (native "cs_set_player_model") - debug not enabled!
+L 08/23/2024 - 13:48:38: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/23/2024 - 13:53:49: [CS] Player is not in game (1)
+L 08/23/2024 - 13:53:49: [AMXX] Run time error 10 (plugin "K_menu_model.amxx") (native "cs_set_player_model") - debug not enabled!
+L 08/23/2024 - 13:53:49: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/23/2024 - 13:53:58: [CS] Player is not in game (2)
+L 08/23/2024 - 13:53:58: [AMXX] Run time error 10 (plugin "K_menu_model.amxx") (native "cs_set_player_model") - debug not enabled!
+L 08/23/2024 - 13:53:58: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/23/2024 - 13:59:09: [CS] Player is not in game (2)
+L 08/23/2024 - 13:59:09: [AMXX] Run time error 10 (plugin "K_menu_model.amxx") (native "cs_set_player_model") - debug not enabled!
+L 08/23/2024 - 13:59:09: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/23/2024 - 14:04:20: [CS] Player is not in game (2)
+L 08/23/2024 - 14:04:20: [AMXX] Run time error 10 (plugin "K_menu_model.amxx") (native "cs_set_player_model") - debug not enabled!
+L 08/23/2024 - 14:04:20: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/23/2024 - 14:09:31: [CS] Player is not in game (2)
+L 08/23/2024 - 14:09:31: [AMXX] Run time error 10 (plugin "K_menu_model.amxx") (native "cs_set_player_model") - debug not enabled!
+L 08/23/2024 - 14:09:31: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/23/2024 - 14:14:42: [CS] Player is not in game (2)
+L 08/23/2024 - 14:14:42: [AMXX] Run time error 10 (plugin "K_menu_model.amxx") (native "cs_set_player_model") - debug not enabled!
+L 08/23/2024 - 14:14:42: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/23/2024 - 14:19:53: [CS] Player is not in game (2)
+L 08/23/2024 - 14:19:53: [AMXX] Run time error 10 (plugin "K_menu_model.amxx") (native "cs_set_player_model") - debug not enabled!
+L 08/23/2024 - 14:19:53: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/23/2024 - 14:19:58: Start of error session.
+L 08/23/2024 - 14:19:58: Info (map "zm_zero_blood") (file "addons/amxmodx/logs/error_20240823.log")
+L 08/23/2024 - 14:19:58: [AMXX] Plugin file open error (plugin "scm_entity_editor.amxx")
+L 08/23/2024 - 14:22:29: Start of error session.
+L 08/23/2024 - 14:22:29: Info (map "zm_fdust2x2") (file "addons/amxmodx/logs/error_20240823.log")
+L 08/23/2024 - 14:22:29: [AMXX] Plugin file open error (plugin "scm_entity_editor.amxx")
+L 08/23/2024 - 14:22:41: [CS] Player is not in game (2)
+L 08/23/2024 - 14:22:41: [AMXX] Run time error 10 (plugin "K_menu_model.amxx") (native "cs_set_player_model") - debug not enabled!
+L 08/23/2024 - 14:22:41: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/23/2024 - 14:25:25: Start of error session.
+L 08/23/2024 - 14:25:25: Info (map "zm_fdust2x2") (file "addons/amxmodx/logs/error_20240823.log")
+L 08/23/2024 - 14:25:25: [AMXX] Plugin file open error (plugin "scm_entity_editor.amxx")
+L 08/23/2024 - 14:25:36: [CS] Player is not in game (8)
+L 08/23/2024 - 14:25:36: [AMXX] Run time error 10 (plugin "K_menu_model.amxx") (native "cs_set_player_model") - debug not enabled!
+L 08/23/2024 - 14:25:36: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/23/2024 - 14:26:58: Start of error session.
+L 08/23/2024 - 14:26:58: Info (map "zm_fdust2x2") (file "addons/amxmodx/logs/error_20240823.log")
+L 08/23/2024 - 14:26:58: [AMXX] Plugin file open error (plugin "scm_entity_editor.amxx")
+L 08/23/2024 - 14:27:09: [CS] Player is not in game (8)
+L 08/23/2024 - 14:27:09: [AMXX] Displaying debug trace (plugin "K_menu_model.amxx", version "1.0")
+L 08/23/2024 - 14:27:09: [AMXX] Run time error 10: native error (native "cs_set_player_model")
+L 08/23/2024 - 14:27:09: [AMXX]    [0] K_menu_model.sma::native_return_ham_skin (line 663)
+L 08/23/2024 - 14:27:09: [AMXX]    [1] K_menu_model.sma::fw_new_round (line 37)
+L 08/23/2024 - 14:30:00: Start of error session.
+L 08/23/2024 - 14:30:00: Info (map "zm_fdust2x2") (file "addons/amxmodx/logs/error_20240823.log")
+L 08/23/2024 - 14:30:00: [AMXX] Plugin file open error (plugin "scm_entity_editor.amxx")
+L 08/23/2024 - 14:30:10: [CS] Player is not in game (8)
+L 08/23/2024 - 14:30:10: [AMXX] Displaying debug trace (plugin "K_menu_model.amxx", version "1.0")
+L 08/23/2024 - 14:30:10: [AMXX] Run time error 10: native error (native "cs_set_player_model")
+L 08/23/2024 - 14:30:10: [AMXX]    [0] K_menu_model.sma::native_return_ham_skin (line 655)
+L 08/23/2024 - 14:30:10: Unhandled dynamic native error
+L 08/23/2024 - 14:30:10: [AMXX] Run time error 10 (plugin "start_menu.amxx") (native "return_ham_skin") - debug not enabled!
+L 08/23/2024 - 14:30:10: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/23/2024 - 14:31:39: Start of error session.
+L 08/23/2024 - 14:31:39: Info (map "zm_fdust2x2") (file "addons/amxmodx/logs/error_20240823.log")
+L 08/23/2024 - 14:31:39: [AMXX] Plugin file open error (plugin "scm_entity_editor.amxx")
+L 08/23/2024 - 14:31:48: [CS] Player is not in game (8)
+L 08/23/2024 - 14:31:48: [AMXX] Displaying debug trace (plugin "K_menu_model.amxx", version "1.0")
+L 08/23/2024 - 14:31:48: [AMXX] Run time error 10: native error (native "cs_set_player_model")
+L 08/23/2024 - 14:31:48: [AMXX]    [0] K_menu_model.sma::native_return_ham_skin (line 664)
+L 08/23/2024 - 14:31:48: [AMXX]    [1] K_menu_model.sma::fw_new_round (line 38)
+L 08/23/2024 - 14:33:36: Start of error session.
+L 08/23/2024 - 14:33:36: Info (map "zm_fdust2x2") (file "addons/amxmodx/logs/error_20240823.log")
+L 08/23/2024 - 14:33:36: [AMXX] Plugin file open error (plugin "scm_entity_editor.amxx")
+L 08/23/2024 - 14:33:47: [CS] Player is not in game (8)
+L 08/23/2024 - 14:33:47: [AMXX] Displaying debug trace (plugin "K_menu_model.amxx", version "1.0")
+L 08/23/2024 - 14:33:47: [AMXX] Run time error 10: native error (native "cs_set_player_model")
+L 08/23/2024 - 14:33:47: [AMXX]    [0] K_menu_model.sma::native_return_ham_skin (line 664)
+L 08/23/2024 - 14:33:47: [AMXX]    [1] K_menu_model.sma::fw_new_round (line 38)
+L 08/23/2024 - 14:34:28: Start of error session.
+L 08/23/2024 - 14:34:28: Info (map "zm_fdust2x2") (file "addons/amxmodx/logs/error_20240823.log")
+L 08/23/2024 - 14:34:28: [AMXX] Plugin file open error (plugin "scm_entity_editor.amxx")
+L 08/23/2024 - 14:34:39: [CS] Player is not in game (8)
+L 08/23/2024 - 14:34:39: [AMXX] Displaying debug trace (plugin "K_menu_model.amxx", version "1.0")
+L 08/23/2024 - 14:34:39: [AMXX] Run time error 10: native error (native "cs_set_player_model")
+L 08/23/2024 - 14:34:39: [AMXX]    [0] K_menu_model.sma::native_return_ham_skin (line 664)
+L 08/23/2024 - 14:34:39: [AMXX]    [1] K_menu_model.sma::fw_new_round (line 38)
+L 08/23/2024 - 14:35:09: [CS] Player is not in game (8)
+L 08/23/2024 - 14:35:09: [AMXX] Displaying debug trace (plugin "K_menu_model.amxx", version "1.0")
+L 08/23/2024 - 14:35:09: [AMXX] Run time error 10: native error (native "cs_set_player_model")
+L 08/23/2024 - 14:35:09: [AMXX]    [0] K_menu_model.sma::native_return_ham_skin (line 664)
+L 08/23/2024 - 14:35:09: [AMXX]    [1] K_menu_model.sma::fw_new_round (line 38)
+L 08/23/2024 - 14:37:21: Start of error session.
+L 08/23/2024 - 14:37:21: Info (map "zm_fdust2x2") (file "addons/amxmodx/logs/error_20240823.log")
+L 08/23/2024 - 14:37:21: [AMXX] Plugin file open error (plugin "scm_entity_editor.amxx")
+L 08/23/2024 - 14:37:32: [CS] Player is not in game (8)
+L 08/23/2024 - 14:37:32: [AMXX] Displaying debug trace (plugin "K_menu_model.amxx", version "1.0")
+L 08/23/2024 - 14:37:32: [AMXX] Run time error 10: native error (native "cs_set_player_model")
+L 08/23/2024 - 14:37:32: [AMXX]    [0] K_menu_model.sma::fn_return_ham_skin (line 664)
+L 08/23/2024 - 14:37:32: [AMXX]    [1] K_menu_model.sma::fw_new_round (line 38)
+L 08/23/2024 - 14:39:22: Start of error session.
+L 08/23/2024 - 14:39:22: Info (map "zm_fdust2x2") (file "addons/amxmodx/logs/error_20240823.log")
+L 08/23/2024 - 14:39:22: [AMXX] Plugin file open error (plugin "scm_entity_editor.amxx")
+L 08/23/2024 - 14:39:33: [CS] Player is not in game (8)
+L 08/23/2024 - 14:39:33: [AMXX] Displaying debug trace (plugin "K_menu_model.amxx", version "1.0")
+L 08/23/2024 - 14:39:33: [AMXX] Run time error 10: native error (native "cs_set_player_model")
+L 08/23/2024 - 14:39:33: [AMXX]    [0] K_menu_model.sma::native_return_ham_skin (line 666)
+L 08/23/2024 - 14:39:33: [AMXX]    [1] K_menu_model.sma::fw_new_round (line 38)
+L 08/23/2024 - 14:40:17: Start of error session.
+L 08/23/2024 - 14:40:17: Info (map "zm_fdust2x2") (file "addons/amxmodx/logs/error_20240823.log")
+L 08/23/2024 - 14:40:17: [AMXX] Plugin file open error (plugin "scm_entity_editor.amxx")
+L 08/23/2024 - 14:41:53: Start of error session.
+L 08/23/2024 - 14:41:53: Info (map "zm_fdust2x2") (file "addons/amxmodx/logs/error_20240823.log")
+L 08/23/2024 - 14:41:53: [AMXX] Plugin file open error (plugin "scm_entity_editor.amxx")
+L 08/23/2024 - 14:42:04: [CS] Player is not in game (8)
+L 08/23/2024 - 14:42:04: [AMXX] Displaying debug trace (plugin "K_menu_model.amxx", version "1.0")
+L 08/23/2024 - 14:42:04: [AMXX] Run time error 10: native error (native "cs_set_player_model")
+L 08/23/2024 - 14:42:04: [AMXX]    [0] K_menu_model.sma::native_return_ham_skin (line 677)
+L 08/23/2024 - 14:42:04: [AMXX]    [1] K_menu_model.sma::fw_new_round (line 40)
+L 08/23/2024 - 14:42:55: Start of error session.
+L 08/23/2024 - 14:42:55: Info (map "zm_fdust2x2") (file "addons/amxmodx/logs/error_20240823.log")
+L 08/23/2024 - 14:42:55: [AMXX] Plugin file open error (plugin "scm_entity_editor.amxx")
+L 08/23/2024 - 14:43:05: [CS] Player is not in game (8)
+L 08/23/2024 - 14:43:05: [AMXX] Displaying debug trace (plugin "K_menu_model.amxx", version "1.0")
+L 08/23/2024 - 14:43:05: [AMXX] Run time error 10: native error (native "cs_set_player_model")
+L 08/23/2024 - 14:43:05: [AMXX]    [0] K_menu_model.sma::native_return_ham_skin (line 677)
+L 08/23/2024 - 14:43:05: [AMXX]    [1] K_menu_model.sma::fw_new_round (line 40)
+L 08/23/2024 - 14:44:52: Start of error session.
+L 08/23/2024 - 14:44:52: Info (map "zm_fdust2x2") (file "addons/amxmodx/logs/error_20240823.log")
+L 08/23/2024 - 14:44:52: [AMXX] Plugin file open error (plugin "scm_entity_editor.amxx")
+L 08/23/2024 - 14:45:21: Invalid index -1 (count: 9)
+L 08/23/2024 - 14:45:21: [AMXX] Run time error 10 (plugin "zombie_plague40.amxx") (native "ArrayGetString") - debug not enabled!
+L 08/23/2024 - 14:45:21: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/23/2024 - 14:45:21: Invalid index -1 (count: 9)
+L 08/23/2024 - 14:45:21: [AMXX] Run time error 10 (plugin "zombie_plague40.amxx") (native "ArrayGetString") - debug not enabled!
+L 08/23/2024 - 14:45:21: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/23/2024 - 14:45:48: Invalid index -1 (count: 9)
+L 08/23/2024 - 14:45:48: [AMXX] Run time error 10 (plugin "zombie_plague40.amxx") (native "ArrayGetString") - debug not enabled!
+L 08/23/2024 - 14:45:48: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/23/2024 - 14:45:48: Invalid index -1 (count: 9)
+L 08/23/2024 - 14:45:48: [AMXX] Run time error 10 (plugin "zombie_plague40.amxx") (native "ArrayGetString") - debug not enabled!
+L 08/23/2024 - 14:45:48: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/23/2024 - 14:46:59: Start of error session.
+L 08/23/2024 - 14:46:59: Info (map "zm_fdust2x2") (file "addons/amxmodx/logs/error_20240823.log")
+L 08/23/2024 - 14:46:59: [AMXX] Plugin file open error (plugin "scm_entity_editor.amxx")
+L 08/23/2024 - 14:47:52: Invalid index -1 (count: 9)
+L 08/23/2024 - 14:47:52: [AMXX] Run time error 10 (plugin "zombie_plague40.amxx") (native "ArrayGetString") - debug not enabled!
+L 08/23/2024 - 14:47:52: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/23/2024 - 14:47:52: Invalid index -1 (count: 9)
+L 08/23/2024 - 14:47:52: [AMXX] Run time error 10 (plugin "zombie_plague40.amxx") (native "ArrayGetString") - debug not enabled!
+L 08/23/2024 - 14:47:52: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/23/2024 - 15:06:17: Start of error session.
+L 08/23/2024 - 15:06:17: Info (map "zm_fdust2x2") (file "addons/amxmodx/logs/error_20240823.log")
+L 08/23/2024 - 15:06:17: [AMXX] Plugin file open error (plugin "auto_join.amxx")
+L 08/23/2024 - 15:06:17: [AMXX] Plugin file open error (plugin "scm_entity_editor.amxx")
+L 08/23/2024 - 15:06:43: Start of error session.
+L 08/23/2024 - 15:06:43: Info (map "zm_fdust2x2") (file "addons/amxmodx/logs/error_20240823.log")
+L 08/23/2024 - 15:06:43: [AMXX] Plugin file open error (plugin "scm_entity_editor.amxx")
+L 08/23/2024 - 15:32:54: Start of error session.
+L 08/23/2024 - 15:32:54: Info (map "zm_ngamers_lights_f") (file "addons/amxmodx/logs/error_20240823.log")
+L 08/23/2024 - 15:32:54: [AMXX] Plugin file open error (plugin "scm_entity_editor.amxx")
+L 08/23/2024 - 15:38:01: Start of error session.
+L 08/23/2024 - 15:38:01: Info (map "zm_fdust2x2") (file "addons/amxmodx/logs/error_20240823.log")
+L 08/23/2024 - 15:38:01: [AMXX] Plugin file open error (plugin "scm_entity_editor.amxx")
+L 08/23/2024 - 16:04:14: Start of error session.
+L 08/23/2024 - 16:04:14: Info (map "zm_creative") (file "addons/amxmodx/logs/error_20240823.log")
+L 08/23/2024 - 16:04:14: [AMXX] Plugin file open error (plugin "scm_entity_editor.amxx")
+L 08/23/2024 - 16:30:18: Start of error session.
+L 08/23/2024 - 16:30:18: Info (map "zm_base_human_lg_new_v2") (file "addons/amxmodx/logs/error_20240823.log")
+L 08/23/2024 - 16:30:18: [AMXX] Plugin file open error (plugin "scm_entity_editor.amxx")
+L 08/23/2024 - 16:35:32: [AMXX] Run time error 4 (plugin "menu_donate_guns.amxx") - debug not enabled!
+L 08/23/2024 - 16:35:32: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/23/2024 - 16:40:43: [AMXX] Run time error 4 (plugin "menu_donate_guns.amxx") - debug not enabled!
+L 08/23/2024 - 16:40:43: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/23/2024 - 16:45:54: [AMXX] Run time error 4 (plugin "menu_donate_guns.amxx") - debug not enabled!
+L 08/23/2024 - 16:45:54: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/23/2024 - 16:51:05: [AMXX] Run time error 4 (plugin "menu_donate_guns.amxx") - debug not enabled!
+L 08/23/2024 - 16:51:05: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/23/2024 - 16:56:16: [AMXX] Run time error 4 (plugin "menu_donate_guns.amxx") - debug not enabled!
+L 08/23/2024 - 16:56:16: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/23/2024 - 16:56:21: Start of error session.
+L 08/23/2024 - 16:56:21: Info (map "zm_decay") (file "addons/amxmodx/logs/error_20240823.log")
+L 08/23/2024 - 16:56:21: [AMXX] Plugin file open error (plugin "scm_entity_editor.amxx")
+L 08/23/2024 - 17:01:36: [AMXX] Run time error 4 (plugin "menu_donate_guns.amxx") - debug not enabled!
+L 08/23/2024 - 17:01:36: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/23/2024 - 17:06:47: [AMXX] Run time error 4 (plugin "menu_donate_guns.amxx") - debug not enabled!
+L 08/23/2024 - 17:06:47: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/23/2024 - 17:11:58: [AMXX] Run time error 4 (plugin "menu_donate_guns.amxx") - debug not enabled!
+L 08/23/2024 - 17:11:58: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/23/2024 - 17:17:09: [AMXX] Run time error 4 (plugin "menu_donate_guns.amxx") - debug not enabled!
+L 08/23/2024 - 17:17:09: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/23/2024 - 17:22:21: [AMXX] Run time error 4 (plugin "menu_donate_guns.amxx") - debug not enabled!
+L 08/23/2024 - 17:22:21: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/23/2024 - 17:22:26: Start of error session.
+L 08/23/2024 - 17:22:26: Info (map "zm_base_human_lg_new_v2") (file "addons/amxmodx/logs/error_20240823.log")
+L 08/23/2024 - 17:22:26: [AMXX] Plugin file open error (plugin "scm_entity_editor.amxx")
+L 08/23/2024 - 17:27:40: [AMXX] Run time error 4 (plugin "menu_donate_guns.amxx") - debug not enabled!
+L 08/23/2024 - 17:27:40: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/23/2024 - 17:32:52: [AMXX] Run time error 4 (plugin "menu_donate_guns.amxx") - debug not enabled!
+L 08/23/2024 - 17:32:52: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/23/2024 - 17:38:03: [AMXX] Run time error 4 (plugin "menu_donate_guns.amxx") - debug not enabled!
+L 08/23/2024 - 17:38:03: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/23/2024 - 17:43:14: [AMXX] Run time error 4 (plugin "menu_donate_guns.amxx") - debug not enabled!
+L 08/23/2024 - 17:43:14: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/23/2024 - 17:48:25: [AMXX] Run time error 4 (plugin "menu_donate_guns.amxx") - debug not enabled!
+L 08/23/2024 - 17:48:25: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/23/2024 - 17:48:30: Start of error session.
+L 08/23/2024 - 17:48:30: Info (map "zm_tower_new") (file "addons/amxmodx/logs/error_20240823.log")
+L 08/23/2024 - 17:48:30: [AMXX] Plugin file open error (plugin "scm_entity_editor.amxx")
+L 08/23/2024 - 17:53:45: [AMXX] Run time error 4 (plugin "menu_donate_guns.amxx") - debug not enabled!
+L 08/23/2024 - 17:53:45: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/23/2024 - 17:53:45: [CS] Player is not in game (1)
+L 08/23/2024 - 17:53:45: [AMXX] Displaying debug trace (plugin "K_menu_model.amxx", version "1.0")
+L 08/23/2024 - 17:53:45: [AMXX] Run time error 10: native error (native "cs_set_player_model")
+L 08/23/2024 - 17:53:45: [AMXX]    [0] K_menu_model.sma::native_return_ham_skin (line 664)
+L 08/23/2024 - 17:53:45: [AMXX]    [1] K_menu_model.sma::fw_new_round (line 38)
+L 08/23/2024 - 17:58:56: [AMXX] Run time error 4 (plugin "menu_donate_guns.amxx") - debug not enabled!
+L 08/23/2024 - 17:58:56: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/23/2024 - 17:58:56: [CS] Player is not in game (1)
+L 08/23/2024 - 17:58:56: [AMXX] Displaying debug trace (plugin "K_menu_model.amxx", version "1.0")
+L 08/23/2024 - 17:58:56: [AMXX] Run time error 10: native error (native "cs_set_player_model")
+L 08/23/2024 - 17:58:56: [AMXX]    [0] K_menu_model.sma::native_return_ham_skin (line 664)
+L 08/23/2024 - 17:58:56: [AMXX]    [1] K_menu_model.sma::fw_new_round (line 38)
+L 08/23/2024 - 18:04:07: [AMXX] Run time error 4 (plugin "menu_donate_guns.amxx") - debug not enabled!
+L 08/23/2024 - 18:04:07: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/23/2024 - 18:04:07: [CS] Player is not in game (1)
+L 08/23/2024 - 18:04:07: [AMXX] Displaying debug trace (plugin "K_menu_model.amxx", version "1.0")
+L 08/23/2024 - 18:04:07: [AMXX] Run time error 10: native error (native "cs_set_player_model")
+L 08/23/2024 - 18:04:07: [AMXX]    [0] K_menu_model.sma::native_return_ham_skin (line 664)
+L 08/23/2024 - 18:04:07: [AMXX]    [1] K_menu_model.sma::fw_new_round (line 38)
+L 08/23/2024 - 18:04:27: Start of error session.
+L 08/23/2024 - 18:04:27: Info (map "zm_tower_new") (file "addons/amxmodx/logs/error_20240823.log")
+L 08/23/2024 - 18:04:27: [AMXX] Plugin file open error (plugin "scm_entity_editor.amxx")
+L 08/23/2024 - 18:07:08: Start of error session.
+L 08/23/2024 - 18:07:08: Info (map "zm_tower_new") (file "addons/amxmodx/logs/error_20240823.log")
+L 08/23/2024 - 18:07:08: [AMXX] Plugin file open error (plugin "scm_entity_editor.amxx")
+L 08/23/2024 - 18:08:35: [AMXX] Run time error 4 (plugin "menu_donate_guns.amxx") - debug not enabled!
+L 08/23/2024 - 18:08:35: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/23/2024 - 18:08:35: [CS] Player is not in game (1)
+L 08/23/2024 - 18:08:35: [AMXX] Displaying debug trace (plugin "K_menu_model.amxx", version "1.0")
+L 08/23/2024 - 18:08:35: [AMXX] Run time error 10: native error (native "cs_set_player_model")
+L 08/23/2024 - 18:08:35: [AMXX]    [0] K_menu_model.sma::native_return_ham_skin (line 664)
+L 08/23/2024 - 18:08:35: [AMXX]    [1] K_menu_model.sma::fw_new_round (line 38)

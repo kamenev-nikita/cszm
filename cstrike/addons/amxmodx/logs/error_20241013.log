@@ -1,0 +1,573 @@
+L 10/13/2024 - 12:13:58: Start of error session.
+L 10/13/2024 - 12:13:58: Info (map "de_dust2") (file "addons/amxmodx/logs/error_20241013.log")
+L 10/13/2024 - 12:13:58: Function "Donate_menu" was not found
+L 10/13/2024 - 12:13:58: [AMXX] Run time error 19 (plugin "K_ZP_main.amxx") - debug not enabled!
+L 10/13/2024 - 12:13:58: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/13/2024 - 12:20:49: Start of error session.
+L 10/13/2024 - 12:20:49: Info (map "de_dust2") (file "addons/amxmodx/logs/error_20241013.log")
+L 10/13/2024 - 12:20:49: Function "Donate_menu" was not found
+L 10/13/2024 - 12:20:49: [AMXX] Run time error 19 (plugin "K_ZP_main.amxx") - debug not enabled!
+L 10/13/2024 - 12:20:49: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/13/2024 - 12:33:46: Start of error session.
+L 10/13/2024 - 12:33:46: Info (map "de_dust2") (file "addons/amxmodx/logs/error_20241013.log")
+L 10/13/2024 - 12:33:46: Function "func_menu" was not found
+L 10/13/2024 - 12:33:46: [AMXX] Run time error 19 (plugin "K_lib_myFuncs.amxx") - debug not enabled!
+L 10/13/2024 - 12:33:46: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/13/2024 - 12:35:36: Start of error session.
+L 10/13/2024 - 12:35:36: Info (map "de_dust2") (file "addons/amxmodx/logs/error_20241013.log")
+L 10/13/2024 - 12:35:36: Function "func_menu" was not found
+L 10/13/2024 - 12:35:36: [AMXX] Run time error 19 (plugin "K_lib_myFuncs.amxx") - debug not enabled!
+L 10/13/2024 - 12:35:36: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/13/2024 - 12:36:36: Start of error session.
+L 10/13/2024 - 12:36:36: Info (map "de_dust2") (file "addons/amxmodx/logs/error_20241013.log")
+L 10/13/2024 - 12:36:36: Function "func_menu" was not found
+L 10/13/2024 - 12:36:36: [AMXX] Run time error 19 (plugin "K_lib_myFuncs.amxx") - debug not enabled!
+L 10/13/2024 - 12:36:36: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/13/2024 - 12:37:25: Start of error session.
+L 10/13/2024 - 12:37:25: Info (map "de_dust2") (file "addons/amxmodx/logs/error_20241013.log")
+L 10/13/2024 - 12:37:25: Function "func_menu" was not found
+L 10/13/2024 - 12:37:25: [AMXX] Run time error 19 (plugin "K_lib_myFuncs.amxx") - debug not enabled!
+L 10/13/2024 - 12:37:25: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/13/2024 - 12:37:52: Start of error session.
+L 10/13/2024 - 12:37:52: Info (map "de_dust2") (file "addons/amxmodx/logs/error_20241013.log")
+L 10/13/2024 - 12:37:52: Function "func_menu" was not found
+L 10/13/2024 - 12:37:52: [AMXX] Run time error 19 (plugin "K_lib_myFuncs.amxx") - debug not enabled!
+L 10/13/2024 - 12:37:52: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/13/2024 - 12:39:39: Start of error session.
+L 10/13/2024 - 12:39:39: Info (map "de_dust2") (file "addons/amxmodx/logs/error_20241013.log")
+L 10/13/2024 - 12:39:39: Function "native_print" was not found
+L 10/13/2024 - 12:39:39: [AMXX] Run time error 19 (plugin "K_lib_myFuncs.amxx") - debug not enabled!
+L 10/13/2024 - 12:39:39: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/13/2024 - 12:39:39: [AMXX] Run time error -1 (plugin "K_lib_myFuncs.amxx") - debug not enabled!
+L 10/13/2024 - 12:39:39: Function "func_menu" was not found
+L 10/13/2024 - 12:39:39: [AMXX] Run time error 19 (plugin "K_lib_myFuncs.amxx") - debug not enabled!
+L 10/13/2024 - 12:39:39: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/13/2024 - 12:39:56: Start of error session.
+L 10/13/2024 - 12:39:56: Info (map "de_dust2") (file "addons/amxmodx/logs/error_20241013.log")
+L 10/13/2024 - 12:39:56: Function "native_print" was not found
+L 10/13/2024 - 12:39:56: [AMXX] Run time error 19 (plugin "K_lib_myFuncs.amxx") - debug not enabled!
+L 10/13/2024 - 12:39:56: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/13/2024 - 12:39:56: [AMXX] Run time error -1 (plugin "K_lib_myFuncs.amxx") - debug not enabled!
+L 10/13/2024 - 12:39:56: Function "func_menu" was not found
+L 10/13/2024 - 12:39:56: [AMXX] Run time error 19 (plugin "K_lib_myFuncs.amxx") - debug not enabled!
+L 10/13/2024 - 12:39:56: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/13/2024 - 12:52:40: Start of error session.
+L 10/13/2024 - 12:52:40: Info (map "de_dust2") (file "addons/amxmodx/logs/error_20241013.log")
+L 10/13/2024 - 12:52:40: Function "native_print" was not found
+L 10/13/2024 - 12:52:40: [AMXX] Run time error 19 (plugin "K_lib_myFuncs.amxx") - debug not enabled!
+L 10/13/2024 - 12:52:40: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/13/2024 - 12:52:40: [AMXX] Run time error -1 (plugin "K_lib_myFuncs.amxx") - debug not enabled!
+L 10/13/2024 - 12:52:40: Function "func_menu" was not found
+L 10/13/2024 - 12:52:40: [AMXX] Run time error 19 (plugin "K_lib_myFuncs.amxx") - debug not enabled!
+L 10/13/2024 - 12:52:40: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/13/2024 - 12:54:25: Start of error session.
+L 10/13/2024 - 12:54:25: Info (map "de_dust2") (file "addons/amxmodx/logs/error_20241013.log")
+L 10/13/2024 - 12:54:25: Function "native_print" was not found
+L 10/13/2024 - 12:54:25: [AMXX] Run time error 19 (plugin "K_lib_myFuncs.amxx") - debug not enabled!
+L 10/13/2024 - 12:54:25: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/13/2024 - 12:54:25: [AMXX] Run time error -1 (plugin "K_lib_myFuncs.amxx") - debug not enabled!
+L 10/13/2024 - 12:54:25: Function "func_menu" was not found
+L 10/13/2024 - 12:54:25: [AMXX] Run time error 19 (plugin "K_lib_myFuncs.amxx") - debug not enabled!
+L 10/13/2024 - 12:54:25: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/13/2024 - 12:55:20: Start of error session.
+L 10/13/2024 - 12:55:20: Info (map "de_dust2") (file "addons/amxmodx/logs/error_20241013.log")
+L 10/13/2024 - 12:55:20: Function "func_menu" was not found
+L 10/13/2024 - 12:55:20: [AMXX] Run time error 19 (plugin "K_lib_myFuncs.amxx") - debug not enabled!
+L 10/13/2024 - 12:55:20: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/13/2024 - 12:59:01: Start of error session.
+L 10/13/2024 - 12:59:01: Info (map "de_dust2") (file "addons/amxmodx/logs/error_20241013.log")
+L 10/13/2024 - 12:59:01: Function "func_menu" was not found
+L 10/13/2024 - 12:59:01: [AMXX] Run time error 19 (plugin "K_lib_myFuncs.amxx") - debug not enabled!
+L 10/13/2024 - 12:59:01: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/13/2024 - 13:04:07: Start of error session.
+L 10/13/2024 - 13:04:07: Info (map "de_dust2") (file "addons/amxmodx/logs/error_20241013.log")
+L 10/13/2024 - 13:04:07: Function "func_menu" was not found
+L 10/13/2024 - 13:04:07: [AMXX] Run time error 19 (plugin "K_lib_myFuncs.amxx") - debug not enabled!
+L 10/13/2024 - 13:04:07: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/13/2024 - 13:04:08: Start of error session.
+L 10/13/2024 - 13:04:08: Info (map "de_dust2") (file "addons/amxmodx/logs/error_20241013.log")
+L 10/13/2024 - 13:04:08: Function "func_menu" was not found
+L 10/13/2024 - 13:04:08: [AMXX] Run time error 19 (plugin "K_lib_myFuncs.amxx") - debug not enabled!
+L 10/13/2024 - 13:04:08: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/13/2024 - 13:04:49: Start of error session.
+L 10/13/2024 - 13:04:49: Info (map "de_dust2") (file "addons/amxmodx/logs/error_20241013.log")
+L 10/13/2024 - 13:04:49: Function "func_menu" was not found
+L 10/13/2024 - 13:04:49: [AMXX] Run time error 19 (plugin "K_lib_myFuncs.amxx") - debug not enabled!
+L 10/13/2024 - 13:04:49: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/13/2024 - 13:05:43: Start of error session.
+L 10/13/2024 - 13:05:43: Info (map "de_dust2") (file "addons/amxmodx/logs/error_20241013.log")
+L 10/13/2024 - 13:05:43: Function "clcmd_changeteam" was not found
+L 10/13/2024 - 13:05:43: [AMXX] Run time error 19 (plugin "K_lib_myFuncs.amxx") - debug not enabled!
+L 10/13/2024 - 13:05:43: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/13/2024 - 13:06:55: Start of error session.
+L 10/13/2024 - 13:06:55: Info (map "de_dust2") (file "addons/amxmodx/logs/error_20241013.log")
+L 10/13/2024 - 13:06:55: Function "clcmd_changeteam" was not found
+L 10/13/2024 - 13:06:55: [AMXX] Run time error 19 (plugin "K_lib_myFuncs.amxx") - debug not enabled!
+L 10/13/2024 - 13:06:55: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/13/2024 - 13:08:12: Start of error session.
+L 10/13/2024 - 13:08:12: Info (map "de_dust2") (file "addons/amxmodx/logs/error_20241013.log")
+L 10/13/2024 - 13:08:12: Function "clcmd_changeteam" was not found
+L 10/13/2024 - 13:08:12: [AMXX] Run time error 19 (plugin "K_lib_myFuncs.amxx") - debug not enabled!
+L 10/13/2024 - 13:08:12: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/13/2024 - 13:08:33: Start of error session.
+L 10/13/2024 - 13:08:33: Info (map "de_dust2") (file "addons/amxmodx/logs/error_20241013.log")
+L 10/13/2024 - 13:08:33: Function "clcmd_changeteam" was not found
+L 10/13/2024 - 13:08:33: [AMXX] Run time error 19 (plugin "K_lib_myFuncs.amxx") - debug not enabled!
+L 10/13/2024 - 13:08:33: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/13/2024 - 13:12:19: Start of error session.
+L 10/13/2024 - 13:12:19: Info (map "de_dust2") (file "addons/amxmodx/logs/error_20241013.log")
+L 10/13/2024 - 13:12:19: Function "clcmd_changeteam" was not found
+L 10/13/2024 - 13:12:19: [AMXX] Run time error 19 (plugin "K_lib_myFuncs.amxx") - debug not enabled!
+L 10/13/2024 - 13:12:19: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/13/2024 - 13:14:03: Start of error session.
+L 10/13/2024 - 13:14:03: Info (map "de_dust2") (file "addons/amxmodx/logs/error_20241013.log")
+L 10/13/2024 - 13:14:03: Function "clcmd_changeteam" was not found
+L 10/13/2024 - 13:14:03: [AMXX] Run time error 19 (plugin "K_lib_myFuncs.amxx") - debug not enabled!
+L 10/13/2024 - 13:14:03: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/13/2024 - 13:15:54: Start of error session.
+L 10/13/2024 - 13:15:54: Info (map "de_dust2") (file "addons/amxmodx/logs/error_20241013.log")
+L 10/13/2024 - 13:15:54: Function "clcmd_changeteam" was not found
+L 10/13/2024 - 13:15:54: [AMXX] Run time error 19 (plugin "K_lib_myFuncs.amxx") - debug not enabled!
+L 10/13/2024 - 13:15:54: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/13/2024 - 13:17:03: Start of error session.
+L 10/13/2024 - 13:17:03: Info (map "de_dust2") (file "addons/amxmodx/logs/error_20241013.log")
+L 10/13/2024 - 13:17:03: Function "clcmd_changeteam" was not found
+L 10/13/2024 - 13:17:03: [AMXX] Run time error 19 (plugin "K_lib_myFuncs.amxx") - debug not enabled!
+L 10/13/2024 - 13:17:03: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/13/2024 - 13:18:43: Start of error session.
+L 10/13/2024 - 13:18:43: Info (map "de_dust2") (file "addons/amxmodx/logs/error_20241013.log")
+L 10/13/2024 - 13:18:43: Function "native_print" was not found
+L 10/13/2024 - 13:18:43: [AMXX] Run time error 19 (plugin "K_lib_myFuncs.amxx") - debug not enabled!
+L 10/13/2024 - 13:18:43: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/13/2024 - 13:18:43: [AMXX] Run time error -1 (plugin "K_lib_myFuncs.amxx") - debug not enabled!
+L 10/13/2024 - 13:18:43: Function "clcmd_changeteam" was not found
+L 10/13/2024 - 13:18:43: [AMXX] Run time error 19 (plugin "K_lib_myFuncs.amxx") - debug not enabled!
+L 10/13/2024 - 13:18:43: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/13/2024 - 13:28:50: Start of error session.
+L 10/13/2024 - 13:28:50: Info (map "de_dust2") (file "addons/amxmodx/logs/error_20241013.log")
+L 10/13/2024 - 13:28:50: Function "clcmd_changeteam" was not found
+L 10/13/2024 - 13:28:50: [AMXX] Run time error 19 (plugin "K_lib_myFuncs.amxx") - debug not enabled!
+L 10/13/2024 - 13:28:50: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/13/2024 - 13:29:23: Start of error session.
+L 10/13/2024 - 13:29:23: Info (map "de_dust2") (file "addons/amxmodx/logs/error_20241013.log")
+L 10/13/2024 - 13:29:23: Function "clcmd_changeteam" was not found
+L 10/13/2024 - 13:29:23: [AMXX] Run time error 19 (plugin "K_lib_myFuncs.amxx") - debug not enabled!
+L 10/13/2024 - 13:29:23: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/13/2024 - 13:29:24: Start of error session.
+L 10/13/2024 - 13:29:24: Info (map "de_dust2") (file "addons/amxmodx/logs/error_20241013.log")
+L 10/13/2024 - 13:29:24: Function "clcmd_changeteam" was not found
+L 10/13/2024 - 13:29:24: [AMXX] Run time error 19 (plugin "K_lib_myFuncs.amxx") - debug not enabled!
+L 10/13/2024 - 13:29:24: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/13/2024 - 13:32:24: Start of error session.
+L 10/13/2024 - 13:32:24: Info (map "de_dust2") (file "addons/amxmodx/logs/error_20241013.log")
+L 10/13/2024 - 13:32:24: Called dynanative into a paused plugin.
+L 10/13/2024 - 13:32:24: [AMXX] Run time error 10 (plugin "K_ZP_main.amxx") (native "join_in_game") - debug not enabled!
+L 10/13/2024 - 13:32:24: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/13/2024 - 13:33:13: Start of error session.
+L 10/13/2024 - 13:33:13: Info (map "de_dust2") (file "addons/amxmodx/logs/error_20241013.log")
+L 10/13/2024 - 13:33:13: Called dynanative into a paused plugin.
+L 10/13/2024 - 13:33:13: [AMXX] Run time error 10 (plugin "K_ZP_main.amxx") (native "join_in_game") - debug not enabled!
+L 10/13/2024 - 13:33:13: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/13/2024 - 13:33:41: Start of error session.
+L 10/13/2024 - 13:33:41: Info (map "de_dust2") (file "addons/amxmodx/logs/error_20241013.log")
+L 10/13/2024 - 13:33:41: Called dynanative into a paused plugin.
+L 10/13/2024 - 13:33:41: [AMXX] Run time error 10 (plugin "K_ZP_main.amxx") (native "join_in_game") - debug not enabled!
+L 10/13/2024 - 13:33:41: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/13/2024 - 13:35:50: Start of error session.
+L 10/13/2024 - 13:35:50: Info (map "de_dust2") (file "addons/amxmodx/logs/error_20241013.log")
+L 10/13/2024 - 13:35:50: Called dynanative into a paused plugin.
+L 10/13/2024 - 13:35:50: [AMXX] Run time error 10 (plugin "K_ZP_main.amxx") (native "join_in_game") - debug not enabled!
+L 10/13/2024 - 13:35:50: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/13/2024 - 13:39:19: Start of error session.
+L 10/13/2024 - 13:39:19: Info (map "de_dust2") (file "addons/amxmodx/logs/error_20241013.log")
+L 10/13/2024 - 13:39:19: Called dynanative into a paused plugin.
+L 10/13/2024 - 13:39:19: [AMXX] Run time error 10 (plugin "K_ZP_main.amxx") (native "join_in_game") - debug not enabled!
+L 10/13/2024 - 13:39:19: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/13/2024 - 13:42:13: Start of error session.
+L 10/13/2024 - 13:42:13: Info (map "de_dust2") (file "addons/amxmodx/logs/error_20241013.log")
+L 10/13/2024 - 13:42:13: Called dynanative into a paused plugin.
+L 10/13/2024 - 13:42:13: [AMXX] Run time error 10 (plugin "K_ZP_main.amxx") (native "join_in_game") - debug not enabled!
+L 10/13/2024 - 13:42:13: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/13/2024 - 13:42:58: Start of error session.
+L 10/13/2024 - 13:42:58: Info (map "de_dust2") (file "addons/amxmodx/logs/error_20241013.log")
+L 10/13/2024 - 13:42:58: Called dynanative into a paused plugin.
+L 10/13/2024 - 13:42:58: [AMXX] Run time error 10 (plugin "K_ZP_main.amxx") (native "join_in_game") - debug not enabled!
+L 10/13/2024 - 13:42:58: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/13/2024 - 13:43:49: Start of error session.
+L 10/13/2024 - 13:43:49: Info (map "de_dust2") (file "addons/amxmodx/logs/error_20241013.log")
+L 10/13/2024 - 13:43:49: Called dynanative into a paused plugin.
+L 10/13/2024 - 13:43:49: [AMXX] Run time error 10 (plugin "K_ZP_main.amxx") (native "join_in_game") - debug not enabled!
+L 10/13/2024 - 13:43:49: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/13/2024 - 13:44:04: Start of error session.
+L 10/13/2024 - 13:44:04: Info (map "de_dust2") (file "addons/amxmodx/logs/error_20241013.log")
+L 10/13/2024 - 13:44:04: Called dynanative into a paused plugin.
+L 10/13/2024 - 13:44:04: [AMXX] Run time error 10 (plugin "K_ZP_main.amxx") (native "join_in_game") - debug not enabled!
+L 10/13/2024 - 13:44:04: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/13/2024 - 13:44:10: Start of error session.
+L 10/13/2024 - 13:44:10: Info (map "de_dust2") (file "addons/amxmodx/logs/error_20241013.log")
+L 10/13/2024 - 13:44:10: Function "clcmd_changeteam" was not found
+L 10/13/2024 - 13:44:10: [AMXX] Run time error 19 (plugin "K_lib_myFuncs.amxx") - debug not enabled!
+L 10/13/2024 - 13:44:10: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/13/2024 - 13:44:24: [CSTRIKE] Invalid player 1 (not in-game)
+L 10/13/2024 - 13:44:24: [AMXX] Run time error 10 (plugin "K_lib_myFuncs.amxx") (native "cs_set_user_team") - debug not enabled!
+L 10/13/2024 - 13:44:24: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/13/2024 - 13:44:24: Unhandled dynamic native error
+L 10/13/2024 - 13:44:24: [AMXX] Run time error 10 (plugin "K_ZP_main.amxx") (native "join_in_game") - debug not enabled!
+L 10/13/2024 - 13:44:24: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/13/2024 - 13:44:36: Start of error session.
+L 10/13/2024 - 13:44:36: Info (map "de_dust2") (file "addons/amxmodx/logs/error_20241013.log")
+L 10/13/2024 - 13:44:36: Function "clcmd_changeteam" was not found
+L 10/13/2024 - 13:44:36: [AMXX] Run time error 19 (plugin "K_lib_myFuncs.amxx") - debug not enabled!
+L 10/13/2024 - 13:44:36: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/13/2024 - 13:44:36: [CSTRIKE] Invalid player 1 (not in-game)
+L 10/13/2024 - 13:44:36: [AMXX] Run time error 10 (plugin "K_lib_myFuncs.amxx") (native "cs_set_user_team") - debug not enabled!
+L 10/13/2024 - 13:44:36: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/13/2024 - 13:44:36: Unhandled dynamic native error
+L 10/13/2024 - 13:44:36: [AMXX] Run time error 10 (plugin "K_ZP_main.amxx") (native "join_in_game") - debug not enabled!
+L 10/13/2024 - 13:44:36: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/13/2024 - 13:46:02: Start of error session.
+L 10/13/2024 - 13:46:02: Info (map "de_dust2") (file "addons/amxmodx/logs/error_20241013.log")
+L 10/13/2024 - 13:46:02: Function "clcmd_changeteam" was not found
+L 10/13/2024 - 13:46:02: [AMXX] Run time error 19 (plugin "K_lib_myFuncs.amxx") - debug not enabled!
+L 10/13/2024 - 13:46:02: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/13/2024 - 13:46:02: [CSTRIKE] Invalid player 1 (not in-game)
+L 10/13/2024 - 13:46:02: [AMXX] Run time error 10 (plugin "K_lib_myFuncs.amxx") (native "cs_set_user_team") - debug not enabled!
+L 10/13/2024 - 13:46:02: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/13/2024 - 13:46:02: Unhandled dynamic native error
+L 10/13/2024 - 13:46:02: [AMXX] Run time error 10 (plugin "K_ZP_main.amxx") (native "join_in_game") - debug not enabled!
+L 10/13/2024 - 13:46:02: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/13/2024 - 13:49:08: Start of error session.
+L 10/13/2024 - 13:49:08: Info (map "de_dust2") (file "addons/amxmodx/logs/error_20241013.log")
+L 10/13/2024 - 13:49:08: Function "clcmd_changeteam" was not found
+L 10/13/2024 - 13:49:08: [AMXX] Run time error 19 (plugin "K_lib_myFuncs.amxx") - debug not enabled!
+L 10/13/2024 - 13:49:08: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/13/2024 - 13:49:16: Start of error session.
+L 10/13/2024 - 13:49:16: Info (map "de_dust2") (file "addons/amxmodx/logs/error_20241013.log")
+L 10/13/2024 - 13:49:16: Function "clcmd_changeteam" was not found
+L 10/13/2024 - 13:49:16: [AMXX] Run time error 19 (plugin "K_lib_myFuncs.amxx") - debug not enabled!
+L 10/13/2024 - 13:49:16: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/13/2024 - 13:49:57: Start of error session.
+L 10/13/2024 - 13:49:57: Info (map "de_dust2") (file "addons/amxmodx/logs/error_20241013.log")
+L 10/13/2024 - 13:49:57: Function "clcmd_changeteam" was not found
+L 10/13/2024 - 13:49:57: [AMXX] Run time error 19 (plugin "K_lib_myFuncs.amxx") - debug not enabled!
+L 10/13/2024 - 13:49:57: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/13/2024 - 13:50:26: Start of error session.
+L 10/13/2024 - 13:50:26: Info (map "de_dust2") (file "addons/amxmodx/logs/error_20241013.log")
+L 10/13/2024 - 13:50:26: Function "clcmd_changeteam" was not found
+L 10/13/2024 - 13:50:26: [AMXX] Run time error 19 (plugin "K_lib_myFuncs.amxx") - debug not enabled!
+L 10/13/2024 - 13:50:26: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/13/2024 - 13:52:23: Start of error session.
+L 10/13/2024 - 13:52:23: Info (map "de_dust2") (file "addons/amxmodx/logs/error_20241013.log")
+L 10/13/2024 - 13:52:23: Function "clcmd_changeteam" was not found
+L 10/13/2024 - 13:52:23: [AMXX] Run time error 19 (plugin "K_lib_myFuncs.amxx") - debug not enabled!
+L 10/13/2024 - 13:52:23: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/13/2024 - 13:53:46: Start of error session.
+L 10/13/2024 - 13:53:46: Info (map "de_dust2") (file "addons/amxmodx/logs/error_20241013.log")
+L 10/13/2024 - 13:53:46: Function "clcmd_changeteam" was not found
+L 10/13/2024 - 13:53:46: [AMXX] Run time error 19 (plugin "K_lib_myFuncs.amxx") - debug not enabled!
+L 10/13/2024 - 13:53:46: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/13/2024 - 13:59:16: Start of error session.
+L 10/13/2024 - 13:59:16: Info (map "de_dust2") (file "addons/amxmodx/logs/error_20241013.log")
+L 10/13/2024 - 13:59:16: Function "clcmd_changeteam" was not found
+L 10/13/2024 - 13:59:16: [AMXX] Run time error 19 (plugin "K_lib_myFuncs.amxx") - debug not enabled!
+L 10/13/2024 - 13:59:16: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/13/2024 - 14:02:54: Start of error session.
+L 10/13/2024 - 14:02:54: Info (map "de_dust2") (file "addons/amxmodx/logs/error_20241013.log")
+L 10/13/2024 - 14:02:54: Function "clcmd_changeteam" was not found
+L 10/13/2024 - 14:02:54: [AMXX] Run time error 19 (plugin "K_lib_myFuncs.amxx") - debug not enabled!
+L 10/13/2024 - 14:02:54: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/13/2024 - 14:04:05: Start of error session.
+L 10/13/2024 - 14:04:05: Info (map "de_dust2") (file "addons/amxmodx/logs/error_20241013.log")
+L 10/13/2024 - 14:04:05: Function "clcmd_changeteam" was not found
+L 10/13/2024 - 14:04:05: [AMXX] Run time error 19 (plugin "K_lib_myFuncs.amxx") - debug not enabled!
+L 10/13/2024 - 14:04:05: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/13/2024 - 14:04:55: Start of error session.
+L 10/13/2024 - 14:04:55: Info (map "de_dust2") (file "addons/amxmodx/logs/error_20241013.log")
+L 10/13/2024 - 14:04:55: Function "clcmd_changeteam" was not found
+L 10/13/2024 - 14:04:55: [AMXX] Run time error 19 (plugin "K_lib_myFuncs.amxx") - debug not enabled!
+L 10/13/2024 - 14:04:55: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/13/2024 - 14:04:55: [CSTRIKE] Invalid player 1 (not in-game)
+L 10/13/2024 - 14:04:55: [AMXX] Run time error 10 (plugin "K_lib_myFuncs.amxx") (native "cs_set_user_team") - debug not enabled!
+L 10/13/2024 - 14:04:55: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/13/2024 - 14:04:55: Unhandled dynamic native error
+L 10/13/2024 - 14:04:55: [AMXX] Run time error 10 (plugin "K_ZP_main.amxx") (native "join_in_game") - debug not enabled!
+L 10/13/2024 - 14:04:55: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/13/2024 - 14:06:20: Start of error session.
+L 10/13/2024 - 14:06:20: Info (map "de_dust2") (file "addons/amxmodx/logs/error_20241013.log")
+L 10/13/2024 - 14:06:20: Function "clcmd_changeteam" was not found
+L 10/13/2024 - 14:06:20: [AMXX] Run time error 19 (plugin "K_lib_myFuncs.amxx") - debug not enabled!
+L 10/13/2024 - 14:06:20: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/13/2024 - 14:06:20: [CSTRIKE] Invalid player 1 (not in-game)
+L 10/13/2024 - 14:06:20: [AMXX] Run time error 10 (plugin "K_lib_myFuncs.amxx") (native "cs_set_user_team") - debug not enabled!
+L 10/13/2024 - 14:06:21: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/13/2024 - 14:06:21: Unhandled dynamic native error
+L 10/13/2024 - 14:06:21: [AMXX] Run time error 10 (plugin "K_ZP_main.amxx") (native "join_in_game") - debug not enabled!
+L 10/13/2024 - 14:06:21: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/13/2024 - 14:06:53: Start of error session.
+L 10/13/2024 - 14:06:53: Info (map "de_dust2") (file "addons/amxmodx/logs/error_20241013.log")
+L 10/13/2024 - 14:06:53: Function "clcmd_changeteam" was not found
+L 10/13/2024 - 14:06:53: [AMXX] Run time error 19 (plugin "K_lib_myFuncs.amxx") - debug not enabled!
+L 10/13/2024 - 14:06:53: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/13/2024 - 14:06:54: [CSTRIKE] Invalid player 1 (not in-game)
+L 10/13/2024 - 14:06:54: [AMXX] Run time error 10 (plugin "K_lib_myFuncs.amxx") (native "cs_set_user_team") - debug not enabled!
+L 10/13/2024 - 14:06:54: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/13/2024 - 14:06:54: Unhandled dynamic native error
+L 10/13/2024 - 14:06:54: [AMXX] Displaying debug trace (plugin "K_ZP_main.amxx", version "1.0")
+L 10/13/2024 - 14:06:54: [AMXX] Run time error 10: native error (native "join_in_game")
+L 10/13/2024 - 14:06:54: [AMXX]    [0] K_ZP_main.sma::client_connect (line 44)
+L 10/13/2024 - 14:07:13: Start of error session.
+L 10/13/2024 - 14:07:13: Info (map "de_dust2") (file "addons/amxmodx/logs/error_20241013.log")
+L 10/13/2024 - 14:07:13: Function "clcmd_changeteam" was not found
+L 10/13/2024 - 14:07:13: [AMXX] Run time error 19 (plugin "K_lib_myFuncs.amxx") - debug not enabled!
+L 10/13/2024 - 14:07:13: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/13/2024 - 14:07:24: Start of error session.
+L 10/13/2024 - 14:07:24: Info (map "de_dust2") (file "addons/amxmodx/logs/error_20241013.log")
+L 10/13/2024 - 14:07:24: Function "clcmd_changeteam" was not found
+L 10/13/2024 - 14:07:24: [AMXX] Run time error 19 (plugin "K_lib_myFuncs.amxx") - debug not enabled!
+L 10/13/2024 - 14:07:24: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/13/2024 - 14:07:55: Start of error session.
+L 10/13/2024 - 14:07:55: Info (map "de_dust2") (file "addons/amxmodx/logs/error_20241013.log")
+L 10/13/2024 - 14:07:55: Function "clcmd_changeteam" was not found
+L 10/13/2024 - 14:07:55: [AMXX] Displaying debug trace (plugin "K_lib_myFuncs.amxx", version "1.0")
+L 10/13/2024 - 14:07:55: [AMXX] Run time error 19: function not found 
+L 10/13/2024 - 14:07:55: [AMXX]    [0] K_lib_myFuncs.sma::plugin_init (line 31)
+L 10/13/2024 - 14:09:18: Start of error session.
+L 10/13/2024 - 14:09:18: Info (map "de_dust2") (file "addons/amxmodx/logs/error_20241013.log")
+L 10/13/2024 - 14:09:18: [CSTRIKE] Invalid player 1 (not in-game)
+L 10/13/2024 - 14:09:18: [AMXX] Displaying debug trace (plugin "K_lib_myFuncs.amxx", version "1.0")
+L 10/13/2024 - 14:09:18: [AMXX] Run time error 10: native error (native "cs_set_user_team")
+L 10/13/2024 - 14:09:18: [AMXX]    [0] K_lib_myFuncs.sma::native_join_in_game (line 43)
+L 10/13/2024 - 14:09:18: Unhandled dynamic native error
+L 10/13/2024 - 14:09:18: [AMXX] Displaying debug trace (plugin "K_ZP_main.amxx", version "1.0")
+L 10/13/2024 - 14:09:18: [AMXX] Run time error 10: native error (native "join_in_game")
+L 10/13/2024 - 14:09:18: [AMXX]    [0] K_ZP_main.sma::client_connect (line 44)
+L 10/13/2024 - 14:09:47: Start of error session.
+L 10/13/2024 - 14:09:47: Info (map "de_dust2") (file "addons/amxmodx/logs/error_20241013.log")
+L 10/13/2024 - 14:09:47: [CSTRIKE] Invalid player 1 (not in-game)
+L 10/13/2024 - 14:09:47: [AMXX] Displaying debug trace (plugin "K_lib_myFuncs.amxx", version "1.0")
+L 10/13/2024 - 14:09:47: [AMXX] Run time error 10: native error (native "cs_set_user_team")
+L 10/13/2024 - 14:09:47: [AMXX]    [0] K_lib_myFuncs.sma::native_join_in_game (line 43)
+L 10/13/2024 - 14:09:47: Unhandled dynamic native error
+L 10/13/2024 - 14:09:47: [AMXX] Displaying debug trace (plugin "K_ZP_main.amxx", version "1.0")
+L 10/13/2024 - 14:09:47: [AMXX] Run time error 10: native error (native "join_in_game")
+L 10/13/2024 - 14:09:47: [AMXX]    [0] K_ZP_main.sma::client_connect (line 44)
+L 10/13/2024 - 14:12:07: Start of error session.
+L 10/13/2024 - 14:12:07: Info (map "de_dust2") (file "addons/amxmodx/logs/error_20241013.log")
+L 10/13/2024 - 14:12:07: [FUN] Invalid player 1
+L 10/13/2024 - 14:12:07: [AMXX] Displaying debug trace (plugin "K_ZP_main.amxx", version "1.0")
+L 10/13/2024 - 14:12:07: [AMXX] Run time error 10: native error (native "set_user_gravity")
+L 10/13/2024 - 14:12:07: [AMXX]    [0] K_ZP_main.sma::client_connect (line 48)
+L 10/13/2024 - 14:15:27: [FUN] Invalid player 1
+L 10/13/2024 - 14:15:27: [AMXX] Displaying debug trace (plugin "K_ZP_main.amxx", version "1.0")
+L 10/13/2024 - 14:15:27: [AMXX] Run time error 10: native error (native "set_user_gravity")
+L 10/13/2024 - 14:15:27: [AMXX]    [0] K_ZP_main.sma::client_connect (line 48)
+L 10/13/2024 - 14:19:19: Start of error session.
+L 10/13/2024 - 14:19:19: Info (map "de_dust2") (file "addons/amxmodx/logs/error_20241013.log")
+L 10/13/2024 - 14:19:19: [FUN] Invalid player 1
+L 10/13/2024 - 14:19:19: [AMXX] Displaying debug trace (plugin "K_ZP_main.amxx", version "1.0")
+L 10/13/2024 - 14:19:19: [AMXX] Run time error 10: native error (native "set_user_gravity")
+L 10/13/2024 - 14:19:19: [AMXX]    [0] K_ZP_main.sma::client_connect (line 48)
+L 10/13/2024 - 14:19:37: Start of error session.
+L 10/13/2024 - 14:19:37: Info (map "de_dust2") (file "addons/amxmodx/logs/error_20241013.log")
+L 10/13/2024 - 14:19:37: [FUN] Invalid player 1
+L 10/13/2024 - 14:19:37: [AMXX] Displaying debug trace (plugin "K_ZP_main.amxx", version "1.0")
+L 10/13/2024 - 14:19:37: [AMXX] Run time error 10: native error (native "set_user_gravity")
+L 10/13/2024 - 14:19:37: [AMXX]    [0] K_ZP_main.sma::client_connect (line 48)
+L 10/13/2024 - 14:23:25: Start of error session.
+L 10/13/2024 - 14:23:25: Info (map "de_dust2") (file "addons/amxmodx/logs/error_20241013.log")
+L 10/13/2024 - 14:23:25: [FUN] Invalid player 1
+L 10/13/2024 - 14:23:25: [AMXX] Displaying debug trace (plugin "K_ZP_main.amxx", version "1.0")
+L 10/13/2024 - 14:23:25: [AMXX] Run time error 10: native error (native "set_user_gravity")
+L 10/13/2024 - 14:23:25: [AMXX]    [0] K_ZP_main.sma::client_connect (line 48)
+L 10/13/2024 - 16:29:02: Start of error session.
+L 10/13/2024 - 16:29:02: Info (map "de_dust2") (file "addons/amxmodx/logs/error_20241013.log")
+L 10/13/2024 - 16:29:02: [FUN] Invalid player 1
+L 10/13/2024 - 16:29:02: [AMXX] Displaying debug trace (plugin "K_ZP_main.amxx", version "1.0")
+L 10/13/2024 - 16:29:02: [AMXX] Run time error 10: native error (native "set_user_gravity")
+L 10/13/2024 - 16:29:02: [AMXX]    [0] K_ZP_main.sma::client_connect (line 48)
+L 10/13/2024 - 16:29:53: [FUN] Invalid player 1
+L 10/13/2024 - 16:29:53: [AMXX] Displaying debug trace (plugin "K_ZP_main.amxx", version "1.0")
+L 10/13/2024 - 16:29:53: [AMXX] Run time error 10: native error (native "set_user_gravity")
+L 10/13/2024 - 16:29:53: [AMXX]    [0] K_ZP_main.sma::client_connect (line 48)
+L 10/13/2024 - 16:30:14: [FUN] Invalid player 1
+L 10/13/2024 - 16:30:14: [AMXX] Displaying debug trace (plugin "K_ZP_main.amxx", version "1.0")
+L 10/13/2024 - 16:30:14: [AMXX] Run time error 10: native error (native "set_user_gravity")
+L 10/13/2024 - 16:30:14: [AMXX]    [0] K_ZP_main.sma::client_connect (line 48)
+L 10/13/2024 - 16:30:23: [FUN] Invalid player 1
+L 10/13/2024 - 16:30:23: [AMXX] Displaying debug trace (plugin "K_ZP_main.amxx", version "1.0")
+L 10/13/2024 - 16:30:23: [AMXX] Run time error 10: native error (native "set_user_gravity")
+L 10/13/2024 - 16:30:23: [AMXX]    [0] K_ZP_main.sma::client_connect (line 48)
+L 10/13/2024 - 16:31:59: Start of error session.
+L 10/13/2024 - 16:31:59: Info (map "de_dust2") (file "addons/amxmodx/logs/error_20241013.log")
+L 10/13/2024 - 16:31:59: [FUN] Invalid player 1
+L 10/13/2024 - 16:31:59: [AMXX] Displaying debug trace (plugin "K_ZP_main.amxx", version "1.0")
+L 10/13/2024 - 16:31:59: [AMXX] Run time error 10: native error (native "set_user_gravity")
+L 10/13/2024 - 16:31:59: [AMXX]    [0] K_ZP_main.sma::client_connect (line 48)
+L 10/13/2024 - 16:32:05: [FUN] Invalid player 1
+L 10/13/2024 - 16:32:05: [AMXX] Displaying debug trace (plugin "K_ZP_main.amxx", version "1.0")
+L 10/13/2024 - 16:32:05: [AMXX] Run time error 10: native error (native "set_user_gravity")
+L 10/13/2024 - 16:32:05: [AMXX]    [0] K_ZP_main.sma::client_connect (line 48)
+L 10/13/2024 - 16:35:49: Start of error session.
+L 10/13/2024 - 16:35:49: Info (map "de_dust2") (file "addons/amxmodx/logs/error_20241013.log")
+L 10/13/2024 - 16:35:49: Function "native_join_in_game" was not found
+L 10/13/2024 - 16:35:49: [AMXX] Run time error 19 (plugin "K_lib_myFuncs.amxx") - debug not enabled!
+L 10/13/2024 - 16:35:49: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/13/2024 - 16:35:49: [AMXX] Run time error -1 (plugin "K_lib_myFuncs.amxx") - debug not enabled!
+L 10/13/2024 - 16:36:24: Start of error session.
+L 10/13/2024 - 16:36:24: Info (map "de_dust2") (file "addons/amxmodx/logs/error_20241013.log")
+L 10/13/2024 - 16:36:24: Function "native_join_in_game" was not found
+L 10/13/2024 - 16:36:24: [AMXX] Run time error 19 (plugin "K_lib_myFuncs.amxx") - debug not enabled!
+L 10/13/2024 - 16:36:24: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/13/2024 - 16:36:24: [AMXX] Run time error -1 (plugin "K_lib_myFuncs.amxx") - debug not enabled!
+L 10/13/2024 - 16:46:12: Start of error session.
+L 10/13/2024 - 16:46:12: Info (map "de_dust2") (file "addons/amxmodx/logs/error_20241013.log")
+L 10/13/2024 - 16:46:12: [FUN] Invalid player 0 (not in-game)
+L 10/13/2024 - 16:46:12: [AMXX] Displaying debug trace (plugin "K_lib_myFuncs.amxx", version "1.0")
+L 10/13/2024 - 16:46:12: [AMXX] Run time error 10: native error (native "spawn")
+L 10/13/2024 - 16:46:12: [AMXX]    [0] K_lib_myFuncs.sma::native_join_in_game (line 44)
+L 10/13/2024 - 16:46:12: Unhandled dynamic native error
+L 10/13/2024 - 16:46:12: [AMXX] Displaying debug trace (plugin "K_ZP_main.amxx", version "1.0")
+L 10/13/2024 - 16:46:12: [AMXX] Run time error 10: native error (native "join_in_game")
+L 10/13/2024 - 16:46:12: [AMXX]    [0] K_ZP_main.sma::client_putinserver (line 44)
+L 10/13/2024 - 16:46:28: [FUN] Invalid player 0 (not in-game)
+L 10/13/2024 - 16:46:28: [AMXX] Displaying debug trace (plugin "K_lib_myFuncs.amxx", version "1.0")
+L 10/13/2024 - 16:46:28: [AMXX] Run time error 10: native error (native "spawn")
+L 10/13/2024 - 16:46:28: [AMXX]    [0] K_lib_myFuncs.sma::native_join_in_game (line 44)
+L 10/13/2024 - 16:46:28: Unhandled dynamic native error
+L 10/13/2024 - 16:46:28: [AMXX] Displaying debug trace (plugin "K_ZP_main.amxx", version "1.0")
+L 10/13/2024 - 16:46:28: [AMXX] Run time error 10: native error (native "join_in_game")
+L 10/13/2024 - 16:46:28: [AMXX]    [0] K_ZP_main.sma::client_putinserver (line 44)
+L 10/13/2024 - 16:47:07: Start of error session.
+L 10/13/2024 - 16:47:07: Info (map "de_dust2") (file "addons/amxmodx/logs/error_20241013.log")
+L 10/13/2024 - 16:47:07: [FUN] Invalid player 0 (not in-game)
+L 10/13/2024 - 16:47:07: [AMXX] Displaying debug trace (plugin "K_lib_myFuncs.amxx", version "1.0")
+L 10/13/2024 - 16:47:07: [AMXX] Run time error 10: native error (native "spawn")
+L 10/13/2024 - 16:47:07: [AMXX]    [0] K_lib_myFuncs.sma::native_join_in_game (line 45)
+L 10/13/2024 - 16:47:07: Unhandled dynamic native error
+L 10/13/2024 - 16:47:07: [AMXX] Displaying debug trace (plugin "K_ZP_main.amxx", version "1.0")
+L 10/13/2024 - 16:47:07: [AMXX] Run time error 10: native error (native "join_in_game")
+L 10/13/2024 - 16:47:07: [AMXX]    [0] K_ZP_main.sma::client_putinserver (line 44)
+L 10/13/2024 - 16:47:19: [FUN] Invalid player 0 (not in-game)
+L 10/13/2024 - 16:47:19: [AMXX] Displaying debug trace (plugin "K_lib_myFuncs.amxx", version "1.0")
+L 10/13/2024 - 16:47:19: [AMXX] Run time error 10: native error (native "spawn")
+L 10/13/2024 - 16:47:19: [AMXX]    [0] K_lib_myFuncs.sma::native_join_in_game (line 45)
+L 10/13/2024 - 16:47:19: Unhandled dynamic native error
+L 10/13/2024 - 16:47:19: [AMXX] Displaying debug trace (plugin "K_ZP_main.amxx", version "1.0")
+L 10/13/2024 - 16:47:19: [AMXX] Run time error 10: native error (native "join_in_game")
+L 10/13/2024 - 16:47:19: [AMXX]    [0] K_ZP_main.sma::client_putinserver (line 44)
+L 10/13/2024 - 16:49:26: Start of error session.
+L 10/13/2024 - 16:49:26: Info (map "de_dust2") (file "addons/amxmodx/logs/error_20241013.log")
+L 10/13/2024 - 16:49:26: [FUN] Invalid player 0 (not in-game)
+L 10/13/2024 - 16:49:26: [AMXX] Displaying debug trace (plugin "K_lib_myFuncs.amxx", version "1.0")
+L 10/13/2024 - 16:49:26: [AMXX] Run time error 10: native error (native "spawn")
+L 10/13/2024 - 16:49:26: [AMXX]    [0] K_lib_myFuncs.sma::native_join_in_game (line 45)
+L 10/13/2024 - 16:49:26: Unhandled dynamic native error
+L 10/13/2024 - 16:49:26: [AMXX] Displaying debug trace (plugin "K_ZP_main.amxx", version "1.0")
+L 10/13/2024 - 16:49:26: [AMXX] Run time error 10: native error (native "join_in_game")
+L 10/13/2024 - 16:49:26: [AMXX]    [0] K_ZP_main.sma::client_putinserver (line 44)
+L 10/13/2024 - 17:08:11: Start of error session.
+L 10/13/2024 - 17:08:11: Info (map "de_dust2") (file "addons/amxmodx/logs/error_20241013.log")
+L 10/13/2024 - 17:08:11: [FUN] Invalid player 0 (not in-game)
+L 10/13/2024 - 17:08:11: [AMXX] Displaying debug trace (plugin "K_lib_myFuncs.amxx", version "1.0")
+L 10/13/2024 - 17:08:11: [AMXX] Run time error 10: native error (native "spawn")
+L 10/13/2024 - 17:08:11: [AMXX]    [0] K_lib_myFuncs.sma::native_join_in_game (line 44)
+L 10/13/2024 - 17:08:11: Unhandled dynamic native error
+L 10/13/2024 - 17:08:11: [AMXX] Displaying debug trace (plugin "K_ZP_main.amxx", version "1.0")
+L 10/13/2024 - 17:08:11: [AMXX] Run time error 10: native error (native "join_in_game")
+L 10/13/2024 - 17:08:11: [AMXX]    [0] K_ZP_main.sma::client_putinserver (line 44)
+L 10/13/2024 - 17:09:05: Start of error session.
+L 10/13/2024 - 17:09:05: Info (map "de_dust2") (file "addons/amxmodx/logs/error_20241013.log")
+L 10/13/2024 - 17:09:05: Invalid player id -2030852554
+L 10/13/2024 - 17:09:05: [AMXX] Displaying debug trace (plugin "K_lib_myFuncs.amxx", version "1.0")
+L 10/13/2024 - 17:09:05: [AMXX] Run time error 10: native error (native "engclient_cmd")
+L 10/13/2024 - 17:09:05: [AMXX]    [0] K_lib_myFuncs.sma::native_join_in_game (line 41)
+L 10/13/2024 - 17:09:05: Unhandled dynamic native error
+L 10/13/2024 - 17:09:05: [AMXX] Displaying debug trace (plugin "K_ZP_main.amxx", version "1.0")
+L 10/13/2024 - 17:09:05: [AMXX] Run time error 10: native error (native "join_in_game")
+L 10/13/2024 - 17:09:05: [AMXX]    [0] K_ZP_main.sma::client_putinserver (line 44)
+L 10/13/2024 - 19:31:33: Start of error session.
+L 10/13/2024 - 19:31:33: Info (map "de_dust2") (file "addons/amxmodx/logs/error_20241013.log")
+L 10/13/2024 - 19:31:33: Player 1 is not in game.
+L 10/13/2024 - 19:31:33: [AMXX] Run time error 10 (plugin "pluginmenu.amxx") (native "menu_display") - debug not enabled!
+L 10/13/2024 - 19:31:33: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/13/2024 - 19:32:50: Start of error session.
+L 10/13/2024 - 19:32:50: Info (map "de_dust2") (file "addons/amxmodx/logs/error_20241013.log")
+L 10/13/2024 - 19:32:50: Player 1 is not in game.
+L 10/13/2024 - 19:32:50: [AMXX] Run time error 10 (plugin "pluginmenu.amxx") (native "menu_display") - debug not enabled!
+L 10/13/2024 - 19:32:50: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/13/2024 - 19:39:12: Start of error session.
+L 10/13/2024 - 19:39:12: Info (map "de_dust2") (file "addons/amxmodx/logs/error_20241013.log")
+L 10/13/2024 - 19:39:12: Player 1 is not in game.
+L 10/13/2024 - 19:39:12: [AMXX] Run time error 10 (plugin "pluginmenu.amxx") (native "menu_display") - debug not enabled!
+L 10/13/2024 - 19:39:12: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/13/2024 - 19:47:45: Start of error session.
+L 10/13/2024 - 19:47:45: Info (map "de_dust2") (file "addons/amxmodx/logs/error_20241013.log")
+L 10/13/2024 - 19:47:45: Function is not present (function "set_weather") (plugin "K_ZP_main.amxx")
+L 10/13/2024 - 19:47:45: [AMXX] Displaying debug trace (plugin "K_ZP_main.amxx", version "1.0")
+L 10/13/2024 - 19:47:45: [AMXX] Run time error 10: native error (native "set_task")
+L 10/13/2024 - 19:47:45: [AMXX]    [0] K_ZP_main.sma::plugin_init (line 43)
+L 10/13/2024 - 19:48:54: Start of error session.
+L 10/13/2024 - 19:48:54: Info (map "de_dust2") (file "addons/amxmodx/logs/error_20241013.log")
+L 10/13/2024 - 19:48:54: Function is not present (function "set_weather") (plugin "K_ZP_main.amxx")
+L 10/13/2024 - 19:48:54: [AMXX] Displaying debug trace (plugin "K_ZP_main.amxx", version "1.0")
+L 10/13/2024 - 19:48:54: [AMXX] Run time error 10: native error (native "set_task")
+L 10/13/2024 - 19:48:54: [AMXX]    [0] K_ZP_main.sma::plugin_init (line 42)
+L 10/13/2024 - 19:52:50: Start of error session.
+L 10/13/2024 - 19:52:50: Info (map "de_dust2") (file "addons/amxmodx/logs/error_20241013.log")
+L 10/13/2024 - 19:52:50: Function is not present (function "set_weather") (plugin "K_ZP_main.amxx")
+L 10/13/2024 - 19:52:50: [AMXX] Displaying debug trace (plugin "K_ZP_main.amxx", version "1.0")
+L 10/13/2024 - 19:52:50: [AMXX] Run time error 10: native error (native "set_task")
+L 10/13/2024 - 19:52:50: [AMXX]    [0] K_ZP_main.sma::plugin_init (line 42)
+L 10/13/2024 - 19:53:51: Start of error session.
+L 10/13/2024 - 19:53:51: Info (map "de_dust2") (file "addons/amxmodx/logs/error_20241013.log")
+L 10/13/2024 - 19:53:51: Player 1 is not in game.
+L 10/13/2024 - 19:53:51: [AMXX] Run time error 10 (plugin "pluginmenu.amxx") (native "menu_display") - debug not enabled!
+L 10/13/2024 - 19:53:51: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/13/2024 - 19:53:51: Start of error session.
+L 10/13/2024 - 19:53:51: Info (map "de_dust2") (file "addons/amxmodx/logs/error_20241013.log")
+L 10/13/2024 - 19:53:51: Function is not present (function "set_weather") (plugin "K_ZP_main.amxx")
+L 10/13/2024 - 19:53:51: [AMXX] Displaying debug trace (plugin "K_ZP_main.amxx", version "1.0")
+L 10/13/2024 - 19:53:51: [AMXX] Run time error 10: native error (native "set_task")
+L 10/13/2024 - 19:53:51: [AMXX]    [0] K_ZP_main.sma::plugin_init (line 42)
+L 10/13/2024 - 19:59:48: Start of error session.
+L 10/13/2024 - 19:59:48: Info (map "de_dust2") (file "addons/amxmodx/logs/error_20241013.log")
+L 10/13/2024 - 19:59:48: Player 1 is not in game.
+L 10/13/2024 - 19:59:48: [AMXX] Run time error 10 (plugin "pluginmenu.amxx") (native "menu_display") - debug not enabled!
+L 10/13/2024 - 19:59:48: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/13/2024 - 20:03:10: Start of error session.
+L 10/13/2024 - 20:03:10: Info (map "de_dust2") (file "addons/amxmodx/logs/error_20241013.log")
+L 10/13/2024 - 20:03:10: Player 1 is not in game.
+L 10/13/2024 - 20:03:10: [AMXX] Run time error 10 (plugin "pluginmenu.amxx") (native "menu_display") - debug not enabled!
+L 10/13/2024 - 20:03:10: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/13/2024 - 20:20:02: Start of error session.
+L 10/13/2024 - 20:20:02: Info (map "de_dust2") (file "addons/amxmodx/logs/error_20241013.log")
+L 10/13/2024 - 20:20:02: Function "onResetHUD" was not found
+L 10/13/2024 - 20:20:02: [AMXX] Displaying debug trace (plugin "K_ZP_main.amxx", version "1.0")
+L 10/13/2024 - 20:20:02: [AMXX] Run time error 19: function not found 
+L 10/13/2024 - 20:20:02: [AMXX]    [0] K_ZP_main.sma::plugin_init (line 34)
+L 10/13/2024 - 20:21:16: Start of error session.
+L 10/13/2024 - 20:21:16: Info (map "de_dust2") (file "addons/amxmodx/logs/error_20241013.log")
+L 10/13/2024 - 20:21:16: Function "onResetHUD" was not found
+L 10/13/2024 - 20:21:16: [AMXX] Displaying debug trace (plugin "K_ZP_main.amxx", version "1.0")
+L 10/13/2024 - 20:21:16: [AMXX] Run time error 19: function not found 
+L 10/13/2024 - 20:21:16: [AMXX]    [0] K_ZP_main.sma::plugin_init (line 37)
+L 10/13/2024 - 20:24:54: Start of error session.
+L 10/13/2024 - 20:24:54: Info (map "de_dust2") (file "addons/amxmodx/logs/error_20241013.log")
+L 10/13/2024 - 20:24:54: Player 1 is not in game.
+L 10/13/2024 - 20:24:54: [AMXX] Run time error 10 (plugin "pluginmenu.amxx") (native "menu_display") - debug not enabled!
+L 10/13/2024 - 20:24:54: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/13/2024 - 21:19:44: Start of error session.
+L 10/13/2024 - 21:19:44: Info (map "de_dust2") (file "addons/amxmodx/logs/error_20241013.log")
+L 10/13/2024 - 21:19:44: Called dynanative into a paused plugin.
+L 10/13/2024 - 21:19:44: [AMXX] Run time error 10 (plugin "K_ZP_main.amxx") (native "show_main_menu") - debug not enabled!
+L 10/13/2024 - 21:19:44: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/13/2024 - 21:21:36: Start of error session.
+L 10/13/2024 - 21:21:36: Info (map "de_dust2") (file "addons/amxmodx/logs/error_20241013.log")
+L 10/13/2024 - 21:21:36: Called dynanative into a paused plugin.
+L 10/13/2024 - 21:21:36: [AMXX] Run time error 10 (plugin "K_ZP_main.amxx") (native "show_main_menu") - debug not enabled!
+L 10/13/2024 - 21:21:36: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/13/2024 - 21:52:45: Start of error session.
+L 10/13/2024 - 21:52:45: Info (map "de_dust2") (file "addons/amxmodx/logs/error_20241013.log")
+L 10/13/2024 - 21:52:45: Called dynanative into a paused plugin.
+L 10/13/2024 - 21:52:45: [AMXX] Run time error 10 (plugin "K_ZP_main.amxx") (native "show_main_menu") - debug not enabled!
+L 10/13/2024 - 21:52:45: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).

@@ -1,0 +1,1854 @@
+L 07/13/2024 - 11:05:39: Start of error session.
+L 07/13/2024 - 11:05:39: Info (map "zm_deko2") (file "addons/amxmodx/logs/error_20240713.log")
+L 07/13/2024 - 11:05:39: Function "native_get_weapon_add" was not found
+L 07/13/2024 - 11:05:39: [AMXX] Run time error 19 (plugin "lord_pist.amxx") - debug not enabled!
+L 07/13/2024 - 11:05:39: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 11:05:39: [AMXX] Run time error -1 (plugin "lord_pist.amxx") - debug not enabled!
+L 07/13/2024 - 11:05:39: [AMXX] Plugin file open error (plugin "scm_entity_editor.amxx")
+L 07/13/2024 - 11:05:40: [ZP] Extra item already registered (\r[\wM\r]82 hentai)
+L 07/13/2024 - 11:05:40: [AMXX] Run time error 10 (plugin "creator_hentai.amxx") (native "zp_register_extra_item") - debug not enabled!
+L 07/13/2024 - 11:05:40: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 11:05:49: [AMXX] Run time error 4 (plugin "start_menu.amxx") - debug not enabled!
+L 07/13/2024 - 11:05:49: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 11:05:49: [AMXX] Run time error 4 (plugin "Krol_vip_menu.amxx") - debug not enabled!
+L 07/13/2024 - 11:05:49: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 11:05:49: [AMXX] Run time error 4 (plugin "Krol_admin_menu.amxx") - debug not enabled!
+L 07/13/2024 - 11:05:49: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 11:05:49: [AMXX] Run time error 4 (plugin "Krol_supadmin_menu.amxx") - debug not enabled!
+L 07/13/2024 - 11:05:49: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 11:05:49: [AMXX] Run time error 4 (plugin "Krol_boss_menu.amxx") - debug not enabled!
+L 07/13/2024 - 11:05:49: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 11:05:49: [AMXX] Run time error 4 (plugin "Krol_prem_menu.amxx") - debug not enabled!
+L 07/13/2024 - 11:05:49: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 11:05:49: [AMXX] Run time error 4 (plugin "Krol_lord_menu.amxx") - debug not enabled!
+L 07/13/2024 - 11:05:49: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 11:05:49: [AMXX] Run time error 4 (plugin "Krol_elite_menu.amxx") - debug not enabled!
+L 07/13/2024 - 11:05:49: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 11:05:49: [AMXX] Run time error 4 (plugin "Krol_god_menu.amxx") - debug not enabled!
+L 07/13/2024 - 11:05:49: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 11:05:49: [AMXX] Run time error 4 (plugin "Krol_creater_menu.amxx") - debug not enabled!
+L 07/13/2024 - 11:05:49: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 11:07:40: [AMXX] Language "1" not found
+L 07/13/2024 - 11:08:05: Start of error session.
+L 07/13/2024 - 11:08:05: Info (map "zm_deko2") (file "addons/amxmodx/logs/error_20240713.log")
+L 07/13/2024 - 11:08:05: Function "native_get_weapon_add" was not found
+L 07/13/2024 - 11:08:05: [AMXX] Run time error 19 (plugin "lord_pist.amxx") - debug not enabled!
+L 07/13/2024 - 11:08:05: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 11:08:05: [AMXX] Run time error -1 (plugin "lord_pist.amxx") - debug not enabled!
+L 07/13/2024 - 11:08:05: [AMXX] Plugin file open error (plugin "scm_entity_editor.amxx")
+L 07/13/2024 - 11:08:05: [ZP] Extra item already registered (\r[\wM\r]82 hentai)
+L 07/13/2024 - 11:08:05: [AMXX] Run time error 10 (plugin "creator_hentai.amxx") (native "zp_register_extra_item") - debug not enabled!
+L 07/13/2024 - 11:08:05: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 11:08:31: Start of error session.
+L 07/13/2024 - 11:08:31: Info (map "de_dust2") (file "addons/amxmodx/logs/error_20240713.log")
+L 07/13/2024 - 11:08:31: Function "native_get_weapon_add" was not found
+L 07/13/2024 - 11:08:31: [AMXX] Run time error 19 (plugin "lord_pist.amxx") - debug not enabled!
+L 07/13/2024 - 11:08:31: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 11:08:31: [AMXX] Run time error -1 (plugin "lord_pist.amxx") - debug not enabled!
+L 07/13/2024 - 11:08:31: [AMXX] Plugin file open error (plugin "scm_entity_editor.amxx")
+L 07/13/2024 - 11:08:32: [ZP] Extra item already registered (\r[\wM\r]82 hentai)
+L 07/13/2024 - 11:08:32: [AMXX] Run time error 10 (plugin "creator_hentai.amxx") (native "zp_register_extra_item") - debug not enabled!
+L 07/13/2024 - 11:08:32: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 11:08:41: [AMXX] Run time error 4 (plugin "start_menu.amxx") - debug not enabled!
+L 07/13/2024 - 11:08:41: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 11:08:41: [AMXX] Run time error 4 (plugin "Krol_vip_menu.amxx") - debug not enabled!
+L 07/13/2024 - 11:08:41: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 11:08:41: [AMXX] Run time error 4 (plugin "Krol_admin_menu.amxx") - debug not enabled!
+L 07/13/2024 - 11:08:41: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 11:08:41: [AMXX] Run time error 4 (plugin "Krol_supadmin_menu.amxx") - debug not enabled!
+L 07/13/2024 - 11:08:41: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 11:08:41: [AMXX] Run time error 4 (plugin "Krol_boss_menu.amxx") - debug not enabled!
+L 07/13/2024 - 11:08:41: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 11:08:41: [AMXX] Run time error 4 (plugin "Krol_prem_menu.amxx") - debug not enabled!
+L 07/13/2024 - 11:08:41: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 11:08:41: [AMXX] Run time error 4 (plugin "Krol_lord_menu.amxx") - debug not enabled!
+L 07/13/2024 - 11:08:41: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 11:08:41: [AMXX] Run time error 4 (plugin "Krol_elite_menu.amxx") - debug not enabled!
+L 07/13/2024 - 11:08:41: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 11:08:41: [AMXX] Run time error 4 (plugin "Krol_god_menu.amxx") - debug not enabled!
+L 07/13/2024 - 11:08:41: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 11:08:41: [AMXX] Run time error 4 (plugin "Krol_creater_menu.amxx") - debug not enabled!
+L 07/13/2024 - 11:08:41: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 11:09:06: Start of error session.
+L 07/13/2024 - 11:09:06: Info (map "zm_deko2") (file "addons/amxmodx/logs/error_20240713.log")
+L 07/13/2024 - 11:09:06: Function "native_get_weapon_add" was not found
+L 07/13/2024 - 11:09:06: [AMXX] Run time error 19 (plugin "lord_pist.amxx") - debug not enabled!
+L 07/13/2024 - 11:09:06: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 11:09:06: [AMXX] Run time error -1 (plugin "lord_pist.amxx") - debug not enabled!
+L 07/13/2024 - 11:09:06: [AMXX] Plugin file open error (plugin "scm_entity_editor.amxx")
+L 07/13/2024 - 11:09:07: [ZP] Extra item already registered (\r[\wM\r]82 hentai)
+L 07/13/2024 - 11:09:07: [AMXX] Run time error 10 (plugin "creator_hentai.amxx") (native "zp_register_extra_item") - debug not enabled!
+L 07/13/2024 - 11:09:07: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 11:09:16: [AMXX] Run time error 4 (plugin "start_menu.amxx") - debug not enabled!
+L 07/13/2024 - 11:09:16: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 11:09:16: [AMXX] Run time error 4 (plugin "Krol_vip_menu.amxx") - debug not enabled!
+L 07/13/2024 - 11:09:16: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 11:09:16: [AMXX] Run time error 4 (plugin "Krol_admin_menu.amxx") - debug not enabled!
+L 07/13/2024 - 11:09:16: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 11:09:16: [AMXX] Run time error 4 (plugin "Krol_supadmin_menu.amxx") - debug not enabled!
+L 07/13/2024 - 11:09:16: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 11:09:16: [AMXX] Run time error 4 (plugin "Krol_boss_menu.amxx") - debug not enabled!
+L 07/13/2024 - 11:09:16: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 11:09:16: [AMXX] Run time error 4 (plugin "Krol_prem_menu.amxx") - debug not enabled!
+L 07/13/2024 - 11:09:16: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 11:09:16: [AMXX] Run time error 4 (plugin "Krol_lord_menu.amxx") - debug not enabled!
+L 07/13/2024 - 11:09:16: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 11:09:16: [AMXX] Run time error 4 (plugin "Krol_elite_menu.amxx") - debug not enabled!
+L 07/13/2024 - 11:09:16: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 11:09:16: [AMXX] Run time error 4 (plugin "Krol_god_menu.amxx") - debug not enabled!
+L 07/13/2024 - 11:09:16: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 11:09:16: [AMXX] Run time error 4 (plugin "Krol_creater_menu.amxx") - debug not enabled!
+L 07/13/2024 - 11:09:16: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 11:11:28: Start of error session.
+L 07/13/2024 - 11:11:28: Info (map "zm_deko2") (file "addons/amxmodx/logs/error_20240713.log")
+L 07/13/2024 - 11:11:28: Function "native_get_weapon_add" was not found
+L 07/13/2024 - 11:11:28: [AMXX] Run time error 19 (plugin "lord_pist.amxx") - debug not enabled!
+L 07/13/2024 - 11:11:28: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 11:11:28: [AMXX] Run time error -1 (plugin "lord_pist.amxx") - debug not enabled!
+L 07/13/2024 - 11:11:28: [AMXX] Plugin file open error (plugin "scm_entity_editor.amxx")
+L 07/13/2024 - 11:11:28: [ZP] Extra item already registered (\r[\wM\r]82 hentai)
+L 07/13/2024 - 11:11:28: [AMXX] Run time error 10 (plugin "creator_hentai.amxx") (native "zp_register_extra_item") - debug not enabled!
+L 07/13/2024 - 11:11:28: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 11:11:36: [AMXX] Run time error 4 (plugin "start_menu.amxx") - debug not enabled!
+L 07/13/2024 - 11:11:36: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 11:11:36: [AMXX] Run time error 4 (plugin "Krol_vip_menu.amxx") - debug not enabled!
+L 07/13/2024 - 11:11:36: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 11:11:36: [AMXX] Run time error 4 (plugin "Krol_admin_menu.amxx") - debug not enabled!
+L 07/13/2024 - 11:11:36: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 11:11:36: [AMXX] Run time error 4 (plugin "Krol_supadmin_menu.amxx") - debug not enabled!
+L 07/13/2024 - 11:11:36: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 11:11:36: [AMXX] Run time error 4 (plugin "Krol_boss_menu.amxx") - debug not enabled!
+L 07/13/2024 - 11:11:36: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 11:11:36: [AMXX] Run time error 4 (plugin "Krol_prem_menu.amxx") - debug not enabled!
+L 07/13/2024 - 11:11:36: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 11:11:36: [AMXX] Run time error 4 (plugin "Krol_lord_menu.amxx") - debug not enabled!
+L 07/13/2024 - 11:11:36: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 11:11:36: [AMXX] Run time error 4 (plugin "Krol_elite_menu.amxx") - debug not enabled!
+L 07/13/2024 - 11:11:36: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 11:11:36: [AMXX] Run time error 4 (plugin "Krol_god_menu.amxx") - debug not enabled!
+L 07/13/2024 - 11:11:36: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 11:11:36: [AMXX] Run time error 4 (plugin "Krol_creater_menu.amxx") - debug not enabled!
+L 07/13/2024 - 11:11:36: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 11:13:28: [AMXX] Language "1" not found
+L 07/13/2024 - 11:15:28: [AMXX] Language "1" not found
+L 07/13/2024 - 11:16:47: [AMXX] Run time error 4 (plugin "start_menu.amxx") - debug not enabled!
+L 07/13/2024 - 11:16:47: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 11:16:47: [AMXX] Run time error 4 (plugin "Krol_vip_menu.amxx") - debug not enabled!
+L 07/13/2024 - 11:16:47: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 11:16:47: [AMXX] Run time error 4 (plugin "Krol_admin_menu.amxx") - debug not enabled!
+L 07/13/2024 - 11:16:47: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 11:16:47: [AMXX] Run time error 4 (plugin "Krol_supadmin_menu.amxx") - debug not enabled!
+L 07/13/2024 - 11:16:47: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 11:16:47: [AMXX] Run time error 4 (plugin "Krol_boss_menu.amxx") - debug not enabled!
+L 07/13/2024 - 11:16:47: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 11:16:47: [AMXX] Run time error 4 (plugin "Krol_prem_menu.amxx") - debug not enabled!
+L 07/13/2024 - 11:16:47: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 11:16:47: [AMXX] Run time error 4 (plugin "Krol_lord_menu.amxx") - debug not enabled!
+L 07/13/2024 - 11:16:47: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 11:16:47: [AMXX] Run time error 4 (plugin "Krol_elite_menu.amxx") - debug not enabled!
+L 07/13/2024 - 11:16:47: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 11:16:47: [AMXX] Run time error 4 (plugin "Krol_god_menu.amxx") - debug not enabled!
+L 07/13/2024 - 11:16:47: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 11:16:47: [AMXX] Run time error 4 (plugin "Krol_creater_menu.amxx") - debug not enabled!
+L 07/13/2024 - 11:16:47: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 11:17:28: [AMXX] Language "1" not found
+L 07/13/2024 - 11:17:35: Start of error session.
+L 07/13/2024 - 11:17:35: Info (map "zm_deko2") (file "addons/amxmodx/logs/error_20240713.log")
+L 07/13/2024 - 11:17:35: Function "native_get_weapon_add" was not found
+L 07/13/2024 - 11:17:35: [AMXX] Run time error 19 (plugin "lord_pist.amxx") - debug not enabled!
+L 07/13/2024 - 11:17:35: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 11:17:35: [AMXX] Run time error -1 (plugin "lord_pist.amxx") - debug not enabled!
+L 07/13/2024 - 11:17:35: [AMXX] Plugin file open error (plugin "scm_entity_editor.amxx")
+L 07/13/2024 - 11:17:36: [ZP] Extra item already registered (\r[\wM\r]82 hentai)
+L 07/13/2024 - 11:17:36: [AMXX] Run time error 10 (plugin "creator_hentai.amxx") (native "zp_register_extra_item") - debug not enabled!
+L 07/13/2024 - 11:17:36: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 11:17:43: [AMXX] Run time error 4 (plugin "start_menu.amxx") - debug not enabled!
+L 07/13/2024 - 11:17:43: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 11:17:43: [AMXX] Run time error 4 (plugin "Krol_vip_menu.amxx") - debug not enabled!
+L 07/13/2024 - 11:17:43: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 11:17:43: [AMXX] Run time error 4 (plugin "Krol_admin_menu.amxx") - debug not enabled!
+L 07/13/2024 - 11:17:43: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 11:17:43: [AMXX] Run time error 4 (plugin "Krol_supadmin_menu.amxx") - debug not enabled!
+L 07/13/2024 - 11:17:43: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 11:17:43: [AMXX] Run time error 4 (plugin "Krol_boss_menu.amxx") - debug not enabled!
+L 07/13/2024 - 11:17:43: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 11:17:43: [AMXX] Run time error 4 (plugin "Krol_prem_menu.amxx") - debug not enabled!
+L 07/13/2024 - 11:17:43: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 11:17:43: [AMXX] Run time error 4 (plugin "Krol_lord_menu.amxx") - debug not enabled!
+L 07/13/2024 - 11:17:43: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 11:17:43: [AMXX] Run time error 4 (plugin "Krol_elite_menu.amxx") - debug not enabled!
+L 07/13/2024 - 11:17:43: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 11:17:43: [AMXX] Run time error 4 (plugin "Krol_god_menu.amxx") - debug not enabled!
+L 07/13/2024 - 11:17:43: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 11:17:43: [AMXX] Run time error 4 (plugin "Krol_creater_menu.amxx") - debug not enabled!
+L 07/13/2024 - 11:17:43: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 11:21:51: Start of error session.
+L 07/13/2024 - 11:21:51: Info (map "zm_deko2") (file "addons/amxmodx/logs/error_20240713.log")
+L 07/13/2024 - 11:21:51: Function "native_get_weapon_add" was not found
+L 07/13/2024 - 11:21:51: [AMXX] Run time error 19 (plugin "lord_pist.amxx") - debug not enabled!
+L 07/13/2024 - 11:21:51: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 11:21:51: [AMXX] Run time error -1 (plugin "lord_pist.amxx") - debug not enabled!
+L 07/13/2024 - 11:21:51: [AMXX] Plugin file open error (plugin "scm_entity_editor.amxx")
+L 07/13/2024 - 11:21:52: [ZP] Extra item already registered (\r[\wM\r]82 hentai)
+L 07/13/2024 - 11:21:52: [AMXX] Run time error 10 (plugin "creator_hentai.amxx") (native "zp_register_extra_item") - debug not enabled!
+L 07/13/2024 - 11:21:52: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 11:22:00: [AMXX] Run time error 4 (plugin "start_menu.amxx") - debug not enabled!
+L 07/13/2024 - 11:22:00: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 11:22:00: [AMXX] Run time error 4 (plugin "Krol_vip_menu.amxx") - debug not enabled!
+L 07/13/2024 - 11:22:00: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 11:22:00: [AMXX] Run time error 4 (plugin "Krol_admin_menu.amxx") - debug not enabled!
+L 07/13/2024 - 11:22:00: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 11:22:00: [AMXX] Run time error 4 (plugin "Krol_supadmin_menu.amxx") - debug not enabled!
+L 07/13/2024 - 11:22:00: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 11:22:00: [AMXX] Run time error 4 (plugin "Krol_boss_menu.amxx") - debug not enabled!
+L 07/13/2024 - 11:22:00: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 11:22:00: [AMXX] Run time error 4 (plugin "Krol_prem_menu.amxx") - debug not enabled!
+L 07/13/2024 - 11:22:00: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 11:22:00: [AMXX] Run time error 4 (plugin "Krol_lord_menu.amxx") - debug not enabled!
+L 07/13/2024 - 11:22:00: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 11:22:00: [AMXX] Run time error 4 (plugin "Krol_elite_menu.amxx") - debug not enabled!
+L 07/13/2024 - 11:22:00: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 11:22:00: [AMXX] Run time error 4 (plugin "Krol_god_menu.amxx") - debug not enabled!
+L 07/13/2024 - 11:22:00: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 11:22:00: [AMXX] Run time error 4 (plugin "Krol_creater_menu.amxx") - debug not enabled!
+L 07/13/2024 - 11:22:00: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 11:23:25: Start of error session.
+L 07/13/2024 - 11:23:25: Info (map "zm_deko2") (file "addons/amxmodx/logs/error_20240713.log")
+L 07/13/2024 - 11:23:25: Function "native_get_weapon_add" was not found
+L 07/13/2024 - 11:23:25: [AMXX] Run time error 19 (plugin "lord_pist.amxx") - debug not enabled!
+L 07/13/2024 - 11:23:25: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 11:23:25: [AMXX] Run time error -1 (plugin "lord_pist.amxx") - debug not enabled!
+L 07/13/2024 - 11:23:25: [AMXX] Plugin file open error (plugin "scm_entity_editor.amxx")
+L 07/13/2024 - 11:23:25: [ZP] Extra item already registered (\r[\wM\r]82 hentai)
+L 07/13/2024 - 11:23:25: [AMXX] Run time error 10 (plugin "creator_hentai.amxx") (native "zp_register_extra_item") - debug not enabled!
+L 07/13/2024 - 11:23:25: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 11:23:33: [AMXX] Run time error 4 (plugin "start_menu.amxx") - debug not enabled!
+L 07/13/2024 - 11:23:33: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 11:23:33: [AMXX] Run time error 4 (plugin "Krol_vip_menu.amxx") - debug not enabled!
+L 07/13/2024 - 11:23:33: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 11:23:33: [AMXX] Run time error 4 (plugin "Krol_admin_menu.amxx") - debug not enabled!
+L 07/13/2024 - 11:23:33: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 11:23:33: [AMXX] Run time error 4 (plugin "Krol_supadmin_menu.amxx") - debug not enabled!
+L 07/13/2024 - 11:23:33: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 11:23:33: [AMXX] Run time error 4 (plugin "Krol_boss_menu.amxx") - debug not enabled!
+L 07/13/2024 - 11:23:33: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 11:23:33: [AMXX] Run time error 4 (plugin "Krol_prem_menu.amxx") - debug not enabled!
+L 07/13/2024 - 11:23:33: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 11:23:33: [AMXX] Run time error 4 (plugin "Krol_lord_menu.amxx") - debug not enabled!
+L 07/13/2024 - 11:23:33: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 11:23:33: [AMXX] Run time error 4 (plugin "Krol_elite_menu.amxx") - debug not enabled!
+L 07/13/2024 - 11:23:33: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 11:23:33: [AMXX] Run time error 4 (plugin "Krol_god_menu.amxx") - debug not enabled!
+L 07/13/2024 - 11:23:33: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 11:23:33: [AMXX] Run time error 4 (plugin "Krol_creater_menu.amxx") - debug not enabled!
+L 07/13/2024 - 11:23:33: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 11:24:04: Start of error session.
+L 07/13/2024 - 11:24:04: Info (map "zm_deko2") (file "addons/amxmodx/logs/error_20240713.log")
+L 07/13/2024 - 11:24:04: Function "native_get_weapon_add" was not found
+L 07/13/2024 - 11:24:04: [AMXX] Run time error 19 (plugin "lord_pist.amxx") - debug not enabled!
+L 07/13/2024 - 11:24:04: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 11:24:04: [AMXX] Run time error -1 (plugin "lord_pist.amxx") - debug not enabled!
+L 07/13/2024 - 11:24:04: [AMXX] Plugin file open error (plugin "scm_entity_editor.amxx")
+L 07/13/2024 - 11:24:04: [ZP] Extra item already registered (\r[\wM\r]82 hentai)
+L 07/13/2024 - 11:24:04: [AMXX] Run time error 10 (plugin "creator_hentai.amxx") (native "zp_register_extra_item") - debug not enabled!
+L 07/13/2024 - 11:24:04: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 11:24:12: [AMXX] Run time error 4 (plugin "start_menu.amxx") - debug not enabled!
+L 07/13/2024 - 11:24:12: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 11:24:12: [AMXX] Run time error 4 (plugin "Krol_vip_menu.amxx") - debug not enabled!
+L 07/13/2024 - 11:24:12: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 11:24:12: [AMXX] Run time error 4 (plugin "Krol_admin_menu.amxx") - debug not enabled!
+L 07/13/2024 - 11:24:12: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 11:24:12: [AMXX] Run time error 4 (plugin "Krol_supadmin_menu.amxx") - debug not enabled!
+L 07/13/2024 - 11:24:12: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 11:24:12: [AMXX] Run time error 4 (plugin "Krol_boss_menu.amxx") - debug not enabled!
+L 07/13/2024 - 11:24:12: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 11:24:12: [AMXX] Run time error 4 (plugin "Krol_prem_menu.amxx") - debug not enabled!
+L 07/13/2024 - 11:24:12: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 11:24:12: [AMXX] Run time error 4 (plugin "Krol_lord_menu.amxx") - debug not enabled!
+L 07/13/2024 - 11:24:12: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 11:24:12: [AMXX] Run time error 4 (plugin "Krol_elite_menu.amxx") - debug not enabled!
+L 07/13/2024 - 11:24:12: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 11:24:12: [AMXX] Run time error 4 (plugin "Krol_god_menu.amxx") - debug not enabled!
+L 07/13/2024 - 11:24:12: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 11:24:12: [AMXX] Run time error 4 (plugin "Krol_creater_menu.amxx") - debug not enabled!
+L 07/13/2024 - 11:24:12: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 11:24:51: Start of error session.
+L 07/13/2024 - 11:24:51: Info (map "zm_deko2") (file "addons/amxmodx/logs/error_20240713.log")
+L 07/13/2024 - 11:24:51: Function "native_get_weapon_add" was not found
+L 07/13/2024 - 11:24:51: [AMXX] Run time error 19 (plugin "lord_pist.amxx") - debug not enabled!
+L 07/13/2024 - 11:24:51: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 11:24:51: [AMXX] Run time error -1 (plugin "lord_pist.amxx") - debug not enabled!
+L 07/13/2024 - 11:24:51: [AMXX] Plugin file open error (plugin "scm_entity_editor.amxx")
+L 07/13/2024 - 11:24:52: [ZP] Extra item already registered (\r[\wM\r]82 hentai)
+L 07/13/2024 - 11:24:52: [AMXX] Run time error 10 (plugin "creator_hentai.amxx") (native "zp_register_extra_item") - debug not enabled!
+L 07/13/2024 - 11:24:52: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 11:24:57: [AMXX] Run time error 4 (plugin "shop_lasermine_28.amxx") - debug not enabled!
+L 07/13/2024 - 11:24:57: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 11:25:00: [AMXX] Run time error 4 (plugin "start_menu.amxx") - debug not enabled!
+L 07/13/2024 - 11:25:00: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 11:25:00: [AMXX] Run time error 4 (plugin "Krol_vip_menu.amxx") - debug not enabled!
+L 07/13/2024 - 11:25:00: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 11:25:00: [AMXX] Run time error 4 (plugin "Krol_admin_menu.amxx") - debug not enabled!
+L 07/13/2024 - 11:25:00: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 11:25:00: [AMXX] Run time error 4 (plugin "Krol_supadmin_menu.amxx") - debug not enabled!
+L 07/13/2024 - 11:25:00: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 11:25:00: [AMXX] Run time error 4 (plugin "Krol_boss_menu.amxx") - debug not enabled!
+L 07/13/2024 - 11:25:00: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 11:25:00: [AMXX] Run time error 4 (plugin "Krol_prem_menu.amxx") - debug not enabled!
+L 07/13/2024 - 11:25:00: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 11:25:00: [AMXX] Run time error 4 (plugin "Krol_lord_menu.amxx") - debug not enabled!
+L 07/13/2024 - 11:25:00: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 11:25:00: [AMXX] Run time error 4 (plugin "Krol_elite_menu.amxx") - debug not enabled!
+L 07/13/2024 - 11:25:00: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 11:25:00: [AMXX] Run time error 4 (plugin "Krol_god_menu.amxx") - debug not enabled!
+L 07/13/2024 - 11:25:00: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 11:25:00: [AMXX] Run time error 4 (plugin "Krol_creater_menu.amxx") - debug not enabled!
+L 07/13/2024 - 11:25:00: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 11:25:29: [AMXX] Run time error 4 (plugin "shop_lasermine_28.amxx") - debug not enabled!
+L 07/13/2024 - 11:25:29: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 11:25:29: Start of error session.
+L 07/13/2024 - 11:25:29: Info (map "zm_deko2") (file "addons/amxmodx/logs/error_20240713.log")
+L 07/13/2024 - 11:25:29: Function "native_get_weapon_add" was not found
+L 07/13/2024 - 11:25:29: [AMXX] Run time error 19 (plugin "lord_pist.amxx") - debug not enabled!
+L 07/13/2024 - 11:25:29: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 11:25:29: [AMXX] Run time error -1 (plugin "lord_pist.amxx") - debug not enabled!
+L 07/13/2024 - 11:25:29: [AMXX] Plugin file open error (plugin "scm_entity_editor.amxx")
+L 07/13/2024 - 11:25:30: [ZP] Extra item already registered (\r[\wM\r]82 hentai)
+L 07/13/2024 - 11:25:30: [AMXX] Run time error 10 (plugin "creator_hentai.amxx") (native "zp_register_extra_item") - debug not enabled!
+L 07/13/2024 - 11:25:30: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 11:25:38: [AMXX] Run time error 4 (plugin "start_menu.amxx") - debug not enabled!
+L 07/13/2024 - 11:25:38: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 11:25:38: [AMXX] Run time error 4 (plugin "Krol_vip_menu.amxx") - debug not enabled!
+L 07/13/2024 - 11:25:38: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 11:25:38: [AMXX] Run time error 4 (plugin "Krol_admin_menu.amxx") - debug not enabled!
+L 07/13/2024 - 11:25:38: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 11:25:38: [AMXX] Run time error 4 (plugin "Krol_supadmin_menu.amxx") - debug not enabled!
+L 07/13/2024 - 11:25:38: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 11:25:38: [AMXX] Run time error 4 (plugin "Krol_boss_menu.amxx") - debug not enabled!
+L 07/13/2024 - 11:25:38: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 11:25:38: [AMXX] Run time error 4 (plugin "Krol_prem_menu.amxx") - debug not enabled!
+L 07/13/2024 - 11:25:38: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 11:25:38: [AMXX] Run time error 4 (plugin "Krol_lord_menu.amxx") - debug not enabled!
+L 07/13/2024 - 11:25:38: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 11:25:38: [AMXX] Run time error 4 (plugin "Krol_elite_menu.amxx") - debug not enabled!
+L 07/13/2024 - 11:25:38: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 11:25:38: [AMXX] Run time error 4 (plugin "Krol_god_menu.amxx") - debug not enabled!
+L 07/13/2024 - 11:25:38: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 11:25:38: [AMXX] Run time error 4 (plugin "Krol_creater_menu.amxx") - debug not enabled!
+L 07/13/2024 - 11:25:38: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 11:30:08: Start of error session.
+L 07/13/2024 - 11:30:08: Info (map "zm_deko2") (file "addons/amxmodx/logs/error_20240713.log")
+L 07/13/2024 - 11:30:08: Function "native_get_weapon_add" was not found
+L 07/13/2024 - 11:30:08: [AMXX] Run time error 19 (plugin "lord_pist.amxx") - debug not enabled!
+L 07/13/2024 - 11:30:08: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 11:30:08: [AMXX] Run time error -1 (plugin "lord_pist.amxx") - debug not enabled!
+L 07/13/2024 - 11:30:08: [AMXX] Plugin file open error (plugin "scm_entity_editor.amxx")
+L 07/13/2024 - 11:30:08: [ZP] Extra item already registered (\r[\wM\r]82 hentai)
+L 07/13/2024 - 11:30:08: [AMXX] Run time error 10 (plugin "creator_hentai.amxx") (native "zp_register_extra_item") - debug not enabled!
+L 07/13/2024 - 11:30:08: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 11:30:16: [AMXX] Run time error 4 (plugin "start_menu.amxx") - debug not enabled!
+L 07/13/2024 - 11:30:16: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 11:30:16: [AMXX] Run time error 4 (plugin "Krol_vip_menu.amxx") - debug not enabled!
+L 07/13/2024 - 11:30:16: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 11:30:16: [AMXX] Run time error 4 (plugin "Krol_admin_menu.amxx") - debug not enabled!
+L 07/13/2024 - 11:30:16: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 11:30:16: [AMXX] Run time error 4 (plugin "Krol_supadmin_menu.amxx") - debug not enabled!
+L 07/13/2024 - 11:30:16: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 11:30:16: [AMXX] Run time error 4 (plugin "Krol_boss_menu.amxx") - debug not enabled!
+L 07/13/2024 - 11:30:16: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 11:30:16: [AMXX] Run time error 4 (plugin "Krol_prem_menu.amxx") - debug not enabled!
+L 07/13/2024 - 11:30:16: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 11:30:16: [AMXX] Run time error 4 (plugin "Krol_lord_menu.amxx") - debug not enabled!
+L 07/13/2024 - 11:30:16: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 11:30:16: [AMXX] Run time error 4 (plugin "Krol_elite_menu.amxx") - debug not enabled!
+L 07/13/2024 - 11:30:16: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 11:30:16: [AMXX] Run time error 4 (plugin "Krol_god_menu.amxx") - debug not enabled!
+L 07/13/2024 - 11:30:16: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 11:30:16: [AMXX] Run time error 4 (plugin "Krol_creater_menu.amxx") - debug not enabled!
+L 07/13/2024 - 11:30:16: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 11:30:23: Start of error session.
+L 07/13/2024 - 11:30:23: Info (map "zm_deko2") (file "addons/amxmodx/logs/error_20240713.log")
+L 07/13/2024 - 11:30:23: Function "native_get_weapon_add" was not found
+L 07/13/2024 - 11:30:23: [AMXX] Run time error 19 (plugin "lord_pist.amxx") - debug not enabled!
+L 07/13/2024 - 11:30:23: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 11:30:23: [AMXX] Run time error -1 (plugin "lord_pist.amxx") - debug not enabled!
+L 07/13/2024 - 11:30:23: [AMXX] Plugin file open error (plugin "scm_entity_editor.amxx")
+L 07/13/2024 - 11:30:24: [ZP] Extra item already registered (\r[\wM\r]82 hentai)
+L 07/13/2024 - 11:30:24: [AMXX] Run time error 10 (plugin "creator_hentai.amxx") (native "zp_register_extra_item") - debug not enabled!
+L 07/13/2024 - 11:30:24: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 11:30:32: [AMXX] Run time error 4 (plugin "start_menu.amxx") - debug not enabled!
+L 07/13/2024 - 11:30:32: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 11:30:32: [AMXX] Run time error 4 (plugin "Krol_vip_menu.amxx") - debug not enabled!
+L 07/13/2024 - 11:30:32: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 11:30:32: [AMXX] Run time error 4 (plugin "Krol_admin_menu.amxx") - debug not enabled!
+L 07/13/2024 - 11:30:32: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 11:30:32: [AMXX] Run time error 4 (plugin "Krol_supadmin_menu.amxx") - debug not enabled!
+L 07/13/2024 - 11:30:32: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 11:30:32: [AMXX] Run time error 4 (plugin "Krol_boss_menu.amxx") - debug not enabled!
+L 07/13/2024 - 11:30:32: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 11:30:32: [AMXX] Run time error 4 (plugin "Krol_prem_menu.amxx") - debug not enabled!
+L 07/13/2024 - 11:30:32: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 11:30:32: [AMXX] Run time error 4 (plugin "Krol_lord_menu.amxx") - debug not enabled!
+L 07/13/2024 - 11:30:32: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 11:30:32: [AMXX] Run time error 4 (plugin "Krol_elite_menu.amxx") - debug not enabled!
+L 07/13/2024 - 11:30:32: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 11:30:32: [AMXX] Run time error 4 (plugin "Krol_god_menu.amxx") - debug not enabled!
+L 07/13/2024 - 11:30:32: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 11:30:32: [AMXX] Run time error 4 (plugin "Krol_creater_menu.amxx") - debug not enabled!
+L 07/13/2024 - 11:30:32: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 11:30:56: Start of error session.
+L 07/13/2024 - 11:30:56: Info (map "zm_deko2") (file "addons/amxmodx/logs/error_20240713.log")
+L 07/13/2024 - 11:30:56: Function "native_get_weapon_add" was not found
+L 07/13/2024 - 11:30:56: [AMXX] Run time error 19 (plugin "lord_pist.amxx") - debug not enabled!
+L 07/13/2024 - 11:30:56: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 11:30:56: [AMXX] Run time error -1 (plugin "lord_pist.amxx") - debug not enabled!
+L 07/13/2024 - 11:30:56: [AMXX] Plugin file open error (plugin "scm_entity_editor.amxx")
+L 07/13/2024 - 11:30:56: [ZP] Extra item already registered (\r[\wM\r]82 hentai)
+L 07/13/2024 - 11:30:56: [AMXX] Run time error 10 (plugin "creator_hentai.amxx") (native "zp_register_extra_item") - debug not enabled!
+L 07/13/2024 - 11:30:56: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 11:31:04: [AMXX] Run time error 4 (plugin "start_menu.amxx") - debug not enabled!
+L 07/13/2024 - 11:31:04: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 11:31:04: [AMXX] Run time error 4 (plugin "Krol_vip_menu.amxx") - debug not enabled!
+L 07/13/2024 - 11:31:04: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 11:31:04: [AMXX] Run time error 4 (plugin "Krol_admin_menu.amxx") - debug not enabled!
+L 07/13/2024 - 11:31:04: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 11:31:04: [AMXX] Run time error 4 (plugin "Krol_supadmin_menu.amxx") - debug not enabled!
+L 07/13/2024 - 11:31:04: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 11:31:04: [AMXX] Run time error 4 (plugin "Krol_boss_menu.amxx") - debug not enabled!
+L 07/13/2024 - 11:31:04: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 11:31:04: [AMXX] Run time error 4 (plugin "Krol_prem_menu.amxx") - debug not enabled!
+L 07/13/2024 - 11:31:04: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 11:31:04: [AMXX] Run time error 4 (plugin "Krol_lord_menu.amxx") - debug not enabled!
+L 07/13/2024 - 11:31:04: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 11:31:04: [AMXX] Run time error 4 (plugin "Krol_elite_menu.amxx") - debug not enabled!
+L 07/13/2024 - 11:31:04: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 11:31:04: [AMXX] Run time error 4 (plugin "Krol_god_menu.amxx") - debug not enabled!
+L 07/13/2024 - 11:31:04: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 11:31:04: [AMXX] Run time error 4 (plugin "Krol_creater_menu.amxx") - debug not enabled!
+L 07/13/2024 - 11:31:04: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 11:31:49: Start of error session.
+L 07/13/2024 - 11:31:49: Info (map "zm_deko2") (file "addons/amxmodx/logs/error_20240713.log")
+L 07/13/2024 - 11:31:49: Function "native_get_weapon_add" was not found
+L 07/13/2024 - 11:31:49: [AMXX] Run time error 19 (plugin "lord_pist.amxx") - debug not enabled!
+L 07/13/2024 - 11:31:49: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 11:31:49: [AMXX] Run time error -1 (plugin "lord_pist.amxx") - debug not enabled!
+L 07/13/2024 - 11:31:49: [AMXX] Plugin file open error (plugin "scm_entity_editor.amxx")
+L 07/13/2024 - 11:31:49: [ZP] Extra item already registered (\r[\wM\r]82 hentai)
+L 07/13/2024 - 11:31:49: [AMXX] Run time error 10 (plugin "creator_hentai.amxx") (native "zp_register_extra_item") - debug not enabled!
+L 07/13/2024 - 11:31:49: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 11:31:57: [AMXX] Run time error 4 (plugin "start_menu.amxx") - debug not enabled!
+L 07/13/2024 - 11:31:57: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 11:31:57: [AMXX] Run time error 4 (plugin "Krol_vip_menu.amxx") - debug not enabled!
+L 07/13/2024 - 11:31:57: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 11:31:57: [AMXX] Run time error 4 (plugin "Krol_admin_menu.amxx") - debug not enabled!
+L 07/13/2024 - 11:31:57: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 11:31:57: [AMXX] Run time error 4 (plugin "Krol_supadmin_menu.amxx") - debug not enabled!
+L 07/13/2024 - 11:31:57: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 11:31:57: [AMXX] Run time error 4 (plugin "Krol_boss_menu.amxx") - debug not enabled!
+L 07/13/2024 - 11:31:57: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 11:31:57: [AMXX] Run time error 4 (plugin "Krol_prem_menu.amxx") - debug not enabled!
+L 07/13/2024 - 11:31:57: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 11:31:57: [AMXX] Run time error 4 (plugin "Krol_lord_menu.amxx") - debug not enabled!
+L 07/13/2024 - 11:31:57: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 11:31:57: [AMXX] Run time error 4 (plugin "Krol_elite_menu.amxx") - debug not enabled!
+L 07/13/2024 - 11:31:57: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 11:31:57: [AMXX] Run time error 4 (plugin "Krol_god_menu.amxx") - debug not enabled!
+L 07/13/2024 - 11:31:57: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 11:31:57: [AMXX] Run time error 4 (plugin "Krol_creater_menu.amxx") - debug not enabled!
+L 07/13/2024 - 11:31:57: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 11:37:08: [AMXX] Run time error 4 (plugin "start_menu.amxx") - debug not enabled!
+L 07/13/2024 - 11:37:08: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 11:37:08: [AMXX] Run time error 4 (plugin "Krol_vip_menu.amxx") - debug not enabled!
+L 07/13/2024 - 11:37:08: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 11:37:08: [AMXX] Run time error 4 (plugin "Krol_admin_menu.amxx") - debug not enabled!
+L 07/13/2024 - 11:37:08: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 11:37:08: [AMXX] Run time error 4 (plugin "Krol_supadmin_menu.amxx") - debug not enabled!
+L 07/13/2024 - 11:37:08: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 11:37:08: [AMXX] Run time error 4 (plugin "Krol_boss_menu.amxx") - debug not enabled!
+L 07/13/2024 - 11:37:08: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 11:37:08: [AMXX] Run time error 4 (plugin "Krol_prem_menu.amxx") - debug not enabled!
+L 07/13/2024 - 11:37:08: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 11:37:08: [AMXX] Run time error 4 (plugin "Krol_lord_menu.amxx") - debug not enabled!
+L 07/13/2024 - 11:37:08: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 11:37:08: [AMXX] Run time error 4 (plugin "Krol_elite_menu.amxx") - debug not enabled!
+L 07/13/2024 - 11:37:08: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 11:37:08: [AMXX] Run time error 4 (plugin "Krol_god_menu.amxx") - debug not enabled!
+L 07/13/2024 - 11:37:08: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 11:37:08: [AMXX] Run time error 4 (plugin "Krol_creater_menu.amxx") - debug not enabled!
+L 07/13/2024 - 11:37:08: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 11:38:46: Start of error session.
+L 07/13/2024 - 11:38:46: Info (map "zm_deko2") (file "addons/amxmodx/logs/error_20240713.log")
+L 07/13/2024 - 11:38:46: Function "native_get_weapon_add" was not found
+L 07/13/2024 - 11:38:46: [AMXX] Run time error 19 (plugin "lord_pist.amxx") - debug not enabled!
+L 07/13/2024 - 11:38:46: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 11:38:46: [AMXX] Run time error -1 (plugin "lord_pist.amxx") - debug not enabled!
+L 07/13/2024 - 11:38:46: [AMXX] Plugin file open error (plugin "scm_entity_editor.amxx")
+L 07/13/2024 - 11:38:47: [ZP] Extra item already registered (\r[\wM\r]82 hentai)
+L 07/13/2024 - 11:38:47: [AMXX] Run time error 10 (plugin "creator_hentai.amxx") (native "zp_register_extra_item") - debug not enabled!
+L 07/13/2024 - 11:38:47: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 11:38:55: [AMXX] Run time error 4 (plugin "start_menu.amxx") - debug not enabled!
+L 07/13/2024 - 11:38:55: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 11:38:55: [AMXX] Run time error 4 (plugin "Krol_vip_menu.amxx") - debug not enabled!
+L 07/13/2024 - 11:38:55: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 11:38:55: [AMXX] Run time error 4 (plugin "Krol_admin_menu.amxx") - debug not enabled!
+L 07/13/2024 - 11:38:55: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 11:38:55: [AMXX] Run time error 4 (plugin "Krol_supadmin_menu.amxx") - debug not enabled!
+L 07/13/2024 - 11:38:55: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 11:38:55: [AMXX] Run time error 4 (plugin "Krol_boss_menu.amxx") - debug not enabled!
+L 07/13/2024 - 11:38:55: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 11:38:55: [AMXX] Run time error 4 (plugin "Krol_prem_menu.amxx") - debug not enabled!
+L 07/13/2024 - 11:38:55: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 11:38:55: [AMXX] Run time error 4 (plugin "Krol_lord_menu.amxx") - debug not enabled!
+L 07/13/2024 - 11:38:55: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 11:38:55: [AMXX] Run time error 4 (plugin "Krol_elite_menu.amxx") - debug not enabled!
+L 07/13/2024 - 11:38:55: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 11:38:55: [AMXX] Run time error 4 (plugin "Krol_god_menu.amxx") - debug not enabled!
+L 07/13/2024 - 11:38:55: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 11:38:55: [AMXX] Run time error 4 (plugin "Krol_creater_menu.amxx") - debug not enabled!
+L 07/13/2024 - 11:38:55: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 11:44:06: [AMXX] Run time error 4 (plugin "start_menu.amxx") - debug not enabled!
+L 07/13/2024 - 11:44:06: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 11:44:06: [AMXX] Run time error 4 (plugin "Krol_vip_menu.amxx") - debug not enabled!
+L 07/13/2024 - 11:44:06: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 11:44:06: [AMXX] Run time error 4 (plugin "Krol_admin_menu.amxx") - debug not enabled!
+L 07/13/2024 - 11:44:06: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 11:44:06: [AMXX] Run time error 4 (plugin "Krol_supadmin_menu.amxx") - debug not enabled!
+L 07/13/2024 - 11:44:06: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 11:44:06: [AMXX] Run time error 4 (plugin "Krol_boss_menu.amxx") - debug not enabled!
+L 07/13/2024 - 11:44:06: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 11:44:06: [AMXX] Run time error 4 (plugin "Krol_prem_menu.amxx") - debug not enabled!
+L 07/13/2024 - 11:44:06: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 11:44:06: [AMXX] Run time error 4 (plugin "Krol_lord_menu.amxx") - debug not enabled!
+L 07/13/2024 - 11:44:06: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 11:44:06: [AMXX] Run time error 4 (plugin "Krol_elite_menu.amxx") - debug not enabled!
+L 07/13/2024 - 11:44:06: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 11:44:06: [AMXX] Run time error 4 (plugin "Krol_god_menu.amxx") - debug not enabled!
+L 07/13/2024 - 11:44:06: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 11:44:06: [AMXX] Run time error 4 (plugin "Krol_creater_menu.amxx") - debug not enabled!
+L 07/13/2024 - 11:44:06: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 11:46:47: [AMXX] Language "1" not found
+L 07/13/2024 - 11:48:48: [AMXX] Language "1" not found
+L 07/13/2024 - 11:49:17: [AMXX] Run time error 4 (plugin "start_menu.amxx") - debug not enabled!
+L 07/13/2024 - 11:49:17: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 11:49:17: [AMXX] Run time error 4 (plugin "Krol_vip_menu.amxx") - debug not enabled!
+L 07/13/2024 - 11:49:17: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 11:49:17: [AMXX] Run time error 4 (plugin "Krol_admin_menu.amxx") - debug not enabled!
+L 07/13/2024 - 11:49:17: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 11:49:17: [AMXX] Run time error 4 (plugin "Krol_supadmin_menu.amxx") - debug not enabled!
+L 07/13/2024 - 11:49:17: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 11:49:17: [AMXX] Run time error 4 (plugin "Krol_boss_menu.amxx") - debug not enabled!
+L 07/13/2024 - 11:49:17: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 11:49:17: [AMXX] Run time error 4 (plugin "Krol_prem_menu.amxx") - debug not enabled!
+L 07/13/2024 - 11:49:17: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 11:49:17: [AMXX] Run time error 4 (plugin "Krol_lord_menu.amxx") - debug not enabled!
+L 07/13/2024 - 11:49:17: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 11:49:17: [AMXX] Run time error 4 (plugin "Krol_elite_menu.amxx") - debug not enabled!
+L 07/13/2024 - 11:49:17: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 11:49:17: [AMXX] Run time error 4 (plugin "Krol_god_menu.amxx") - debug not enabled!
+L 07/13/2024 - 11:49:17: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 11:49:17: [AMXX] Run time error 4 (plugin "Krol_creater_menu.amxx") - debug not enabled!
+L 07/13/2024 - 11:49:17: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 11:50:49: [AMXX] Language "1" not found
+L 07/13/2024 - 11:51:32: [AMXX] Run time error 4 (plugin "start_menu.amxx") - debug not enabled!
+L 07/13/2024 - 11:51:32: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 11:51:32: [AMXX] Run time error 4 (plugin "Krol_vip_menu.amxx") - debug not enabled!
+L 07/13/2024 - 11:51:32: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 11:51:32: [AMXX] Run time error 4 (plugin "Krol_admin_menu.amxx") - debug not enabled!
+L 07/13/2024 - 11:51:32: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 11:51:32: [AMXX] Run time error 4 (plugin "Krol_supadmin_menu.amxx") - debug not enabled!
+L 07/13/2024 - 11:51:32: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 11:51:32: [AMXX] Run time error 4 (plugin "Krol_boss_menu.amxx") - debug not enabled!
+L 07/13/2024 - 11:51:32: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 11:51:32: [AMXX] Run time error 4 (plugin "Krol_prem_menu.amxx") - debug not enabled!
+L 07/13/2024 - 11:51:32: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 11:51:32: [AMXX] Run time error 4 (plugin "Krol_lord_menu.amxx") - debug not enabled!
+L 07/13/2024 - 11:51:32: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 11:51:32: [AMXX] Run time error 4 (plugin "Krol_elite_menu.amxx") - debug not enabled!
+L 07/13/2024 - 11:51:32: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 11:51:32: [AMXX] Run time error 4 (plugin "Krol_god_menu.amxx") - debug not enabled!
+L 07/13/2024 - 11:51:32: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 11:51:32: [AMXX] Run time error 4 (plugin "Krol_creater_menu.amxx") - debug not enabled!
+L 07/13/2024 - 11:51:32: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 11:52:33: Start of error session.
+L 07/13/2024 - 11:52:33: Info (map "zm_deko2") (file "addons/amxmodx/logs/error_20240713.log")
+L 07/13/2024 - 11:52:33: Function "native_get_weapon_add" was not found
+L 07/13/2024 - 11:52:33: [AMXX] Run time error 19 (plugin "lord_pist.amxx") - debug not enabled!
+L 07/13/2024 - 11:52:33: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 11:52:33: [AMXX] Run time error -1 (plugin "lord_pist.amxx") - debug not enabled!
+L 07/13/2024 - 11:52:33: [AMXX] Plugin file open error (plugin "scm_entity_editor.amxx")
+L 07/13/2024 - 11:52:33: [ZP] Extra item already registered (\r[\wM\r]82 hentai)
+L 07/13/2024 - 11:52:33: [AMXX] Run time error 10 (plugin "creator_hentai.amxx") (native "zp_register_extra_item") - debug not enabled!
+L 07/13/2024 - 11:52:33: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 11:52:42: [AMXX] Run time error 4 (plugin "start_menu.amxx") - debug not enabled!
+L 07/13/2024 - 11:52:42: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 11:52:42: [AMXX] Run time error 4 (plugin "Krol_vip_menu.amxx") - debug not enabled!
+L 07/13/2024 - 11:52:42: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 11:52:42: [AMXX] Run time error 4 (plugin "Krol_admin_menu.amxx") - debug not enabled!
+L 07/13/2024 - 11:52:42: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 11:52:42: [AMXX] Run time error 4 (plugin "Krol_supadmin_menu.amxx") - debug not enabled!
+L 07/13/2024 - 11:52:42: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 11:52:42: [AMXX] Run time error 4 (plugin "Krol_boss_menu.amxx") - debug not enabled!
+L 07/13/2024 - 11:52:42: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 11:52:42: [AMXX] Run time error 4 (plugin "Krol_prem_menu.amxx") - debug not enabled!
+L 07/13/2024 - 11:52:42: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 11:52:42: [AMXX] Run time error 4 (plugin "Krol_lord_menu.amxx") - debug not enabled!
+L 07/13/2024 - 11:52:42: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 11:52:42: [AMXX] Run time error 4 (plugin "Krol_elite_menu.amxx") - debug not enabled!
+L 07/13/2024 - 11:52:42: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 11:52:42: [AMXX] Run time error 4 (plugin "Krol_god_menu.amxx") - debug not enabled!
+L 07/13/2024 - 11:52:42: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 11:52:42: [AMXX] Run time error 4 (plugin "Krol_creater_menu.amxx") - debug not enabled!
+L 07/13/2024 - 11:52:42: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 11:54:14: Start of error session.
+L 07/13/2024 - 11:54:14: Info (map "zm_deko2") (file "addons/amxmodx/logs/error_20240713.log")
+L 07/13/2024 - 11:54:14: Function "native_get_weapon_add" was not found
+L 07/13/2024 - 11:54:14: [AMXX] Run time error 19 (plugin "lord_pist.amxx") - debug not enabled!
+L 07/13/2024 - 11:54:14: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 11:54:14: [AMXX] Run time error -1 (plugin "lord_pist.amxx") - debug not enabled!
+L 07/13/2024 - 11:54:14: [AMXX] Plugin file open error (plugin "scm_entity_editor.amxx")
+L 07/13/2024 - 11:54:15: [ZP] Extra item already registered (\r[\wM\r]82 hentai)
+L 07/13/2024 - 11:54:15: [AMXX] Run time error 10 (plugin "creator_hentai.amxx") (native "zp_register_extra_item") - debug not enabled!
+L 07/13/2024 - 11:54:15: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 11:54:23: [AMXX] Run time error 4 (plugin "start_menu.amxx") - debug not enabled!
+L 07/13/2024 - 11:54:23: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 11:54:23: [AMXX] Run time error 4 (plugin "Krol_vip_menu.amxx") - debug not enabled!
+L 07/13/2024 - 11:54:23: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 11:54:23: [AMXX] Run time error 4 (plugin "Krol_admin_menu.amxx") - debug not enabled!
+L 07/13/2024 - 11:54:23: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 11:54:23: [AMXX] Run time error 4 (plugin "Krol_supadmin_menu.amxx") - debug not enabled!
+L 07/13/2024 - 11:54:23: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 11:54:23: [AMXX] Run time error 4 (plugin "Krol_boss_menu.amxx") - debug not enabled!
+L 07/13/2024 - 11:54:23: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 11:54:23: [AMXX] Run time error 4 (plugin "Krol_prem_menu.amxx") - debug not enabled!
+L 07/13/2024 - 11:54:23: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 11:54:23: [AMXX] Run time error 4 (plugin "Krol_lord_menu.amxx") - debug not enabled!
+L 07/13/2024 - 11:54:23: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 11:54:23: [AMXX] Run time error 4 (plugin "Krol_elite_menu.amxx") - debug not enabled!
+L 07/13/2024 - 11:54:23: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 11:54:23: [AMXX] Run time error 4 (plugin "Krol_god_menu.amxx") - debug not enabled!
+L 07/13/2024 - 11:54:23: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 11:54:23: [AMXX] Run time error 4 (plugin "Krol_creater_menu.amxx") - debug not enabled!
+L 07/13/2024 - 11:54:23: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 11:56:14: [AMXX] Language "1" not found
+L 07/13/2024 - 11:58:14: [AMXX] Language "1" not found
+L 07/13/2024 - 11:58:23: Start of error session.
+L 07/13/2024 - 11:58:23: Info (map "zm_deko2") (file "addons/amxmodx/logs/error_20240713.log")
+L 07/13/2024 - 11:58:23: Function "native_get_weapon_add" was not found
+L 07/13/2024 - 11:58:23: [AMXX] Run time error 19 (plugin "lord_pist.amxx") - debug not enabled!
+L 07/13/2024 - 11:58:23: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 11:58:23: [AMXX] Run time error -1 (plugin "lord_pist.amxx") - debug not enabled!
+L 07/13/2024 - 11:58:23: [AMXX] Plugin file open error (plugin "scm_entity_editor.amxx")
+L 07/13/2024 - 11:58:23: [ZP] Extra item already registered (\r[\wM\r]82 hentai)
+L 07/13/2024 - 11:58:23: [AMXX] Run time error 10 (plugin "creator_hentai.amxx") (native "zp_register_extra_item") - debug not enabled!
+L 07/13/2024 - 11:58:23: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 11:58:31: [AMXX] Run time error 4 (plugin "start_menu.amxx") - debug not enabled!
+L 07/13/2024 - 11:58:31: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 11:58:31: [AMXX] Run time error 4 (plugin "Krol_vip_menu.amxx") - debug not enabled!
+L 07/13/2024 - 11:58:31: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 11:58:31: [AMXX] Run time error 4 (plugin "Krol_admin_menu.amxx") - debug not enabled!
+L 07/13/2024 - 11:58:31: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 11:58:31: [AMXX] Run time error 4 (plugin "Krol_supadmin_menu.amxx") - debug not enabled!
+L 07/13/2024 - 11:58:31: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 11:58:31: [AMXX] Run time error 4 (plugin "Krol_boss_menu.amxx") - debug not enabled!
+L 07/13/2024 - 11:58:31: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 11:58:31: [AMXX] Run time error 4 (plugin "Krol_prem_menu.amxx") - debug not enabled!
+L 07/13/2024 - 11:58:31: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 11:58:31: [AMXX] Run time error 4 (plugin "Krol_lord_menu.amxx") - debug not enabled!
+L 07/13/2024 - 11:58:31: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 11:58:31: [AMXX] Run time error 4 (plugin "Krol_elite_menu.amxx") - debug not enabled!
+L 07/13/2024 - 11:58:31: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 11:58:31: [AMXX] Run time error 4 (plugin "Krol_god_menu.amxx") - debug not enabled!
+L 07/13/2024 - 11:58:31: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 11:58:31: [AMXX] Run time error 4 (plugin "Krol_creater_menu.amxx") - debug not enabled!
+L 07/13/2024 - 11:58:31: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 11:59:36: [ENGINE] Invalid entity 46
+L 07/13/2024 - 11:59:36: [AMXX] Run time error 10 (plugin "zm_class_rev_ice_admin.amxx") (native "entity_set_float") - debug not enabled!
+L 07/13/2024 - 11:59:36: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 12:03:42: [AMXX] Run time error 4 (plugin "start_menu.amxx") - debug not enabled!
+L 07/13/2024 - 12:03:42: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 12:03:42: [AMXX] Run time error 4 (plugin "Krol_vip_menu.amxx") - debug not enabled!
+L 07/13/2024 - 12:03:42: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 12:03:42: [AMXX] Run time error 4 (plugin "Krol_admin_menu.amxx") - debug not enabled!
+L 07/13/2024 - 12:03:42: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 12:03:42: [AMXX] Run time error 4 (plugin "Krol_supadmin_menu.amxx") - debug not enabled!
+L 07/13/2024 - 12:03:42: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 12:03:42: [AMXX] Run time error 4 (plugin "Krol_boss_menu.amxx") - debug not enabled!
+L 07/13/2024 - 12:03:42: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 12:03:42: [AMXX] Run time error 4 (plugin "Krol_prem_menu.amxx") - debug not enabled!
+L 07/13/2024 - 12:03:42: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 12:03:42: [AMXX] Run time error 4 (plugin "Krol_lord_menu.amxx") - debug not enabled!
+L 07/13/2024 - 12:03:42: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 12:03:42: [AMXX] Run time error 4 (plugin "Krol_elite_menu.amxx") - debug not enabled!
+L 07/13/2024 - 12:03:42: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 12:03:42: [AMXX] Run time error 4 (plugin "Krol_god_menu.amxx") - debug not enabled!
+L 07/13/2024 - 12:03:42: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 12:03:42: [AMXX] Run time error 4 (plugin "Krol_creater_menu.amxx") - debug not enabled!
+L 07/13/2024 - 12:03:42: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 12:04:23: [AMXX] Language "1" not found
+L 07/13/2024 - 12:05:42: Start of error session.
+L 07/13/2024 - 12:05:42: Info (map "zm_deko2") (file "addons/amxmodx/logs/error_20240713.log")
+L 07/13/2024 - 12:05:42: Function "native_get_weapon_add" was not found
+L 07/13/2024 - 12:05:42: [AMXX] Run time error 19 (plugin "lord_pist.amxx") - debug not enabled!
+L 07/13/2024 - 12:05:42: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 12:05:42: [AMXX] Run time error -1 (plugin "lord_pist.amxx") - debug not enabled!
+L 07/13/2024 - 12:05:42: [AMXX] Plugin file open error (plugin "scm_entity_editor.amxx")
+L 07/13/2024 - 12:12:59: Start of error session.
+L 07/13/2024 - 12:12:59: Info (map "zm_deko2") (file "addons/amxmodx/logs/error_20240713.log")
+L 07/13/2024 - 12:12:59: Function "native_get_weapon_add" was not found
+L 07/13/2024 - 12:12:59: [AMXX] Run time error 19 (plugin "lord_pist.amxx") - debug not enabled!
+L 07/13/2024 - 12:12:59: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 12:12:59: [AMXX] Run time error -1 (plugin "lord_pist.amxx") - debug not enabled!
+L 07/13/2024 - 12:12:59: [AMXX] Plugin file open error (plugin "scm_entity_editor.amxx")
+L 07/13/2024 - 12:13:00: [ZP] Extra item already registered (\r[\wM\r]82 hentai)
+L 07/13/2024 - 12:13:00: [AMXX] Run time error 10 (plugin "creator_hentai.amxx") (native "zp_register_extra_item") - debug not enabled!
+L 07/13/2024 - 12:13:00: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 12:13:08: [AMXX] Run time error 4 (plugin "start_menu.amxx") - debug not enabled!
+L 07/13/2024 - 12:13:08: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 12:13:08: [AMXX] Run time error 4 (plugin "Krol_vip_menu.amxx") - debug not enabled!
+L 07/13/2024 - 12:13:08: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 12:13:08: [AMXX] Run time error 4 (plugin "Krol_admin_menu.amxx") - debug not enabled!
+L 07/13/2024 - 12:13:08: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 12:13:08: [AMXX] Run time error 4 (plugin "Krol_supadmin_menu.amxx") - debug not enabled!
+L 07/13/2024 - 12:13:08: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 12:13:08: [AMXX] Run time error 4 (plugin "Krol_boss_menu.amxx") - debug not enabled!
+L 07/13/2024 - 12:13:08: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 12:13:08: [AMXX] Run time error 4 (plugin "Krol_prem_menu.amxx") - debug not enabled!
+L 07/13/2024 - 12:13:08: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 12:13:08: [AMXX] Run time error 4 (plugin "Krol_lord_menu.amxx") - debug not enabled!
+L 07/13/2024 - 12:13:08: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 12:13:08: [AMXX] Run time error 4 (plugin "Krol_elite_menu.amxx") - debug not enabled!
+L 07/13/2024 - 12:13:08: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 12:13:08: [AMXX] Run time error 4 (plugin "Krol_god_menu.amxx") - debug not enabled!
+L 07/13/2024 - 12:13:08: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 12:13:08: [AMXX] Run time error 4 (plugin "Krol_creater_menu.amxx") - debug not enabled!
+L 07/13/2024 - 12:13:08: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 12:14:22: Start of error session.
+L 07/13/2024 - 12:14:22: Info (map "zm_deko2") (file "addons/amxmodx/logs/error_20240713.log")
+L 07/13/2024 - 12:14:22: Function "native_get_weapon_add" was not found
+L 07/13/2024 - 12:14:22: [AMXX] Run time error 19 (plugin "lord_pist.amxx") - debug not enabled!
+L 07/13/2024 - 12:14:22: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 12:14:22: [AMXX] Run time error -1 (plugin "lord_pist.amxx") - debug not enabled!
+L 07/13/2024 - 12:14:22: [AMXX] Plugin file open error (plugin "scm_entity_editor.amxx")
+L 07/13/2024 - 12:15:10: Start of error session.
+L 07/13/2024 - 12:15:10: Info (map "zm_deko2") (file "addons/amxmodx/logs/error_20240713.log")
+L 07/13/2024 - 12:15:10: Function "native_get_weapon_add" was not found
+L 07/13/2024 - 12:15:10: [AMXX] Run time error 19 (plugin "lord_pist.amxx") - debug not enabled!
+L 07/13/2024 - 12:15:10: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 12:15:10: [AMXX] Run time error -1 (plugin "lord_pist.amxx") - debug not enabled!
+L 07/13/2024 - 12:15:10: [AMXX] Plugin file open error (plugin "scm_entity_editor.amxx")
+L 07/13/2024 - 12:15:57: Start of error session.
+L 07/13/2024 - 12:15:57: Info (map "zm_deko2") (file "addons/amxmodx/logs/error_20240713.log")
+L 07/13/2024 - 12:15:57: Function "native_get_weapon_add" was not found
+L 07/13/2024 - 12:15:57: [AMXX] Run time error 19 (plugin "lord_pist.amxx") - debug not enabled!
+L 07/13/2024 - 12:15:57: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 12:15:57: [AMXX] Run time error -1 (plugin "lord_pist.amxx") - debug not enabled!
+L 07/13/2024 - 12:15:57: [AMXX] Plugin file open error (plugin "scm_entity_editor.amxx")
+L 07/13/2024 - 12:17:03: Start of error session.
+L 07/13/2024 - 12:17:03: Info (map "zm_deko2") (file "addons/amxmodx/logs/error_20240713.log")
+L 07/13/2024 - 12:17:03: Function "native_get_weapon_add" was not found
+L 07/13/2024 - 12:17:03: [AMXX] Run time error 19 (plugin "lord_pist.amxx") - debug not enabled!
+L 07/13/2024 - 12:17:03: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 12:17:03: [AMXX] Run time error -1 (plugin "lord_pist.amxx") - debug not enabled!
+L 07/13/2024 - 12:17:03: [AMXX] Plugin file open error (plugin "scm_entity_editor.amxx")
+L 07/13/2024 - 12:17:04: [ZP] Extra item already registered (\r[\wM\r]82 hentai)
+L 07/13/2024 - 12:17:04: [AMXX] Run time error 10 (plugin "creator_hentai.amxx") (native "zp_register_extra_item") - debug not enabled!
+L 07/13/2024 - 12:17:04: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 12:17:13: [AMXX] Run time error 4 (plugin "start_menu.amxx") - debug not enabled!
+L 07/13/2024 - 12:17:13: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 12:17:13: [AMXX] Run time error 4 (plugin "Krol_vip_menu.amxx") - debug not enabled!
+L 07/13/2024 - 12:17:13: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 12:17:13: [AMXX] Run time error 4 (plugin "Krol_admin_menu.amxx") - debug not enabled!
+L 07/13/2024 - 12:17:13: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 12:17:13: [AMXX] Run time error 4 (plugin "Krol_supadmin_menu.amxx") - debug not enabled!
+L 07/13/2024 - 12:17:13: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 12:17:13: [AMXX] Run time error 4 (plugin "Krol_boss_menu.amxx") - debug not enabled!
+L 07/13/2024 - 12:17:13: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 12:17:13: [AMXX] Run time error 4 (plugin "Krol_prem_menu.amxx") - debug not enabled!
+L 07/13/2024 - 12:17:13: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 12:17:13: [AMXX] Run time error 4 (plugin "Krol_lord_menu.amxx") - debug not enabled!
+L 07/13/2024 - 12:17:13: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 12:17:13: [AMXX] Run time error 4 (plugin "Krol_elite_menu.amxx") - debug not enabled!
+L 07/13/2024 - 12:17:13: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 12:17:13: [AMXX] Run time error 4 (plugin "Krol_god_menu.amxx") - debug not enabled!
+L 07/13/2024 - 12:17:13: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 12:17:13: [AMXX] Run time error 4 (plugin "Krol_creater_menu.amxx") - debug not enabled!
+L 07/13/2024 - 12:17:13: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 12:22:24: [AMXX] Run time error 4 (plugin "start_menu.amxx") - debug not enabled!
+L 07/13/2024 - 12:22:24: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 12:22:24: [AMXX] Run time error 4 (plugin "Krol_vip_menu.amxx") - debug not enabled!
+L 07/13/2024 - 12:22:24: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 12:22:24: [AMXX] Run time error 4 (plugin "Krol_admin_menu.amxx") - debug not enabled!
+L 07/13/2024 - 12:22:24: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 12:22:24: [AMXX] Run time error 4 (plugin "Krol_supadmin_menu.amxx") - debug not enabled!
+L 07/13/2024 - 12:22:24: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 12:22:24: [AMXX] Run time error 4 (plugin "Krol_boss_menu.amxx") - debug not enabled!
+L 07/13/2024 - 12:22:24: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 12:22:24: [AMXX] Run time error 4 (plugin "Krol_prem_menu.amxx") - debug not enabled!
+L 07/13/2024 - 12:22:24: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 12:22:24: [AMXX] Run time error 4 (plugin "Krol_lord_menu.amxx") - debug not enabled!
+L 07/13/2024 - 12:22:24: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 12:22:24: [AMXX] Run time error 4 (plugin "Krol_elite_menu.amxx") - debug not enabled!
+L 07/13/2024 - 12:22:24: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 12:22:24: [AMXX] Run time error 4 (plugin "Krol_god_menu.amxx") - debug not enabled!
+L 07/13/2024 - 12:22:24: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 12:22:24: [AMXX] Run time error 4 (plugin "Krol_creater_menu.amxx") - debug not enabled!
+L 07/13/2024 - 12:22:24: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 12:22:26: [AMXX] Language "1" not found
+L 07/13/2024 - 12:24:23: Start of error session.
+L 07/13/2024 - 12:24:23: Info (map "zm_deko2") (file "addons/amxmodx/logs/error_20240713.log")
+L 07/13/2024 - 12:24:23: Function "native_get_weapon_add" was not found
+L 07/13/2024 - 12:24:23: [AMXX] Run time error 19 (plugin "lord_pist.amxx") - debug not enabled!
+L 07/13/2024 - 12:24:23: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 12:24:23: [AMXX] Run time error -1 (plugin "lord_pist.amxx") - debug not enabled!
+L 07/13/2024 - 12:24:23: [AMXX] Plugin file open error (plugin "scm_entity_editor.amxx")
+L 07/13/2024 - 12:25:55: Start of error session.
+L 07/13/2024 - 12:25:55: Info (map "zm_deko2") (file "addons/amxmodx/logs/error_20240713.log")
+L 07/13/2024 - 12:25:55: Function "native_get_weapon_add" was not found
+L 07/13/2024 - 12:25:55: [AMXX] Run time error 19 (plugin "lord_pist.amxx") - debug not enabled!
+L 07/13/2024 - 12:25:55: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 12:25:55: [AMXX] Run time error -1 (plugin "lord_pist.amxx") - debug not enabled!
+L 07/13/2024 - 12:25:55: [AMXX] Plugin file open error (plugin "scm_entity_editor.amxx")
+L 07/13/2024 - 12:25:56: [ZP] Extra item already registered (\r[\wM\r]82 hentai)
+L 07/13/2024 - 12:25:56: [AMXX] Run time error 10 (plugin "creator_hentai.amxx") (native "zp_register_extra_item") - debug not enabled!
+L 07/13/2024 - 12:25:56: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 12:26:04: [AMXX] Run time error 4 (plugin "start_menu.amxx") - debug not enabled!
+L 07/13/2024 - 12:26:04: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 12:26:04: [AMXX] Run time error 4 (plugin "Krol_vip_menu.amxx") - debug not enabled!
+L 07/13/2024 - 12:26:04: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 12:26:04: [AMXX] Run time error 4 (plugin "Krol_admin_menu.amxx") - debug not enabled!
+L 07/13/2024 - 12:26:04: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 12:26:04: [AMXX] Run time error 4 (plugin "Krol_supadmin_menu.amxx") - debug not enabled!
+L 07/13/2024 - 12:26:04: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 12:26:04: [AMXX] Run time error 4 (plugin "Krol_boss_menu.amxx") - debug not enabled!
+L 07/13/2024 - 12:26:04: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 12:26:04: [AMXX] Run time error 4 (plugin "Krol_prem_menu.amxx") - debug not enabled!
+L 07/13/2024 - 12:26:04: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 12:26:04: [AMXX] Run time error 4 (plugin "Krol_lord_menu.amxx") - debug not enabled!
+L 07/13/2024 - 12:26:04: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 12:26:04: [AMXX] Run time error 4 (plugin "Krol_elite_menu.amxx") - debug not enabled!
+L 07/13/2024 - 12:26:04: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 12:26:04: [AMXX] Run time error 4 (plugin "Krol_god_menu.amxx") - debug not enabled!
+L 07/13/2024 - 12:26:04: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 12:26:04: [AMXX] Run time error 4 (plugin "Krol_creater_menu.amxx") - debug not enabled!
+L 07/13/2024 - 12:26:04: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 12:31:15: [AMXX] Run time error 4 (plugin "start_menu.amxx") - debug not enabled!
+L 07/13/2024 - 12:41:32: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 12:41:32: [AMXX] Run time error 4 (plugin "Krol_vip_menu.amxx") - debug not enabled!
+L 07/13/2024 - 12:41:32: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 12:41:32: [AMXX] Run time error 4 (plugin "Krol_admin_menu.amxx") - debug not enabled!
+L 07/13/2024 - 12:41:32: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 12:41:32: [AMXX] Run time error 4 (plugin "Krol_supadmin_menu.amxx") - debug not enabled!
+L 07/13/2024 - 12:41:32: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 12:41:32: [AMXX] Run time error 4 (plugin "Krol_boss_menu.amxx") - debug not enabled!
+L 07/13/2024 - 12:41:32: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 12:41:32: [AMXX] Run time error 4 (plugin "Krol_prem_menu.amxx") - debug not enabled!
+L 07/13/2024 - 12:41:32: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 12:41:32: [AMXX] Run time error 4 (plugin "Krol_lord_menu.amxx") - debug not enabled!
+L 07/13/2024 - 12:41:32: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 12:41:32: [AMXX] Run time error 4 (plugin "Krol_elite_menu.amxx") - debug not enabled!
+L 07/13/2024 - 12:41:32: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 12:41:32: [AMXX] Run time error 4 (plugin "Krol_god_menu.amxx") - debug not enabled!
+L 07/13/2024 - 12:41:32: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 12:41:32: [AMXX] Run time error 4 (plugin "Krol_creater_menu.amxx") - debug not enabled!
+L 07/13/2024 - 12:41:32: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 12:41:34: [AMXX] Language "1" not found
+L 07/13/2024 - 12:41:36: Start of error session.
+L 07/13/2024 - 12:41:36: Info (map "zm_deko2") (file "addons/amxmodx/logs/error_20240713.log")
+L 07/13/2024 - 12:41:36: Function "native_get_weapon_add" was not found
+L 07/13/2024 - 12:41:36: [AMXX] Run time error 19 (plugin "lord_pist.amxx") - debug not enabled!
+L 07/13/2024 - 12:41:36: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 12:41:36: [AMXX] Run time error -1 (plugin "lord_pist.amxx") - debug not enabled!
+L 07/13/2024 - 12:41:36: [AMXX] Plugin file open error (plugin "scm_entity_editor.amxx")
+L 07/13/2024 - 12:42:05: Start of error session.
+L 07/13/2024 - 12:42:05: Info (map "zm_deko2") (file "addons/amxmodx/logs/error_20240713.log")
+L 07/13/2024 - 12:42:05: Function "native_get_weapon_add" was not found
+L 07/13/2024 - 12:42:05: [AMXX] Run time error 19 (plugin "lord_pist.amxx") - debug not enabled!
+L 07/13/2024 - 12:42:05: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 12:42:05: [AMXX] Run time error -1 (plugin "lord_pist.amxx") - debug not enabled!
+L 07/13/2024 - 12:42:05: [AMXX] Plugin file open error (plugin "scm_entity_editor.amxx")
+L 07/13/2024 - 12:42:44: Start of error session.
+L 07/13/2024 - 12:42:44: Info (map "zm_deko2") (file "addons/amxmodx/logs/error_20240713.log")
+L 07/13/2024 - 12:42:44: Function "native_get_weapon_add" was not found
+L 07/13/2024 - 12:42:44: [AMXX] Run time error 19 (plugin "lord_pist.amxx") - debug not enabled!
+L 07/13/2024 - 12:42:44: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 12:42:44: [AMXX] Run time error -1 (plugin "lord_pist.amxx") - debug not enabled!
+L 07/13/2024 - 12:42:44: [AMXX] Plugin file open error (plugin "scm_entity_editor.amxx")
+L 07/13/2024 - 12:43:23: Start of error session.
+L 07/13/2024 - 12:43:23: Info (map "zm_deko2") (file "addons/amxmodx/logs/error_20240713.log")
+L 07/13/2024 - 12:43:23: Function "native_get_weapon_add" was not found
+L 07/13/2024 - 12:43:23: [AMXX] Run time error 19 (plugin "lord_pist.amxx") - debug not enabled!
+L 07/13/2024 - 12:43:23: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 12:43:23: [AMXX] Run time error -1 (plugin "lord_pist.amxx") - debug not enabled!
+L 07/13/2024 - 12:43:23: [AMXX] Plugin file open error (plugin "scm_entity_editor.amxx")
+L 07/13/2024 - 12:43:39: Start of error session.
+L 07/13/2024 - 12:43:39: Info (map "zm_deko2") (file "addons/amxmodx/logs/error_20240713.log")
+L 07/13/2024 - 12:43:39: Function "native_get_weapon_add" was not found
+L 07/13/2024 - 12:43:39: [AMXX] Run time error 19 (plugin "lord_pist.amxx") - debug not enabled!
+L 07/13/2024 - 12:43:39: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 12:43:39: [AMXX] Run time error -1 (plugin "lord_pist.amxx") - debug not enabled!
+L 07/13/2024 - 12:43:39: [AMXX] Plugin file open error (plugin "scm_entity_editor.amxx")
+L 07/13/2024 - 12:44:31: Start of error session.
+L 07/13/2024 - 12:44:31: Info (map "zm_deko2") (file "addons/amxmodx/logs/error_20240713.log")
+L 07/13/2024 - 12:44:31: Function "native_get_weapon_add" was not found
+L 07/13/2024 - 12:44:31: [AMXX] Run time error 19 (plugin "lord_pist.amxx") - debug not enabled!
+L 07/13/2024 - 12:44:31: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 12:44:31: [AMXX] Run time error -1 (plugin "lord_pist.amxx") - debug not enabled!
+L 07/13/2024 - 12:44:31: [AMXX] Plugin file open error (plugin "scm_entity_editor.amxx")
+L 07/13/2024 - 12:46:51: Start of error session.
+L 07/13/2024 - 12:46:51: Info (map "zm_deko2") (file "addons/amxmodx/logs/error_20240713.log")
+L 07/13/2024 - 12:46:51: Function "native_get_weapon_add" was not found
+L 07/13/2024 - 12:46:51: [AMXX] Run time error 19 (plugin "lord_pist.amxx") - debug not enabled!
+L 07/13/2024 - 12:46:51: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 12:46:51: [AMXX] Run time error -1 (plugin "lord_pist.amxx") - debug not enabled!
+L 07/13/2024 - 12:46:51: [AMXX] Plugin file open error (plugin "scm_entity_editor.amxx")
+L 07/13/2024 - 12:47:17: Start of error session.
+L 07/13/2024 - 12:47:17: Info (map "zm_deko2") (file "addons/amxmodx/logs/error_20240713.log")
+L 07/13/2024 - 12:47:17: Function "native_get_weapon_add" was not found
+L 07/13/2024 - 12:47:17: [AMXX] Run time error 19 (plugin "lord_pist.amxx") - debug not enabled!
+L 07/13/2024 - 12:47:17: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 12:47:17: [AMXX] Run time error -1 (plugin "lord_pist.amxx") - debug not enabled!
+L 07/13/2024 - 12:47:17: [AMXX] Plugin file open error (plugin "scm_entity_editor.amxx")
+L 07/13/2024 - 12:47:18: [ZP] Extra item already registered (\r[\wM\r]82 hentai)
+L 07/13/2024 - 12:47:18: [AMXX] Run time error 10 (plugin "creator_hentai.amxx") (native "zp_register_extra_item") - debug not enabled!
+L 07/13/2024 - 12:47:18: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 12:47:27: [AMXX] Run time error 4 (plugin "start_menu.amxx") - debug not enabled!
+L 07/13/2024 - 12:47:27: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 12:47:27: [AMXX] Run time error 4 (plugin "Krol_vip_menu.amxx") - debug not enabled!
+L 07/13/2024 - 12:47:27: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 12:47:27: [AMXX] Run time error 4 (plugin "Krol_admin_menu.amxx") - debug not enabled!
+L 07/13/2024 - 12:47:27: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 12:47:27: [AMXX] Run time error 4 (plugin "Krol_supadmin_menu.amxx") - debug not enabled!
+L 07/13/2024 - 12:47:27: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 12:47:27: [AMXX] Run time error 4 (plugin "Krol_boss_menu.amxx") - debug not enabled!
+L 07/13/2024 - 12:47:27: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 12:47:27: [AMXX] Run time error 4 (plugin "Krol_prem_menu.amxx") - debug not enabled!
+L 07/13/2024 - 12:47:27: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 12:47:27: [AMXX] Run time error 4 (plugin "Krol_lord_menu.amxx") - debug not enabled!
+L 07/13/2024 - 12:47:27: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 12:47:27: [AMXX] Run time error 4 (plugin "Krol_elite_menu.amxx") - debug not enabled!
+L 07/13/2024 - 12:47:27: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 12:47:27: [AMXX] Run time error 4 (plugin "Krol_god_menu.amxx") - debug not enabled!
+L 07/13/2024 - 12:47:27: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 12:47:27: [AMXX] Run time error 4 (plugin "Krol_creater_menu.amxx") - debug not enabled!
+L 07/13/2024 - 12:47:27: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 12:47:35: Start of error session.
+L 07/13/2024 - 12:47:35: Info (map "zm_deko2") (file "addons/amxmodx/logs/error_20240713.log")
+L 07/13/2024 - 12:47:35: Function "native_get_weapon_add" was not found
+L 07/13/2024 - 12:47:35: [AMXX] Run time error 19 (plugin "lord_pist.amxx") - debug not enabled!
+L 07/13/2024 - 12:47:35: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 12:47:35: [AMXX] Run time error -1 (plugin "lord_pist.amxx") - debug not enabled!
+L 07/13/2024 - 12:47:35: [AMXX] Plugin file open error (plugin "scm_entity_editor.amxx")
+L 07/13/2024 - 12:49:17: Start of error session.
+L 07/13/2024 - 12:49:17: Info (map "zm_deko2") (file "addons/amxmodx/logs/error_20240713.log")
+L 07/13/2024 - 12:49:17: Function "native_get_weapon_add" was not found
+L 07/13/2024 - 12:49:17: [AMXX] Run time error 19 (plugin "lord_pist.amxx") - debug not enabled!
+L 07/13/2024 - 12:49:17: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 12:49:17: [AMXX] Run time error -1 (plugin "lord_pist.amxx") - debug not enabled!
+L 07/13/2024 - 12:49:17: [AMXX] Plugin file open error (plugin "scm_entity_editor.amxx")
+L 07/13/2024 - 12:50:41: Start of error session.
+L 07/13/2024 - 12:50:41: Info (map "zm_deko2") (file "addons/amxmodx/logs/error_20240713.log")
+L 07/13/2024 - 12:50:41: Function "native_get_weapon_add" was not found
+L 07/13/2024 - 12:50:41: [AMXX] Run time error 19 (plugin "lord_pist.amxx") - debug not enabled!
+L 07/13/2024 - 12:50:41: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 12:50:41: [AMXX] Run time error -1 (plugin "lord_pist.amxx") - debug not enabled!
+L 07/13/2024 - 12:50:41: [AMXX] Plugin file open error (plugin "scm_entity_editor.amxx")
+L 07/13/2024 - 12:51:46: Start of error session.
+L 07/13/2024 - 12:51:46: Info (map "zm_deko2") (file "addons/amxmodx/logs/error_20240713.log")
+L 07/13/2024 - 12:51:46: Function "native_get_weapon_add" was not found
+L 07/13/2024 - 12:51:46: [AMXX] Run time error 19 (plugin "lord_pist.amxx") - debug not enabled!
+L 07/13/2024 - 12:51:46: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 12:51:46: [AMXX] Run time error -1 (plugin "lord_pist.amxx") - debug not enabled!
+L 07/13/2024 - 12:51:46: [AMXX] Plugin file open error (plugin "scm_entity_editor.amxx")
+L 07/13/2024 - 12:51:47: [ZP] Extra item already registered (\r[\wM\r]82 hentai)
+L 07/13/2024 - 12:51:47: [AMXX] Run time error 10 (plugin "creator_hentai.amxx") (native "zp_register_extra_item") - debug not enabled!
+L 07/13/2024 - 12:51:47: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 12:51:56: [AMXX] Run time error 4 (plugin "start_menu.amxx") - debug not enabled!
+L 07/13/2024 - 12:51:56: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 12:51:56: [AMXX] Run time error 4 (plugin "Krol_vip_menu.amxx") - debug not enabled!
+L 07/13/2024 - 12:51:56: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 12:51:56: [AMXX] Run time error 4 (plugin "Krol_admin_menu.amxx") - debug not enabled!
+L 07/13/2024 - 12:51:56: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 12:51:56: [AMXX] Run time error 4 (plugin "Krol_supadmin_menu.amxx") - debug not enabled!
+L 07/13/2024 - 12:51:56: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 12:51:56: [AMXX] Run time error 4 (plugin "Krol_boss_menu.amxx") - debug not enabled!
+L 07/13/2024 - 12:51:56: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 12:51:56: [AMXX] Run time error 4 (plugin "Krol_prem_menu.amxx") - debug not enabled!
+L 07/13/2024 - 12:51:56: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 12:51:56: [AMXX] Run time error 4 (plugin "Krol_lord_menu.amxx") - debug not enabled!
+L 07/13/2024 - 12:51:56: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 12:51:56: [AMXX] Run time error 4 (plugin "Krol_elite_menu.amxx") - debug not enabled!
+L 07/13/2024 - 12:51:56: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 12:51:56: [AMXX] Run time error 4 (plugin "Krol_god_menu.amxx") - debug not enabled!
+L 07/13/2024 - 12:51:56: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 12:51:56: [AMXX] Run time error 4 (plugin "Krol_creater_menu.amxx") - debug not enabled!
+L 07/13/2024 - 12:51:56: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 12:53:46: [AMXX] Language "1" not found
+L 07/13/2024 - 12:55:46: [AMXX] Language "1" not found
+L 07/13/2024 - 12:57:07: [AMXX] Run time error 4 (plugin "start_menu.amxx") - debug not enabled!
+L 07/13/2024 - 12:57:07: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 12:57:07: [AMXX] Run time error 4 (plugin "Krol_vip_menu.amxx") - debug not enabled!
+L 07/13/2024 - 12:57:07: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 12:57:07: [AMXX] Run time error 4 (plugin "Krol_admin_menu.amxx") - debug not enabled!
+L 07/13/2024 - 12:57:07: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 12:57:07: [AMXX] Run time error 4 (plugin "Krol_supadmin_menu.amxx") - debug not enabled!
+L 07/13/2024 - 12:57:07: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 12:57:07: [AMXX] Run time error 4 (plugin "Krol_boss_menu.amxx") - debug not enabled!
+L 07/13/2024 - 12:57:07: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 12:57:07: [AMXX] Run time error 4 (plugin "Krol_prem_menu.amxx") - debug not enabled!
+L 07/13/2024 - 12:57:07: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 12:57:07: [AMXX] Run time error 4 (plugin "Krol_lord_menu.amxx") - debug not enabled!
+L 07/13/2024 - 12:57:07: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 12:57:07: [AMXX] Run time error 4 (plugin "Krol_elite_menu.amxx") - debug not enabled!
+L 07/13/2024 - 12:57:07: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 12:57:07: [AMXX] Run time error 4 (plugin "Krol_god_menu.amxx") - debug not enabled!
+L 07/13/2024 - 12:57:07: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 12:57:07: [AMXX] Run time error 4 (plugin "Krol_creater_menu.amxx") - debug not enabled!
+L 07/13/2024 - 12:57:07: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 12:57:46: [AMXX] Language "1" not found
+L 07/13/2024 - 12:59:17: Start of error session.
+L 07/13/2024 - 12:59:17: Info (map "zm_deko2") (file "addons/amxmodx/logs/error_20240713.log")
+L 07/13/2024 - 12:59:17: Function "native_get_weapon_add" was not found
+L 07/13/2024 - 12:59:17: [AMXX] Run time error 19 (plugin "lord_pist.amxx") - debug not enabled!
+L 07/13/2024 - 12:59:17: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 12:59:17: [AMXX] Run time error -1 (plugin "lord_pist.amxx") - debug not enabled!
+L 07/13/2024 - 12:59:17: [AMXX] Plugin file open error (plugin "scm_entity_editor.amxx")
+L 07/13/2024 - 12:59:18: [ZP] Extra item already registered (\r[\wM\r]82 hentai)
+L 07/13/2024 - 12:59:18: [AMXX] Run time error 10 (plugin "creator_hentai.amxx") (native "zp_register_extra_item") - debug not enabled!
+L 07/13/2024 - 12:59:18: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 12:59:26: [AMXX] Run time error 4 (plugin "start_menu.amxx") - debug not enabled!
+L 07/13/2024 - 12:59:26: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 12:59:26: [AMXX] Run time error 4 (plugin "Krol_vip_menu.amxx") - debug not enabled!
+L 07/13/2024 - 12:59:26: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 12:59:26: [AMXX] Run time error 4 (plugin "Krol_admin_menu.amxx") - debug not enabled!
+L 07/13/2024 - 12:59:26: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 12:59:26: [AMXX] Run time error 4 (plugin "Krol_supadmin_menu.amxx") - debug not enabled!
+L 07/13/2024 - 12:59:26: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 12:59:26: [AMXX] Run time error 4 (plugin "Krol_boss_menu.amxx") - debug not enabled!
+L 07/13/2024 - 12:59:26: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 12:59:26: [AMXX] Run time error 4 (plugin "Krol_prem_menu.amxx") - debug not enabled!
+L 07/13/2024 - 12:59:26: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 12:59:26: [AMXX] Run time error 4 (plugin "Krol_lord_menu.amxx") - debug not enabled!
+L 07/13/2024 - 12:59:26: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 12:59:26: [AMXX] Run time error 4 (plugin "Krol_elite_menu.amxx") - debug not enabled!
+L 07/13/2024 - 12:59:26: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 12:59:26: [AMXX] Run time error 4 (plugin "Krol_god_menu.amxx") - debug not enabled!
+L 07/13/2024 - 12:59:26: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 12:59:26: [AMXX] Run time error 4 (plugin "Krol_creater_menu.amxx") - debug not enabled!
+L 07/13/2024 - 12:59:26: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 13:01:27: Start of error session.
+L 07/13/2024 - 13:01:27: Info (map "zm_deko2") (file "addons/amxmodx/logs/error_20240713.log")
+L 07/13/2024 - 13:01:27: Function "native_get_weapon_add" was not found
+L 07/13/2024 - 13:01:27: [AMXX] Run time error 19 (plugin "lord_pist.amxx") - debug not enabled!
+L 07/13/2024 - 13:01:27: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 13:01:27: [AMXX] Run time error -1 (plugin "lord_pist.amxx") - debug not enabled!
+L 07/13/2024 - 13:01:27: [AMXX] Plugin file open error (plugin "scm_entity_editor.amxx")
+L 07/13/2024 - 13:01:27: [ZP] Extra item already registered (\r[\wM\r]82 hentai)
+L 07/13/2024 - 13:01:27: [AMXX] Run time error 10 (plugin "creator_hentai.amxx") (native "zp_register_extra_item") - debug not enabled!
+L 07/13/2024 - 13:01:27: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 13:01:35: [AMXX] Run time error 4 (plugin "start_menu.amxx") - debug not enabled!
+L 07/13/2024 - 13:01:35: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 13:01:35: [AMXX] Run time error 4 (plugin "Krol_vip_menu.amxx") - debug not enabled!
+L 07/13/2024 - 13:01:35: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 13:01:35: [AMXX] Run time error 4 (plugin "Krol_admin_menu.amxx") - debug not enabled!
+L 07/13/2024 - 13:01:35: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 13:01:35: [AMXX] Run time error 4 (plugin "Krol_supadmin_menu.amxx") - debug not enabled!
+L 07/13/2024 - 13:01:35: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 13:01:35: [AMXX] Run time error 4 (plugin "Krol_boss_menu.amxx") - debug not enabled!
+L 07/13/2024 - 13:01:35: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 13:01:35: [AMXX] Run time error 4 (plugin "Krol_prem_menu.amxx") - debug not enabled!
+L 07/13/2024 - 13:01:35: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 13:01:35: [AMXX] Run time error 4 (plugin "Krol_lord_menu.amxx") - debug not enabled!
+L 07/13/2024 - 13:01:35: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 13:01:35: [AMXX] Run time error 4 (plugin "Krol_elite_menu.amxx") - debug not enabled!
+L 07/13/2024 - 13:01:35: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 13:01:35: [AMXX] Run time error 4 (plugin "Krol_god_menu.amxx") - debug not enabled!
+L 07/13/2024 - 13:01:35: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 13:01:35: [AMXX] Run time error 4 (plugin "Krol_creater_menu.amxx") - debug not enabled!
+L 07/13/2024 - 13:01:35: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 13:02:39: Start of error session.
+L 07/13/2024 - 13:02:39: Info (map "zm_deko2") (file "addons/amxmodx/logs/error_20240713.log")
+L 07/13/2024 - 13:02:39: Function "native_get_weapon_add" was not found
+L 07/13/2024 - 13:02:39: [AMXX] Run time error 19 (plugin "lord_pist.amxx") - debug not enabled!
+L 07/13/2024 - 13:02:39: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 13:02:39: [AMXX] Run time error -1 (plugin "lord_pist.amxx") - debug not enabled!
+L 07/13/2024 - 13:02:39: [AMXX] Plugin file open error (plugin "scm_entity_editor.amxx")
+L 07/13/2024 - 13:03:16: Start of error session.
+L 07/13/2024 - 13:03:16: Info (map "zm_deko2") (file "addons/amxmodx/logs/error_20240713.log")
+L 07/13/2024 - 13:03:16: Function "native_get_weapon_add" was not found
+L 07/13/2024 - 13:03:16: [AMXX] Run time error 19 (plugin "lord_pist.amxx") - debug not enabled!
+L 07/13/2024 - 13:03:16: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 13:03:16: [AMXX] Run time error -1 (plugin "lord_pist.amxx") - debug not enabled!
+L 07/13/2024 - 13:03:16: [AMXX] Plugin file open error (plugin "scm_entity_editor.amxx")
+L 07/13/2024 - 13:03:17: [ZP] Extra item already registered (\r[\wM\r]82 hentai)
+L 07/13/2024 - 13:03:17: [AMXX] Run time error 10 (plugin "creator_hentai.amxx") (native "zp_register_extra_item") - debug not enabled!
+L 07/13/2024 - 13:03:17: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 13:03:26: [AMXX] Run time error 4 (plugin "start_menu.amxx") - debug not enabled!
+L 07/13/2024 - 13:03:26: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 13:03:26: [AMXX] Run time error 4 (plugin "Krol_vip_menu.amxx") - debug not enabled!
+L 07/13/2024 - 13:03:26: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 13:03:26: [AMXX] Run time error 4 (plugin "Krol_admin_menu.amxx") - debug not enabled!
+L 07/13/2024 - 13:03:26: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 13:03:26: [AMXX] Run time error 4 (plugin "Krol_supadmin_menu.amxx") - debug not enabled!
+L 07/13/2024 - 13:03:26: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 13:03:26: [AMXX] Run time error 4 (plugin "Krol_boss_menu.amxx") - debug not enabled!
+L 07/13/2024 - 13:03:26: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 13:03:26: [AMXX] Run time error 4 (plugin "Krol_prem_menu.amxx") - debug not enabled!
+L 07/13/2024 - 13:03:26: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 13:03:26: [AMXX] Run time error 4 (plugin "Krol_lord_menu.amxx") - debug not enabled!
+L 07/13/2024 - 13:03:26: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 13:03:26: [AMXX] Run time error 4 (plugin "Krol_elite_menu.amxx") - debug not enabled!
+L 07/13/2024 - 13:03:26: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 13:03:26: [AMXX] Run time error 4 (plugin "Krol_god_menu.amxx") - debug not enabled!
+L 07/13/2024 - 13:03:26: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 13:03:26: [AMXX] Run time error 4 (plugin "Krol_creater_menu.amxx") - debug not enabled!
+L 07/13/2024 - 13:03:26: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 13:04:40: Start of error session.
+L 07/13/2024 - 13:04:40: Info (map "zm_deko2") (file "addons/amxmodx/logs/error_20240713.log")
+L 07/13/2024 - 13:04:40: Function "native_get_weapon_add" was not found
+L 07/13/2024 - 13:04:40: [AMXX] Run time error 19 (plugin "lord_pist.amxx") - debug not enabled!
+L 07/13/2024 - 13:04:40: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 13:04:40: [AMXX] Run time error -1 (plugin "lord_pist.amxx") - debug not enabled!
+L 07/13/2024 - 13:04:40: [AMXX] Plugin file open error (plugin "scm_entity_editor.amxx")
+L 07/13/2024 - 13:04:40: [ZP] Extra item already registered (\r[\wM\r]82 hentai)
+L 07/13/2024 - 13:04:40: [AMXX] Run time error 10 (plugin "creator_hentai.amxx") (native "zp_register_extra_item") - debug not enabled!
+L 07/13/2024 - 13:04:40: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 13:04:48: [AMXX] Run time error 4 (plugin "start_menu.amxx") - debug not enabled!
+L 07/13/2024 - 13:04:48: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 13:04:48: [AMXX] Run time error 4 (plugin "Krol_vip_menu.amxx") - debug not enabled!
+L 07/13/2024 - 13:04:48: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 13:04:48: [AMXX] Run time error 4 (plugin "Krol_admin_menu.amxx") - debug not enabled!
+L 07/13/2024 - 13:04:48: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 13:04:48: [AMXX] Run time error 4 (plugin "Krol_supadmin_menu.amxx") - debug not enabled!
+L 07/13/2024 - 13:04:48: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 13:04:48: [AMXX] Run time error 4 (plugin "Krol_boss_menu.amxx") - debug not enabled!
+L 07/13/2024 - 13:04:48: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 13:04:48: [AMXX] Run time error 4 (plugin "Krol_prem_menu.amxx") - debug not enabled!
+L 07/13/2024 - 13:04:48: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 13:04:48: [AMXX] Run time error 4 (plugin "Krol_lord_menu.amxx") - debug not enabled!
+L 07/13/2024 - 13:04:48: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 13:04:48: [AMXX] Run time error 4 (plugin "Krol_elite_menu.amxx") - debug not enabled!
+L 07/13/2024 - 13:04:48: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 13:04:48: [AMXX] Run time error 4 (plugin "Krol_god_menu.amxx") - debug not enabled!
+L 07/13/2024 - 13:04:48: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 13:04:48: [AMXX] Run time error 4 (plugin "Krol_creater_menu.amxx") - debug not enabled!
+L 07/13/2024 - 13:04:48: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 13:05:41: Start of error session.
+L 07/13/2024 - 13:05:41: Info (map "zm_deko2") (file "addons/amxmodx/logs/error_20240713.log")
+L 07/13/2024 - 13:05:41: Function "native_get_weapon_add" was not found
+L 07/13/2024 - 13:05:41: [AMXX] Run time error 19 (plugin "lord_pist.amxx") - debug not enabled!
+L 07/13/2024 - 13:05:41: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 13:05:41: [AMXX] Run time error -1 (plugin "lord_pist.amxx") - debug not enabled!
+L 07/13/2024 - 13:05:41: [AMXX] Plugin file open error (plugin "scm_entity_editor.amxx")
+L 07/13/2024 - 13:05:41: [ZP] Extra item already registered (\r[\wM\r]82 hentai)
+L 07/13/2024 - 13:05:41: [AMXX] Run time error 10 (plugin "creator_hentai.amxx") (native "zp_register_extra_item") - debug not enabled!
+L 07/13/2024 - 13:05:41: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 13:05:49: [AMXX] Run time error 4 (plugin "start_menu.amxx") - debug not enabled!
+L 07/13/2024 - 13:05:49: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 13:05:49: [AMXX] Run time error 4 (plugin "Krol_vip_menu.amxx") - debug not enabled!
+L 07/13/2024 - 13:05:49: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 13:05:49: [AMXX] Run time error 4 (plugin "Krol_admin_menu.amxx") - debug not enabled!
+L 07/13/2024 - 13:05:49: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 13:05:49: [AMXX] Run time error 4 (plugin "Krol_supadmin_menu.amxx") - debug not enabled!
+L 07/13/2024 - 13:05:49: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 13:05:49: [AMXX] Run time error 4 (plugin "Krol_boss_menu.amxx") - debug not enabled!
+L 07/13/2024 - 13:05:49: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 13:05:49: [AMXX] Run time error 4 (plugin "Krol_prem_menu.amxx") - debug not enabled!
+L 07/13/2024 - 13:05:49: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 13:05:49: [AMXX] Run time error 4 (plugin "Krol_lord_menu.amxx") - debug not enabled!
+L 07/13/2024 - 13:05:49: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 13:05:49: [AMXX] Run time error 4 (plugin "Krol_elite_menu.amxx") - debug not enabled!
+L 07/13/2024 - 13:05:49: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 13:05:49: [AMXX] Run time error 4 (plugin "Krol_god_menu.amxx") - debug not enabled!
+L 07/13/2024 - 13:05:49: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 13:05:49: [AMXX] Run time error 4 (plugin "Krol_creater_menu.amxx") - debug not enabled!
+L 07/13/2024 - 13:05:49: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 13:07:40: [AMXX] Language "1" not found
+L 07/13/2024 - 13:08:24: Start of error session.
+L 07/13/2024 - 13:08:24: Info (map "zm_deko2") (file "addons/amxmodx/logs/error_20240713.log")
+L 07/13/2024 - 13:08:24: Function "native_get_weapon_add" was not found
+L 07/13/2024 - 13:08:24: [AMXX] Run time error 19 (plugin "lord_pist.amxx") - debug not enabled!
+L 07/13/2024 - 13:08:24: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 13:08:24: [AMXX] Run time error -1 (plugin "lord_pist.amxx") - debug not enabled!
+L 07/13/2024 - 13:08:24: [AMXX] Plugin file open error (plugin "scm_entity_editor.amxx")
+L 07/13/2024 - 13:08:24: [ZP] Extra item already registered (\r[\wM\r]82 hentai)
+L 07/13/2024 - 13:08:24: [AMXX] Run time error 10 (plugin "creator_hentai.amxx") (native "zp_register_extra_item") - debug not enabled!
+L 07/13/2024 - 13:08:24: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 13:08:32: [AMXX] Run time error 4 (plugin "start_menu.amxx") - debug not enabled!
+L 07/13/2024 - 13:08:32: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 13:08:32: [AMXX] Run time error 4 (plugin "Krol_vip_menu.amxx") - debug not enabled!
+L 07/13/2024 - 13:08:32: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 13:08:32: [AMXX] Run time error 4 (plugin "Krol_admin_menu.amxx") - debug not enabled!
+L 07/13/2024 - 13:08:32: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 13:08:32: [AMXX] Run time error 4 (plugin "Krol_supadmin_menu.amxx") - debug not enabled!
+L 07/13/2024 - 13:08:32: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 13:08:32: [AMXX] Run time error 4 (plugin "Krol_boss_menu.amxx") - debug not enabled!
+L 07/13/2024 - 13:08:32: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 13:08:32: [AMXX] Run time error 4 (plugin "Krol_prem_menu.amxx") - debug not enabled!
+L 07/13/2024 - 13:08:32: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 13:08:32: [AMXX] Run time error 4 (plugin "Krol_lord_menu.amxx") - debug not enabled!
+L 07/13/2024 - 13:08:32: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 13:08:32: [AMXX] Run time error 4 (plugin "Krol_elite_menu.amxx") - debug not enabled!
+L 07/13/2024 - 13:08:32: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 13:08:32: [AMXX] Run time error 4 (plugin "Krol_god_menu.amxx") - debug not enabled!
+L 07/13/2024 - 13:08:32: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 13:08:32: [AMXX] Run time error 4 (plugin "Krol_creater_menu.amxx") - debug not enabled!
+L 07/13/2024 - 13:08:32: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 13:12:24: [AMXX] Language "1" not found
+L 07/13/2024 - 13:13:43: [AMXX] Run time error 4 (plugin "start_menu.amxx") - debug not enabled!
+L 07/13/2024 - 13:13:43: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 13:13:43: [AMXX] Run time error 4 (plugin "Krol_vip_menu.amxx") - debug not enabled!
+L 07/13/2024 - 13:13:43: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 13:13:43: [AMXX] Run time error 4 (plugin "Krol_admin_menu.amxx") - debug not enabled!
+L 07/13/2024 - 13:13:43: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 13:13:43: [AMXX] Run time error 4 (plugin "Krol_supadmin_menu.amxx") - debug not enabled!
+L 07/13/2024 - 13:13:43: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 13:13:43: [AMXX] Run time error 4 (plugin "Krol_boss_menu.amxx") - debug not enabled!
+L 07/13/2024 - 13:13:43: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 13:13:43: [AMXX] Run time error 4 (plugin "Krol_prem_menu.amxx") - debug not enabled!
+L 07/13/2024 - 13:13:43: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 13:13:43: [AMXX] Run time error 4 (plugin "Krol_lord_menu.amxx") - debug not enabled!
+L 07/13/2024 - 13:13:43: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 13:13:43: [AMXX] Run time error 4 (plugin "Krol_elite_menu.amxx") - debug not enabled!
+L 07/13/2024 - 13:13:43: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 13:13:43: [AMXX] Run time error 4 (plugin "Krol_god_menu.amxx") - debug not enabled!
+L 07/13/2024 - 13:13:43: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 13:13:43: [AMXX] Run time error 4 (plugin "Krol_creater_menu.amxx") - debug not enabled!
+L 07/13/2024 - 13:13:43: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 13:14:25: [AMXX] Language "1" not found
+L 07/13/2024 - 13:16:25: [AMXX] Language "1" not found
+L 07/13/2024 - 13:18:26: [AMXX] Language "1" not found
+L 07/13/2024 - 13:18:54: [AMXX] Run time error 4 (plugin "start_menu.amxx") - debug not enabled!
+L 07/13/2024 - 13:18:54: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 13:18:54: [AMXX] Run time error 4 (plugin "Krol_vip_menu.amxx") - debug not enabled!
+L 07/13/2024 - 13:18:54: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 13:18:54: [AMXX] Run time error 4 (plugin "Krol_admin_menu.amxx") - debug not enabled!
+L 07/13/2024 - 13:18:54: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 13:18:54: [AMXX] Run time error 4 (plugin "Krol_supadmin_menu.amxx") - debug not enabled!
+L 07/13/2024 - 13:18:54: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 13:18:54: [AMXX] Run time error 4 (plugin "Krol_boss_menu.amxx") - debug not enabled!
+L 07/13/2024 - 13:18:54: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 13:18:54: [AMXX] Run time error 4 (plugin "Krol_prem_menu.amxx") - debug not enabled!
+L 07/13/2024 - 13:18:54: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 13:18:54: [AMXX] Run time error 4 (plugin "Krol_lord_menu.amxx") - debug not enabled!
+L 07/13/2024 - 13:18:54: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 13:18:54: [AMXX] Run time error 4 (plugin "Krol_elite_menu.amxx") - debug not enabled!
+L 07/13/2024 - 13:18:54: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 13:18:54: [AMXX] Run time error 4 (plugin "Krol_god_menu.amxx") - debug not enabled!
+L 07/13/2024 - 13:18:54: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 13:18:54: [AMXX] Run time error 4 (plugin "Krol_creater_menu.amxx") - debug not enabled!
+L 07/13/2024 - 13:18:54: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 13:20:27: [AMXX] Language "1" not found
+L 07/13/2024 - 13:22:27: [AMXX] Language "1" not found
+L 07/13/2024 - 13:24:05: [AMXX] Run time error 4 (plugin "start_menu.amxx") - debug not enabled!
+L 07/13/2024 - 13:24:05: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 13:24:05: [AMXX] Run time error 4 (plugin "Krol_vip_menu.amxx") - debug not enabled!
+L 07/13/2024 - 13:24:05: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 13:24:05: [AMXX] Run time error 4 (plugin "Krol_admin_menu.amxx") - debug not enabled!
+L 07/13/2024 - 13:24:05: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 13:24:05: [AMXX] Run time error 4 (plugin "Krol_supadmin_menu.amxx") - debug not enabled!
+L 07/13/2024 - 13:24:05: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 13:24:05: [AMXX] Run time error 4 (plugin "Krol_boss_menu.amxx") - debug not enabled!
+L 07/13/2024 - 13:24:05: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 13:24:05: [AMXX] Run time error 4 (plugin "Krol_prem_menu.amxx") - debug not enabled!
+L 07/13/2024 - 13:24:05: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 13:24:05: [AMXX] Run time error 4 (plugin "Krol_lord_menu.amxx") - debug not enabled!
+L 07/13/2024 - 13:24:05: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 13:24:05: [AMXX] Run time error 4 (plugin "Krol_elite_menu.amxx") - debug not enabled!
+L 07/13/2024 - 13:24:05: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 13:24:05: [AMXX] Run time error 4 (plugin "Krol_god_menu.amxx") - debug not enabled!
+L 07/13/2024 - 13:24:05: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 13:24:05: [AMXX] Run time error 4 (plugin "Krol_creater_menu.amxx") - debug not enabled!
+L 07/13/2024 - 13:24:05: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 13:24:27: [AMXX] Language "1" not found
+L 07/13/2024 - 13:25:22: Start of error session.
+L 07/13/2024 - 13:25:22: Info (map "zm_deko2") (file "addons/amxmodx/logs/error_20240713.log")
+L 07/13/2024 - 13:25:22: Function "native_get_weapon_add" was not found
+L 07/13/2024 - 13:25:22: [AMXX] Run time error 19 (plugin "lord_pist.amxx") - debug not enabled!
+L 07/13/2024 - 13:25:22: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 13:25:22: [AMXX] Run time error -1 (plugin "lord_pist.amxx") - debug not enabled!
+L 07/13/2024 - 13:25:22: [AMXX] Plugin file open error (plugin "scm_entity_editor.amxx")
+L 07/13/2024 - 13:25:22: [ZP] Extra item already registered (\r[\wM\r]82 hentai)
+L 07/13/2024 - 13:25:22: [AMXX] Run time error 10 (plugin "creator_hentai.amxx") (native "zp_register_extra_item") - debug not enabled!
+L 07/13/2024 - 13:25:22: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 13:25:30: [AMXX] Run time error 4 (plugin "start_menu.amxx") - debug not enabled!
+L 07/13/2024 - 13:25:30: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 13:25:30: [AMXX] Run time error 4 (plugin "Krol_vip_menu.amxx") - debug not enabled!
+L 07/13/2024 - 13:25:30: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 13:25:30: [AMXX] Run time error 4 (plugin "Krol_admin_menu.amxx") - debug not enabled!
+L 07/13/2024 - 13:25:30: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 13:25:30: [AMXX] Run time error 4 (plugin "Krol_supadmin_menu.amxx") - debug not enabled!
+L 07/13/2024 - 13:25:30: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 13:25:30: [AMXX] Run time error 4 (plugin "Krol_boss_menu.amxx") - debug not enabled!
+L 07/13/2024 - 13:25:30: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 13:25:30: [AMXX] Run time error 4 (plugin "Krol_prem_menu.amxx") - debug not enabled!
+L 07/13/2024 - 13:25:30: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 13:25:30: [AMXX] Run time error 4 (plugin "Krol_lord_menu.amxx") - debug not enabled!
+L 07/13/2024 - 13:25:30: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 13:25:30: [AMXX] Run time error 4 (plugin "Krol_elite_menu.amxx") - debug not enabled!
+L 07/13/2024 - 13:25:30: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 13:25:30: [AMXX] Run time error 4 (plugin "Krol_god_menu.amxx") - debug not enabled!
+L 07/13/2024 - 13:25:30: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 13:25:30: [AMXX] Run time error 4 (plugin "Krol_creater_menu.amxx") - debug not enabled!
+L 07/13/2024 - 13:25:30: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 13:29:28: Start of error session.
+L 07/13/2024 - 13:29:28: Info (map "zm_deko2") (file "addons/amxmodx/logs/error_20240713.log")
+L 07/13/2024 - 13:29:28: Function "native_get_weapon_add" was not found
+L 07/13/2024 - 13:29:28: [AMXX] Run time error 19 (plugin "lord_pist.amxx") - debug not enabled!
+L 07/13/2024 - 13:29:28: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 13:29:28: [AMXX] Run time error -1 (plugin "lord_pist.amxx") - debug not enabled!
+L 07/13/2024 - 13:29:28: [AMXX] Plugin file open error (plugin "scm_entity_editor.amxx")
+L 07/13/2024 - 13:29:29: [ZP] Extra item already registered (\r[\wM\r]82 hentai)
+L 07/13/2024 - 13:29:29: [AMXX] Run time error 10 (plugin "creator_hentai.amxx") (native "zp_register_extra_item") - debug not enabled!
+L 07/13/2024 - 13:29:29: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 13:29:37: [AMXX] Run time error 4 (plugin "start_menu.amxx") - debug not enabled!
+L 07/13/2024 - 13:29:37: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 13:29:37: [AMXX] Run time error 4 (plugin "Krol_vip_menu.amxx") - debug not enabled!
+L 07/13/2024 - 13:29:37: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 13:29:37: [AMXX] Run time error 4 (plugin "Krol_admin_menu.amxx") - debug not enabled!
+L 07/13/2024 - 13:29:37: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 13:29:37: [AMXX] Run time error 4 (plugin "Krol_supadmin_menu.amxx") - debug not enabled!
+L 07/13/2024 - 13:29:37: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 13:29:37: [AMXX] Run time error 4 (plugin "Krol_boss_menu.amxx") - debug not enabled!
+L 07/13/2024 - 13:29:37: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 13:29:37: [AMXX] Run time error 4 (plugin "Krol_prem_menu.amxx") - debug not enabled!
+L 07/13/2024 - 13:29:37: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 13:29:37: [AMXX] Run time error 4 (plugin "Krol_lord_menu.amxx") - debug not enabled!
+L 07/13/2024 - 13:29:37: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 13:29:37: [AMXX] Run time error 4 (plugin "Krol_elite_menu.amxx") - debug not enabled!
+L 07/13/2024 - 13:29:37: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 13:29:37: [AMXX] Run time error 4 (plugin "Krol_god_menu.amxx") - debug not enabled!
+L 07/13/2024 - 13:29:37: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 13:29:37: [AMXX] Run time error 4 (plugin "Krol_creater_menu.amxx") - debug not enabled!
+L 07/13/2024 - 13:29:37: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 13:30:20: Start of error session.
+L 07/13/2024 - 13:30:20: Info (map "zm_deko2") (file "addons/amxmodx/logs/error_20240713.log")
+L 07/13/2024 - 13:30:20: Function "native_get_weapon_add" was not found
+L 07/13/2024 - 13:30:20: [AMXX] Run time error 19 (plugin "lord_pist.amxx") - debug not enabled!
+L 07/13/2024 - 13:30:20: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 13:30:20: [AMXX] Run time error -1 (plugin "lord_pist.amxx") - debug not enabled!
+L 07/13/2024 - 13:30:20: [AMXX] Plugin file open error (plugin "scm_entity_editor.amxx")
+L 07/13/2024 - 13:30:21: [ZP] Extra item already registered (\r[\wM\r]82 hentai)
+L 07/13/2024 - 13:30:21: [AMXX] Run time error 10 (plugin "creator_hentai.amxx") (native "zp_register_extra_item") - debug not enabled!
+L 07/13/2024 - 13:30:21: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 13:30:28: [AMXX] Run time error 4 (plugin "start_menu.amxx") - debug not enabled!
+L 07/13/2024 - 13:30:28: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 13:30:28: [AMXX] Run time error 4 (plugin "Krol_vip_menu.amxx") - debug not enabled!
+L 07/13/2024 - 13:30:28: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 13:30:28: [AMXX] Run time error 4 (plugin "Krol_admin_menu.amxx") - debug not enabled!
+L 07/13/2024 - 13:30:28: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 13:30:28: [AMXX] Run time error 4 (plugin "Krol_supadmin_menu.amxx") - debug not enabled!
+L 07/13/2024 - 13:30:28: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 13:30:28: [AMXX] Run time error 4 (plugin "Krol_boss_menu.amxx") - debug not enabled!
+L 07/13/2024 - 13:30:28: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 13:30:28: [AMXX] Run time error 4 (plugin "Krol_prem_menu.amxx") - debug not enabled!
+L 07/13/2024 - 13:30:28: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 13:30:28: [AMXX] Run time error 4 (plugin "Krol_lord_menu.amxx") - debug not enabled!
+L 07/13/2024 - 13:30:28: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 13:30:28: [AMXX] Run time error 4 (plugin "Krol_elite_menu.amxx") - debug not enabled!
+L 07/13/2024 - 13:30:28: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 13:30:28: [AMXX] Run time error 4 (plugin "Krol_god_menu.amxx") - debug not enabled!
+L 07/13/2024 - 13:30:28: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 13:30:28: [AMXX] Run time error 4 (plugin "Krol_creater_menu.amxx") - debug not enabled!
+L 07/13/2024 - 13:30:28: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 13:31:03: Start of error session.
+L 07/13/2024 - 13:31:03: Info (map "zm_deko2") (file "addons/amxmodx/logs/error_20240713.log")
+L 07/13/2024 - 13:31:03: Function "native_get_weapon_add" was not found
+L 07/13/2024 - 13:31:03: [AMXX] Run time error 19 (plugin "lord_pist.amxx") - debug not enabled!
+L 07/13/2024 - 13:31:03: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 13:31:03: [AMXX] Run time error -1 (plugin "lord_pist.amxx") - debug not enabled!
+L 07/13/2024 - 13:31:03: [AMXX] Plugin file open error (plugin "scm_entity_editor.amxx")
+L 07/13/2024 - 13:31:04: [ZP] Extra item already registered (\r[\wM\r]82 hentai)
+L 07/13/2024 - 13:31:04: [AMXX] Run time error 10 (plugin "creator_hentai.amxx") (native "zp_register_extra_item") - debug not enabled!
+L 07/13/2024 - 13:31:04: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 13:31:11: [AMXX] Run time error 4 (plugin "start_menu.amxx") - debug not enabled!
+L 07/13/2024 - 13:31:11: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 13:31:11: [AMXX] Run time error 4 (plugin "Krol_vip_menu.amxx") - debug not enabled!
+L 07/13/2024 - 13:31:11: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 13:31:11: [AMXX] Run time error 4 (plugin "Krol_admin_menu.amxx") - debug not enabled!
+L 07/13/2024 - 13:31:11: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 13:31:11: [AMXX] Run time error 4 (plugin "Krol_supadmin_menu.amxx") - debug not enabled!
+L 07/13/2024 - 13:31:11: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 13:31:11: [AMXX] Run time error 4 (plugin "Krol_boss_menu.amxx") - debug not enabled!
+L 07/13/2024 - 13:31:11: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 13:31:11: [AMXX] Run time error 4 (plugin "Krol_prem_menu.amxx") - debug not enabled!
+L 07/13/2024 - 13:31:11: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 13:31:11: [AMXX] Run time error 4 (plugin "Krol_lord_menu.amxx") - debug not enabled!
+L 07/13/2024 - 13:31:11: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 13:31:11: [AMXX] Run time error 4 (plugin "Krol_elite_menu.amxx") - debug not enabled!
+L 07/13/2024 - 13:31:11: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 13:31:11: [AMXX] Run time error 4 (plugin "Krol_god_menu.amxx") - debug not enabled!
+L 07/13/2024 - 13:31:11: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 13:31:11: [AMXX] Run time error 4 (plugin "Krol_creater_menu.amxx") - debug not enabled!
+L 07/13/2024 - 13:31:11: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 13:34:43: Start of error session.
+L 07/13/2024 - 13:34:43: Info (map "zm_deko2") (file "addons/amxmodx/logs/error_20240713.log")
+L 07/13/2024 - 13:34:43: Function "native_get_weapon_add" was not found
+L 07/13/2024 - 13:34:43: [AMXX] Run time error 19 (plugin "lord_pist.amxx") - debug not enabled!
+L 07/13/2024 - 13:34:43: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 13:34:43: [AMXX] Run time error -1 (plugin "lord_pist.amxx") - debug not enabled!
+L 07/13/2024 - 13:34:43: [AMXX] Plugin file open error (plugin "scm_entity_editor.amxx")
+L 07/13/2024 - 13:34:52: Start of error session.
+L 07/13/2024 - 13:34:52: Info (map "zm_deko2") (file "addons/amxmodx/logs/error_20240713.log")
+L 07/13/2024 - 13:34:52: Function "native_get_weapon_add" was not found
+L 07/13/2024 - 13:34:52: [AMXX] Run time error 19 (plugin "lord_pist.amxx") - debug not enabled!
+L 07/13/2024 - 13:34:52: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 13:34:52: [AMXX] Run time error -1 (plugin "lord_pist.amxx") - debug not enabled!
+L 07/13/2024 - 13:34:52: [AMXX] Plugin file open error (plugin "scm_entity_editor.amxx")
+L 07/13/2024 - 13:34:53: [ZP] Extra item already registered (\r[\wM\r]82 hentai)
+L 07/13/2024 - 13:34:53: [AMXX] Run time error 10 (plugin "creator_hentai.amxx") (native "zp_register_extra_item") - debug not enabled!
+L 07/13/2024 - 13:34:53: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 13:35:02: [AMXX] Run time error 4 (plugin "start_menu.amxx") - debug not enabled!
+L 07/13/2024 - 13:35:02: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 13:35:02: [AMXX] Run time error 4 (plugin "Krol_vip_menu.amxx") - debug not enabled!
+L 07/13/2024 - 13:35:02: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 13:35:02: [AMXX] Run time error 4 (plugin "Krol_admin_menu.amxx") - debug not enabled!
+L 07/13/2024 - 13:35:02: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 13:35:02: [AMXX] Run time error 4 (plugin "Krol_supadmin_menu.amxx") - debug not enabled!
+L 07/13/2024 - 13:35:02: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 13:35:02: [AMXX] Run time error 4 (plugin "Krol_boss_menu.amxx") - debug not enabled!
+L 07/13/2024 - 13:35:02: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 13:35:02: [AMXX] Run time error 4 (plugin "Krol_prem_menu.amxx") - debug not enabled!
+L 07/13/2024 - 13:35:02: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 13:35:02: [AMXX] Run time error 4 (plugin "Krol_lord_menu.amxx") - debug not enabled!
+L 07/13/2024 - 13:35:02: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 13:35:02: [AMXX] Run time error 4 (plugin "Krol_elite_menu.amxx") - debug not enabled!
+L 07/13/2024 - 13:35:02: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 13:35:02: [AMXX] Run time error 4 (plugin "Krol_god_menu.amxx") - debug not enabled!
+L 07/13/2024 - 13:35:02: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 13:35:02: [AMXX] Run time error 4 (plugin "Krol_creater_menu.amxx") - debug not enabled!
+L 07/13/2024 - 13:35:02: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 13:36:16: Start of error session.
+L 07/13/2024 - 13:36:16: Info (map "zm_deko2") (file "addons/amxmodx/logs/error_20240713.log")
+L 07/13/2024 - 13:36:16: Function "native_get_weapon_add" was not found
+L 07/13/2024 - 13:36:16: [AMXX] Run time error 19 (plugin "lord_pist.amxx") - debug not enabled!
+L 07/13/2024 - 13:36:16: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 13:36:16: [AMXX] Run time error -1 (plugin "lord_pist.amxx") - debug not enabled!
+L 07/13/2024 - 13:36:16: [AMXX] Plugin file open error (plugin "scm_entity_editor.amxx")
+L 07/13/2024 - 13:36:17: [ZP] Extra item already registered (\r[\wM\r]82 hentai)
+L 07/13/2024 - 13:36:17: [AMXX] Run time error 10 (plugin "creator_hentai.amxx") (native "zp_register_extra_item") - debug not enabled!
+L 07/13/2024 - 13:36:17: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 13:36:26: [AMXX] Run time error 4 (plugin "start_menu.amxx") - debug not enabled!
+L 07/13/2024 - 13:36:26: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 13:36:26: [AMXX] Run time error 4 (plugin "Krol_vip_menu.amxx") - debug not enabled!
+L 07/13/2024 - 13:36:26: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 13:36:26: [AMXX] Run time error 4 (plugin "Krol_admin_menu.amxx") - debug not enabled!
+L 07/13/2024 - 13:36:26: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 13:36:26: [AMXX] Run time error 4 (plugin "Krol_supadmin_menu.amxx") - debug not enabled!
+L 07/13/2024 - 13:36:26: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 13:36:26: [AMXX] Run time error 4 (plugin "Krol_boss_menu.amxx") - debug not enabled!
+L 07/13/2024 - 13:36:26: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 13:36:26: [AMXX] Run time error 4 (plugin "Krol_prem_menu.amxx") - debug not enabled!
+L 07/13/2024 - 13:36:26: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 13:36:26: [AMXX] Run time error 4 (plugin "Krol_lord_menu.amxx") - debug not enabled!
+L 07/13/2024 - 13:36:26: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 13:36:26: [AMXX] Run time error 4 (plugin "Krol_elite_menu.amxx") - debug not enabled!
+L 07/13/2024 - 13:36:26: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 13:36:26: [AMXX] Run time error 4 (plugin "Krol_god_menu.amxx") - debug not enabled!
+L 07/13/2024 - 13:36:26: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 13:36:26: [AMXX] Run time error 4 (plugin "Krol_creater_menu.amxx") - debug not enabled!
+L 07/13/2024 - 13:36:26: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 13:37:50: [AMXX] Run time error 4 (plugin "start_menu.amxx") - debug not enabled!
+L 07/13/2024 - 13:37:50: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 13:37:50: [AMXX] Run time error 4 (plugin "Krol_vip_menu.amxx") - debug not enabled!
+L 07/13/2024 - 13:37:50: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 13:37:50: [AMXX] Run time error 4 (plugin "Krol_admin_menu.amxx") - debug not enabled!
+L 07/13/2024 - 13:37:50: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 13:37:50: [AMXX] Run time error 4 (plugin "Krol_supadmin_menu.amxx") - debug not enabled!
+L 07/13/2024 - 13:37:50: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 13:37:50: [AMXX] Run time error 4 (plugin "Krol_boss_menu.amxx") - debug not enabled!
+L 07/13/2024 - 13:37:50: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 13:37:50: [AMXX] Run time error 4 (plugin "Krol_prem_menu.amxx") - debug not enabled!
+L 07/13/2024 - 13:37:50: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 13:37:50: [AMXX] Run time error 4 (plugin "Krol_lord_menu.amxx") - debug not enabled!
+L 07/13/2024 - 13:37:50: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 13:37:50: [AMXX] Run time error 4 (plugin "Krol_elite_menu.amxx") - debug not enabled!
+L 07/13/2024 - 13:37:50: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 13:37:50: [AMXX] Run time error 4 (plugin "Krol_god_menu.amxx") - debug not enabled!
+L 07/13/2024 - 13:37:50: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 13:37:50: [AMXX] Run time error 4 (plugin "Krol_creater_menu.amxx") - debug not enabled!
+L 07/13/2024 - 13:37:50: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 13:39:15: [AMXX] Language "1" not found
+L 07/13/2024 - 13:40:48: Start of error session.
+L 07/13/2024 - 13:40:48: Info (map "zm_deko2") (file "addons/amxmodx/logs/error_20240713.log")
+L 07/13/2024 - 13:40:48: Function "native_get_weapon_add" was not found
+L 07/13/2024 - 13:40:48: [AMXX] Run time error 19 (plugin "lord_pist.amxx") - debug not enabled!
+L 07/13/2024 - 13:40:48: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 13:40:48: [AMXX] Run time error -1 (plugin "lord_pist.amxx") - debug not enabled!
+L 07/13/2024 - 13:40:48: [AMXX] Plugin file open error (plugin "scm_entity_editor.amxx")
+L 07/13/2024 - 13:40:49: [ZP] Extra item already registered (\r[\wM\r]82 hentai)
+L 07/13/2024 - 13:40:49: [AMXX] Run time error 10 (plugin "creator_hentai.amxx") (native "zp_register_extra_item") - debug not enabled!
+L 07/13/2024 - 13:40:49: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 13:40:57: [AMXX] Run time error 4 (plugin "start_menu.amxx") - debug not enabled!
+L 07/13/2024 - 13:40:57: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 13:40:57: [AMXX] Run time error 4 (plugin "Krol_vip_menu.amxx") - debug not enabled!
+L 07/13/2024 - 13:40:57: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 13:40:57: [AMXX] Run time error 4 (plugin "Krol_admin_menu.amxx") - debug not enabled!
+L 07/13/2024 - 13:40:57: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 13:40:57: [AMXX] Run time error 4 (plugin "Krol_supadmin_menu.amxx") - debug not enabled!
+L 07/13/2024 - 13:40:57: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 13:40:57: [AMXX] Run time error 4 (plugin "Krol_boss_menu.amxx") - debug not enabled!
+L 07/13/2024 - 13:40:57: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 13:40:57: [AMXX] Run time error 4 (plugin "Krol_prem_menu.amxx") - debug not enabled!
+L 07/13/2024 - 13:40:57: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 13:40:57: [AMXX] Run time error 4 (plugin "Krol_lord_menu.amxx") - debug not enabled!
+L 07/13/2024 - 13:40:57: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 13:40:57: [AMXX] Run time error 4 (plugin "Krol_elite_menu.amxx") - debug not enabled!
+L 07/13/2024 - 13:40:57: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 13:40:57: [AMXX] Run time error 4 (plugin "Krol_god_menu.amxx") - debug not enabled!
+L 07/13/2024 - 13:40:57: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 13:40:57: [AMXX] Run time error 4 (plugin "Krol_creater_menu.amxx") - debug not enabled!
+L 07/13/2024 - 13:40:57: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 13:45:47: [AMXX] Language "1" not found
+L 07/13/2024 - 13:46:08: [AMXX] Run time error 4 (plugin "start_menu.amxx") - debug not enabled!
+L 07/13/2024 - 13:46:08: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 13:46:08: [AMXX] Run time error 4 (plugin "Krol_vip_menu.amxx") - debug not enabled!
+L 07/13/2024 - 13:46:08: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 13:46:08: [AMXX] Run time error 4 (plugin "Krol_admin_menu.amxx") - debug not enabled!
+L 07/13/2024 - 13:46:08: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 13:46:08: [AMXX] Run time error 4 (plugin "Krol_supadmin_menu.amxx") - debug not enabled!
+L 07/13/2024 - 13:46:08: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 13:46:08: [AMXX] Run time error 4 (plugin "Krol_boss_menu.amxx") - debug not enabled!
+L 07/13/2024 - 13:46:08: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 13:46:08: [AMXX] Run time error 4 (plugin "Krol_prem_menu.amxx") - debug not enabled!
+L 07/13/2024 - 13:46:08: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 13:46:08: [AMXX] Run time error 4 (plugin "Krol_lord_menu.amxx") - debug not enabled!
+L 07/13/2024 - 13:46:08: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 13:46:08: [AMXX] Run time error 4 (plugin "Krol_elite_menu.amxx") - debug not enabled!
+L 07/13/2024 - 13:46:08: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 13:46:08: [AMXX] Run time error 4 (plugin "Krol_god_menu.amxx") - debug not enabled!
+L 07/13/2024 - 13:46:08: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 13:46:08: [AMXX] Run time error 4 (plugin "Krol_creater_menu.amxx") - debug not enabled!
+L 07/13/2024 - 13:46:08: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 13:47:47: [AMXX] Language "1" not found
+L 07/13/2024 - 13:48:39: Start of error session.
+L 07/13/2024 - 13:48:39: Info (map "zm_deko2") (file "addons/amxmodx/logs/error_20240713.log")
+L 07/13/2024 - 13:48:39: Function "native_get_weapon_add" was not found
+L 07/13/2024 - 13:48:39: [AMXX] Run time error 19 (plugin "lord_pist.amxx") - debug not enabled!
+L 07/13/2024 - 13:48:39: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 13:48:39: [AMXX] Run time error -1 (plugin "lord_pist.amxx") - debug not enabled!
+L 07/13/2024 - 13:48:39: [AMXX] Plugin file open error (plugin "scm_entity_editor.amxx")
+L 07/13/2024 - 13:48:40: [ZP] Extra item already registered (\r[\wM\r]82 hentai)
+L 07/13/2024 - 13:48:40: [AMXX] Run time error 10 (plugin "creator_hentai.amxx") (native "zp_register_extra_item") - debug not enabled!
+L 07/13/2024 - 13:48:40: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 13:48:49: Start of error session.
+L 07/13/2024 - 13:48:49: Info (map "zm_deko2") (file "addons/amxmodx/logs/error_20240713.log")
+L 07/13/2024 - 13:48:49: Function "native_get_weapon_add" was not found
+L 07/13/2024 - 13:48:49: [AMXX] Run time error 19 (plugin "lord_pist.amxx") - debug not enabled!
+L 07/13/2024 - 13:48:49: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 13:48:49: [AMXX] Run time error -1 (plugin "lord_pist.amxx") - debug not enabled!
+L 07/13/2024 - 13:48:49: [AMXX] Plugin file open error (plugin "scm_entity_editor.amxx")
+L 07/13/2024 - 13:48:49: [ZP] Extra item already registered (\r[\wM\r]82 hentai)
+L 07/13/2024 - 13:48:49: [AMXX] Run time error 10 (plugin "creator_hentai.amxx") (native "zp_register_extra_item") - debug not enabled!
+L 07/13/2024 - 13:48:49: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 13:56:13: Start of error session.
+L 07/13/2024 - 13:56:13: Info (map "zm_deko2") (file "addons/amxmodx/logs/error_20240713.log")
+L 07/13/2024 - 13:56:13: Function "native_get_weapon_add" was not found
+L 07/13/2024 - 13:56:13: [AMXX] Run time error 19 (plugin "lord_pist.amxx") - debug not enabled!
+L 07/13/2024 - 13:56:13: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 13:56:13: [AMXX] Run time error -1 (plugin "lord_pist.amxx") - debug not enabled!
+L 07/13/2024 - 13:56:13: [AMXX] Plugin file open error (plugin "scm_entity_editor.amxx")
+L 07/13/2024 - 13:56:14: [ZP] Extra item already registered (\r[\wM\r]82 hentai)
+L 07/13/2024 - 13:56:14: [AMXX] Run time error 10 (plugin "creator_hentai.amxx") (native "zp_register_extra_item") - debug not enabled!
+L 07/13/2024 - 13:56:14: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 13:56:37: Start of error session.
+L 07/13/2024 - 13:56:37: Info (map "zm_deko2") (file "addons/amxmodx/logs/error_20240713.log")
+L 07/13/2024 - 13:56:37: Function "native_get_weapon_add" was not found
+L 07/13/2024 - 13:56:37: [AMXX] Run time error 19 (plugin "lord_pist.amxx") - debug not enabled!
+L 07/13/2024 - 13:56:37: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 13:56:37: [AMXX] Run time error -1 (plugin "lord_pist.amxx") - debug not enabled!
+L 07/13/2024 - 13:56:37: [AMXX] Plugin file open error (plugin "scm_entity_editor.amxx")
+L 07/13/2024 - 13:59:39: Start of error session.
+L 07/13/2024 - 13:59:39: Info (map "zm_deko2") (file "addons/amxmodx/logs/error_20240713.log")
+L 07/13/2024 - 13:59:39: Function "native_get_weapon_add" was not found
+L 07/13/2024 - 13:59:39: [AMXX] Run time error 19 (plugin "lord_pist.amxx") - debug not enabled!
+L 07/13/2024 - 13:59:39: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 13:59:39: [AMXX] Run time error -1 (plugin "lord_pist.amxx") - debug not enabled!
+L 07/13/2024 - 13:59:39: [AMXX] Plugin file open error (plugin "scm_entity_editor.amxx")
+L 07/13/2024 - 13:59:40: [ZP] Extra item already registered (\r[\wM\r]82 hentai)
+L 07/13/2024 - 13:59:40: [AMXX] Run time error 10 (plugin "creator_hentai.amxx") (native "zp_register_extra_item") - debug not enabled!
+L 07/13/2024 - 13:59:40: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 14:00:21: Start of error session.
+L 07/13/2024 - 14:00:21: Info (map "zm_deko2") (file "addons/amxmodx/logs/error_20240713.log")
+L 07/13/2024 - 14:00:21: Function "native_get_weapon_add" was not found
+L 07/13/2024 - 14:00:21: [AMXX] Run time error 19 (plugin "lord_pist.amxx") - debug not enabled!
+L 07/13/2024 - 14:00:21: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 14:00:21: [AMXX] Run time error -1 (plugin "lord_pist.amxx") - debug not enabled!
+L 07/13/2024 - 14:00:21: [AMXX] Plugin file open error (plugin "scm_entity_editor.amxx")
+L 07/13/2024 - 14:00:22: [ZP] Extra item already registered (\r[\wM\r]82 hentai)
+L 07/13/2024 - 14:00:22: [AMXX] Run time error 10 (plugin "creator_hentai.amxx") (native "zp_register_extra_item") - debug not enabled!
+L 07/13/2024 - 14:00:22: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 14:04:15: Start of error session.
+L 07/13/2024 - 14:04:15: Info (map "zm_deko2") (file "addons/amxmodx/logs/error_20240713.log")
+L 07/13/2024 - 14:04:15: Function "native_get_weapon_add" was not found
+L 07/13/2024 - 14:04:15: [AMXX] Run time error 19 (plugin "lord_pist.amxx") - debug not enabled!
+L 07/13/2024 - 14:04:15: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 14:04:15: [AMXX] Run time error -1 (plugin "lord_pist.amxx") - debug not enabled!
+L 07/13/2024 - 14:04:15: [AMXX] Plugin file open error (plugin "scm_entity_editor.amxx")
+L 07/13/2024 - 14:04:16: [ZP] Extra item already registered (\r[\wM\r]82 hentai)
+L 07/13/2024 - 14:04:16: [AMXX] Run time error 10 (plugin "creator_hentai.amxx") (native "zp_register_extra_item") - debug not enabled!
+L 07/13/2024 - 14:04:16: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 14:04:27: Start of error session.
+L 07/13/2024 - 14:04:27: Info (map "zm_deko2") (file "addons/amxmodx/logs/error_20240713.log")
+L 07/13/2024 - 14:04:27: Function "native_get_weapon_add" was not found
+L 07/13/2024 - 14:04:27: [AMXX] Run time error 19 (plugin "lord_pist.amxx") - debug not enabled!
+L 07/13/2024 - 14:04:27: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 14:04:27: [AMXX] Run time error -1 (plugin "lord_pist.amxx") - debug not enabled!
+L 07/13/2024 - 14:04:27: [AMXX] Plugin file open error (plugin "scm_entity_editor.amxx")
+L 07/13/2024 - 14:06:20: Start of error session.
+L 07/13/2024 - 14:06:20: Info (map "zm_deko2") (file "addons/amxmodx/logs/error_20240713.log")
+L 07/13/2024 - 14:06:20: Function "native_get_weapon_add" was not found
+L 07/13/2024 - 14:06:20: [AMXX] Run time error 19 (plugin "lord_pist.amxx") - debug not enabled!
+L 07/13/2024 - 14:06:20: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 14:06:20: [AMXX] Run time error -1 (plugin "lord_pist.amxx") - debug not enabled!
+L 07/13/2024 - 14:06:20: [AMXX] Plugin file open error (plugin "scm_entity_editor.amxx")
+L 07/13/2024 - 14:06:21: [ZP] Extra item already registered (\r[\wM\r]82 hentai)
+L 07/13/2024 - 14:06:21: [AMXX] Run time error 10 (plugin "creator_hentai.amxx") (native "zp_register_extra_item") - debug not enabled!
+L 07/13/2024 - 14:06:21: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 14:06:43: Start of error session.
+L 07/13/2024 - 14:06:43: Info (map "zm_deko2") (file "addons/amxmodx/logs/error_20240713.log")
+L 07/13/2024 - 14:06:43: Function "native_get_weapon_add" was not found
+L 07/13/2024 - 14:06:43: [AMXX] Run time error 19 (plugin "lord_pist.amxx") - debug not enabled!
+L 07/13/2024 - 14:06:43: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 14:06:43: [AMXX] Run time error -1 (plugin "lord_pist.amxx") - debug not enabled!
+L 07/13/2024 - 14:06:43: [AMXX] Plugin file open error (plugin "scm_entity_editor.amxx")
+L 07/13/2024 - 14:06:52: [AMXX] Run time error 4 (plugin "start_menu.amxx") - debug not enabled!
+L 07/13/2024 - 14:06:52: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 14:06:52: [AMXX] Run time error 4 (plugin "Krol_vip_menu.amxx") - debug not enabled!
+L 07/13/2024 - 14:06:52: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 14:06:52: [AMXX] Run time error 4 (plugin "Krol_admin_menu.amxx") - debug not enabled!
+L 07/13/2024 - 14:06:52: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 14:06:52: [AMXX] Run time error 4 (plugin "Krol_supadmin_menu.amxx") - debug not enabled!
+L 07/13/2024 - 14:06:52: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 14:06:52: [AMXX] Run time error 4 (plugin "Krol_boss_menu.amxx") - debug not enabled!
+L 07/13/2024 - 14:06:52: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 14:06:52: [AMXX] Run time error 4 (plugin "Krol_prem_menu.amxx") - debug not enabled!
+L 07/13/2024 - 14:06:52: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 14:06:52: [AMXX] Run time error 4 (plugin "Krol_elite_menu.amxx") - debug not enabled!
+L 07/13/2024 - 14:06:52: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 14:06:52: [AMXX] Run time error 4 (plugin "Krol_god_menu.amxx") - debug not enabled!
+L 07/13/2024 - 14:06:52: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 14:06:52: [AMXX] Run time error 4 (plugin "Krol_creater_menu.amxx") - debug not enabled!
+L 07/13/2024 - 14:06:52: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 14:10:00: Start of error session.
+L 07/13/2024 - 14:10:00: Info (map "zm_deko2") (file "addons/amxmodx/logs/error_20240713.log")
+L 07/13/2024 - 14:10:00: Function "native_get_weapon_add" was not found
+L 07/13/2024 - 14:10:00: [AMXX] Run time error 19 (plugin "lord_pist.amxx") - debug not enabled!
+L 07/13/2024 - 14:10:00: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 14:10:00: [AMXX] Run time error -1 (plugin "lord_pist.amxx") - debug not enabled!
+L 07/13/2024 - 14:10:00: [AMXX] Plugin file open error (plugin "scm_entity_editor.amxx")
+L 07/13/2024 - 14:10:10: [AMXX] Run time error 4 (plugin "start_menu.amxx") - debug not enabled!
+L 07/13/2024 - 14:10:10: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 14:10:10: [AMXX] Run time error 4 (plugin "Krol_vip_menu.amxx") - debug not enabled!
+L 07/13/2024 - 14:10:10: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 14:10:10: [AMXX] Run time error 4 (plugin "Krol_admin_menu.amxx") - debug not enabled!
+L 07/13/2024 - 14:10:10: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 14:10:10: [AMXX] Run time error 4 (plugin "Krol_supadmin_menu.amxx") - debug not enabled!
+L 07/13/2024 - 14:10:10: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 14:10:10: [AMXX] Run time error 4 (plugin "Krol_boss_menu.amxx") - debug not enabled!
+L 07/13/2024 - 14:10:10: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 14:10:10: [AMXX] Run time error 4 (plugin "Krol_prem_menu.amxx") - debug not enabled!
+L 07/13/2024 - 14:10:10: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 14:10:10: [AMXX] Run time error 4 (plugin "Krol_elite_menu.amxx") - debug not enabled!
+L 07/13/2024 - 14:10:10: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 14:10:10: [AMXX] Run time error 4 (plugin "Krol_god_menu.amxx") - debug not enabled!
+L 07/13/2024 - 14:10:10: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 14:10:10: [AMXX] Run time error 4 (plugin "Krol_creater_menu.amxx") - debug not enabled!
+L 07/13/2024 - 14:10:10: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 14:10:40: Start of error session.
+L 07/13/2024 - 14:10:40: Info (map "zm_deko2") (file "addons/amxmodx/logs/error_20240713.log")
+L 07/13/2024 - 14:10:40: Function "native_get_weapon_add" was not found
+L 07/13/2024 - 14:10:40: [AMXX] Run time error 19 (plugin "lord_pist.amxx") - debug not enabled!
+L 07/13/2024 - 14:10:40: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 14:10:40: [AMXX] Run time error -1 (plugin "lord_pist.amxx") - debug not enabled!
+L 07/13/2024 - 14:10:40: [AMXX] Plugin file open error (plugin "scm_entity_editor.amxx")
+L 07/13/2024 - 14:10:41: [ZP] Extra item already registered (\r[\wM\r]82 hentai)
+L 07/13/2024 - 14:10:41: [AMXX] Run time error 10 (plugin "creator_hentai.amxx") (native "zp_register_extra_item") - debug not enabled!
+L 07/13/2024 - 14:10:41: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 14:10:49: [AMXX] Run time error 4 (plugin "start_menu.amxx") - debug not enabled!
+L 07/13/2024 - 14:10:49: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 14:10:49: [AMXX] Run time error 4 (plugin "Krol_vip_menu.amxx") - debug not enabled!
+L 07/13/2024 - 14:10:49: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 14:10:49: [AMXX] Run time error 4 (plugin "Krol_admin_menu.amxx") - debug not enabled!
+L 07/13/2024 - 14:10:49: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 14:10:49: [AMXX] Run time error 4 (plugin "Krol_supadmin_menu.amxx") - debug not enabled!
+L 07/13/2024 - 14:10:49: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 14:10:49: [AMXX] Run time error 4 (plugin "Krol_boss_menu.amxx") - debug not enabled!
+L 07/13/2024 - 14:10:49: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 14:10:49: [AMXX] Run time error 4 (plugin "Krol_prem_menu.amxx") - debug not enabled!
+L 07/13/2024 - 14:10:49: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 14:10:49: [AMXX] Run time error 4 (plugin "Krol_lord_menu.amxx") - debug not enabled!
+L 07/13/2024 - 14:10:49: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 14:10:49: [AMXX] Run time error 4 (plugin "Krol_elite_menu.amxx") - debug not enabled!
+L 07/13/2024 - 14:10:49: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 14:10:49: [AMXX] Run time error 4 (plugin "Krol_god_menu.amxx") - debug not enabled!
+L 07/13/2024 - 14:10:49: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 14:10:49: [AMXX] Run time error 4 (plugin "Krol_creater_menu.amxx") - debug not enabled!
+L 07/13/2024 - 14:10:49: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 14:12:17: Start of error session.
+L 07/13/2024 - 14:12:17: Info (map "zm_deko2") (file "addons/amxmodx/logs/error_20240713.log")
+L 07/13/2024 - 14:12:17: Function "native_get_weapon_add" was not found
+L 07/13/2024 - 14:12:17: [AMXX] Run time error 19 (plugin "lord_pist.amxx") - debug not enabled!
+L 07/13/2024 - 14:12:17: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 14:12:17: [AMXX] Run time error -1 (plugin "lord_pist.amxx") - debug not enabled!
+L 07/13/2024 - 14:12:17: [AMXX] Plugin file open error (plugin "scm_entity_editor.amxx")
+L 07/13/2024 - 14:12:18: [ZP] Extra item already registered (\r[\wM\r]82 hentai)
+L 07/13/2024 - 14:12:18: [AMXX] Run time error 10 (plugin "creator_hentai.amxx") (native "zp_register_extra_item") - debug not enabled!
+L 07/13/2024 - 14:12:18: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 14:12:25: [AMXX] Run time error 4 (plugin "start_menu.amxx") - debug not enabled!
+L 07/13/2024 - 14:12:25: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 14:12:25: [AMXX] Run time error 4 (plugin "Krol_vip_menu.amxx") - debug not enabled!
+L 07/13/2024 - 14:12:25: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 14:12:25: [AMXX] Run time error 4 (plugin "Krol_admin_menu.amxx") - debug not enabled!
+L 07/13/2024 - 14:12:25: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 14:12:25: [AMXX] Run time error 4 (plugin "Krol_supadmin_menu.amxx") - debug not enabled!
+L 07/13/2024 - 14:12:25: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 14:12:25: [AMXX] Run time error 4 (plugin "Krol_boss_menu.amxx") - debug not enabled!
+L 07/13/2024 - 14:12:25: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 14:12:25: [AMXX] Run time error 4 (plugin "Krol_prem_menu.amxx") - debug not enabled!
+L 07/13/2024 - 14:12:25: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 14:12:25: [AMXX] Run time error 4 (plugin "Krol_lord_menu.amxx") - debug not enabled!
+L 07/13/2024 - 14:12:25: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 14:12:25: [AMXX] Run time error 4 (plugin "Krol_elite_menu.amxx") - debug not enabled!
+L 07/13/2024 - 14:12:25: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 14:12:25: [AMXX] Run time error 4 (plugin "Krol_god_menu.amxx") - debug not enabled!
+L 07/13/2024 - 14:12:25: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 14:12:25: [AMXX] Run time error 4 (plugin "Krol_creater_menu.amxx") - debug not enabled!
+L 07/13/2024 - 14:12:25: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 16:07:54: Start of error session.
+L 07/13/2024 - 16:07:54: Info (map "zm_deko2") (file "addons/amxmodx/logs/error_20240713.log")
+L 07/13/2024 - 16:07:54: Function "native_get_weapon_add" was not found
+L 07/13/2024 - 16:07:54: [AMXX] Run time error 19 (plugin "lord_pist.amxx") - debug not enabled!
+L 07/13/2024 - 16:07:54: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 16:07:54: [AMXX] Run time error -1 (plugin "lord_pist.amxx") - debug not enabled!
+L 07/13/2024 - 16:07:54: [AMXX] Plugin file open error (plugin "scm_entity_editor.amxx")
+L 07/13/2024 - 16:07:55: [ZP] Extra item already registered (\r[\wM\r]82 hentai)
+L 07/13/2024 - 16:07:55: [AMXX] Run time error 10 (plugin "creator_hentai.amxx") (native "zp_register_extra_item") - debug not enabled!
+L 07/13/2024 - 16:07:55: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 16:08:03: [AMXX] Run time error 4 (plugin "start_menu.amxx") - debug not enabled!
+L 07/13/2024 - 16:08:03: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 16:08:03: [AMXX] Run time error 4 (plugin "Krol_vip_menu.amxx") - debug not enabled!
+L 07/13/2024 - 16:08:03: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 16:08:03: [AMXX] Run time error 4 (plugin "Krol_admin_menu.amxx") - debug not enabled!
+L 07/13/2024 - 16:08:03: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 16:08:03: [AMXX] Run time error 4 (plugin "Krol_supadmin_menu.amxx") - debug not enabled!
+L 07/13/2024 - 16:08:03: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 16:08:03: [AMXX] Run time error 4 (plugin "Krol_boss_menu.amxx") - debug not enabled!
+L 07/13/2024 - 16:08:03: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 16:08:03: [AMXX] Run time error 4 (plugin "Krol_prem_menu.amxx") - debug not enabled!
+L 07/13/2024 - 16:08:03: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 16:08:03: [AMXX] Run time error 4 (plugin "Krol_lord_menu.amxx") - debug not enabled!
+L 07/13/2024 - 16:08:03: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 16:08:03: [AMXX] Run time error 4 (plugin "Krol_elite_menu.amxx") - debug not enabled!
+L 07/13/2024 - 16:08:03: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 16:08:03: [AMXX] Run time error 4 (plugin "Krol_god_menu.amxx") - debug not enabled!
+L 07/13/2024 - 16:08:03: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 16:08:03: [AMXX] Run time error 4 (plugin "Krol_creater_menu.amxx") - debug not enabled!
+L 07/13/2024 - 16:08:03: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 16:09:54: [AMXX] Language "1" not found
+L 07/13/2024 - 16:11:55: [AMXX] Language "1" not found
+L 07/13/2024 - 16:13:15: [AMXX] Run time error 4 (plugin "start_menu.amxx") - debug not enabled!
+L 07/13/2024 - 16:13:15: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 16:13:15: [AMXX] Run time error 4 (plugin "Krol_vip_menu.amxx") - debug not enabled!
+L 07/13/2024 - 16:13:15: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 16:13:15: [AMXX] Run time error 4 (plugin "Krol_admin_menu.amxx") - debug not enabled!
+L 07/13/2024 - 16:13:15: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 16:13:15: [AMXX] Run time error 4 (plugin "Krol_supadmin_menu.amxx") - debug not enabled!
+L 07/13/2024 - 16:13:15: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 16:13:15: [AMXX] Run time error 4 (plugin "Krol_boss_menu.amxx") - debug not enabled!
+L 07/13/2024 - 16:13:15: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 16:13:15: [AMXX] Run time error 4 (plugin "Krol_prem_menu.amxx") - debug not enabled!
+L 07/13/2024 - 16:13:15: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 16:13:15: [AMXX] Run time error 4 (plugin "Krol_lord_menu.amxx") - debug not enabled!
+L 07/13/2024 - 16:13:15: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 16:13:15: [AMXX] Run time error 4 (plugin "Krol_elite_menu.amxx") - debug not enabled!
+L 07/13/2024 - 16:13:15: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 16:13:15: [AMXX] Run time error 4 (plugin "Krol_god_menu.amxx") - debug not enabled!
+L 07/13/2024 - 16:13:15: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 16:13:15: [AMXX] Run time error 4 (plugin "Krol_creater_menu.amxx") - debug not enabled!
+L 07/13/2024 - 16:13:15: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 16:13:56: [AMXX] Language "1" not found
+L 07/13/2024 - 16:15:56: [AMXX] Language "1" not found
+L 07/13/2024 - 16:17:49: [AMXX] Run time error 4 (plugin "start_menu.amxx") - debug not enabled!
+L 07/13/2024 - 16:17:49: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 16:17:49: [AMXX] Run time error 4 (plugin "Krol_vip_menu.amxx") - debug not enabled!
+L 07/13/2024 - 16:17:49: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 16:17:49: [AMXX] Run time error 4 (plugin "Krol_admin_menu.amxx") - debug not enabled!
+L 07/13/2024 - 16:17:49: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 16:17:49: [AMXX] Run time error 4 (plugin "Krol_supadmin_menu.amxx") - debug not enabled!
+L 07/13/2024 - 16:17:49: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 16:17:49: [AMXX] Run time error 4 (plugin "Krol_boss_menu.amxx") - debug not enabled!
+L 07/13/2024 - 16:17:49: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 16:17:49: [AMXX] Run time error 4 (plugin "Krol_prem_menu.amxx") - debug not enabled!
+L 07/13/2024 - 16:17:49: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 16:17:49: [AMXX] Run time error 4 (plugin "Krol_lord_menu.amxx") - debug not enabled!
+L 07/13/2024 - 16:17:49: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 16:17:49: [AMXX] Run time error 4 (plugin "Krol_elite_menu.amxx") - debug not enabled!
+L 07/13/2024 - 16:17:49: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 16:17:49: [AMXX] Run time error 4 (plugin "Krol_god_menu.amxx") - debug not enabled!
+L 07/13/2024 - 16:17:49: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 16:17:49: [AMXX] Run time error 4 (plugin "Krol_creater_menu.amxx") - debug not enabled!
+L 07/13/2024 - 16:17:49: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 16:18:04: [AMXX] Language "1" not found
+L 07/13/2024 - 16:23:00: [AMXX] Run time error 4 (plugin "start_menu.amxx") - debug not enabled!
+L 07/13/2024 - 16:23:00: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 16:23:00: [AMXX] Run time error 4 (plugin "Krol_vip_menu.amxx") - debug not enabled!
+L 07/13/2024 - 16:23:00: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 16:23:00: [AMXX] Run time error 4 (plugin "Krol_admin_menu.amxx") - debug not enabled!
+L 07/13/2024 - 16:23:00: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 16:23:00: [AMXX] Run time error 4 (plugin "Krol_supadmin_menu.amxx") - debug not enabled!
+L 07/13/2024 - 16:23:00: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 16:23:00: [AMXX] Run time error 4 (plugin "Krol_boss_menu.amxx") - debug not enabled!
+L 07/13/2024 - 16:23:00: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 16:23:00: [AMXX] Run time error 4 (plugin "Krol_prem_menu.amxx") - debug not enabled!
+L 07/13/2024 - 16:23:00: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 16:23:00: [AMXX] Run time error 4 (plugin "Krol_lord_menu.amxx") - debug not enabled!
+L 07/13/2024 - 16:23:00: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 16:23:00: [AMXX] Run time error 4 (plugin "Krol_elite_menu.amxx") - debug not enabled!
+L 07/13/2024 - 16:23:00: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 16:23:00: [AMXX] Run time error 4 (plugin "Krol_god_menu.amxx") - debug not enabled!
+L 07/13/2024 - 16:23:00: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 16:23:00: [AMXX] Run time error 4 (plugin "Krol_creater_menu.amxx") - debug not enabled!
+L 07/13/2024 - 16:23:00: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 16:23:02: [AMXX] Language "1" not found
+L 07/13/2024 - 16:28:11: [AMXX] Run time error 4 (plugin "start_menu.amxx") - debug not enabled!
+L 07/13/2024 - 16:28:11: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 16:28:11: [AMXX] Run time error 4 (plugin "Krol_vip_menu.amxx") - debug not enabled!
+L 07/13/2024 - 16:28:11: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 16:28:11: [AMXX] Run time error 4 (plugin "Krol_admin_menu.amxx") - debug not enabled!
+L 07/13/2024 - 16:28:11: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 16:28:11: [AMXX] Run time error 4 (plugin "Krol_supadmin_menu.amxx") - debug not enabled!
+L 07/13/2024 - 16:28:11: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 16:28:11: [AMXX] Run time error 4 (plugin "Krol_boss_menu.amxx") - debug not enabled!
+L 07/13/2024 - 16:28:11: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 16:28:11: [AMXX] Run time error 4 (plugin "Krol_prem_menu.amxx") - debug not enabled!
+L 07/13/2024 - 16:28:11: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 16:28:11: [AMXX] Run time error 4 (plugin "Krol_lord_menu.amxx") - debug not enabled!
+L 07/13/2024 - 16:28:11: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 16:28:11: [AMXX] Run time error 4 (plugin "Krol_elite_menu.amxx") - debug not enabled!
+L 07/13/2024 - 16:28:11: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 16:28:11: [AMXX] Run time error 4 (plugin "Krol_god_menu.amxx") - debug not enabled!
+L 07/13/2024 - 16:28:11: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 16:28:11: [AMXX] Run time error 4 (plugin "Krol_creater_menu.amxx") - debug not enabled!
+L 07/13/2024 - 16:28:11: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 16:28:13: [AMXX] Language "1" not found
+L 07/13/2024 - 16:33:22: [AMXX] Run time error 4 (plugin "start_menu.amxx") - debug not enabled!
+L 07/13/2024 - 16:33:22: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 16:33:22: [AMXX] Run time error 4 (plugin "Krol_vip_menu.amxx") - debug not enabled!
+L 07/13/2024 - 16:33:22: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 16:33:22: [AMXX] Run time error 4 (plugin "Krol_admin_menu.amxx") - debug not enabled!
+L 07/13/2024 - 16:33:22: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 16:33:22: [AMXX] Run time error 4 (plugin "Krol_supadmin_menu.amxx") - debug not enabled!
+L 07/13/2024 - 16:33:22: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 16:33:22: [AMXX] Run time error 4 (plugin "Krol_boss_menu.amxx") - debug not enabled!
+L 07/13/2024 - 16:33:22: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 16:33:22: [AMXX] Run time error 4 (plugin "Krol_prem_menu.amxx") - debug not enabled!
+L 07/13/2024 - 16:33:22: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 16:33:22: [AMXX] Run time error 4 (plugin "Krol_lord_menu.amxx") - debug not enabled!
+L 07/13/2024 - 16:33:22: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 16:33:22: [AMXX] Run time error 4 (plugin "Krol_elite_menu.amxx") - debug not enabled!
+L 07/13/2024 - 16:33:22: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 16:33:22: [AMXX] Run time error 4 (plugin "Krol_god_menu.amxx") - debug not enabled!
+L 07/13/2024 - 16:33:22: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 16:33:22: [AMXX] Run time error 4 (plugin "Krol_creater_menu.amxx") - debug not enabled!
+L 07/13/2024 - 16:33:22: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/13/2024 - 16:33:24: [AMXX] Language "1" not found

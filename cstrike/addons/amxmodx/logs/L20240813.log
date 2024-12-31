@@ -1,0 +1,205 @@
+L 08/13/2024 - 08:10:08: -------- Mapchange to zm_deko2 --------
+L 08/13/2024 - 08:10:08: [CSX] Could not load csstats file: cstrike\
+L 08/13/2024 - 08:10:08: [AMXX] Plugin "random_donate_gun.amxx" failed to load: Plugin uses an unknown function (name "brick_dbarrel") - check your modules.ini.
+L 08/13/2024 - 08:10:12: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\zp_ammo_ex.txt
+L 08/13/2024 - 08:10:12: New section, unterminated block (file "cstrike\addons\amxmodx\data\lang\nademodes.txt" key "NADE_HTML :" lang "da")
+L 08/13/2024 - 08:10:12: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\grab_plus.txt
+L 08/13/2024 - 08:10:16: [admin.amxx] Login: "test<1><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "192.168.0.16")
+L 08/13/2024 - 08:14:02: -------- Mapchange to zm_deko2 --------
+L 08/13/2024 - 08:14:02: [AMXX] Plugin "random_donate_gun.amxx" failed to load: Plugin uses an unknown function (name "brick_dbarrel") - check your modules.ini.
+L 08/13/2024 - 08:14:05: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\zp_ammo_ex.txt
+L 08/13/2024 - 08:14:05: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\grab_plus.txt
+L 08/13/2024 - 08:14:06: [admin.amxx] Login: "test<1><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "192.168.0.16")
+L 08/13/2024 - 08:37:20: [mapchooser.amxx] Vote: Voting for the nextmap started
+L 08/13/2024 - 08:37:35: [mapchooser.amxx] Vote: Voting for the nextmap finished. The nextmap will be zm_biohazard_base_mx
+L 08/13/2024 - 08:38:03: -------- Mapchange to zm_deko2 --------
+L 08/13/2024 - 08:38:03: [AMXX] Plugin "random_donate_gun.amxx" failed to load: Plugin uses an unknown function (name "brick_dbarrel") - check your modules.ini.
+L 08/13/2024 - 08:38:06: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\zp_ammo_ex.txt
+L 08/13/2024 - 08:38:06: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\grab_plus.txt
+L 08/13/2024 - 08:38:07: [admin.amxx] Login: "test<16><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "192.168.0.16")
+L 08/13/2024 - 08:58:04: -------- Mapchange to zm_deko2 --------
+L 08/13/2024 - 08:58:04: [AMXX] Plugin "random_donate_gun.amxx" failed to load: Plugin uses an unknown function (name "brick_dbarrel") - check your modules.ini.
+L 08/13/2024 - 08:58:07: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\zp_ammo_ex.txt
+L 08/13/2024 - 08:58:07: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\grab_plus.txt
+L 08/13/2024 - 08:58:09: [admin.amxx] Login: "test<16><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "192.168.0.16")
+L 08/13/2024 - 09:03:08: -------- Mapchange to zm_biohazard_base_mx --------
+L 08/13/2024 - 09:03:08: [AMXX] Plugin "random_donate_gun.amxx" failed to load: Plugin uses an unknown function (name "brick_dbarrel") - check your modules.ini.
+L 08/13/2024 - 09:03:11: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\zp_ammo_ex.txt
+L 08/13/2024 - 09:03:11: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\grab_plus.txt
+L 08/13/2024 - 09:03:12: [admin.amxx] Login: "test<16><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "192.168.0.16")
+L 08/13/2024 - 09:17:45: -------- Mapchange to zm_3rooms --------
+L 08/13/2024 - 09:17:45: [CSX] Could not load csstats file: cstrike\
+L 08/13/2024 - 09:17:45: [AMXX] Plugin "random_donate_gun.amxx" failed to load: Plugin uses an unknown function (name "brick_dbarrel") - check your modules.ini.
+L 08/13/2024 - 09:17:47: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\zp_ammo_ex.txt
+L 08/13/2024 - 09:17:47: New section, unterminated block (file "cstrike\addons\amxmodx\data\lang\nademodes.txt" key "NADE_HTML :" lang "da")
+L 08/13/2024 - 09:17:47: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\grab_plus.txt
+L 08/13/2024 - 09:17:54: [admin.amxx] Login: "test<1><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "192.168.0.16")
+L 08/13/2024 - 09:18:49: -------- Mapchange to zm_202 --------
+L 08/13/2024 - 09:18:50: [AMXX] Plugin "random_donate_gun.amxx" failed to load: Plugin uses an unknown function (name "brick_dbarrel") - check your modules.ini.
+L 08/13/2024 - 09:18:51: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\zp_ammo_ex.txt
+L 08/13/2024 - 09:18:51: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\grab_plus.txt
+L 08/13/2024 - 09:18:52: [admin.amxx] Login: "test<1><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "192.168.0.16")
+L 08/13/2024 - 09:20:48: -------- Mapchange to zm_battleground_foda --------
+L 08/13/2024 - 09:20:48: [AMXX] Plugin "random_donate_gun.amxx" failed to load: Plugin uses an unknown function (name "brick_dbarrel") - check your modules.ini.
+L 08/13/2024 - 09:21:24: -------- Mapchange to zm_3rooms --------
+L 08/13/2024 - 09:21:24: [CSX] Could not load csstats file: cstrike\
+L 08/13/2024 - 09:21:24: [AMXX] Plugin "random_donate_gun.amxx" failed to load: Plugin uses an unknown function (name "brick_dbarrel") - check your modules.ini.
+L 08/13/2024 - 09:21:26: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\zp_ammo_ex.txt
+L 08/13/2024 - 09:21:26: New section, unterminated block (file "cstrike\addons\amxmodx\data\lang\nademodes.txt" key "NADE_HTML :" lang "da")
+L 08/13/2024 - 09:21:26: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\grab_plus.txt
+L 08/13/2024 - 09:21:35: -------- Mapchange to zm_battleground_foda --------
+L 08/13/2024 - 09:21:36: [AMXX] Plugin "random_donate_gun.amxx" failed to load: Plugin uses an unknown function (name "brick_dbarrel") - check your modules.ini.
+L 08/13/2024 - 09:21:37: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\zp_ammo_ex.txt
+L 08/13/2024 - 09:21:37: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\grab_plus.txt
+L 08/13/2024 - 09:21:41: [admin.amxx] Login: "test<1><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "192.168.0.16")
+L 08/13/2024 - 09:28:39: -------- Mapchange to zm_caca --------
+L 08/13/2024 - 09:28:39: [AMXX] Plugin "random_donate_gun.amxx" failed to load: Plugin uses an unknown function (name "brick_dbarrel") - check your modules.ini.
+L 08/13/2024 - 09:28:41: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\zp_ammo_ex.txt
+L 08/13/2024 - 09:28:41: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\grab_plus.txt
+L 08/13/2024 - 09:28:42: [admin.amxx] Login: "test<1><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "192.168.0.16")
+L 08/13/2024 - 09:37:07: -------- Mapchange to zm_deko2 --------
+L 08/13/2024 - 09:37:07: [CSX] Could not load csstats file: cstrike\
+L 08/13/2024 - 09:37:07: [AMXX] Plugin "random_donate_gun.amxx" failed to load: Plugin uses an unknown function (name "brick_dbarrel") - check your modules.ini.
+L 08/13/2024 - 09:37:09: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\zp_ammo_ex.txt
+L 08/13/2024 - 09:37:09: New section, unterminated block (file "cstrike\addons\amxmodx\data\lang\nademodes.txt" key "NADE_HTML :" lang "da")
+L 08/13/2024 - 09:37:09: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\grab_plus.txt
+L 08/13/2024 - 09:37:12: [admin.amxx] Login: "test<1><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "192.168.0.16")
+L 08/13/2024 - 09:38:46: [admin.amxx] Login: "test<10><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "192.168.0.16")
+L 08/13/2024 - 09:39:44: -------- Mapchange to zm_desert_2011 --------
+L 08/13/2024 - 09:39:45: [AMXX] Plugin "random_donate_gun.amxx" failed to load: Plugin uses an unknown function (name "brick_dbarrel") - check your modules.ini.
+L 08/13/2024 - 09:39:47: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\zp_ammo_ex.txt
+L 08/13/2024 - 09:39:47: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\grab_plus.txt
+L 08/13/2024 - 09:39:48: [admin.amxx] Login: "test<10><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "192.168.0.16")
+L 08/13/2024 - 09:40:23: -------- Mapchange to zm_dust_world --------
+L 08/13/2024 - 09:40:24: [AMXX] Plugin "random_donate_gun.amxx" failed to load: Plugin uses an unknown function (name "brick_dbarrel") - check your modules.ini.
+L 08/13/2024 - 09:40:42: -------- Mapchange to zm_dust_world --------
+L 08/13/2024 - 09:40:42: [CSX] Could not load csstats file: cstrike\
+L 08/13/2024 - 09:40:42: [AMXX] Plugin "random_donate_gun.amxx" failed to load: Plugin uses an unknown function (name "brick_dbarrel") - check your modules.ini.
+L 08/13/2024 - 09:41:10: -------- Mapchange to zm_dust_world --------
+L 08/13/2024 - 09:41:10: [CSX] Could not load csstats file: cstrike\
+L 08/13/2024 - 09:41:10: [AMXX] Plugin "random_donate_gun.amxx" failed to load: Plugin uses an unknown function (name "brick_dbarrel") - check your modules.ini.
+L 08/13/2024 - 09:41:12: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\zp_ammo_ex.txt
+L 08/13/2024 - 09:41:12: New section, unterminated block (file "cstrike\addons\amxmodx\data\lang\nademodes.txt" key "NADE_HTML :" lang "da")
+L 08/13/2024 - 09:41:12: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\grab_plus.txt
+L 08/13/2024 - 09:41:15: [admin.amxx] Login: "test<1><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "192.168.0.16")
+L 08/13/2024 - 09:42:27: -------- Mapchange to zm_fdust2x2 --------
+L 08/13/2024 - 09:42:28: [AMXX] Plugin "random_donate_gun.amxx" failed to load: Plugin uses an unknown function (name "brick_dbarrel") - check your modules.ini.
+L 08/13/2024 - 09:42:29: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\zp_ammo_ex.txt
+L 08/13/2024 - 09:42:29: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\grab_plus.txt
+L 08/13/2024 - 09:42:30: [admin.amxx] Login: "test<1><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "192.168.0.16")
+L 08/13/2024 - 09:43:23: -------- Mapchange to zm_fun_world_4_final --------
+L 08/13/2024 - 09:43:24: [AMXX] Plugin "random_donate_gun.amxx" failed to load: Plugin uses an unknown function (name "brick_dbarrel") - check your modules.ini.
+L 08/13/2024 - 09:43:25: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\zp_ammo_ex.txt
+L 08/13/2024 - 09:43:25: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\grab_plus.txt
+L 08/13/2024 - 09:43:26: [admin.amxx] Login: "test<1><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "192.168.0.16")
+L 08/13/2024 - 09:44:42: -------- Mapchange to zm_hungary_2017_final --------
+L 08/13/2024 - 09:44:42: [AMXX] Plugin "random_donate_gun.amxx" failed to load: Plugin uses an unknown function (name "brick_dbarrel") - check your modules.ini.
+L 08/13/2024 - 09:44:44: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\zp_ammo_ex.txt
+L 08/13/2024 - 09:44:44: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\grab_plus.txt
+L 08/13/2024 - 09:44:45: [admin.amxx] Login: "test<1><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "192.168.0.16")
+L 08/13/2024 - 09:46:07: -------- Mapchange to zm_ngamers_lights_f --------
+L 08/13/2024 - 09:46:07: [AMXX] Plugin "random_donate_gun.amxx" failed to load: Plugin uses an unknown function (name "brick_dbarrel") - check your modules.ini.
+L 08/13/2024 - 09:46:09: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\zp_ammo_ex.txt
+L 08/13/2024 - 09:46:09: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\grab_plus.txt
+L 08/13/2024 - 09:46:09: [admin.amxx] Login: "test<1><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "192.168.0.16")
+L 08/13/2024 - 09:46:41: -------- Mapchange to zm_pis2 --------
+L 08/13/2024 - 09:46:41: [AMXX] Plugin "random_donate_gun.amxx" failed to load: Plugin uses an unknown function (name "brick_dbarrel") - check your modules.ini.
+L 08/13/2024 - 09:46:43: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\zp_ammo_ex.txt
+L 08/13/2024 - 09:46:43: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\grab_plus.txt
+L 08/13/2024 - 09:46:44: [admin.amxx] Login: "test<1><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "192.168.0.16")
+L 08/13/2024 - 09:46:58: -------- Mapchange to zm_restart_v3 --------
+L 08/13/2024 - 09:46:58: [AMXX] Plugin "random_donate_gun.amxx" failed to load: Plugin uses an unknown function (name "brick_dbarrel") - check your modules.ini.
+L 08/13/2024 - 09:47:00: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\zp_ammo_ex.txt
+L 08/13/2024 - 09:47:00: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\grab_plus.txt
+L 08/13/2024 - 09:47:01: [admin.amxx] Login: "test<1><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "192.168.0.16")
+L 08/13/2024 - 09:47:44: -------- Mapchange to zm_texas_night --------
+L 08/13/2024 - 09:47:44: [AMXX] Plugin "random_donate_gun.amxx" failed to load: Plugin uses an unknown function (name "brick_dbarrel") - check your modules.ini.
+L 08/13/2024 - 09:47:46: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\zp_ammo_ex.txt
+L 08/13/2024 - 09:47:46: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\grab_plus.txt
+L 08/13/2024 - 09:47:46: [admin.amxx] Login: "test<1><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "192.168.0.16")
+L 08/13/2024 - 09:48:01: -------- Mapchange to zm_vendetta --------
+L 08/13/2024 - 09:48:01: [AMXX] Plugin "random_donate_gun.amxx" failed to load: Plugin uses an unknown function (name "brick_dbarrel") - check your modules.ini.
+L 08/13/2024 - 09:49:01: -------- Mapchange to zm_virus_t --------
+L 08/13/2024 - 09:49:01: [CSX] Could not load csstats file: cstrike\
+L 08/13/2024 - 09:49:01: [AMXX] Plugin "random_donate_gun.amxx" failed to load: Plugin uses an unknown function (name "brick_dbarrel") - check your modules.ini.
+L 08/13/2024 - 09:49:03: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\zp_ammo_ex.txt
+L 08/13/2024 - 09:49:03: New section, unterminated block (file "cstrike\addons\amxmodx\data\lang\nademodes.txt" key "NADE_HTML :" lang "da")
+L 08/13/2024 - 09:49:03: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\grab_plus.txt
+L 08/13/2024 - 09:49:05: [admin.amxx] Login: "test<1><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "192.168.0.16")
+L 08/13/2024 - 09:49:47: -------- Mapchange to zm_world_rmx_fixed --------
+L 08/13/2024 - 09:49:47: [AMXX] Plugin "random_donate_gun.amxx" failed to load: Plugin uses an unknown function (name "brick_dbarrel") - check your modules.ini.
+L 08/13/2024 - 09:49:48: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\zp_ammo_ex.txt
+L 08/13/2024 - 09:49:48: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\grab_plus.txt
+L 08/13/2024 - 09:49:50: [admin.amxx] Login: "test<1><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "192.168.0.16")
+L 08/13/2024 - 09:50:13: -------- Mapchange to zm_zero_blood --------
+L 08/13/2024 - 09:50:14: [AMXX] Plugin "random_donate_gun.amxx" failed to load: Plugin uses an unknown function (name "brick_dbarrel") - check your modules.ini.
+L 08/13/2024 - 09:50:15: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\zp_ammo_ex.txt
+L 08/13/2024 - 09:50:15: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\grab_plus.txt
+L 08/13/2024 - 09:50:15: [admin.amxx] Login: "test<1><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "192.168.0.16")
+L 08/13/2024 - 09:50:30: -------- Mapchange to zm_zombust --------
+L 08/13/2024 - 09:50:30: [AMXX] Plugin "random_donate_gun.amxx" failed to load: Plugin uses an unknown function (name "brick_dbarrel") - check your modules.ini.
+L 08/13/2024 - 09:50:31: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\zp_ammo_ex.txt
+L 08/13/2024 - 09:50:31: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\grab_plus.txt
+L 08/13/2024 - 09:50:32: [admin.amxx] Login: "test<1><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "192.168.0.16")
+L 08/13/2024 - 09:52:54: -------- Mapchange to zm_ngamers_lights_f --------
+L 08/13/2024 - 09:52:54: [CSX] Could not load csstats file: cstrike\
+L 08/13/2024 - 09:52:55: [AMXX] Plugin "random_donate_gun.amxx" failed to load: Plugin uses an unknown function (name "brick_dbarrel") - check your modules.ini.
+L 08/13/2024 - 09:52:56: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\zp_ammo_ex.txt
+L 08/13/2024 - 09:52:56: New section, unterminated block (file "cstrike\addons\amxmodx\data\lang\nademodes.txt" key "NADE_HTML :" lang "da")
+L 08/13/2024 - 09:52:56: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\grab_plus.txt
+L 08/13/2024 - 10:15:57: [mapchooser.amxx] Vote: Voting for the nextmap started
+L 08/13/2024 - 10:16:12: [mapchooser.amxx] Vote: Voting for the nextmap finished. The nextmap will be zm_virus_t
+L 08/13/2024 - 10:18:59: -------- Mapchange to zm_virus_t --------
+L 08/13/2024 - 10:19:00: [AMXX] Plugin "random_donate_gun.amxx" failed to load: Plugin uses an unknown function (name "brick_dbarrel") - check your modules.ini.
+L 08/13/2024 - 10:19:03: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\zp_ammo_ex.txt
+L 08/13/2024 - 10:19:03: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\grab_plus.txt
+L 08/13/2024 - 11:20:47: -------- Mapchange to zm_virus_t --------
+L 08/13/2024 - 11:20:48: [AMXX] Plugin "random_donate_gun.amxx" failed to load: Plugin uses an unknown function (name "brick_dbarrel") - check your modules.ini.
+L 08/13/2024 - 11:20:50: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\zp_ammo_ex.txt
+L 08/13/2024 - 11:20:51: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\grab_plus.txt
+L 08/13/2024 - 11:21:00: [admin.amxx] Login: "test<1><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "192.168.0.16")
+L 08/13/2024 - 11:43:52: [mapchooser.amxx] Vote: Voting for the nextmap started
+L 08/13/2024 - 11:44:07: [mapchooser.amxx] Vote: Voting for the nextmap finished. The nextmap will be zm_3rooms
+L 08/13/2024 - 11:46:44: -------- Mapchange to zm_3rooms --------
+L 08/13/2024 - 11:46:44: [AMXX] Plugin "random_donate_gun.amxx" failed to load: Plugin uses an unknown function (name "brick_dbarrel") - check your modules.ini.
+L 08/13/2024 - 11:46:47: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\zp_ammo_ex.txt
+L 08/13/2024 - 11:46:48: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\grab_plus.txt
+L 08/13/2024 - 12:09:47: [mapchooser.amxx] Vote: Voting for the nextmap started
+L 08/13/2024 - 12:10:02: [mapchooser.amxx] Vote: Voting for the nextmap finished. The nextmap will be zm_virus_t
+L 08/13/2024 - 12:12:49: -------- Mapchange to zm_virus_t --------
+L 08/13/2024 - 12:12:50: [AMXX] Plugin "random_donate_gun.amxx" failed to load: Plugin uses an unknown function (name "brick_dbarrel") - check your modules.ini.
+L 08/13/2024 - 12:12:52: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\zp_ammo_ex.txt
+L 08/13/2024 - 12:12:53: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\grab_plus.txt
+L 08/13/2024 - 12:35:53: [mapchooser.amxx] Vote: Voting for the nextmap started
+L 08/13/2024 - 12:36:08: [mapchooser.amxx] Vote: Voting for the nextmap finished. The nextmap will be zm_3rooms
+L 08/13/2024 - 12:38:55: -------- Mapchange to zm_3rooms --------
+L 08/13/2024 - 12:38:55: [AMXX] Plugin "random_donate_gun.amxx" failed to load: Plugin uses an unknown function (name "brick_dbarrel") - check your modules.ini.
+L 08/13/2024 - 12:38:57: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\zp_ammo_ex.txt
+L 08/13/2024 - 12:38:58: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\grab_plus.txt
+L 08/13/2024 - 12:54:27: -------- Mapchange to zm_ngamers_lights_f --------
+L 08/13/2024 - 12:54:28: [CSX] Could not load csstats file: cstrike\
+L 08/13/2024 - 12:54:28: [AMXX] Plugin "random_donate_gun.amxx" failed to load: Plugin uses an unknown function (name "brick_dbarrel") - check your modules.ini.
+L 08/13/2024 - 12:54:30: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\zp_ammo_ex.txt
+L 08/13/2024 - 12:54:31: New section, unterminated block (file "cstrike\addons\amxmodx\data\lang\nademodes.txt" key "NADE_HTML :" lang "da")
+L 08/13/2024 - 12:54:31: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\grab_plus.txt
+L 08/13/2024 - 12:54:49: -------- Mapchange to zm_zombust --------
+L 08/13/2024 - 12:54:49: [CSX] Could not load csstats file: cstrike\
+L 08/13/2024 - 12:54:49: [AMXX] Plugin "random_donate_gun.amxx" failed to load: Plugin uses an unknown function (name "brick_dbarrel") - check your modules.ini.
+L 08/13/2024 - 12:54:51: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\zp_ammo_ex.txt
+L 08/13/2024 - 12:54:52: New section, unterminated block (file "cstrike\addons\amxmodx\data\lang\nademodes.txt" key "NADE_HTML :" lang "da")
+L 08/13/2024 - 12:54:52: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\grab_plus.txt
+L 08/13/2024 - 12:54:53: [admin.amxx] Login: "test<1><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "192.168.0.16")
+L 08/13/2024 - 12:54:56: [admin.amxx] Login: "test<2><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "192.168.0.16")
+L 08/13/2024 - 13:17:53: [mapchooser.amxx] Vote: Voting for the nextmap started
+L 08/13/2024 - 13:18:08: [mapchooser.amxx] Vote: Voting for the nextmap finished. The nextmap will be zm_3rooms
+L 08/13/2024 - 13:20:55: -------- Mapchange to zm_3rooms --------
+L 08/13/2024 - 13:20:55: [AMXX] Plugin "random_donate_gun.amxx" failed to load: Plugin uses an unknown function (name "brick_dbarrel") - check your modules.ini.
+L 08/13/2024 - 13:20:57: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\zp_ammo_ex.txt
+L 08/13/2024 - 13:20:58: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\grab_plus.txt
+L 08/13/2024 - 13:43:58: [mapchooser.amxx] Vote: Voting for the nextmap started
+L 08/13/2024 - 13:44:13: [mapchooser.amxx] Vote: Voting for the nextmap finished. The nextmap will be zm_virus_t
+L 08/13/2024 - 13:47:00: -------- Mapchange to zm_virus_t --------
+L 08/13/2024 - 13:47:00: [AMXX] Plugin "random_donate_gun.amxx" failed to load: Plugin uses an unknown function (name "brick_dbarrel") - check your modules.ini.
+L 08/13/2024 - 13:47:03: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\zp_ammo_ex.txt
+L 08/13/2024 - 13:47:04: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\grab_plus.txt
+L 08/13/2024 - 14:10:03: [mapchooser.amxx] Vote: Voting for the nextmap started

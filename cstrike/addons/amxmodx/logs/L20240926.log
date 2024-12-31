@@ -1,0 +1,224 @@
+L 09/26/2024 - 09:38:56: -------- Mapchange to zm_fdust2x2 --------
+L 09/26/2024 - 09:38:56: [CSX] Could not load csstats file: cstrike\
+L 09/26/2024 - 09:38:56: [AMXX] Plugin "random_donate_gun.amxx" failed to load: Plugin uses an unknown function (name "zp_give_user_y22s3janus7") - check your modules.ini.
+L 09/26/2024 - 09:38:56: [AMXX] Plugin "Krol_supadmin_menu.amxx" failed to load: Plugin uses an unknown function (name "native_spas") - check your modules.ini.
+L 09/26/2024 - 09:38:56: [AMXX] Plugin "Krol_god_menu.amxx" failed to load: Plugin uses an unknown function (name "zp_give_user_y22s3janus7") - check your modules.ini.
+L 09/26/2024 - 09:43:19: [admin.amxx] Login: "test<8><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "172.20.10.2")
+L 09/26/2024 - 09:53:33: -------- Mapchange to zm_fdust2x2 --------
+L 09/26/2024 - 09:53:34: [CSX] Could not load csstats file: cstrike\
+L 09/26/2024 - 09:53:34: [AMXX] Plugin "random_donate_gun.amxx" failed to load: Plugin uses an unknown function (name "zp_give_user_y22s3janus7") - check your modules.ini.
+L 09/26/2024 - 09:53:34: [AMXX] Plugin "Krol_supadmin_menu.amxx" failed to load: Plugin uses an unknown function (name "native_spas") - check your modules.ini.
+L 09/26/2024 - 09:53:34: [AMXX] Plugin "Krol_god_menu.amxx" failed to load: Plugin uses an unknown function (name "zp_give_user_y22s3janus7") - check your modules.ini.
+L 09/26/2024 - 09:53:49: [admin.amxx] Login: "test<8><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "172.20.10.2")
+L 09/26/2024 - 10:04:26: [admin.amxx] Login: "test<11><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "172.20.10.2")
+L 09/26/2024 - 10:10:47: [pluginmenu.amxx] Cmd: "test<11><STEAM_1:0:1404421313><>" set cvar (name "sv_hookspeed") (value "1000")
+L 09/26/2024 - 10:10:53: [pluginmenu.amxx] Cmd: "test<11><STEAM_1:0:1404421313><>" set cvar (name "sv_hookspeed") (value "3000")
+L 09/26/2024 - 10:17:19: [mapchooser.amxx] Vote: Voting for the nextmap started
+L 09/26/2024 - 10:17:35: [mapchooser.amxx] Vote: Voting for the nextmap finished. The nextmap will be zm_dust_world
+L 09/26/2024 - 10:20:38: -------- Mapchange to zm_fdust2x2 --------
+L 09/26/2024 - 10:20:38: [AMXX] Plugin "random_donate_gun.amxx" failed to load: Plugin uses an unknown function (name "zp_give_user_y22s3janus7") - check your modules.ini.
+L 09/26/2024 - 10:20:38: [AMXX] Plugin "Krol_supadmin_menu.amxx" failed to load: Plugin uses an unknown function (name "native_spas") - check your modules.ini.
+L 09/26/2024 - 10:20:38: [AMXX] Plugin "Krol_god_menu.amxx" failed to load: Plugin uses an unknown function (name "zp_give_user_y22s3janus7") - check your modules.ini.
+L 09/26/2024 - 10:20:40: [admin.amxx] Login: "test<11><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "172.20.10.2")
+L 09/26/2024 - 10:21:12: [pluginmenu.amxx] Cmd: "test<11><STEAM_1:0:1404421313><>" set cvar (name "kn_speed1") (value "500.0")
+L 09/26/2024 - 10:21:42: -------- Mapchange to zm_fdust2x2 --------
+L 09/26/2024 - 10:21:42: [AMXX] Plugin "random_donate_gun.amxx" failed to load: Plugin uses an unknown function (name "zp_give_user_y22s3janus7") - check your modules.ini.
+L 09/26/2024 - 10:21:42: [AMXX] Plugin "Krol_supadmin_menu.amxx" failed to load: Plugin uses an unknown function (name "native_spas") - check your modules.ini.
+L 09/26/2024 - 10:21:42: [AMXX] Plugin "Krol_god_menu.amxx" failed to load: Plugin uses an unknown function (name "zp_give_user_y22s3janus7") - check your modules.ini.
+L 09/26/2024 - 10:21:44: [admin.amxx] Login: "test<11><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "172.20.10.2")
+L 09/26/2024 - 10:22:21: [pluginmenu.amxx] Cmd: "test<11><STEAM_1:0:1404421313><>" set cvar (name "kn_speed1") (value "300.0")
+L 09/26/2024 - 10:23:29: -------- Mapchange to zm_fdust2x2 --------
+L 09/26/2024 - 10:23:29: [AMXX] Plugin "random_donate_gun.amxx" failed to load: Plugin uses an unknown function (name "zp_give_user_y22s3janus7") - check your modules.ini.
+L 09/26/2024 - 10:23:29: [AMXX] Plugin "Krol_supadmin_menu.amxx" failed to load: Plugin uses an unknown function (name "native_spas") - check your modules.ini.
+L 09/26/2024 - 10:23:29: [AMXX] Plugin "Krol_god_menu.amxx" failed to load: Plugin uses an unknown function (name "zp_give_user_y22s3janus7") - check your modules.ini.
+L 09/26/2024 - 10:23:31: [admin.amxx] Login: "test<11><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "172.20.10.2")
+L 09/26/2024 - 10:24:09: [pluginmenu.amxx] Cmd: "test<11><STEAM_1:0:1404421313><>" set cvar (name "kn_speed1") (value "600.0")
+L 09/26/2024 - 10:24:31: [pluginmenu.amxx] Cmd: "test<11><STEAM_1:0:1404421313><>" set cvar (name "kn_speed1") (value "1500.0")
+L 09/26/2024 - 10:24:59: -------- Mapchange to zm_fdust2x2 --------
+L 09/26/2024 - 10:24:59: [AMXX] Plugin "random_donate_gun.amxx" failed to load: Plugin uses an unknown function (name "zp_give_user_y22s3janus7") - check your modules.ini.
+L 09/26/2024 - 10:24:59: [AMXX] Plugin "Krol_supadmin_menu.amxx" failed to load: Plugin uses an unknown function (name "native_spas") - check your modules.ini.
+L 09/26/2024 - 10:24:59: [AMXX] Plugin "Krol_god_menu.amxx" failed to load: Plugin uses an unknown function (name "zp_give_user_y22s3janus7") - check your modules.ini.
+L 09/26/2024 - 10:25:01: [admin.amxx] Login: "test<11><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "172.20.10.2")
+L 09/26/2024 - 10:27:04: -------- Mapchange to zm_fdust2x2 --------
+L 09/26/2024 - 10:27:05: [AMXX] Plugin "random_donate_gun.amxx" failed to load: Plugin uses an unknown function (name "zp_give_user_y22s3janus7") - check your modules.ini.
+L 09/26/2024 - 10:27:05: [AMXX] Plugin "Krol_supadmin_menu.amxx" failed to load: Plugin uses an unknown function (name "native_spas") - check your modules.ini.
+L 09/26/2024 - 10:27:05: [AMXX] Plugin "Krol_god_menu.amxx" failed to load: Plugin uses an unknown function (name "zp_give_user_y22s3janus7") - check your modules.ini.
+L 09/26/2024 - 10:27:06: [admin.amxx] Login: "test<11><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "172.20.10.2")
+L 09/26/2024 - 10:27:53: [pluginmenu.amxx] Cmd: "test<11><STEAM_1:0:1404421313><>" set cvar (name "kn_speed1") (value "1.0")
+L 09/26/2024 - 10:28:04: [pluginmenu.amxx] Cmd: "test<11><STEAM_1:0:1404421313><>" set cvar (name "kn_speed1") (value "100.0")
+L 09/26/2024 - 10:28:28: [pluginmenu.amxx] Cmd: "test<11><STEAM_1:0:1404421313><>" set cvar (name "kn_speed1") (value "1000.0")
+L 09/26/2024 - 10:29:10: [pluginmenu.amxx] Cmd: "test<11><STEAM_1:0:1404421313><>" set cvar (name "kn_speed1") (value "100")
+L 09/26/2024 - 10:31:02: -------- Mapchange to zm_fdust2x2 --------
+L 09/26/2024 - 10:31:02: [AMXX] Plugin "random_donate_gun.amxx" failed to load: Plugin uses an unknown function (name "zp_give_user_y22s3janus7") - check your modules.ini.
+L 09/26/2024 - 10:31:02: [AMXX] Plugin "Krol_supadmin_menu.amxx" failed to load: Plugin uses an unknown function (name "native_spas") - check your modules.ini.
+L 09/26/2024 - 10:31:02: [AMXX] Plugin "Krol_god_menu.amxx" failed to load: Plugin uses an unknown function (name "zp_give_user_y22s3janus7") - check your modules.ini.
+L 09/26/2024 - 10:31:04: [admin.amxx] Login: "test<11><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "172.20.10.2")
+L 09/26/2024 - 10:32:22: -------- Mapchange to zm_fdust2x2 --------
+L 09/26/2024 - 10:32:23: [AMXX] Plugin "random_donate_gun.amxx" failed to load: Plugin uses an unknown function (name "zp_give_user_y22s3janus7") - check your modules.ini.
+L 09/26/2024 - 10:32:23: [AMXX] Plugin "Krol_supadmin_menu.amxx" failed to load: Plugin uses an unknown function (name "native_spas") - check your modules.ini.
+L 09/26/2024 - 10:32:23: [AMXX] Plugin "Krol_god_menu.amxx" failed to load: Plugin uses an unknown function (name "zp_give_user_y22s3janus7") - check your modules.ini.
+L 09/26/2024 - 10:32:24: [admin.amxx] Login: "test<11><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "172.20.10.2")
+L 09/26/2024 - 10:33:29: [pluginmenu.amxx] Cmd: "test<11><STEAM_1:0:1404421313><>" set cvar (name "kn_speed1") (value "100000")
+L 09/26/2024 - 10:33:36: [pluginmenu.amxx] Cmd: "test<11><STEAM_1:0:1404421313><>" set cvar (name "kn_speed1") (value "100000.0")
+L 09/26/2024 - 10:34:15: [pluginmenu.amxx] Cmd: "test<11><STEAM_1:0:1404421313><>" set cvar (name "kn_speed1") (value "9998.0")
+L 09/26/2024 - 10:37:49: -------- Mapchange to zm_fdust2x2 --------
+L 09/26/2024 - 10:37:49: [AMXX] Plugin "random_donate_gun.amxx" failed to load: Plugin uses an unknown function (name "zp_give_user_y22s3janus7") - check your modules.ini.
+L 09/26/2024 - 10:37:49: [AMXX] Plugin "Krol_supadmin_menu.amxx" failed to load: Plugin uses an unknown function (name "native_spas") - check your modules.ini.
+L 09/26/2024 - 10:37:49: [AMXX] Plugin "Krol_god_menu.amxx" failed to load: Plugin uses an unknown function (name "zp_give_user_y22s3janus7") - check your modules.ini.
+L 09/26/2024 - 10:37:51: [admin.amxx] Login: "test<11><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "172.20.10.2")
+L 09/26/2024 - 10:39:24: -------- Mapchange to zm_fdust2x2 --------
+L 09/26/2024 - 10:39:24: [AMXX] Plugin "random_donate_gun.amxx" failed to load: Plugin uses an unknown function (name "zp_give_user_y22s3janus7") - check your modules.ini.
+L 09/26/2024 - 10:39:24: [AMXX] Plugin "Krol_supadmin_menu.amxx" failed to load: Plugin uses an unknown function (name "native_spas") - check your modules.ini.
+L 09/26/2024 - 10:39:24: [AMXX] Plugin "Krol_god_menu.amxx" failed to load: Plugin uses an unknown function (name "zp_give_user_y22s3janus7") - check your modules.ini.
+L 09/26/2024 - 10:39:26: [admin.amxx] Login: "test<11><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "172.20.10.2")
+L 09/26/2024 - 10:39:54: [pluginmenu.amxx] Cmd: "test<11><STEAM_1:0:1404421313><>" set cvar (name "kn_grav1") (value "-100")
+L 09/26/2024 - 10:39:59: [pluginmenu.amxx] Cmd: "test<11><STEAM_1:0:1404421313><>" set cvar (name "kn_grav1") (value "500")
+L 09/26/2024 - 10:44:19: -------- Mapchange to zm_fdust2x2 --------
+L 09/26/2024 - 10:44:19: [AMXX] Plugin "random_donate_gun.amxx" failed to load: Plugin uses an unknown function (name "zp_give_user_y22s3janus7") - check your modules.ini.
+L 09/26/2024 - 10:44:19: [AMXX] Plugin "Krol_supadmin_menu.amxx" failed to load: Plugin uses an unknown function (name "native_spas") - check your modules.ini.
+L 09/26/2024 - 10:44:19: [AMXX] Plugin "Krol_god_menu.amxx" failed to load: Plugin uses an unknown function (name "zp_give_user_y22s3janus7") - check your modules.ini.
+L 09/26/2024 - 10:44:22: [admin.amxx] Login: "test<11><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "172.20.10.2")
+L 09/26/2024 - 10:44:45: [pluginmenu.amxx] Cmd: "test<11><STEAM_1:0:1404421313><>" set cvar (name "kn_speed1") (value "100.0")
+L 09/26/2024 - 10:44:51: [pluginmenu.amxx] Cmd: "test<11><STEAM_1:0:1404421313><>" set cvar (name "kn_speed1") (value "500.0")
+L 09/26/2024 - 10:44:57: [pluginmenu.amxx] Cmd: "test<11><STEAM_1:0:1404421313><>" set cvar (name "kn_speed1") (value "1000.0")
+L 09/26/2024 - 10:45:02: [pluginmenu.amxx] Cmd: "test<11><STEAM_1:0:1404421313><>" set cvar (name "kn_speed1") (value "1000")
+L 09/26/2024 - 10:45:20: [pluginmenu.amxx] Cmd: "test<11><STEAM_1:0:1404421313><>" set cvar (name "kn_speed1") (value "1000000")
+L 09/26/2024 - 10:45:26: [pluginmenu.amxx] Cmd: "test<11><STEAM_1:0:1404421313><>" set cvar (name "kn_speed1") (value "9998")
+L 09/26/2024 - 10:51:47: -------- Mapchange to zm_fdust2x2 --------
+L 09/26/2024 - 10:51:47: [AMXX] Plugin "random_donate_gun.amxx" failed to load: Plugin uses an unknown function (name "zp_give_user_y22s3janus7") - check your modules.ini.
+L 09/26/2024 - 10:51:47: [AMXX] Plugin "Krol_supadmin_menu.amxx" failed to load: Plugin uses an unknown function (name "native_spas") - check your modules.ini.
+L 09/26/2024 - 10:51:47: [AMXX] Plugin "Krol_god_menu.amxx" failed to load: Plugin uses an unknown function (name "zp_give_user_y22s3janus7") - check your modules.ini.
+L 09/26/2024 - 10:51:49: [admin.amxx] Login: "test<11><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "172.20.10.2")
+L 09/26/2024 - 19:16:50: -------- Mapchange to zm_fdust2x2 --------
+L 09/26/2024 - 19:16:50: [CSX] Could not load csstats file: cstrike\
+L 09/26/2024 - 19:16:50: [AMXX] Plugin "random_donate_gun.amxx" failed to load: Plugin uses an unknown function (name "zp_give_user_y22s3janus7") - check your modules.ini.
+L 09/26/2024 - 19:16:50: [AMXX] Plugin "Krol_supadmin_menu.amxx" failed to load: Plugin uses an unknown function (name "native_spas") - check your modules.ini.
+L 09/26/2024 - 19:16:50: [AMXX] Plugin "Krol_god_menu.amxx" failed to load: Plugin uses an unknown function (name "zp_give_user_y22s3janus7") - check your modules.ini.
+L 09/26/2024 - 19:26:00: -------- Mapchange to zm_ngamers_lights_f --------
+L 09/26/2024 - 19:26:00: [CSX] Could not load csstats file: cstrike\
+L 09/26/2024 - 19:26:00: [AMXX] Plugin "random_donate_gun.amxx" failed to load: Plugin uses an unknown function (name "zp_give_user_y22s3janus7") - check your modules.ini.
+L 09/26/2024 - 19:26:00: [AMXX] Plugin "Krol_supadmin_menu.amxx" failed to load: Plugin uses an unknown function (name "native_spas") - check your modules.ini.
+L 09/26/2024 - 19:26:00: [AMXX] Plugin "Krol_god_menu.amxx" failed to load: Plugin uses an unknown function (name "zp_give_user_y22s3janus7") - check your modules.ini.
+L 09/26/2024 - 19:26:03: [admin.amxx] Login: "test<1><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "172.20.10.2")
+L 09/26/2024 - 20:02:39: -------- Mapchange to zm_ngamers_lights_f --------
+L 09/26/2024 - 20:02:39: [AMXX] Plugin "random_donate_gun.amxx" failed to load: Plugin uses an unknown function (name "zp_give_user_y22s3janus7") - check your modules.ini.
+L 09/26/2024 - 20:02:39: [AMXX] Plugin "Krol_supadmin_menu.amxx" failed to load: Plugin uses an unknown function (name "native_spas") - check your modules.ini.
+L 09/26/2024 - 20:02:39: [AMXX] Plugin "Krol_god_menu.amxx" failed to load: Plugin uses an unknown function (name "zp_give_user_y22s3janus7") - check your modules.ini.
+L 09/26/2024 - 20:02:43: [admin.amxx] Login: "test<2><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "172.20.10.2")
+L 09/26/2024 - 20:04:27: -------- Mapchange to zm_ngamers_lights_f --------
+L 09/26/2024 - 20:04:27: [AMXX] Plugin "random_donate_gun.amxx" failed to load: Plugin uses an unknown function (name "zp_give_user_y22s3janus7") - check your modules.ini.
+L 09/26/2024 - 20:04:27: [AMXX] Plugin "Krol_supadmin_menu.amxx" failed to load: Plugin uses an unknown function (name "native_spas") - check your modules.ini.
+L 09/26/2024 - 20:04:27: [AMXX] Plugin "Krol_god_menu.amxx" failed to load: Plugin uses an unknown function (name "zp_give_user_y22s3janus7") - check your modules.ini.
+L 09/26/2024 - 20:04:28: [admin.amxx] Login: "test<2><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "172.20.10.2")
+L 09/26/2024 - 20:04:57: [pluginmenu.amxx] Cmd: "test<2><STEAM_1:0:1404421313><>" set cvar (name "kn_speed1") (value "100")
+L 09/26/2024 - 20:05:09: -------- Mapchange to zm_ngamers_lights_f --------
+L 09/26/2024 - 20:05:09: [AMXX] Plugin "random_donate_gun.amxx" failed to load: Plugin uses an unknown function (name "zp_give_user_y22s3janus7") - check your modules.ini.
+L 09/26/2024 - 20:05:09: [AMXX] Plugin "Krol_supadmin_menu.amxx" failed to load: Plugin uses an unknown function (name "native_spas") - check your modules.ini.
+L 09/26/2024 - 20:05:09: [AMXX] Plugin "Krol_god_menu.amxx" failed to load: Plugin uses an unknown function (name "zp_give_user_y22s3janus7") - check your modules.ini.
+L 09/26/2024 - 20:05:11: [admin.amxx] Login: "test<2><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "172.20.10.2")
+L 09/26/2024 - 20:05:26: [pluginmenu.amxx] Cmd: "test<2><STEAM_1:0:1404421313><>" set cvar (name "kn_speed1") (value "1000")
+L 09/26/2024 - 20:05:33: [pluginmenu.amxx] Cmd: "test<2><STEAM_1:0:1404421313><>" set cvar (name "kn_speed1") (value "5000")
+L 09/26/2024 - 20:07:12: -------- Mapchange to zm_ngamers_lights_f --------
+L 09/26/2024 - 20:07:12: [AMXX] Plugin "random_donate_gun.amxx" failed to load: Plugin uses an unknown function (name "zp_give_user_y22s3janus7") - check your modules.ini.
+L 09/26/2024 - 20:07:12: [AMXX] Plugin "Krol_supadmin_menu.amxx" failed to load: Plugin uses an unknown function (name "native_spas") - check your modules.ini.
+L 09/26/2024 - 20:07:12: [AMXX] Plugin "Krol_god_menu.amxx" failed to load: Plugin uses an unknown function (name "zp_give_user_y22s3janus7") - check your modules.ini.
+L 09/26/2024 - 20:07:13: [admin.amxx] Login: "test<2><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "172.20.10.2")
+L 09/26/2024 - 20:07:39: -------- Mapchange to zm_ngamers_lights_f --------
+L 09/26/2024 - 20:07:39: [CSX] Could not load csstats file: cstrike\
+L 09/26/2024 - 20:07:39: [AMXX] Plugin "random_donate_gun.amxx" failed to load: Plugin uses an unknown function (name "zp_give_user_y22s3janus7") - check your modules.ini.
+L 09/26/2024 - 20:07:39: [AMXX] Plugin "Krol_supadmin_menu.amxx" failed to load: Plugin uses an unknown function (name "native_spas") - check your modules.ini.
+L 09/26/2024 - 20:07:39: [AMXX] Plugin "Krol_god_menu.amxx" failed to load: Plugin uses an unknown function (name "zp_give_user_y22s3janus7") - check your modules.ini.
+L 09/26/2024 - 20:07:43: [admin.amxx] Login: "test<1><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "172.20.10.2")
+L 09/26/2024 - 20:09:08: -------- Mapchange to zm_ngamers_lights_f --------
+L 09/26/2024 - 20:09:08: [CSX] Could not load csstats file: cstrike\
+L 09/26/2024 - 20:09:08: [AMXX] Plugin "random_donate_gun.amxx" failed to load: Plugin uses an unknown function (name "zp_give_user_y22s3janus7") - check your modules.ini.
+L 09/26/2024 - 20:09:08: [AMXX] Plugin "Krol_supadmin_menu.amxx" failed to load: Plugin uses an unknown function (name "native_spas") - check your modules.ini.
+L 09/26/2024 - 20:09:08: [AMXX] Plugin "Krol_god_menu.amxx" failed to load: Plugin uses an unknown function (name "zp_give_user_y22s3janus7") - check your modules.ini.
+L 09/26/2024 - 20:09:16: [admin.amxx] Login: "test<1><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "172.20.10.2")
+L 09/26/2024 - 20:09:32: [pluginmenu.amxx] Cmd: "test<1><STEAM_1:0:1404421313><>" set cvar (name "knifes_grav1") (value "1000")
+L 09/26/2024 - 20:13:57: -------- Mapchange to zm_ngamers_lights_f --------
+L 09/26/2024 - 20:13:57: [AMXX] Plugin "random_donate_gun.amxx" failed to load: Plugin uses an unknown function (name "zp_give_user_y22s3janus7") - check your modules.ini.
+L 09/26/2024 - 20:13:57: [AMXX] Plugin "Krol_supadmin_menu.amxx" failed to load: Plugin uses an unknown function (name "native_spas") - check your modules.ini.
+L 09/26/2024 - 20:13:57: [AMXX] Plugin "Krol_god_menu.amxx" failed to load: Plugin uses an unknown function (name "zp_give_user_y22s3janus7") - check your modules.ini.
+L 09/26/2024 - 20:13:58: [admin.amxx] Login: "test<1><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "172.20.10.2")
+L 09/26/2024 - 20:14:27: [pluginmenu.amxx] Cmd: "test<1><STEAM_1:0:1404421313><>" set cvar (name "knife_speed2") (value "1000.0")
+L 09/26/2024 - 20:14:34: [pluginmenu.amxx] Cmd: "test<1><STEAM_1:0:1404421313><>" set cvar (name "knife_speed3") (value "1000.0")
+L 09/26/2024 - 20:14:46: [pluginmenu.amxx] Cmd: "test<1><STEAM_1:0:1404421313><>" set cvar (name "knife_speed3") (value "10.0")
+L 09/26/2024 - 20:15:02: [pluginmenu.amxx] Cmd: "test<1><STEAM_1:0:1404421313><>" set cvar (name "knife_speed3") (value "100.0")
+L 09/26/2024 - 20:15:08: [pluginmenu.amxx] Cmd: "test<1><STEAM_1:0:1404421313><>" set cvar (name "knife_speed3") (value "100")
+L 09/26/2024 - 20:15:14: [pluginmenu.amxx] Cmd: "test<1><STEAM_1:0:1404421313><>" set cvar (name "knife_speed3") (value "300")
+L 09/26/2024 - 20:15:22: [pluginmenu.amxx] Cmd: "test<1><STEAM_1:0:1404421313><>" set cvar (name "knife_grav3") (value "1000")
+L 09/26/2024 - 20:36:57: [mapchooser.amxx] Vote: Voting for the nextmap started
+L 09/26/2024 - 20:37:12: [mapchooser.amxx] Vote: Voting for the nextmap finished. The nextmap will be zm_fdust2x2
+L 09/26/2024 - 20:39:49: -------- Mapchange to zm_fdust2x2 --------
+L 09/26/2024 - 20:39:49: [AMXX] Plugin "random_donate_gun.amxx" failed to load: Plugin uses an unknown function (name "zp_give_user_y22s3janus7") - check your modules.ini.
+L 09/26/2024 - 20:39:49: [AMXX] Plugin "Krol_supadmin_menu.amxx" failed to load: Plugin uses an unknown function (name "native_spas") - check your modules.ini.
+L 09/26/2024 - 20:39:49: [AMXX] Plugin "Krol_god_menu.amxx" failed to load: Plugin uses an unknown function (name "zp_give_user_y22s3janus7") - check your modules.ini.
+L 09/26/2024 - 20:51:27: -------- Mapchange to zm_fdust2x2 --------
+L 09/26/2024 - 20:51:27: [AMXX] Plugin "random_donate_gun.amxx" failed to load: Plugin uses an unknown function (name "zp_give_user_y22s3janus7") - check your modules.ini.
+L 09/26/2024 - 20:51:27: [AMXX] Plugin "Krol_supadmin_menu.amxx" failed to load: Plugin uses an unknown function (name "native_spas") - check your modules.ini.
+L 09/26/2024 - 20:51:27: [AMXX] Plugin "Krol_god_menu.amxx" failed to load: Plugin uses an unknown function (name "zp_give_user_y22s3janus7") - check your modules.ini.
+L 09/26/2024 - 20:51:29: [admin.amxx] Login: "test<9><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "172.20.10.2")
+L 09/26/2024 - 20:54:00: [pluginmenu.amxx] Cmd: "test<9><STEAM_1:0:1404421313><>" set cvar (name "knife_damage8") (value "100")
+L 09/26/2024 - 21:22:58: [mapchooser.amxx] Vote: Voting for the nextmap started
+L 09/26/2024 - 21:23:13: [mapchooser.amxx] Vote: Voting for the nextmap finished. The nextmap will be zm_world_rmx_fixed
+L 09/26/2024 - 21:25:55: -------- Mapchange to zm_world_rmx_fixed --------
+L 09/26/2024 - 21:25:55: [AMXX] Plugin "random_donate_gun.amxx" failed to load: Plugin uses an unknown function (name "zp_give_user_y22s3janus7") - check your modules.ini.
+L 09/26/2024 - 21:25:55: [AMXX] Plugin "Krol_supadmin_menu.amxx" failed to load: Plugin uses an unknown function (name "native_spas") - check your modules.ini.
+L 09/26/2024 - 21:25:55: [AMXX] Plugin "Krol_god_menu.amxx" failed to load: Plugin uses an unknown function (name "zp_give_user_y22s3janus7") - check your modules.ini.
+L 09/26/2024 - 21:48:57: [mapchooser.amxx] Vote: Voting for the nextmap started
+L 09/26/2024 - 21:49:12: [mapchooser.amxx] Vote: Voting for the nextmap finished. The nextmap will be zm_decay
+L 09/26/2024 - 21:52:00: -------- Mapchange to zm_decay --------
+L 09/26/2024 - 21:52:00: [AMXX] Plugin "random_donate_gun.amxx" failed to load: Plugin uses an unknown function (name "zp_give_user_y22s3janus7") - check your modules.ini.
+L 09/26/2024 - 21:52:00: [AMXX] Plugin "Krol_supadmin_menu.amxx" failed to load: Plugin uses an unknown function (name "native_spas") - check your modules.ini.
+L 09/26/2024 - 21:52:00: [AMXX] Plugin "Krol_god_menu.amxx" failed to load: Plugin uses an unknown function (name "zp_give_user_y22s3janus7") - check your modules.ini.
+L 09/26/2024 - 22:06:52: [admin.amxx] Login: "test<17><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "172.20.10.2")
+L 09/26/2024 - 22:10:36: -------- Mapchange to zm_decay --------
+L 09/26/2024 - 22:10:37: [AMXX] Plugin "random_donate_gun.amxx" failed to load: Plugin uses an unknown function (name "zp_give_user_y22s3janus7") - check your modules.ini.
+L 09/26/2024 - 22:10:37: [AMXX] Plugin "Krol_supadmin_menu.amxx" failed to load: Plugin uses an unknown function (name "native_spas") - check your modules.ini.
+L 09/26/2024 - 22:10:37: [AMXX] Plugin "Krol_god_menu.amxx" failed to load: Plugin uses an unknown function (name "zp_give_user_y22s3janus7") - check your modules.ini.
+L 09/26/2024 - 22:10:38: [admin.amxx] Login: "test<17><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "172.20.10.2")
+L 09/26/2024 - 22:33:37: [mapchooser.amxx] Vote: Voting for the nextmap started
+L 09/26/2024 - 22:33:52: [mapchooser.amxx] Vote: Voting for the nextmap finished. The nextmap will be zm_infantry
+L 09/26/2024 - 22:36:31: -------- Mapchange to zm_infantry --------
+L 09/26/2024 - 22:36:31: [AMXX] Plugin "random_donate_gun.amxx" failed to load: Plugin uses an unknown function (name "zp_give_user_y22s3janus7") - check your modules.ini.
+L 09/26/2024 - 22:36:31: [AMXX] Plugin "Krol_supadmin_menu.amxx" failed to load: Plugin uses an unknown function (name "native_spas") - check your modules.ini.
+L 09/26/2024 - 22:36:31: [AMXX] Plugin "Krol_god_menu.amxx" failed to load: Plugin uses an unknown function (name "zp_give_user_y22s3janus7") - check your modules.ini.
+L 09/26/2024 - 22:36:32: [admin.amxx] Login: "test<17><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "172.20.10.2")
+L 09/26/2024 - 22:42:52: -------- Mapchange to zm_ngamers_lights_f --------
+L 09/26/2024 - 22:42:52: [CSX] Could not load csstats file: cstrike\
+L 09/26/2024 - 22:42:53: [AMXX] Plugin "random_donate_gun.amxx" failed to load: Plugin uses an unknown function (name "zp_give_user_y22s3janus7") - check your modules.ini.
+L 09/26/2024 - 22:42:53: [AMXX] Plugin "Krol_supadmin_menu.amxx" failed to load: Plugin uses an unknown function (name "native_spas") - check your modules.ini.
+L 09/26/2024 - 22:42:53: [AMXX] Plugin "Krol_god_menu.amxx" failed to load: Plugin uses an unknown function (name "zp_give_user_y22s3janus7") - check your modules.ini.
+L 09/26/2024 - 22:42:55: [admin.amxx] Login: "test<1><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "172.20.10.2")
+L 09/26/2024 - 22:43:44: [pluginmenu.amxx] Cmd: "test<1><STEAM_1:0:1404421313><>" set cvar (name "storm_damage") (value "1")
+L 09/26/2024 - 22:43:54: [pluginmenu.amxx] Cmd: "test<1><STEAM_1:0:1404421313><>" set cvar (name "storm_repeat") (value "10")
+L 09/26/2024 - 22:44:02: [pluginmenu.amxx] Cmd: "test<1><STEAM_1:0:1404421313><>" set cvar (name "storm_live") (value "1.0")
+L 09/26/2024 - 22:44:23: [pluginmenu.amxx] Cmd: "test<1><STEAM_1:0:1404421313><>" set cvar (name "storm_speed") (value "1000")
+L 09/26/2024 - 22:45:35: -------- Mapchange to zm_ngamers_lights_f --------
+L 09/26/2024 - 22:45:35: [AMXX] Plugin "random_donate_gun.amxx" failed to load: Plugin uses an unknown function (name "zp_give_user_y22s3janus7") - check your modules.ini.
+L 09/26/2024 - 22:45:35: [AMXX] Plugin "Krol_supadmin_menu.amxx" failed to load: Plugin uses an unknown function (name "native_spas") - check your modules.ini.
+L 09/26/2024 - 22:45:35: [AMXX] Plugin "Krol_god_menu.amxx" failed to load: Plugin uses an unknown function (name "zp_give_user_y22s3janus7") - check your modules.ini.
+L 09/26/2024 - 22:45:36: [admin.amxx] Login: "test<1><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "172.20.10.2")
+L 09/26/2024 - 22:46:05: -------- Mapchange to zm_ngamers_lights_f --------
+L 09/26/2024 - 22:46:05: [CSX] Could not load csstats file: cstrike\
+L 09/26/2024 - 22:46:05: [AMXX] Plugin "random_donate_gun.amxx" failed to load: Plugin uses an unknown function (name "zp_give_user_y22s3janus7") - check your modules.ini.
+L 09/26/2024 - 22:46:05: [AMXX] Plugin "Krol_supadmin_menu.amxx" failed to load: Plugin uses an unknown function (name "native_spas") - check your modules.ini.
+L 09/26/2024 - 22:46:05: [AMXX] Plugin "Krol_god_menu.amxx" failed to load: Plugin uses an unknown function (name "zp_give_user_y22s3janus7") - check your modules.ini.
+L 09/26/2024 - 22:46:09: [admin.amxx] Login: "test<1><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "172.20.10.2")
+L 09/26/2024 - 22:46:50: -------- Mapchange to zm_ngamers_lights_f --------
+L 09/26/2024 - 22:46:50: [AMXX] Plugin "random_donate_gun.amxx" failed to load: Plugin uses an unknown function (name "zp_give_user_y22s3janus7") - check your modules.ini.
+L 09/26/2024 - 22:46:50: [AMXX] Plugin "Krol_supadmin_menu.amxx" failed to load: Plugin uses an unknown function (name "native_spas") - check your modules.ini.
+L 09/26/2024 - 22:46:50: [AMXX] Plugin "Krol_god_menu.amxx" failed to load: Plugin uses an unknown function (name "zp_give_user_y22s3janus7") - check your modules.ini.
+L 09/26/2024 - 22:46:51: [admin.amxx] Login: "test<1><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "172.20.10.2")
+L 09/26/2024 - 22:49:08: [pluginmenu.amxx] Cmd: "test<1><STEAM_1:0:1404421313><>" set cvar (name "teleport_kd") (value "3.0")
+L 09/26/2024 - 22:50:38: -------- Mapchange to zm_ngamers_lights_f --------
+L 09/26/2024 - 22:50:38: [AMXX] Plugin "random_donate_gun.amxx" failed to load: Plugin uses an unknown function (name "zp_give_user_y22s3janus7") - check your modules.ini.
+L 09/26/2024 - 22:50:38: [AMXX] Plugin "Krol_supadmin_menu.amxx" failed to load: Plugin uses an unknown function (name "native_spas") - check your modules.ini.
+L 09/26/2024 - 22:50:38: [AMXX] Plugin "Krol_god_menu.amxx" failed to load: Plugin uses an unknown function (name "zp_give_user_y22s3janus7") - check your modules.ini.
+L 09/26/2024 - 22:50:39: [admin.amxx] Login: "test<1><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "172.20.10.2")
+L 09/26/2024 - 22:52:31: -------- Mapchange to zm_ngamers_lights_f --------
+L 09/26/2024 - 22:52:31: [AMXX] Plugin "random_donate_gun.amxx" failed to load: Plugin uses an unknown function (name "zp_give_user_y22s3janus7") - check your modules.ini.
+L 09/26/2024 - 22:52:31: [AMXX] Plugin "Krol_supadmin_menu.amxx" failed to load: Plugin uses an unknown function (name "native_spas") - check your modules.ini.
+L 09/26/2024 - 22:52:31: [AMXX] Plugin "Krol_god_menu.amxx" failed to load: Plugin uses an unknown function (name "zp_give_user_y22s3janus7") - check your modules.ini.
+L 09/26/2024 - 22:52:33: [admin.amxx] Login: "test<1><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "172.20.10.2")

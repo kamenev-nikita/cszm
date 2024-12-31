@@ -1,0 +1,24 @@
+L 12/04/2024 - 19:42:25: Start of error session.
+L 12/04/2024 - 19:42:25: Info (map "zm_dust_world") (file "addons/amxmodx/logs/error_20241204.log")
+L 12/04/2024 - 19:42:25: Called dynanative into a paused plugin.
+L 12/04/2024 - 19:42:25: [AMXX] Displaying debug trace (plugin "K_ZP_main.amxx", version "1.0")
+L 12/04/2024 - 19:42:25: [AMXX] Run time error 10: native error (native "reset_player_for_new_round")
+L 12/04/2024 - 19:42:25: [AMXX]    [0] K_ZP_main.sma::fw_new_round (line 210)
+L 12/04/2024 - 19:42:25: [AMXX]    [1] K_ZP_main.sma::fw_new_round (line 208)
+L 12/04/2024 - 20:23:04: Start of error session.
+L 12/04/2024 - 20:23:04: Info (map "zm_fdust2x2") (file "addons/amxmodx/logs/error_20241204.log")
+L 12/04/2024 - 20:23:04: Called dynanative into a paused plugin.
+L 12/04/2024 - 20:23:04: [AMXX] Displaying debug trace (plugin "K_ZP_main.amxx", version "1.0")
+L 12/04/2024 - 20:23:04: [AMXX] Run time error 10: native error (native "reset_player_for_new_round")
+L 12/04/2024 - 20:23:04: [AMXX]    [0] K_ZP_main.sma::fw_new_round (line 210)
+L 12/04/2024 - 20:23:04: [AMXX]    [1] K_ZP_main.sma::fw_new_round (line 208)
+L 12/04/2024 - 23:48:14: Start of error session.
+L 12/04/2024 - 23:48:14: Info (map "zm_ngamers_lights_f") (file "addons/amxmodx/logs/error_20241204.log")
+L 12/04/2024 - 23:48:14: Called dynanative into a paused plugin.
+L 12/04/2024 - 23:48:14: [AMXX] Displaying debug trace (plugin "K_M_mainMenu.amxx", version "1.0")
+L 12/04/2024 - 23:48:14: [AMXX] Run time error 10: native error (native "show_shop_menu")
+L 12/04/2024 - 23:48:14: [AMXX]    [0] K_M_mainMenu.sma::hundler_menu (line 73)
+L 12/04/2024 - 23:48:15: Called dynanative into a paused plugin.
+L 12/04/2024 - 23:48:15: [AMXX] Displaying debug trace (plugin "K_ZP_main.amxx", version "1.0")
+L 12/04/2024 - 23:48:15: [AMXX] Run time error 10: native error (native "show_mainMenu_menu")
+L 12/04/2024 - 23:48:15: [AMXX]    [0] K_ZP_main.sma::clcmd_changeteam (line 221)

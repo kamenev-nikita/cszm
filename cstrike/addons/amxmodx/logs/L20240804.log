@@ -1,0 +1,60 @@
+L 08/04/2024 - 16:27:49: -------- Mapchange to zm_deko2 --------
+L 08/04/2024 - 16:27:49: [CSX] Could not load csstats file: cstrike\
+L 08/04/2024 - 16:27:51: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\zp_ammo_ex.txt
+L 08/04/2024 - 16:27:51: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\grab_plus.txt
+L 08/04/2024 - 16:27:51: New section, unterminated block (file "cstrike\addons\amxmodx\data\lang\nademodes.txt" key "NADE_HTML :" lang "da")
+L 08/04/2024 - 16:42:36: -------- Mapchange to zm_deko2 --------
+L 08/04/2024 - 16:42:39: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\zp_ammo_ex.txt
+L 08/04/2024 - 16:42:39: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\grab_plus.txt
+L 08/04/2024 - 16:44:09: [admin.amxx] Login: "test<8><STEAM_1:0:1404421313><>" kicked due to invalid password (account "test") (address "192.168.0.16")
+L 08/04/2024 - 16:44:16: [admin.amxx] Login: "test<16><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "192.168.0.16")
+L 08/04/2024 - 16:52:20: -------- Mapchange to zm_deko2 --------
+L 08/04/2024 - 16:52:24: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\zp_ammo_ex.txt
+L 08/04/2024 - 16:52:24: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\grab_plus.txt
+L 08/04/2024 - 16:52:25: [admin.amxx] Login: "test<16><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "192.168.0.16")
+L 08/04/2024 - 16:55:02: -------- Mapchange to zm_deko2 --------
+L 08/04/2024 - 16:55:05: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\zp_ammo_ex.txt
+L 08/04/2024 - 16:55:05: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\grab_plus.txt
+L 08/04/2024 - 16:55:06: [admin.amxx] Login: "test<16><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "192.168.0.16")
+L 08/04/2024 - 16:55:23: -------- Mapchange to zm_deko2 --------
+L 08/04/2024 - 16:55:26: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\zp_ammo_ex.txt
+L 08/04/2024 - 16:55:26: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\grab_plus.txt
+L 08/04/2024 - 16:55:27: [admin.amxx] Login: "test<16><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "192.168.0.16")
+L 08/04/2024 - 16:57:10: -------- Mapchange to zm_deko2 --------
+L 08/04/2024 - 16:57:12: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\zp_ammo_ex.txt
+L 08/04/2024 - 16:57:12: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\grab_plus.txt
+L 08/04/2024 - 16:57:13: [admin.amxx] Login: "test<16><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "192.168.0.16")
+L 08/04/2024 - 16:57:47: -------- Mapchange to zm_deko2 --------
+L 08/04/2024 - 16:57:50: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\zp_ammo_ex.txt
+L 08/04/2024 - 16:57:50: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\grab_plus.txt
+L 08/04/2024 - 16:57:51: [admin.amxx] Login: "test<16><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "192.168.0.16")
+L 08/04/2024 - 17:06:25: -------- Mapchange to zm_deko2 --------
+L 08/04/2024 - 17:06:28: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\zp_ammo_ex.txt
+L 08/04/2024 - 17:06:28: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\grab_plus.txt
+L 08/04/2024 - 17:06:29: [admin.amxx] Login: "test<16><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "192.168.0.16")
+L 08/04/2024 - 17:29:28: [mapchooser.amxx] Vote: Voting for the nextmap started
+L 08/04/2024 - 17:29:43: [mapchooser.amxx] Vote: Voting for the nextmap finished. The nextmap will be zm_dust_winter
+L 08/04/2024 - 17:30:05: -------- Mapchange to zm_deko2 --------
+L 08/04/2024 - 17:30:08: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\zp_ammo_ex.txt
+L 08/04/2024 - 17:30:08: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\grab_plus.txt
+L 08/04/2024 - 17:30:08: [admin.amxx] Login: "test<16><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "192.168.0.16")
+L 08/04/2024 - 17:38:21: -------- Mapchange to zm_deko2 --------
+L 08/04/2024 - 17:38:24: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\zp_ammo_ex.txt
+L 08/04/2024 - 17:38:24: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\grab_plus.txt
+L 08/04/2024 - 17:38:25: [admin.amxx] Login: "test<16><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "192.168.0.16")
+L 08/04/2024 - 17:41:42: -------- Mapchange to zm_deko2 --------
+L 08/04/2024 - 17:41:47: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\zp_ammo_ex.txt
+L 08/04/2024 - 17:41:47: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\grab_plus.txt
+L 08/04/2024 - 17:41:48: [admin.amxx] Login: "test<16><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "192.168.0.16")
+L 08/04/2024 - 18:41:01: -------- Mapchange to zm_deko2 --------
+L 08/04/2024 - 18:41:01: [CSX] Could not load csstats file: cstrike\
+L 08/04/2024 - 18:41:03: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\zp_ammo_ex.txt
+L 08/04/2024 - 18:41:03: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\grab_plus.txt
+L 08/04/2024 - 18:41:03: New section, unterminated block (file "cstrike\addons\amxmodx\data\lang\nademodes.txt" key "NADE_HTML :" lang "da")
+L 08/04/2024 - 18:41:10: [admin.amxx] Login: "test<4><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "192.168.0.16")
+L 08/04/2024 - 18:42:35: [admin.amxx] Login: "test<4><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "192.168.0.16")
+L 08/04/2024 - 18:44:53: -------- Mapchange to zm_deko2 --------
+L 08/04/2024 - 18:44:56: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\zp_ammo_ex.txt
+L 08/04/2024 - 18:44:56: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\grab_plus.txt
+L 08/04/2024 - 18:44:57: [admin.amxx] Login: "test<4><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "192.168.0.16")
+L 08/04/2024 - 18:57:22: [admin.amxx] Login: "test<4><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "192.168.0.16")

@@ -1,0 +1,5 @@
+L 08/19/2024 - 11:35:54: -------- Mapchange to zm_fdust2x2 --------
+L 08/19/2024 - 11:35:55: [CSX] Could not load csstats file: cstrike\
+L 08/19/2024 - 11:35:56: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\zp_ammo_ex.txt
+L 08/19/2024 - 11:35:56: New section, unterminated block (file "cstrike\addons\amxmodx\data\lang\nademodes.txt" key "NADE_HTML :" lang "da")
+L 08/19/2024 - 11:35:56: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\grab_plus.txt

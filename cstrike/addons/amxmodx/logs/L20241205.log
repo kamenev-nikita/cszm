@@ -1,0 +1,74 @@
+L 12/05/2024 - 00:07:35: -------- Mapchange to zm_202 --------
+L 12/05/2024 - 00:07:35: [AMXX] Plugin "K_lib_ZP.amxx" failed to load: Plugin uses an unknown function (name "get_number_players_in_server") - check your modules.ini.
+L 12/05/2024 - 00:07:35: [AMXX] Plugin "K_M_shop.amxx" failed to load: Plugin uses an unknown function (name "tike_aura_eff") - check your modules.ini.
+L 12/05/2024 - 00:07:35: [AMXX] Plugin "K_M_knifes.amxx" failed to load: Plugin uses an unknown function (name "task_get_damage") - check your modules.ini.
+L 12/05/2024 - 00:07:35: [AMXX] Plugin "zm_skill_void.amxx" failed to load: Plugin uses an unknown function (name "draw_into_oneself") - check your modules.ini.
+L 12/05/2024 - 00:07:35: [AMXX] Plugin "zm_skill_heal.amxx" failed to load: Plugin uses an unknown function (name "create_spr_in_player") - check your modules.ini.
+L 12/05/2024 - 00:07:35: [AMXX] Plugin "item_infec_bomb.amxx" failed to load: Plugin uses an unknown function (name "update_frags") - check your modules.ini.
+L 12/05/2024 - 00:07:35: [AMXX] Plugin "S_avt.amxx" failed to load: Plugin uses an unknown function (name "set_gun_model") - check your modules.ini.
+L 12/05/2024 - 00:07:35: [AMXX] Plugin "S_pist.amxx" failed to load: Plugin uses an unknown function (name "set_gun_model") - check your modules.ini.
+L 12/05/2024 - 00:07:35: [AMXX] Plugin "gold_m4a1.amxx" failed to load: Plugin uses an unknown function (name "set_gun_model") - check your modules.ini.
+L 12/05/2024 - 00:14:12: -------- Mapchange to zm_202 --------
+L 12/05/2024 - 00:14:12: [AMXX] Plugin "K_lib_ZP.amxx" failed to load: Plugin uses an unknown function (name "get_number_players_in_server") - check your modules.ini.
+L 12/05/2024 - 00:14:12: [AMXX] Plugin "K_M_shop.amxx" failed to load: Plugin uses an unknown function (name "tike_aura_eff") - check your modules.ini.
+L 12/05/2024 - 00:14:12: [AMXX] Plugin "K_M_knifes.amxx" failed to load: Plugin uses an unknown function (name "task_get_damage") - check your modules.ini.
+L 12/05/2024 - 00:14:12: [AMXX] Plugin "S_avt.amxx" failed to load: Plugin uses an unknown function (name "give_gun") - check your modules.ini.
+L 12/05/2024 - 00:14:12: [AMXX] Plugin "S_pist.amxx" failed to load: Plugin uses an unknown function (name "give_gun") - check your modules.ini.
+L 12/05/2024 - 00:14:12: [AMXX] Plugin "gold_m4a1.amxx" failed to load: Plugin uses an unknown function (name "give_gun") - check your modules.ini.
+L 12/05/2024 - 00:14:48: -------- Mapchange to zm_202 --------
+L 12/05/2024 - 00:14:48: [AMXX] Plugin "K_lib_ZP.amxx" failed to load: Plugin uses an unknown function (name "give_aura_eff") - check your modules.ini.
+L 12/05/2024 - 00:14:48: [AMXX] Plugin "K_M_shop.amxx" failed to load: Plugin uses an unknown function (name "tike_aura_eff") - check your modules.ini.
+L 12/05/2024 - 00:14:48: [AMXX] Plugin "K_M_knifes.amxx" failed to load: Plugin uses an unknown function (name "task_get_damage") - check your modules.ini.
+L 12/05/2024 - 00:14:48: [AMXX] Plugin "S_avt.amxx" failed to load: Plugin uses an unknown function (name "give_gun") - check your modules.ini.
+L 12/05/2024 - 00:14:48: [AMXX] Plugin "S_pist.amxx" failed to load: Plugin uses an unknown function (name "give_gun") - check your modules.ini.
+L 12/05/2024 - 00:14:48: [AMXX] Plugin "gold_m4a1.amxx" failed to load: Plugin uses an unknown function (name "give_gun") - check your modules.ini.
+L 12/05/2024 - 00:15:13: -------- Mapchange to zm_202 --------
+L 12/05/2024 - 00:15:13: [AMXX] Plugin "K_lib_ZP.amxx" failed to load: Plugin uses an unknown function (name "change_skin_to_zombie") - check your modules.ini.
+L 12/05/2024 - 00:15:13: [AMXX] Plugin "K_M_shop.amxx" failed to load: Plugin uses an unknown function (name "tike_aura_eff") - check your modules.ini.
+L 12/05/2024 - 00:15:13: [AMXX] Plugin "K_M_knifes.amxx" failed to load: Plugin uses an unknown function (name "task_get_damage") - check your modules.ini.
+L 12/05/2024 - 00:15:13: [AMXX] Plugin "S_avt.amxx" failed to load: Plugin uses an unknown function (name "give_gun") - check your modules.ini.
+L 12/05/2024 - 00:15:13: [AMXX] Plugin "S_pist.amxx" failed to load: Plugin uses an unknown function (name "give_gun") - check your modules.ini.
+L 12/05/2024 - 00:15:13: [AMXX] Plugin "gold_m4a1.amxx" failed to load: Plugin uses an unknown function (name "give_gun") - check your modules.ini.
+L 12/05/2024 - 00:16:14: -------- Mapchange to zm_202 --------
+L 12/05/2024 - 00:16:14: [AMXX] Plugin "K_lib_ZP.amxx" failed to load: Plugin uses an unknown function (name "change_skin_to_zombie") - check your modules.ini.
+L 12/05/2024 - 00:16:14: [AMXX] Plugin "K_M_shop.amxx" failed to load: Plugin uses an unknown function (name "tike_aura_eff") - check your modules.ini.
+L 12/05/2024 - 00:16:14: [AMXX] Plugin "K_M_knifes.amxx" failed to load: Plugin uses an unknown function (name "task_get_damage") - check your modules.ini.
+L 12/05/2024 - 00:16:14: [AMXX] Plugin "S_avt.amxx" failed to load: Plugin uses an unknown function (name "give_gun") - check your modules.ini.
+L 12/05/2024 - 00:16:14: [AMXX] Plugin "S_pist.amxx" failed to load: Plugin uses an unknown function (name "give_gun") - check your modules.ini.
+L 12/05/2024 - 00:16:14: [AMXX] Plugin "gold_m4a1.amxx" failed to load: Plugin uses an unknown function (name "give_gun") - check your modules.ini.
+L 12/05/2024 - 00:16:53: -------- Mapchange to zm_202 --------
+L 12/05/2024 - 00:16:53: [AMXX] Plugin "K_M_shop.amxx" failed to load: Plugin uses an unknown function (name "tike_aura_eff") - check your modules.ini.
+L 12/05/2024 - 00:16:53: [AMXX] Plugin "K_M_knifes.amxx" failed to load: Plugin uses an unknown function (name "task_get_damage") - check your modules.ini.
+L 12/05/2024 - 00:16:53: [AMXX] Plugin "S_avt.amxx" failed to load: Plugin uses an unknown function (name "give_gun") - check your modules.ini.
+L 12/05/2024 - 00:16:53: [AMXX] Plugin "S_pist.amxx" failed to load: Plugin uses an unknown function (name "give_gun") - check your modules.ini.
+L 12/05/2024 - 00:16:53: [AMXX] Plugin "gold_m4a1.amxx" failed to load: Plugin uses an unknown function (name "give_gun") - check your modules.ini.
+L 12/05/2024 - 00:17:41: -------- Mapchange to zm_202 --------
+L 12/05/2024 - 00:17:41: [AMXX] Plugin "K_M_knifes.amxx" failed to load: Plugin uses an unknown function (name "task_get_damage") - check your modules.ini.
+L 12/05/2024 - 00:17:41: [AMXX] Plugin "S_avt.amxx" failed to load: Plugin uses an unknown function (name "give_gun") - check your modules.ini.
+L 12/05/2024 - 00:17:41: [AMXX] Plugin "S_pist.amxx" failed to load: Plugin uses an unknown function (name "give_gun") - check your modules.ini.
+L 12/05/2024 - 00:17:41: [AMXX] Plugin "gold_m4a1.amxx" failed to load: Plugin uses an unknown function (name "give_gun") - check your modules.ini.
+L 12/05/2024 - 00:18:51: -------- Mapchange to zm_202 --------
+L 12/05/2024 - 00:18:51: [AMXX] Plugin "S_avt.amxx" failed to load: Plugin uses an unknown function (name "give_gun") - check your modules.ini.
+L 12/05/2024 - 00:18:51: [AMXX] Plugin "S_pist.amxx" failed to load: Plugin uses an unknown function (name "give_gun") - check your modules.ini.
+L 12/05/2024 - 00:18:51: [AMXX] Plugin "gold_m4a1.amxx" failed to load: Plugin uses an unknown function (name "give_gun") - check your modules.ini.
+L 12/05/2024 - 00:19:46: -------- Mapchange to zm_202 --------
+L 12/05/2024 - 00:19:50: [admin.amxx] Login: "test<2><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "26.71.19.63")
+L 12/05/2024 - 00:20:18: -------- Mapchange to zm_ngamers_lights_f --------
+L 12/05/2024 - 00:20:25: [admin.amxx] Login: "test<1><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "26.71.19.63")
+L 12/05/2024 - 00:21:37: -------- Mapchange to zm_ngamers_lights_f --------
+L 12/05/2024 - 00:21:40: [admin.amxx] Login: "test<1><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "26.71.19.63")
+L 12/05/2024 - 00:35:18: -------- Mapchange to zm_ngamers_lights_f --------
+L 12/05/2024 - 00:35:19: [admin.amxx] Login: "test<1><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "26.71.19.63")
+L 12/05/2024 - 00:55:27: -------- Mapchange to zm_202 --------
+L 12/05/2024 - 00:58:47: [admin.amxx] Login: "test<2><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "26.71.19.63")
+L 12/05/2024 - 01:08:46: -------- Mapchange to zm_202 --------
+L 12/05/2024 - 01:08:47: [admin.amxx] Login: "test<2><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "26.71.19.63")
+L 12/05/2024 - 01:19:34: -------- Mapchange to zm_202 --------
+L 12/05/2024 - 01:19:36: [admin.amxx] Login: "test<3><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "26.71.19.63")
+L 12/05/2024 - 01:21:39: -------- Mapchange to zm_202 --------
+L 12/05/2024 - 01:21:39: [admin.amxx] Login: "test<3><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "26.71.19.63")
+L 12/05/2024 - 01:22:35: -------- Mapchange to zm_202 --------
+L 12/05/2024 - 01:22:35: [admin.amxx] Login: "test<3><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "26.71.19.63")
+L 12/05/2024 - 01:42:44: -------- Mapchange to zm_creative --------
+L 12/05/2024 - 02:02:54: -------- Mapchange to zm_decay --------
+L 12/05/2024 - 02:23:04: -------- Mapchange to zm_dust_world --------

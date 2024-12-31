@@ -1,0 +1,270 @@
+L 09/21/2024 - 09:53:54: -------- Mapchange to zm_fdust2x2 --------
+L 09/21/2024 - 09:53:54: [CSX] Could not load csstats file: cstrike\
+L 09/21/2024 - 09:54:28: -------- Mapchange to zm_fdust2x2 --------
+L 09/21/2024 - 09:54:28: [CSX] Could not load csstats file: cstrike\
+L 09/21/2024 - 09:55:03: [admin.amxx] Login: "test<8><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "192.168.0.15")
+L 09/21/2024 - 10:04:11: -------- Mapchange to zm_fdust2x2 --------
+L 09/21/2024 - 10:07:01: -------- Mapchange to zm_fdust2x2 --------
+L 09/21/2024 - 10:07:01: [CSX] Could not load csstats file: cstrike\
+L 09/21/2024 - 10:07:06: [admin.amxx] Login: "test<1><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "192.168.0.15")
+L 09/21/2024 - 10:30:03: [mapchooser.amxx] Vote: Voting for the nextmap started
+L 09/21/2024 - 10:30:18: [mapchooser.amxx] Vote: Voting for the nextmap finished. The nextmap will be zm_epic_base
+L 09/21/2024 - 10:33:13: -------- Mapchange to zm_epic_base --------
+L 09/21/2024 - 10:33:15: [admin.amxx] Login: "test<1><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "192.168.0.15")
+L 09/21/2024 - 10:52:57: -------- Mapchange to zm_epic_base --------
+L 09/21/2024 - 10:52:58: [admin.amxx] Login: "test<1><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "192.168.0.15")
+L 09/21/2024 - 10:56:32: -------- Mapchange to zm_epic_base --------
+L 09/21/2024 - 10:56:32: An error occurred in plugin_natives. This is dangerous!
+L 09/21/2024 - 10:56:32: [AMXX] Plugin "Krol_testing.amxx" failed to load: Plugin uses an unknown function (name "new_entity") - check your modules.ini.
+L 09/21/2024 - 10:56:33: [admin.amxx] Login: "test<1><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "192.168.0.15")
+L 09/21/2024 - 11:06:58: -------- Mapchange to zm_epic_base --------
+L 09/21/2024 - 11:06:58: An error occurred in plugin_natives. This is dangerous!
+L 09/21/2024 - 11:06:58: [AMXX] Plugin "Krol_testing.amxx" failed to load: Plugin uses an unknown function (name "new_entity") - check your modules.ini.
+L 09/21/2024 - 11:06:59: [admin.amxx] Login: "test<1><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "192.168.0.15")
+L 09/21/2024 - 11:11:34: -------- Mapchange to zm_epic_base --------
+L 09/21/2024 - 11:11:34: An error occurred in plugin_natives. This is dangerous!
+L 09/21/2024 - 11:11:34: [AMXX] Plugin "Krol_testing.amxx" failed to load: Plugin uses an unknown function (name "new_entity") - check your modules.ini.
+L 09/21/2024 - 11:11:36: [admin.amxx] Login: "test<1><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "192.168.0.15")
+L 09/21/2024 - 11:12:25: -------- Mapchange to zm_epic_base --------
+L 09/21/2024 - 11:12:25: An error occurred in plugin_natives. This is dangerous!
+L 09/21/2024 - 11:12:25: [AMXX] Plugin "Krol_testing.amxx" failed to load: Plugin uses an unknown function (name "new_entity") - check your modules.ini.
+L 09/21/2024 - 11:12:26: [admin.amxx] Login: "test<1><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "192.168.0.15")
+L 09/21/2024 - 11:17:09: -------- Mapchange to zm_epic_base --------
+L 09/21/2024 - 11:17:09: An error occurred in plugin_natives. This is dangerous!
+L 09/21/2024 - 11:17:11: [admin.amxx] Login: "test<1><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "192.168.0.15")
+L 09/21/2024 - 11:17:52: -------- Mapchange to zm_epic_base --------
+L 09/21/2024 - 11:17:52: An error occurred in plugin_natives. This is dangerous!
+L 09/21/2024 - 11:17:53: [admin.amxx] Login: "test<1><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "192.168.0.15")
+L 09/21/2024 - 11:18:36: -------- Mapchange to zm_epic_base --------
+L 09/21/2024 - 11:18:37: An error occurred in plugin_natives. This is dangerous!
+L 09/21/2024 - 11:18:38: [admin.amxx] Login: "test<1><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "192.168.0.15")
+L 09/21/2024 - 11:21:39: -------- Mapchange to zm_epic_base --------
+L 09/21/2024 - 11:21:39: An error occurred in plugin_natives. This is dangerous!
+L 09/21/2024 - 11:21:41: [admin.amxx] Login: "test<1><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "192.168.0.15")
+L 09/21/2024 - 11:37:13: -------- Mapchange to zm_epic_base --------
+L 09/21/2024 - 11:37:13: An error occurred in plugin_natives. This is dangerous!
+L 09/21/2024 - 11:37:16: [admin.amxx] Login: "test<9><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "192.168.0.15")
+L 09/21/2024 - 11:38:18: -------- Mapchange to zm_epic_base --------
+L 09/21/2024 - 11:38:18: An error occurred in plugin_natives. This is dangerous!
+L 09/21/2024 - 11:38:20: [admin.amxx] Login: "test<9><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "192.168.0.15")
+L 09/21/2024 - 11:39:09: -------- Mapchange to zm_epic_base --------
+L 09/21/2024 - 11:39:09: An error occurred in plugin_natives. This is dangerous!
+L 09/21/2024 - 11:39:10: [admin.amxx] Login: "test<9><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "192.168.0.15")
+L 09/21/2024 - 11:40:16: -------- Mapchange to zm_epic_base --------
+L 09/21/2024 - 11:40:16: An error occurred in plugin_natives. This is dangerous!
+L 09/21/2024 - 11:40:18: [admin.amxx] Login: "test<9><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "192.168.0.15")
+L 09/21/2024 - 11:42:04: -------- Mapchange to zm_epic_base --------
+L 09/21/2024 - 11:42:04: An error occurred in plugin_natives. This is dangerous!
+L 09/21/2024 - 11:42:06: [admin.amxx] Login: "test<9><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "192.168.0.15")
+L 09/21/2024 - 11:45:26: -------- Mapchange to zm_epic_base --------
+L 09/21/2024 - 11:45:26: An error occurred in plugin_natives. This is dangerous!
+L 09/21/2024 - 11:45:27: [admin.amxx] Login: "test<9><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "192.168.0.15")
+L 09/21/2024 - 11:50:29: -------- Mapchange to zm_epic_base --------
+L 09/21/2024 - 11:50:29: An error occurred in plugin_natives. This is dangerous!
+L 09/21/2024 - 11:50:31: [admin.amxx] Login: "test<9><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "192.168.0.15")
+L 09/21/2024 - 11:55:43: -------- Mapchange to zm_epic_base --------
+L 09/21/2024 - 11:55:43: An error occurred in plugin_natives. This is dangerous!
+L 09/21/2024 - 11:55:43: [AMXX] Plugin "Krol_testing.amxx" failed to load: Plugin uses an unknown function (name "new_entity") - check your modules.ini.
+L 09/21/2024 - 11:55:45: [admin.amxx] Login: "test<9><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "192.168.0.15")
+L 09/21/2024 - 11:56:57: -------- Mapchange to zm_epic_base --------
+L 09/21/2024 - 11:56:57: An error occurred in plugin_natives. This is dangerous!
+L 09/21/2024 - 11:56:57: [AMXX] Plugin "Krol_testing.amxx" failed to load: Plugin uses an unknown function (name "new_entity") - check your modules.ini.
+L 09/21/2024 - 11:56:58: [admin.amxx] Login: "test<9><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "192.168.0.15")
+L 09/21/2024 - 11:58:15: -------- Mapchange to zm_epic_base --------
+L 09/21/2024 - 11:58:15: An error occurred in plugin_natives. This is dangerous!
+L 09/21/2024 - 11:58:15: [AMXX] Plugin "Krol_testing.amxx" failed to load: Plugin uses an unknown function (name "new_entity") - check your modules.ini.
+L 09/21/2024 - 11:58:17: [admin.amxx] Login: "test<9><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "192.168.0.15")
+L 09/21/2024 - 12:09:46: -------- Mapchange to zm_epic_base --------
+L 09/21/2024 - 12:09:46: An error occurred in plugin_natives. This is dangerous!
+L 09/21/2024 - 12:09:46: [AMXX] Plugin "Krol_testing.amxx" failed to load: Plugin uses an unknown function (name "new_entity") - check your modules.ini.
+L 09/21/2024 - 12:09:47: [admin.amxx] Login: "test<9><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "192.168.0.15")
+L 09/21/2024 - 12:10:19: -------- Mapchange to zm_epic_base --------
+L 09/21/2024 - 12:10:19: An error occurred in plugin_natives. This is dangerous!
+L 09/21/2024 - 12:10:20: [admin.amxx] Login: "test<9><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "192.168.0.15")
+L 09/21/2024 - 12:11:13: -------- Mapchange to zm_epic_base --------
+L 09/21/2024 - 12:11:13: An error occurred in plugin_natives. This is dangerous!
+L 09/21/2024 - 12:11:14: [admin.amxx] Login: "test<9><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "192.168.0.15")
+L 09/21/2024 - 12:13:24: -------- Mapchange to zm_epic_base --------
+L 09/21/2024 - 12:13:24: An error occurred in plugin_natives. This is dangerous!
+L 09/21/2024 - 12:13:24: [AMXX] Plugin "Krol_testing.amxx" failed to load: Plugin uses an unknown function (name "new_entity") - check your modules.ini.
+L 09/21/2024 - 12:13:25: [admin.amxx] Login: "test<9><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "192.168.0.15")
+L 09/21/2024 - 12:14:46: -------- Mapchange to zm_epic_base --------
+L 09/21/2024 - 12:14:46: An error occurred in plugin_natives. This is dangerous!
+L 09/21/2024 - 12:14:46: [AMXX] Plugin "Krol_testing.amxx" failed to load: Plugin uses an unknown function (name "new_entity_K") - check your modules.ini.
+L 09/21/2024 - 12:14:47: [admin.amxx] Login: "test<9><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "192.168.0.15")
+L 09/21/2024 - 12:15:38: -------- Mapchange to zm_epic_base --------
+L 09/21/2024 - 12:15:38: An error occurred in plugin_natives. This is dangerous!
+L 09/21/2024 - 12:15:38: [AMXX] Plugin "Krol_testing.amxx" failed to load: Plugin uses an unknown function (name "new_entity") - check your modules.ini.
+L 09/21/2024 - 12:15:39: [admin.amxx] Login: "test<9><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "192.168.0.15")
+L 09/21/2024 - 12:17:13: -------- Mapchange to zm_epic_base --------
+L 09/21/2024 - 12:17:13: [GEOIP] Database info: GeoLite2 Country database 2.0
+L 09/21/2024 - 12:17:13: An error occurred in plugin_natives. This is dangerous!
+L 09/21/2024 - 12:17:13: [AMXX] Plugin "Krol_testing.amxx" failed to load: Plugin uses an unknown function (name "new_entity") - check your modules.ini.
+L 09/21/2024 - 12:17:14: [admin.amxx] Login: "test<9><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "192.168.0.15")
+L 09/21/2024 - 12:20:21: -------- Mapchange to zm_epic_base --------
+L 09/21/2024 - 12:20:21: An error occurred in plugin_natives. This is dangerous!
+L 09/21/2024 - 12:20:23: [admin.amxx] Login: "test<9><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "192.168.0.15")
+L 09/21/2024 - 12:22:32: -------- Mapchange to zm_epic_base --------
+L 09/21/2024 - 12:22:32: An error occurred in plugin_natives. This is dangerous!
+L 09/21/2024 - 12:22:32: [AMXX] Plugin "Krol_testing.amxx" failed to load: Plugin uses an unknown function (name "new_entity") - check your modules.ini.
+L 09/21/2024 - 12:22:33: [admin.amxx] Login: "test<9><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "192.168.0.15")
+L 09/21/2024 - 12:26:32: -------- Mapchange to zm_epic_base --------
+L 09/21/2024 - 12:26:32: An error occurred in plugin_natives. This is dangerous!
+L 09/21/2024 - 12:26:32: [AMXX] Plugin "Krol_testing.amxx" failed to load: Plugin uses an unknown function (name "new_entity") - check your modules.ini.
+L 09/21/2024 - 12:26:33: [admin.amxx] Login: "test<9><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "192.168.0.15")
+L 09/21/2024 - 12:27:37: -------- Mapchange to zm_epic_base --------
+L 09/21/2024 - 12:27:37: An error occurred in plugin_natives. This is dangerous!
+L 09/21/2024 - 12:27:37: [AMXX] Plugin "Krol_testing.amxx" failed to load: Plugin uses an unknown function (name "new_entity") - check your modules.ini.
+L 09/21/2024 - 12:27:39: [admin.amxx] Login: "test<9><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "192.168.0.15")
+L 09/21/2024 - 12:29:17: -------- Mapchange to zm_epic_base --------
+L 09/21/2024 - 12:29:17: An error occurred in plugin_natives. This is dangerous!
+L 09/21/2024 - 12:29:17: [AMXX] Plugin "Krol_testing.amxx" failed to load: Plugin uses an unknown function (name "new_entity") - check your modules.ini.
+L 09/21/2024 - 12:29:18: [admin.amxx] Login: "test<9><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "192.168.0.15")
+L 09/21/2024 - 12:34:29: -------- Mapchange to zm_epic_base --------
+L 09/21/2024 - 12:34:29: An error occurred in plugin_natives. This is dangerous!
+L 09/21/2024 - 12:34:29: [AMXX] Plugin "Krol_testing.amxx" failed to load: Plugin uses an unknown function (name "new_entity") - check your modules.ini.
+L 09/21/2024 - 12:34:30: [admin.amxx] Login: "test<9><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "192.168.0.15")
+L 09/21/2024 - 12:38:20: -------- Mapchange to zm_epic_base --------
+L 09/21/2024 - 12:38:20: An error occurred in plugin_natives. This is dangerous!
+L 09/21/2024 - 12:38:20: [AMXX] Plugin "Krol_testing.amxx" failed to load: Plugin uses an unknown function (name "new_entity") - check your modules.ini.
+L 09/21/2024 - 12:38:23: [admin.amxx] Login: "test<9><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "192.168.0.15")
+L 09/21/2024 - 13:01:22: [mapchooser.amxx] Vote: Voting for the nextmap started
+L 09/21/2024 - 13:01:37: [mapchooser.amxx] Vote: Voting for the nextmap finished. The nextmap will be zm_202
+L 09/21/2024 - 13:04:24: -------- Mapchange to zm_202 --------
+L 09/21/2024 - 13:04:24: An error occurred in plugin_natives. This is dangerous!
+L 09/21/2024 - 13:04:24: [AMXX] Plugin "Krol_testing.amxx" failed to load: Plugin uses an unknown function (name "new_entity") - check your modules.ini.
+L 09/21/2024 - 13:04:28: [admin.amxx] Login: "test<9><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "192.168.0.15")
+L 09/21/2024 - 13:11:29: -------- Mapchange to zm_202 --------
+L 09/21/2024 - 13:11:29: An error occurred in plugin_natives. This is dangerous!
+L 09/21/2024 - 13:11:29: [AMXX] Plugin "Krol_testing.amxx" failed to load: Plugin uses an unknown function (name "new_entity") - check your modules.ini.
+L 09/21/2024 - 13:11:31: [admin.amxx] Login: "test<9><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "192.168.0.15")
+L 09/21/2024 - 13:12:30: -------- Mapchange to zm_202 --------
+L 09/21/2024 - 13:12:30: An error occurred in plugin_natives. This is dangerous!
+L 09/21/2024 - 13:12:30: [AMXX] Plugin "Krol_testing.amxx" failed to load: Plugin uses an unknown function (name "create_new_entity") - check your modules.ini.
+L 09/21/2024 - 13:12:32: [admin.amxx] Login: "test<9><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "192.168.0.15")
+L 09/21/2024 - 13:13:04: -------- Mapchange to zm_202 --------
+L 09/21/2024 - 13:13:04: An error occurred in plugin_natives. This is dangerous!
+L 09/21/2024 - 13:13:06: [admin.amxx] Login: "test<9><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "192.168.0.15")
+L 09/21/2024 - 13:14:26: -------- Mapchange to zm_202 --------
+L 09/21/2024 - 13:14:26: An error occurred in plugin_natives. This is dangerous!
+L 09/21/2024 - 13:14:27: [AMXX] Plugin "Krol_testing.amxx" failed to load: Plugin uses an unknown function (name "create_new_entity") - check your modules.ini.
+L 09/21/2024 - 13:14:29: [admin.amxx] Login: "test<9><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "192.168.0.15")
+L 09/21/2024 - 13:15:45: -------- Mapchange to zm_202 --------
+L 09/21/2024 - 13:15:45: An error occurred in plugin_natives. This is dangerous!
+L 09/21/2024 - 13:15:47: [admin.amxx] Login: "test<9><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "192.168.0.15")
+L 09/21/2024 - 13:17:03: -------- Mapchange to zm_202 --------
+L 09/21/2024 - 13:17:03: An error occurred in plugin_natives. This is dangerous!
+L 09/21/2024 - 13:17:07: [admin.amxx] Login: "test<9><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "192.168.0.15")
+L 09/21/2024 - 13:18:15: -------- Mapchange to zm_202 --------
+L 09/21/2024 - 13:18:15: An error occurred in plugin_natives. This is dangerous!
+L 09/21/2024 - 13:18:17: [admin.amxx] Login: "test<9><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "192.168.0.15")
+L 09/21/2024 - 13:18:44: -------- Mapchange to zm_202 --------
+L 09/21/2024 - 13:18:44: An error occurred in plugin_natives. This is dangerous!
+L 09/21/2024 - 13:18:46: [admin.amxx] Login: "test<9><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "192.168.0.15")
+L 09/21/2024 - 13:37:38: -------- Mapchange to zm_202 --------
+L 09/21/2024 - 13:37:38: An error occurred in plugin_natives. This is dangerous!
+L 09/21/2024 - 13:37:40: [admin.amxx] Login: "test<9><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "192.168.0.15")
+L 09/21/2024 - 13:39:02: -------- Mapchange to zm_202 --------
+L 09/21/2024 - 13:39:02: An error occurred in plugin_natives. This is dangerous!
+L 09/21/2024 - 13:39:04: [admin.amxx] Login: "test<9><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "192.168.0.15")
+L 09/21/2024 - 13:39:50: -------- Mapchange to zm_fdust2x2 --------
+L 09/21/2024 - 13:39:51: [CSX] Could not load csstats file: cstrike\
+L 09/21/2024 - 13:39:51: An error occurred in plugin_natives. This is dangerous!
+L 09/21/2024 - 13:39:54: [admin.amxx] Login: "test<1><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "192.168.0.15")
+L 09/21/2024 - 13:42:50: -------- Mapchange to zm_fdust2x2 --------
+L 09/21/2024 - 13:42:50: [CSX] Could not load csstats file: cstrike\
+L 09/21/2024 - 13:42:51: An error occurred in plugin_natives. This is dangerous!
+L 09/21/2024 - 13:42:54: [admin.amxx] Login: "test<1><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "192.168.0.15")
+L 09/21/2024 - 13:52:36: -------- Mapchange to zm_fdust2x2 --------
+L 09/21/2024 - 13:52:36: An error occurred in plugin_natives. This is dangerous!
+L 09/21/2024 - 13:52:38: [admin.amxx] Login: "test<1><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "192.168.0.15")
+L 09/21/2024 - 14:01:13: -------- Mapchange to zm_fdust2x2 --------
+L 09/21/2024 - 14:01:13: An error occurred in plugin_natives. This is dangerous!
+L 09/21/2024 - 14:01:16: [admin.amxx] Login: "test<1><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "192.168.0.15")
+L 09/21/2024 - 14:17:14: -------- Mapchange to zm_fdust2x2 --------
+L 09/21/2024 - 14:17:14: An error occurred in plugin_natives. This is dangerous!
+L 09/21/2024 - 14:17:17: [admin.amxx] Login: "test<1><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "192.168.0.15")
+L 09/21/2024 - 14:24:15: -------- Mapchange to zm_fdust2x2 --------
+L 09/21/2024 - 14:24:15: An error occurred in plugin_natives. This is dangerous!
+L 09/21/2024 - 14:24:17: [admin.amxx] Login: "test<1><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "192.168.0.15")
+L 09/21/2024 - 14:25:39: -------- Mapchange to zm_fdust2x2 --------
+L 09/21/2024 - 14:25:40: An error occurred in plugin_natives. This is dangerous!
+L 09/21/2024 - 14:25:42: [admin.amxx] Login: "test<1><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "192.168.0.15")
+L 09/21/2024 - 14:26:28: -------- Mapchange to zm_fdust2x2 --------
+L 09/21/2024 - 14:26:28: [CSX] Could not load csstats file: cstrike\
+L 09/21/2024 - 14:26:28: An error occurred in plugin_natives. This is dangerous!
+L 09/21/2024 - 14:26:37: [admin.amxx] Login: "test<3><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "192.168.0.15")
+L 09/21/2024 - 14:28:36: -------- Mapchange to zm_fox --------
+L 09/21/2024 - 14:28:36: [CSX] Could not load csstats file: cstrike\
+L 09/21/2024 - 14:28:36: An error occurred in plugin_natives. This is dangerous!
+L 09/21/2024 - 14:28:40: [admin.amxx] Login: "test<1><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "192.168.0.15")
+L 09/21/2024 - 14:31:52: -------- Mapchange to zm_fox --------
+L 09/21/2024 - 14:31:52: An error occurred in plugin_natives. This is dangerous!
+L 09/21/2024 - 14:31:55: [admin.amxx] Login: "test<1><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "192.168.0.15")
+L 09/21/2024 - 14:32:38: -------- Mapchange to zm_fox --------
+L 09/21/2024 - 14:32:38: An error occurred in plugin_natives. This is dangerous!
+L 09/21/2024 - 14:32:40: [admin.amxx] Login: "test<1><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "192.168.0.15")
+L 09/21/2024 - 14:33:11: -------- Mapchange to zm_ngamers_lights_f --------
+L 09/21/2024 - 14:33:11: [CSX] Could not load csstats file: cstrike\
+L 09/21/2024 - 14:33:11: An error occurred in plugin_natives. This is dangerous!
+L 09/21/2024 - 14:33:13: [admin.amxx] Login: "test<1><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "192.168.0.15")
+L 09/21/2024 - 14:34:26: -------- Mapchange to zm_ngamers_lights_f --------
+L 09/21/2024 - 14:34:26: An error occurred in plugin_natives. This is dangerous!
+L 09/21/2024 - 14:34:28: [admin.amxx] Login: "test<1><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "192.168.0.15")
+L 09/21/2024 - 14:36:47: -------- Mapchange to zm_ngamers_lights_f --------
+L 09/21/2024 - 14:36:47: An error occurred in plugin_natives. This is dangerous!
+L 09/21/2024 - 14:36:50: [admin.amxx] Login: "test<1><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "192.168.0.15")
+L 09/21/2024 - 14:37:35: -------- Mapchange to zm_ngamers_lights_f --------
+L 09/21/2024 - 14:37:35: An error occurred in plugin_natives. This is dangerous!
+L 09/21/2024 - 14:37:37: [admin.amxx] Login: "test<1><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "192.168.0.15")
+L 09/21/2024 - 14:38:57: -------- Mapchange to zm_ngamers_lights_f --------
+L 09/21/2024 - 14:38:57: An error occurred in plugin_natives. This is dangerous!
+L 09/21/2024 - 14:38:59: [admin.amxx] Login: "test<1><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "192.168.0.15")
+L 09/21/2024 - 14:40:59: -------- Mapchange to zm_ngamers_lights_f --------
+L 09/21/2024 - 14:40:59: An error occurred in plugin_natives. This is dangerous!
+L 09/21/2024 - 14:41:00: [admin.amxx] Login: "test<1><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "192.168.0.15")
+L 09/21/2024 - 14:43:50: -------- Mapchange to zm_ngamers_lights_f --------
+L 09/21/2024 - 14:43:50: An error occurred in plugin_natives. This is dangerous!
+L 09/21/2024 - 14:43:52: [admin.amxx] Login: "test<1><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "192.168.0.15")
+L 09/21/2024 - 14:49:18: -------- Mapchange to zm_ngamers_lights_f --------
+L 09/21/2024 - 14:49:18: An error occurred in plugin_natives. This is dangerous!
+L 09/21/2024 - 14:49:20: [admin.amxx] Login: "test<1><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "192.168.0.15")
+L 09/21/2024 - 14:51:28: -------- Mapchange to zm_ngamers_lights_f --------
+L 09/21/2024 - 14:51:28: An error occurred in plugin_natives. This is dangerous!
+L 09/21/2024 - 14:51:31: [admin.amxx] Login: "test<1><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "192.168.0.15")
+L 09/21/2024 - 14:54:35: -------- Mapchange to zm_ngamers_lights_f --------
+L 09/21/2024 - 14:54:35: An error occurred in plugin_natives. This is dangerous!
+L 09/21/2024 - 14:54:37: [admin.amxx] Login: "test<1><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "192.168.0.15")
+L 09/21/2024 - 14:59:01: -------- Mapchange to zm_ngamers_lights_f --------
+L 09/21/2024 - 14:59:01: An error occurred in plugin_natives. This is dangerous!
+L 09/21/2024 - 14:59:03: [admin.amxx] Login: "test<1><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "192.168.0.15")
+L 09/21/2024 - 15:00:23: -------- Mapchange to zm_ngamers_lights_f --------
+L 09/21/2024 - 15:00:23: An error occurred in plugin_natives. This is dangerous!
+L 09/21/2024 - 15:00:25: [admin.amxx] Login: "test<1><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "192.168.0.15")
+L 09/21/2024 - 15:02:22: -------- Mapchange to zm_ngamers_lights_f --------
+L 09/21/2024 - 15:02:22: An error occurred in plugin_natives. This is dangerous!
+L 09/21/2024 - 15:02:25: [admin.amxx] Login: "test<1><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "192.168.0.15")
+L 09/21/2024 - 15:04:03: -------- Mapchange to zm_ngamers_lights_f --------
+L 09/21/2024 - 15:04:03: An error occurred in plugin_natives. This is dangerous!
+L 09/21/2024 - 15:04:05: [admin.amxx] Login: "test<1><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "192.168.0.15")
+L 09/21/2024 - 15:08:49: -------- Mapchange to zm_ngamers_lights_f --------
+L 09/21/2024 - 15:08:49: An error occurred in plugin_natives. This is dangerous!
+L 09/21/2024 - 15:08:52: [admin.amxx] Login: "test<1><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "192.168.0.15")
+L 09/21/2024 - 15:20:01: -------- Mapchange to zm_ngamers_lights_f --------
+L 09/21/2024 - 15:20:01: An error occurred in plugin_natives. This is dangerous!
+L 09/21/2024 - 15:20:04: [admin.amxx] Login: "test<1><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "192.168.0.15")
+L 09/21/2024 - 15:33:15: -------- Mapchange to zm_ngamers_lights_f --------
+L 09/21/2024 - 15:33:15: An error occurred in plugin_natives. This is dangerous!
+L 09/21/2024 - 15:33:18: [admin.amxx] Login: "test<1><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "192.168.0.15")
+L 09/21/2024 - 15:36:44: -------- Mapchange to zm_ngamers_lights_f --------
+L 09/21/2024 - 15:36:44: An error occurred in plugin_natives. This is dangerous!
+L 09/21/2024 - 15:36:47: [admin.amxx] Login: "test<1><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "192.168.0.15")
+L 09/21/2024 - 15:37:29: -------- Mapchange to zm_ngamers_lights_f --------
+L 09/21/2024 - 15:37:29: An error occurred in plugin_natives. This is dangerous!
+L 09/21/2024 - 15:37:31: [admin.amxx] Login: "test<1><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "192.168.0.15")
+L 09/21/2024 - 15:43:45: -------- Mapchange to zm_ngamers_lights_f --------
+L 09/21/2024 - 15:43:45: An error occurred in plugin_natives. This is dangerous!
+L 09/21/2024 - 15:43:48: [admin.amxx] Login: "test<1><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "192.168.0.15")
+L 09/21/2024 - 15:45:14: -------- Mapchange to zm_ngamers_lights_f --------
+L 09/21/2024 - 15:45:14: An error occurred in plugin_natives. This is dangerous!
+L 09/21/2024 - 15:45:16: [admin.amxx] Login: "test<1><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "192.168.0.15")

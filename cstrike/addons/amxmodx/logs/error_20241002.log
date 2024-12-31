@@ -1,0 +1,1477 @@
+L 10/02/2024 - 12:45:51: Start of error session.
+L 10/02/2024 - 12:45:51: Info (map "zm_epic_base") (file "addons/amxmodx/logs/error_20241002.log")
+L 10/02/2024 - 12:45:51: [AMXX] Plugin file open error (plugin "scm_entity_editor.amxx")
+L 10/02/2024 - 12:45:52: Invalid index 13 (count: 13)
+L 10/02/2024 - 12:45:52: [AMXX] Run time error 10 (plugin "zombie_plague40.amxx") (native "ArrayGetCell") - debug not enabled!
+L 10/02/2024 - 12:45:52: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:45:52: Unhandled dynamic native error
+L 10/02/2024 - 12:45:52: [AMXX] Run time error 10 (plugin "zp_gungnir_v2.amxx") (native "zp_register_extra_item") - debug not enabled!
+L 10/02/2024 - 12:45:52: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:48:59: [ENGINE] Invalid player 2 (not in-game)
+L 10/02/2024 - 12:48:59: [AMXX] Run time error 10 (plugin "lib_entity.amxx") (native "entity_range") - debug not enabled!
+L 10/02/2024 - 12:48:59: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:48:59: Unhandled dynamic native error
+L 10/02/2024 - 12:48:59: [AMXX] Run time error 10 (plugin "Krol_menu_knifes.amxx") (native "draw_into_oneself") - debug not enabled!
+L 10/02/2024 - 12:48:59: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:48:59: [ENGINE] Invalid player 2 (not in-game)
+L 10/02/2024 - 12:48:59: [AMXX] Run time error 10 (plugin "lib_entity.amxx") (native "entity_range") - debug not enabled!
+L 10/02/2024 - 12:48:59: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:48:59: Unhandled dynamic native error
+L 10/02/2024 - 12:48:59: [AMXX] Run time error 10 (plugin "Krol_menu_knifes.amxx") (native "draw_into_oneself") - debug not enabled!
+L 10/02/2024 - 12:48:59: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:48:59: [ENGINE] Invalid player 2 (not in-game)
+L 10/02/2024 - 12:48:59: [AMXX] Run time error 10 (plugin "lib_entity.amxx") (native "entity_range") - debug not enabled!
+L 10/02/2024 - 12:48:59: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:48:59: Unhandled dynamic native error
+L 10/02/2024 - 12:48:59: [AMXX] Run time error 10 (plugin "Krol_menu_knifes.amxx") (native "draw_into_oneself") - debug not enabled!
+L 10/02/2024 - 12:48:59: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:48:59: [ENGINE] Invalid player 2 (not in-game)
+L 10/02/2024 - 12:48:59: [AMXX] Run time error 10 (plugin "lib_entity.amxx") (native "entity_range") - debug not enabled!
+L 10/02/2024 - 12:48:59: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:48:59: Unhandled dynamic native error
+L 10/02/2024 - 12:48:59: [AMXX] Run time error 10 (plugin "Krol_menu_knifes.amxx") (native "draw_into_oneself") - debug not enabled!
+L 10/02/2024 - 12:48:59: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:48:59: [ENGINE] Invalid player 2 (not in-game)
+L 10/02/2024 - 12:48:59: [AMXX] Run time error 10 (plugin "lib_entity.amxx") (native "entity_range") - debug not enabled!
+L 10/02/2024 - 12:48:59: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:48:59: Unhandled dynamic native error
+L 10/02/2024 - 12:48:59: [AMXX] Run time error 10 (plugin "Krol_menu_knifes.amxx") (native "draw_into_oneself") - debug not enabled!
+L 10/02/2024 - 12:48:59: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:48:59: [ENGINE] Invalid player 2 (not in-game)
+L 10/02/2024 - 12:48:59: [AMXX] Run time error 10 (plugin "lib_entity.amxx") (native "entity_range") - debug not enabled!
+L 10/02/2024 - 12:48:59: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:48:59: Unhandled dynamic native error
+L 10/02/2024 - 12:48:59: [AMXX] Run time error 10 (plugin "Krol_menu_knifes.amxx") (native "draw_into_oneself") - debug not enabled!
+L 10/02/2024 - 12:48:59: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:48:59: [ENGINE] Invalid player 2 (not in-game)
+L 10/02/2024 - 12:48:59: [AMXX] Run time error 10 (plugin "lib_entity.amxx") (native "entity_range") - debug not enabled!
+L 10/02/2024 - 12:48:59: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:48:59: Unhandled dynamic native error
+L 10/02/2024 - 12:48:59: [AMXX] Run time error 10 (plugin "Krol_menu_knifes.amxx") (native "draw_into_oneself") - debug not enabled!
+L 10/02/2024 - 12:48:59: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:48:59: [ENGINE] Invalid player 2 (not in-game)
+L 10/02/2024 - 12:48:59: [AMXX] Run time error 10 (plugin "lib_entity.amxx") (native "entity_range") - debug not enabled!
+L 10/02/2024 - 12:48:59: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:48:59: Unhandled dynamic native error
+L 10/02/2024 - 12:48:59: [AMXX] Run time error 10 (plugin "Krol_menu_knifes.amxx") (native "draw_into_oneself") - debug not enabled!
+L 10/02/2024 - 12:48:59: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:48:59: [ENGINE] Invalid player 2 (not in-game)
+L 10/02/2024 - 12:48:59: [AMXX] Run time error 10 (plugin "lib_entity.amxx") (native "entity_range") - debug not enabled!
+L 10/02/2024 - 12:48:59: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:48:59: Unhandled dynamic native error
+L 10/02/2024 - 12:48:59: [AMXX] Run time error 10 (plugin "Krol_menu_knifes.amxx") (native "draw_into_oneself") - debug not enabled!
+L 10/02/2024 - 12:48:59: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:49:00: [ENGINE] Invalid player 2 (not in-game)
+L 10/02/2024 - 12:49:00: [AMXX] Run time error 10 (plugin "lib_entity.amxx") (native "entity_range") - debug not enabled!
+L 10/02/2024 - 12:49:00: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:49:00: Unhandled dynamic native error
+L 10/02/2024 - 12:49:00: [AMXX] Run time error 10 (plugin "Krol_menu_knifes.amxx") (native "draw_into_oneself") - debug not enabled!
+L 10/02/2024 - 12:49:00: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:49:00: [ENGINE] Invalid player 2 (not in-game)
+L 10/02/2024 - 12:49:00: [AMXX] Run time error 10 (plugin "lib_entity.amxx") (native "entity_range") - debug not enabled!
+L 10/02/2024 - 12:49:00: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:49:00: Unhandled dynamic native error
+L 10/02/2024 - 12:49:00: [AMXX] Run time error 10 (plugin "Krol_menu_knifes.amxx") (native "draw_into_oneself") - debug not enabled!
+L 10/02/2024 - 12:49:00: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:49:00: [ENGINE] Invalid player 2 (not in-game)
+L 10/02/2024 - 12:49:00: [AMXX] Run time error 10 (plugin "lib_entity.amxx") (native "entity_range") - debug not enabled!
+L 10/02/2024 - 12:49:00: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:49:00: Unhandled dynamic native error
+L 10/02/2024 - 12:49:00: [AMXX] Run time error 10 (plugin "Krol_menu_knifes.amxx") (native "draw_into_oneself") - debug not enabled!
+L 10/02/2024 - 12:49:00: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:49:00: [ENGINE] Invalid player 2 (not in-game)
+L 10/02/2024 - 12:49:00: [AMXX] Run time error 10 (plugin "lib_entity.amxx") (native "entity_range") - debug not enabled!
+L 10/02/2024 - 12:49:00: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:49:00: Unhandled dynamic native error
+L 10/02/2024 - 12:49:00: [AMXX] Run time error 10 (plugin "Krol_menu_knifes.amxx") (native "draw_into_oneself") - debug not enabled!
+L 10/02/2024 - 12:49:00: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:49:00: [ENGINE] Invalid player 2 (not in-game)
+L 10/02/2024 - 12:49:00: [AMXX] Run time error 10 (plugin "lib_entity.amxx") (native "entity_range") - debug not enabled!
+L 10/02/2024 - 12:49:00: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:49:00: Unhandled dynamic native error
+L 10/02/2024 - 12:49:00: [AMXX] Run time error 10 (plugin "Krol_menu_knifes.amxx") (native "draw_into_oneself") - debug not enabled!
+L 10/02/2024 - 12:49:00: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:49:00: [ENGINE] Invalid player 2 (not in-game)
+L 10/02/2024 - 12:49:00: [AMXX] Run time error 10 (plugin "lib_entity.amxx") (native "entity_range") - debug not enabled!
+L 10/02/2024 - 12:49:00: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:49:00: Unhandled dynamic native error
+L 10/02/2024 - 12:49:00: [AMXX] Run time error 10 (plugin "Krol_menu_knifes.amxx") (native "draw_into_oneself") - debug not enabled!
+L 10/02/2024 - 12:49:00: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:49:00: [ENGINE] Invalid player 2 (not in-game)
+L 10/02/2024 - 12:49:00: [AMXX] Run time error 10 (plugin "lib_entity.amxx") (native "entity_range") - debug not enabled!
+L 10/02/2024 - 12:49:00: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:49:00: Unhandled dynamic native error
+L 10/02/2024 - 12:49:00: [AMXX] Run time error 10 (plugin "Krol_menu_knifes.amxx") (native "draw_into_oneself") - debug not enabled!
+L 10/02/2024 - 12:49:00: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:49:00: [ENGINE] Invalid player 2 (not in-game)
+L 10/02/2024 - 12:49:00: [AMXX] Run time error 10 (plugin "lib_entity.amxx") (native "entity_range") - debug not enabled!
+L 10/02/2024 - 12:49:00: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:49:00: Unhandled dynamic native error
+L 10/02/2024 - 12:49:00: [AMXX] Run time error 10 (plugin "Krol_menu_knifes.amxx") (native "draw_into_oneself") - debug not enabled!
+L 10/02/2024 - 12:49:00: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:49:00: [ENGINE] Invalid player 2 (not in-game)
+L 10/02/2024 - 12:49:00: [AMXX] Run time error 10 (plugin "lib_entity.amxx") (native "entity_range") - debug not enabled!
+L 10/02/2024 - 12:49:00: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:49:00: Unhandled dynamic native error
+L 10/02/2024 - 12:49:00: [AMXX] Run time error 10 (plugin "Krol_menu_knifes.amxx") (native "draw_into_oneself") - debug not enabled!
+L 10/02/2024 - 12:49:00: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:49:00: [ENGINE] Invalid player 2 (not in-game)
+L 10/02/2024 - 12:49:00: [AMXX] Run time error 10 (plugin "lib_entity.amxx") (native "entity_range") - debug not enabled!
+L 10/02/2024 - 12:49:00: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:49:00: Unhandled dynamic native error
+L 10/02/2024 - 12:49:00: [AMXX] Run time error 10 (plugin "Krol_menu_knifes.amxx") (native "draw_into_oneself") - debug not enabled!
+L 10/02/2024 - 12:49:00: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:49:01: [ENGINE] Invalid player 2 (not in-game)
+L 10/02/2024 - 12:49:01: [AMXX] Run time error 10 (plugin "lib_entity.amxx") (native "entity_range") - debug not enabled!
+L 10/02/2024 - 12:49:01: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:49:01: Unhandled dynamic native error
+L 10/02/2024 - 12:49:01: [AMXX] Run time error 10 (plugin "Krol_menu_knifes.amxx") (native "draw_into_oneself") - debug not enabled!
+L 10/02/2024 - 12:49:01: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:49:01: [ENGINE] Invalid player 2 (not in-game)
+L 10/02/2024 - 12:49:01: [AMXX] Run time error 10 (plugin "lib_entity.amxx") (native "entity_range") - debug not enabled!
+L 10/02/2024 - 12:49:01: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:49:01: Unhandled dynamic native error
+L 10/02/2024 - 12:49:01: [AMXX] Run time error 10 (plugin "Krol_menu_knifes.amxx") (native "draw_into_oneself") - debug not enabled!
+L 10/02/2024 - 12:49:01: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:49:01: [ENGINE] Invalid player 2 (not in-game)
+L 10/02/2024 - 12:49:01: [AMXX] Run time error 10 (plugin "lib_entity.amxx") (native "entity_range") - debug not enabled!
+L 10/02/2024 - 12:49:01: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:49:01: Unhandled dynamic native error
+L 10/02/2024 - 12:49:01: [AMXX] Run time error 10 (plugin "Krol_menu_knifes.amxx") (native "draw_into_oneself") - debug not enabled!
+L 10/02/2024 - 12:49:01: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:49:01: [ENGINE] Invalid player 2 (not in-game)
+L 10/02/2024 - 12:49:01: [AMXX] Run time error 10 (plugin "lib_entity.amxx") (native "entity_range") - debug not enabled!
+L 10/02/2024 - 12:49:01: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:49:01: Unhandled dynamic native error
+L 10/02/2024 - 12:49:01: [AMXX] Run time error 10 (plugin "Krol_menu_knifes.amxx") (native "draw_into_oneself") - debug not enabled!
+L 10/02/2024 - 12:49:01: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:49:01: [ENGINE] Invalid player 2 (not in-game)
+L 10/02/2024 - 12:49:01: [AMXX] Run time error 10 (plugin "lib_entity.amxx") (native "entity_range") - debug not enabled!
+L 10/02/2024 - 12:49:01: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:49:01: Unhandled dynamic native error
+L 10/02/2024 - 12:49:01: [AMXX] Run time error 10 (plugin "Krol_menu_knifes.amxx") (native "draw_into_oneself") - debug not enabled!
+L 10/02/2024 - 12:49:01: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:49:01: [ENGINE] Invalid player 2 (not in-game)
+L 10/02/2024 - 12:49:01: [AMXX] Run time error 10 (plugin "lib_entity.amxx") (native "entity_range") - debug not enabled!
+L 10/02/2024 - 12:49:01: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:49:01: Unhandled dynamic native error
+L 10/02/2024 - 12:49:01: [AMXX] Run time error 10 (plugin "Krol_menu_knifes.amxx") (native "draw_into_oneself") - debug not enabled!
+L 10/02/2024 - 12:49:01: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:49:01: [ENGINE] Invalid player 2 (not in-game)
+L 10/02/2024 - 12:49:01: [AMXX] Run time error 10 (plugin "lib_entity.amxx") (native "entity_range") - debug not enabled!
+L 10/02/2024 - 12:49:01: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:49:01: Unhandled dynamic native error
+L 10/02/2024 - 12:49:01: [AMXX] Run time error 10 (plugin "Krol_menu_knifes.amxx") (native "draw_into_oneself") - debug not enabled!
+L 10/02/2024 - 12:49:01: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:49:01: [ENGINE] Invalid player 2 (not in-game)
+L 10/02/2024 - 12:49:01: [AMXX] Run time error 10 (plugin "lib_entity.amxx") (native "entity_range") - debug not enabled!
+L 10/02/2024 - 12:49:01: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:49:01: Unhandled dynamic native error
+L 10/02/2024 - 12:49:01: [AMXX] Run time error 10 (plugin "Krol_menu_knifes.amxx") (native "draw_into_oneself") - debug not enabled!
+L 10/02/2024 - 12:49:01: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:49:01: [ENGINE] Invalid player 2 (not in-game)
+L 10/02/2024 - 12:49:01: [AMXX] Run time error 10 (plugin "lib_entity.amxx") (native "entity_range") - debug not enabled!
+L 10/02/2024 - 12:49:01: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:49:01: Unhandled dynamic native error
+L 10/02/2024 - 12:49:01: [AMXX] Run time error 10 (plugin "Krol_menu_knifes.amxx") (native "draw_into_oneself") - debug not enabled!
+L 10/02/2024 - 12:49:01: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:49:01: [ENGINE] Invalid player 2 (not in-game)
+L 10/02/2024 - 12:49:01: [AMXX] Run time error 10 (plugin "lib_entity.amxx") (native "entity_range") - debug not enabled!
+L 10/02/2024 - 12:49:01: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:49:01: Unhandled dynamic native error
+L 10/02/2024 - 12:49:01: [AMXX] Run time error 10 (plugin "Krol_menu_knifes.amxx") (native "draw_into_oneself") - debug not enabled!
+L 10/02/2024 - 12:49:01: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:49:02: [ENGINE] Invalid player 2 (not in-game)
+L 10/02/2024 - 12:49:02: [AMXX] Run time error 10 (plugin "lib_entity.amxx") (native "entity_range") - debug not enabled!
+L 10/02/2024 - 12:49:02: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:49:02: Unhandled dynamic native error
+L 10/02/2024 - 12:49:02: [AMXX] Run time error 10 (plugin "Krol_menu_knifes.amxx") (native "draw_into_oneself") - debug not enabled!
+L 10/02/2024 - 12:49:02: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:49:02: [ENGINE] Invalid player 2 (not in-game)
+L 10/02/2024 - 12:49:02: [AMXX] Run time error 10 (plugin "lib_entity.amxx") (native "entity_range") - debug not enabled!
+L 10/02/2024 - 12:49:02: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:49:02: Unhandled dynamic native error
+L 10/02/2024 - 12:49:02: [AMXX] Run time error 10 (plugin "Krol_menu_knifes.amxx") (native "draw_into_oneself") - debug not enabled!
+L 10/02/2024 - 12:49:02: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:49:02: [ENGINE] Invalid player 2 (not in-game)
+L 10/02/2024 - 12:49:02: [AMXX] Run time error 10 (plugin "lib_entity.amxx") (native "entity_range") - debug not enabled!
+L 10/02/2024 - 12:49:02: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:49:02: Unhandled dynamic native error
+L 10/02/2024 - 12:49:02: [AMXX] Run time error 10 (plugin "Krol_menu_knifes.amxx") (native "draw_into_oneself") - debug not enabled!
+L 10/02/2024 - 12:49:02: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:49:02: [ENGINE] Invalid player 2 (not in-game)
+L 10/02/2024 - 12:49:02: [AMXX] Run time error 10 (plugin "lib_entity.amxx") (native "entity_range") - debug not enabled!
+L 10/02/2024 - 12:49:02: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:49:02: Unhandled dynamic native error
+L 10/02/2024 - 12:49:02: [AMXX] Run time error 10 (plugin "Krol_menu_knifes.amxx") (native "draw_into_oneself") - debug not enabled!
+L 10/02/2024 - 12:49:02: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:49:02: [ENGINE] Invalid player 2 (not in-game)
+L 10/02/2024 - 12:49:02: [AMXX] Run time error 10 (plugin "lib_entity.amxx") (native "entity_range") - debug not enabled!
+L 10/02/2024 - 12:49:02: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:49:02: Unhandled dynamic native error
+L 10/02/2024 - 12:49:02: [AMXX] Run time error 10 (plugin "Krol_menu_knifes.amxx") (native "draw_into_oneself") - debug not enabled!
+L 10/02/2024 - 12:49:02: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:49:02: [ENGINE] Invalid player 2 (not in-game)
+L 10/02/2024 - 12:49:02: [AMXX] Run time error 10 (plugin "lib_entity.amxx") (native "entity_range") - debug not enabled!
+L 10/02/2024 - 12:49:02: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:49:02: Unhandled dynamic native error
+L 10/02/2024 - 12:49:02: [AMXX] Run time error 10 (plugin "Krol_menu_knifes.amxx") (native "draw_into_oneself") - debug not enabled!
+L 10/02/2024 - 12:49:02: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:49:02: [ENGINE] Invalid player 2 (not in-game)
+L 10/02/2024 - 12:49:02: [AMXX] Run time error 10 (plugin "lib_entity.amxx") (native "entity_range") - debug not enabled!
+L 10/02/2024 - 12:49:02: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:49:02: Unhandled dynamic native error
+L 10/02/2024 - 12:49:02: [AMXX] Run time error 10 (plugin "Krol_menu_knifes.amxx") (native "draw_into_oneself") - debug not enabled!
+L 10/02/2024 - 12:49:02: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:49:02: [ENGINE] Invalid player 2 (not in-game)
+L 10/02/2024 - 12:49:02: [AMXX] Run time error 10 (plugin "lib_entity.amxx") (native "entity_range") - debug not enabled!
+L 10/02/2024 - 12:49:02: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:49:02: Unhandled dynamic native error
+L 10/02/2024 - 12:49:02: [AMXX] Run time error 10 (plugin "Krol_menu_knifes.amxx") (native "draw_into_oneself") - debug not enabled!
+L 10/02/2024 - 12:49:02: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:49:02: [ENGINE] Invalid player 2 (not in-game)
+L 10/02/2024 - 12:49:02: [AMXX] Run time error 10 (plugin "lib_entity.amxx") (native "entity_range") - debug not enabled!
+L 10/02/2024 - 12:49:02: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:49:02: Unhandled dynamic native error
+L 10/02/2024 - 12:49:02: [AMXX] Run time error 10 (plugin "Krol_menu_knifes.amxx") (native "draw_into_oneself") - debug not enabled!
+L 10/02/2024 - 12:49:02: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:49:03: [ENGINE] Invalid player 2 (not in-game)
+L 10/02/2024 - 12:49:03: [AMXX] Run time error 10 (plugin "lib_entity.amxx") (native "entity_range") - debug not enabled!
+L 10/02/2024 - 12:49:03: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:49:03: Unhandled dynamic native error
+L 10/02/2024 - 12:49:03: [AMXX] Run time error 10 (plugin "Krol_menu_knifes.amxx") (native "draw_into_oneself") - debug not enabled!
+L 10/02/2024 - 12:49:03: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:49:03: [ENGINE] Invalid player 2 (not in-game)
+L 10/02/2024 - 12:49:03: [AMXX] Run time error 10 (plugin "lib_entity.amxx") (native "entity_range") - debug not enabled!
+L 10/02/2024 - 12:49:03: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:49:03: Unhandled dynamic native error
+L 10/02/2024 - 12:49:03: [AMXX] Run time error 10 (plugin "Krol_menu_knifes.amxx") (native "draw_into_oneself") - debug not enabled!
+L 10/02/2024 - 12:49:03: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:49:03: [ENGINE] Invalid player 2 (not in-game)
+L 10/02/2024 - 12:49:03: [AMXX] Run time error 10 (plugin "lib_entity.amxx") (native "entity_range") - debug not enabled!
+L 10/02/2024 - 12:49:03: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:49:03: Unhandled dynamic native error
+L 10/02/2024 - 12:49:03: [AMXX] Run time error 10 (plugin "Krol_menu_knifes.amxx") (native "draw_into_oneself") - debug not enabled!
+L 10/02/2024 - 12:49:03: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:49:03: [ENGINE] Invalid player 2 (not in-game)
+L 10/02/2024 - 12:49:03: [AMXX] Run time error 10 (plugin "lib_entity.amxx") (native "entity_range") - debug not enabled!
+L 10/02/2024 - 12:49:03: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:49:03: Unhandled dynamic native error
+L 10/02/2024 - 12:49:03: [AMXX] Run time error 10 (plugin "Krol_menu_knifes.amxx") (native "draw_into_oneself") - debug not enabled!
+L 10/02/2024 - 12:49:03: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:49:03: [ENGINE] Invalid player 2 (not in-game)
+L 10/02/2024 - 12:49:03: [AMXX] Run time error 10 (plugin "lib_entity.amxx") (native "entity_range") - debug not enabled!
+L 10/02/2024 - 12:49:03: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:49:03: Unhandled dynamic native error
+L 10/02/2024 - 12:49:03: [AMXX] Run time error 10 (plugin "Krol_menu_knifes.amxx") (native "draw_into_oneself") - debug not enabled!
+L 10/02/2024 - 12:49:03: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:49:03: [ENGINE] Invalid player 2 (not in-game)
+L 10/02/2024 - 12:49:03: [AMXX] Run time error 10 (plugin "lib_entity.amxx") (native "entity_range") - debug not enabled!
+L 10/02/2024 - 12:49:03: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:49:03: Unhandled dynamic native error
+L 10/02/2024 - 12:49:03: [AMXX] Run time error 10 (plugin "Krol_menu_knifes.amxx") (native "draw_into_oneself") - debug not enabled!
+L 10/02/2024 - 12:49:03: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:49:03: [ENGINE] Invalid player 2 (not in-game)
+L 10/02/2024 - 12:49:03: [AMXX] Run time error 10 (plugin "lib_entity.amxx") (native "entity_range") - debug not enabled!
+L 10/02/2024 - 12:49:03: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:49:03: Unhandled dynamic native error
+L 10/02/2024 - 12:49:03: [AMXX] Run time error 10 (plugin "Krol_menu_knifes.amxx") (native "draw_into_oneself") - debug not enabled!
+L 10/02/2024 - 12:49:03: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:49:03: [ENGINE] Invalid player 2 (not in-game)
+L 10/02/2024 - 12:49:03: [AMXX] Run time error 10 (plugin "lib_entity.amxx") (native "entity_range") - debug not enabled!
+L 10/02/2024 - 12:49:03: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:49:03: Unhandled dynamic native error
+L 10/02/2024 - 12:49:03: [AMXX] Run time error 10 (plugin "Krol_menu_knifes.amxx") (native "draw_into_oneself") - debug not enabled!
+L 10/02/2024 - 12:49:03: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:49:03: [ENGINE] Invalid player 2 (not in-game)
+L 10/02/2024 - 12:49:03: [AMXX] Run time error 10 (plugin "lib_entity.amxx") (native "entity_range") - debug not enabled!
+L 10/02/2024 - 12:49:03: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:49:03: Unhandled dynamic native error
+L 10/02/2024 - 12:49:03: [AMXX] Run time error 10 (plugin "Krol_menu_knifes.amxx") (native "draw_into_oneself") - debug not enabled!
+L 10/02/2024 - 12:49:03: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:49:03: [ENGINE] Invalid player 2 (not in-game)
+L 10/02/2024 - 12:49:03: [AMXX] Run time error 10 (plugin "lib_entity.amxx") (native "entity_range") - debug not enabled!
+L 10/02/2024 - 12:49:03: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:49:03: Unhandled dynamic native error
+L 10/02/2024 - 12:49:03: [AMXX] Run time error 10 (plugin "Krol_menu_knifes.amxx") (native "draw_into_oneself") - debug not enabled!
+L 10/02/2024 - 12:49:03: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:49:04: [ENGINE] Invalid player 2 (not in-game)
+L 10/02/2024 - 12:49:04: [AMXX] Run time error 10 (plugin "lib_entity.amxx") (native "entity_range") - debug not enabled!
+L 10/02/2024 - 12:49:04: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:49:04: Unhandled dynamic native error
+L 10/02/2024 - 12:49:04: [AMXX] Run time error 10 (plugin "Krol_menu_knifes.amxx") (native "draw_into_oneself") - debug not enabled!
+L 10/02/2024 - 12:49:04: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:49:11: [ENGINE] Invalid player 2 (not in-game)
+L 10/02/2024 - 12:49:11: [AMXX] Run time error 10 (plugin "lib_entity.amxx") (native "entity_range") - debug not enabled!
+L 10/02/2024 - 12:49:11: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:49:11: Unhandled dynamic native error
+L 10/02/2024 - 12:49:11: [AMXX] Run time error 10 (plugin "Krol_menu_knifes.amxx") (native "draw_into_oneself") - debug not enabled!
+L 10/02/2024 - 12:49:11: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:49:11: [ENGINE] Invalid player 2 (not in-game)
+L 10/02/2024 - 12:49:11: [AMXX] Run time error 10 (plugin "lib_entity.amxx") (native "entity_range") - debug not enabled!
+L 10/02/2024 - 12:49:11: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:49:11: Unhandled dynamic native error
+L 10/02/2024 - 12:49:11: [AMXX] Run time error 10 (plugin "Krol_menu_knifes.amxx") (native "draw_into_oneself") - debug not enabled!
+L 10/02/2024 - 12:49:11: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:49:11: [ENGINE] Invalid player 2 (not in-game)
+L 10/02/2024 - 12:49:11: [AMXX] Run time error 10 (plugin "lib_entity.amxx") (native "entity_range") - debug not enabled!
+L 10/02/2024 - 12:49:11: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:49:11: Unhandled dynamic native error
+L 10/02/2024 - 12:49:11: [AMXX] Run time error 10 (plugin "Krol_menu_knifes.amxx") (native "draw_into_oneself") - debug not enabled!
+L 10/02/2024 - 12:49:11: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:49:11: [ENGINE] Invalid player 2 (not in-game)
+L 10/02/2024 - 12:49:11: [AMXX] Run time error 10 (plugin "lib_entity.amxx") (native "entity_range") - debug not enabled!
+L 10/02/2024 - 12:49:11: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:49:11: Unhandled dynamic native error
+L 10/02/2024 - 12:49:11: [AMXX] Run time error 10 (plugin "Krol_menu_knifes.amxx") (native "draw_into_oneself") - debug not enabled!
+L 10/02/2024 - 12:49:11: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:49:11: [ENGINE] Invalid player 2 (not in-game)
+L 10/02/2024 - 12:49:11: [AMXX] Run time error 10 (plugin "lib_entity.amxx") (native "entity_range") - debug not enabled!
+L 10/02/2024 - 12:49:11: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:49:11: Unhandled dynamic native error
+L 10/02/2024 - 12:49:11: [AMXX] Run time error 10 (plugin "Krol_menu_knifes.amxx") (native "draw_into_oneself") - debug not enabled!
+L 10/02/2024 - 12:49:11: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:49:11: [ENGINE] Invalid player 2 (not in-game)
+L 10/02/2024 - 12:49:11: [AMXX] Run time error 10 (plugin "lib_entity.amxx") (native "entity_range") - debug not enabled!
+L 10/02/2024 - 12:49:11: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:49:11: Unhandled dynamic native error
+L 10/02/2024 - 12:49:11: [AMXX] Run time error 10 (plugin "Krol_menu_knifes.amxx") (native "draw_into_oneself") - debug not enabled!
+L 10/02/2024 - 12:49:11: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:49:11: [ENGINE] Invalid player 2 (not in-game)
+L 10/02/2024 - 12:49:11: [AMXX] Run time error 10 (plugin "lib_entity.amxx") (native "entity_range") - debug not enabled!
+L 10/02/2024 - 12:49:11: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:49:11: Unhandled dynamic native error
+L 10/02/2024 - 12:49:11: [AMXX] Run time error 10 (plugin "Krol_menu_knifes.amxx") (native "draw_into_oneself") - debug not enabled!
+L 10/02/2024 - 12:49:11: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:49:11: [ENGINE] Invalid player 2 (not in-game)
+L 10/02/2024 - 12:49:11: [AMXX] Run time error 10 (plugin "lib_entity.amxx") (native "entity_range") - debug not enabled!
+L 10/02/2024 - 12:49:11: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:49:11: Unhandled dynamic native error
+L 10/02/2024 - 12:49:11: [AMXX] Run time error 10 (plugin "Krol_menu_knifes.amxx") (native "draw_into_oneself") - debug not enabled!
+L 10/02/2024 - 12:49:11: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:49:11: [ENGINE] Invalid player 2 (not in-game)
+L 10/02/2024 - 12:49:11: [AMXX] Run time error 10 (plugin "lib_entity.amxx") (native "entity_range") - debug not enabled!
+L 10/02/2024 - 12:49:11: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:49:11: Unhandled dynamic native error
+L 10/02/2024 - 12:49:11: [AMXX] Run time error 10 (plugin "Krol_menu_knifes.amxx") (native "draw_into_oneself") - debug not enabled!
+L 10/02/2024 - 12:49:11: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:49:12: [ENGINE] Invalid player 2 (not in-game)
+L 10/02/2024 - 12:49:12: [AMXX] Run time error 10 (plugin "lib_entity.amxx") (native "entity_range") - debug not enabled!
+L 10/02/2024 - 12:49:12: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:49:12: Unhandled dynamic native error
+L 10/02/2024 - 12:49:12: [AMXX] Run time error 10 (plugin "Krol_menu_knifes.amxx") (native "draw_into_oneself") - debug not enabled!
+L 10/02/2024 - 12:49:12: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:49:12: [ENGINE] Invalid player 2 (not in-game)
+L 10/02/2024 - 12:49:12: [AMXX] Run time error 10 (plugin "lib_entity.amxx") (native "entity_range") - debug not enabled!
+L 10/02/2024 - 12:49:12: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:49:12: Unhandled dynamic native error
+L 10/02/2024 - 12:49:12: [AMXX] Run time error 10 (plugin "Krol_menu_knifes.amxx") (native "draw_into_oneself") - debug not enabled!
+L 10/02/2024 - 12:49:12: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:49:12: [ENGINE] Invalid player 2 (not in-game)
+L 10/02/2024 - 12:49:12: [AMXX] Run time error 10 (plugin "lib_entity.amxx") (native "entity_range") - debug not enabled!
+L 10/02/2024 - 12:49:12: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:49:12: Unhandled dynamic native error
+L 10/02/2024 - 12:49:12: [AMXX] Run time error 10 (plugin "Krol_menu_knifes.amxx") (native "draw_into_oneself") - debug not enabled!
+L 10/02/2024 - 12:49:12: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:49:12: [ENGINE] Invalid player 2 (not in-game)
+L 10/02/2024 - 12:49:12: [AMXX] Run time error 10 (plugin "lib_entity.amxx") (native "entity_range") - debug not enabled!
+L 10/02/2024 - 12:49:12: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:49:12: Unhandled dynamic native error
+L 10/02/2024 - 12:49:12: [AMXX] Run time error 10 (plugin "Krol_menu_knifes.amxx") (native "draw_into_oneself") - debug not enabled!
+L 10/02/2024 - 12:49:12: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:49:12: [ENGINE] Invalid player 2 (not in-game)
+L 10/02/2024 - 12:49:12: [AMXX] Run time error 10 (plugin "lib_entity.amxx") (native "entity_range") - debug not enabled!
+L 10/02/2024 - 12:49:12: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:49:12: Unhandled dynamic native error
+L 10/02/2024 - 12:49:12: [AMXX] Run time error 10 (plugin "Krol_menu_knifes.amxx") (native "draw_into_oneself") - debug not enabled!
+L 10/02/2024 - 12:49:12: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:49:12: [ENGINE] Invalid player 2 (not in-game)
+L 10/02/2024 - 12:49:12: [AMXX] Run time error 10 (plugin "lib_entity.amxx") (native "entity_range") - debug not enabled!
+L 10/02/2024 - 12:49:12: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:49:12: Unhandled dynamic native error
+L 10/02/2024 - 12:49:12: [AMXX] Run time error 10 (plugin "Krol_menu_knifes.amxx") (native "draw_into_oneself") - debug not enabled!
+L 10/02/2024 - 12:49:12: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:49:12: [ENGINE] Invalid player 2 (not in-game)
+L 10/02/2024 - 12:49:12: [AMXX] Run time error 10 (plugin "lib_entity.amxx") (native "entity_range") - debug not enabled!
+L 10/02/2024 - 12:49:12: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:49:12: Unhandled dynamic native error
+L 10/02/2024 - 12:49:12: [AMXX] Run time error 10 (plugin "Krol_menu_knifes.amxx") (native "draw_into_oneself") - debug not enabled!
+L 10/02/2024 - 12:49:12: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:49:12: [ENGINE] Invalid player 2 (not in-game)
+L 10/02/2024 - 12:49:12: [AMXX] Run time error 10 (plugin "lib_entity.amxx") (native "entity_range") - debug not enabled!
+L 10/02/2024 - 12:49:12: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:49:12: Unhandled dynamic native error
+L 10/02/2024 - 12:49:12: [AMXX] Run time error 10 (plugin "Krol_menu_knifes.amxx") (native "draw_into_oneself") - debug not enabled!
+L 10/02/2024 - 12:49:12: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:49:12: [ENGINE] Invalid player 2 (not in-game)
+L 10/02/2024 - 12:49:12: [AMXX] Run time error 10 (plugin "lib_entity.amxx") (native "entity_range") - debug not enabled!
+L 10/02/2024 - 12:49:12: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:49:12: Unhandled dynamic native error
+L 10/02/2024 - 12:49:12: [AMXX] Run time error 10 (plugin "Krol_menu_knifes.amxx") (native "draw_into_oneself") - debug not enabled!
+L 10/02/2024 - 12:49:12: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:49:12: [ENGINE] Invalid player 2 (not in-game)
+L 10/02/2024 - 12:49:12: [AMXX] Run time error 10 (plugin "lib_entity.amxx") (native "entity_range") - debug not enabled!
+L 10/02/2024 - 12:49:12: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:49:12: Unhandled dynamic native error
+L 10/02/2024 - 12:49:12: [AMXX] Run time error 10 (plugin "Krol_menu_knifes.amxx") (native "draw_into_oneself") - debug not enabled!
+L 10/02/2024 - 12:49:12: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:49:13: [ENGINE] Invalid player 2 (not in-game)
+L 10/02/2024 - 12:49:13: [AMXX] Run time error 10 (plugin "lib_entity.amxx") (native "entity_range") - debug not enabled!
+L 10/02/2024 - 12:49:13: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:49:13: Unhandled dynamic native error
+L 10/02/2024 - 12:49:13: [AMXX] Run time error 10 (plugin "Krol_menu_knifes.amxx") (native "draw_into_oneself") - debug not enabled!
+L 10/02/2024 - 12:49:13: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:49:13: [ENGINE] Invalid player 2 (not in-game)
+L 10/02/2024 - 12:49:13: [AMXX] Run time error 10 (plugin "lib_entity.amxx") (native "entity_range") - debug not enabled!
+L 10/02/2024 - 12:49:13: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:49:13: Unhandled dynamic native error
+L 10/02/2024 - 12:49:13: [AMXX] Run time error 10 (plugin "Krol_menu_knifes.amxx") (native "draw_into_oneself") - debug not enabled!
+L 10/02/2024 - 12:49:13: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:49:13: [ENGINE] Invalid player 2 (not in-game)
+L 10/02/2024 - 12:49:13: [AMXX] Run time error 10 (plugin "lib_entity.amxx") (native "entity_range") - debug not enabled!
+L 10/02/2024 - 12:49:13: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:49:13: Unhandled dynamic native error
+L 10/02/2024 - 12:49:13: [AMXX] Run time error 10 (plugin "Krol_menu_knifes.amxx") (native "draw_into_oneself") - debug not enabled!
+L 10/02/2024 - 12:49:13: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:49:13: [ENGINE] Invalid player 2 (not in-game)
+L 10/02/2024 - 12:49:13: [AMXX] Run time error 10 (plugin "lib_entity.amxx") (native "entity_range") - debug not enabled!
+L 10/02/2024 - 12:49:13: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:49:13: Unhandled dynamic native error
+L 10/02/2024 - 12:49:13: [AMXX] Run time error 10 (plugin "Krol_menu_knifes.amxx") (native "draw_into_oneself") - debug not enabled!
+L 10/02/2024 - 12:49:13: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:49:13: [ENGINE] Invalid player 2 (not in-game)
+L 10/02/2024 - 12:49:13: [AMXX] Run time error 10 (plugin "lib_entity.amxx") (native "entity_range") - debug not enabled!
+L 10/02/2024 - 12:49:13: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:49:13: Unhandled dynamic native error
+L 10/02/2024 - 12:49:13: [AMXX] Run time error 10 (plugin "Krol_menu_knifes.amxx") (native "draw_into_oneself") - debug not enabled!
+L 10/02/2024 - 12:49:13: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:49:13: [ENGINE] Invalid player 2 (not in-game)
+L 10/02/2024 - 12:49:13: [AMXX] Run time error 10 (plugin "lib_entity.amxx") (native "entity_range") - debug not enabled!
+L 10/02/2024 - 12:49:13: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:49:13: Unhandled dynamic native error
+L 10/02/2024 - 12:49:13: [AMXX] Run time error 10 (plugin "Krol_menu_knifes.amxx") (native "draw_into_oneself") - debug not enabled!
+L 10/02/2024 - 12:49:13: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:49:13: [ENGINE] Invalid player 2 (not in-game)
+L 10/02/2024 - 12:49:13: [AMXX] Run time error 10 (plugin "lib_entity.amxx") (native "entity_range") - debug not enabled!
+L 10/02/2024 - 12:49:13: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:49:13: Unhandled dynamic native error
+L 10/02/2024 - 12:49:13: [AMXX] Run time error 10 (plugin "Krol_menu_knifes.amxx") (native "draw_into_oneself") - debug not enabled!
+L 10/02/2024 - 12:49:13: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:49:13: [ENGINE] Invalid player 2 (not in-game)
+L 10/02/2024 - 12:49:13: [AMXX] Run time error 10 (plugin "lib_entity.amxx") (native "entity_range") - debug not enabled!
+L 10/02/2024 - 12:49:13: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:49:13: Unhandled dynamic native error
+L 10/02/2024 - 12:49:13: [AMXX] Run time error 10 (plugin "Krol_menu_knifes.amxx") (native "draw_into_oneself") - debug not enabled!
+L 10/02/2024 - 12:49:13: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:49:13: [ENGINE] Invalid player 2 (not in-game)
+L 10/02/2024 - 12:49:13: [AMXX] Run time error 10 (plugin "lib_entity.amxx") (native "entity_range") - debug not enabled!
+L 10/02/2024 - 12:49:13: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:49:13: Unhandled dynamic native error
+L 10/02/2024 - 12:49:13: [AMXX] Run time error 10 (plugin "Krol_menu_knifes.amxx") (native "draw_into_oneself") - debug not enabled!
+L 10/02/2024 - 12:49:13: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:49:14: [ENGINE] Invalid player 2 (not in-game)
+L 10/02/2024 - 12:49:14: [AMXX] Run time error 10 (plugin "lib_entity.amxx") (native "entity_range") - debug not enabled!
+L 10/02/2024 - 12:49:14: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:49:14: Unhandled dynamic native error
+L 10/02/2024 - 12:49:14: [AMXX] Run time error 10 (plugin "Krol_menu_knifes.amxx") (native "draw_into_oneself") - debug not enabled!
+L 10/02/2024 - 12:49:14: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:49:14: [ENGINE] Invalid player 2 (not in-game)
+L 10/02/2024 - 12:49:14: [AMXX] Run time error 10 (plugin "lib_entity.amxx") (native "entity_range") - debug not enabled!
+L 10/02/2024 - 12:49:14: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:49:14: Unhandled dynamic native error
+L 10/02/2024 - 12:49:14: [AMXX] Run time error 10 (plugin "Krol_menu_knifes.amxx") (native "draw_into_oneself") - debug not enabled!
+L 10/02/2024 - 12:49:14: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:49:14: [ENGINE] Invalid player 2 (not in-game)
+L 10/02/2024 - 12:49:14: [AMXX] Run time error 10 (plugin "lib_entity.amxx") (native "entity_range") - debug not enabled!
+L 10/02/2024 - 12:49:14: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:49:14: Unhandled dynamic native error
+L 10/02/2024 - 12:49:14: [AMXX] Run time error 10 (plugin "Krol_menu_knifes.amxx") (native "draw_into_oneself") - debug not enabled!
+L 10/02/2024 - 12:49:14: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:49:14: [ENGINE] Invalid player 2 (not in-game)
+L 10/02/2024 - 12:49:14: [AMXX] Run time error 10 (plugin "lib_entity.amxx") (native "entity_range") - debug not enabled!
+L 10/02/2024 - 12:49:14: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:49:14: Unhandled dynamic native error
+L 10/02/2024 - 12:49:14: [AMXX] Run time error 10 (plugin "Krol_menu_knifes.amxx") (native "draw_into_oneself") - debug not enabled!
+L 10/02/2024 - 12:49:14: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:49:14: [ENGINE] Invalid player 2 (not in-game)
+L 10/02/2024 - 12:49:14: [AMXX] Run time error 10 (plugin "lib_entity.amxx") (native "entity_range") - debug not enabled!
+L 10/02/2024 - 12:49:14: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:49:14: Unhandled dynamic native error
+L 10/02/2024 - 12:49:14: [AMXX] Run time error 10 (plugin "Krol_menu_knifes.amxx") (native "draw_into_oneself") - debug not enabled!
+L 10/02/2024 - 12:49:14: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:49:14: [ENGINE] Invalid player 2 (not in-game)
+L 10/02/2024 - 12:49:14: [AMXX] Run time error 10 (plugin "lib_entity.amxx") (native "entity_range") - debug not enabled!
+L 10/02/2024 - 12:49:14: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:49:14: Unhandled dynamic native error
+L 10/02/2024 - 12:49:14: [AMXX] Run time error 10 (plugin "Krol_menu_knifes.amxx") (native "draw_into_oneself") - debug not enabled!
+L 10/02/2024 - 12:49:14: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:49:14: [ENGINE] Invalid player 2 (not in-game)
+L 10/02/2024 - 12:49:14: [AMXX] Run time error 10 (plugin "lib_entity.amxx") (native "entity_range") - debug not enabled!
+L 10/02/2024 - 12:49:14: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:49:14: Unhandled dynamic native error
+L 10/02/2024 - 12:49:14: [AMXX] Run time error 10 (plugin "Krol_menu_knifes.amxx") (native "draw_into_oneself") - debug not enabled!
+L 10/02/2024 - 12:49:14: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:49:14: [ENGINE] Invalid player 2 (not in-game)
+L 10/02/2024 - 12:49:14: [AMXX] Run time error 10 (plugin "lib_entity.amxx") (native "entity_range") - debug not enabled!
+L 10/02/2024 - 12:49:14: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:49:14: Unhandled dynamic native error
+L 10/02/2024 - 12:49:14: [AMXX] Run time error 10 (plugin "Krol_menu_knifes.amxx") (native "draw_into_oneself") - debug not enabled!
+L 10/02/2024 - 12:49:14: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:49:14: [ENGINE] Invalid player 2 (not in-game)
+L 10/02/2024 - 12:49:14: [AMXX] Run time error 10 (plugin "lib_entity.amxx") (native "entity_range") - debug not enabled!
+L 10/02/2024 - 12:49:14: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:49:14: Unhandled dynamic native error
+L 10/02/2024 - 12:49:14: [AMXX] Run time error 10 (plugin "Krol_menu_knifes.amxx") (native "draw_into_oneself") - debug not enabled!
+L 10/02/2024 - 12:49:14: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:49:14: [ENGINE] Invalid player 2 (not in-game)
+L 10/02/2024 - 12:49:14: [AMXX] Run time error 10 (plugin "lib_entity.amxx") (native "entity_range") - debug not enabled!
+L 10/02/2024 - 12:49:14: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:49:14: Unhandled dynamic native error
+L 10/02/2024 - 12:49:14: [AMXX] Run time error 10 (plugin "Krol_menu_knifes.amxx") (native "draw_into_oneself") - debug not enabled!
+L 10/02/2024 - 12:49:14: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:49:15: [ENGINE] Invalid player 2 (not in-game)
+L 10/02/2024 - 12:49:15: [AMXX] Run time error 10 (plugin "lib_entity.amxx") (native "entity_range") - debug not enabled!
+L 10/02/2024 - 12:49:15: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:49:15: Unhandled dynamic native error
+L 10/02/2024 - 12:49:15: [AMXX] Run time error 10 (plugin "Krol_menu_knifes.amxx") (native "draw_into_oneself") - debug not enabled!
+L 10/02/2024 - 12:49:15: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:49:15: [ENGINE] Invalid player 2 (not in-game)
+L 10/02/2024 - 12:49:15: [AMXX] Run time error 10 (plugin "lib_entity.amxx") (native "entity_range") - debug not enabled!
+L 10/02/2024 - 12:49:15: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:49:15: Unhandled dynamic native error
+L 10/02/2024 - 12:49:15: [AMXX] Run time error 10 (plugin "Krol_menu_knifes.amxx") (native "draw_into_oneself") - debug not enabled!
+L 10/02/2024 - 12:49:15: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:49:15: [ENGINE] Invalid player 2 (not in-game)
+L 10/02/2024 - 12:49:15: [AMXX] Run time error 10 (plugin "lib_entity.amxx") (native "entity_range") - debug not enabled!
+L 10/02/2024 - 12:49:15: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:49:15: Unhandled dynamic native error
+L 10/02/2024 - 12:49:15: [AMXX] Run time error 10 (plugin "Krol_menu_knifes.amxx") (native "draw_into_oneself") - debug not enabled!
+L 10/02/2024 - 12:49:15: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:49:15: [ENGINE] Invalid player 2 (not in-game)
+L 10/02/2024 - 12:49:15: [AMXX] Run time error 10 (plugin "lib_entity.amxx") (native "entity_range") - debug not enabled!
+L 10/02/2024 - 12:49:15: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:49:15: Unhandled dynamic native error
+L 10/02/2024 - 12:49:15: [AMXX] Run time error 10 (plugin "Krol_menu_knifes.amxx") (native "draw_into_oneself") - debug not enabled!
+L 10/02/2024 - 12:49:15: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:49:15: [ENGINE] Invalid player 2 (not in-game)
+L 10/02/2024 - 12:49:15: [AMXX] Run time error 10 (plugin "lib_entity.amxx") (native "entity_range") - debug not enabled!
+L 10/02/2024 - 12:49:15: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:49:15: Unhandled dynamic native error
+L 10/02/2024 - 12:49:15: [AMXX] Run time error 10 (plugin "Krol_menu_knifes.amxx") (native "draw_into_oneself") - debug not enabled!
+L 10/02/2024 - 12:49:15: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:49:15: [ENGINE] Invalid player 2 (not in-game)
+L 10/02/2024 - 12:49:15: [AMXX] Run time error 10 (plugin "lib_entity.amxx") (native "entity_range") - debug not enabled!
+L 10/02/2024 - 12:49:15: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:49:15: Unhandled dynamic native error
+L 10/02/2024 - 12:49:15: [AMXX] Run time error 10 (plugin "Krol_menu_knifes.amxx") (native "draw_into_oneself") - debug not enabled!
+L 10/02/2024 - 12:49:15: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:49:15: [ENGINE] Invalid player 2 (not in-game)
+L 10/02/2024 - 12:49:15: [AMXX] Run time error 10 (plugin "lib_entity.amxx") (native "entity_range") - debug not enabled!
+L 10/02/2024 - 12:49:15: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:49:15: Unhandled dynamic native error
+L 10/02/2024 - 12:49:15: [AMXX] Run time error 10 (plugin "Krol_menu_knifes.amxx") (native "draw_into_oneself") - debug not enabled!
+L 10/02/2024 - 12:49:15: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:49:15: [ENGINE] Invalid player 2 (not in-game)
+L 10/02/2024 - 12:49:15: [AMXX] Run time error 10 (plugin "lib_entity.amxx") (native "entity_range") - debug not enabled!
+L 10/02/2024 - 12:49:15: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:49:15: Unhandled dynamic native error
+L 10/02/2024 - 12:49:15: [AMXX] Run time error 10 (plugin "Krol_menu_knifes.amxx") (native "draw_into_oneself") - debug not enabled!
+L 10/02/2024 - 12:49:15: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:49:15: [ENGINE] Invalid player 2 (not in-game)
+L 10/02/2024 - 12:49:15: [AMXX] Run time error 10 (plugin "lib_entity.amxx") (native "entity_range") - debug not enabled!
+L 10/02/2024 - 12:49:15: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:49:15: Unhandled dynamic native error
+L 10/02/2024 - 12:49:15: [AMXX] Run time error 10 (plugin "Krol_menu_knifes.amxx") (native "draw_into_oneself") - debug not enabled!
+L 10/02/2024 - 12:49:15: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:49:15: [ENGINE] Invalid player 2 (not in-game)
+L 10/02/2024 - 12:49:16: [AMXX] Run time error 10 (plugin "lib_entity.amxx") (native "entity_range") - debug not enabled!
+L 10/02/2024 - 12:49:16: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:49:16: Unhandled dynamic native error
+L 10/02/2024 - 12:49:16: [AMXX] Run time error 10 (plugin "Krol_menu_knifes.amxx") (native "draw_into_oneself") - debug not enabled!
+L 10/02/2024 - 12:49:16: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:50:42: [ENGINE] Invalid player 2 (not in-game)
+L 10/02/2024 - 12:50:42: [AMXX] Run time error 10 (plugin "lib_entity.amxx") (native "entity_range") - debug not enabled!
+L 10/02/2024 - 12:50:42: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:50:42: Unhandled dynamic native error
+L 10/02/2024 - 12:50:42: [AMXX] Run time error 10 (plugin "Krol_menu_knifes.amxx") (native "draw_into_oneself") - debug not enabled!
+L 10/02/2024 - 12:50:42: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:50:42: [ENGINE] Invalid player 2 (not in-game)
+L 10/02/2024 - 12:50:42: [AMXX] Run time error 10 (plugin "lib_entity.amxx") (native "entity_range") - debug not enabled!
+L 10/02/2024 - 12:50:42: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:50:42: Unhandled dynamic native error
+L 10/02/2024 - 12:50:42: [AMXX] Run time error 10 (plugin "Krol_menu_knifes.amxx") (native "draw_into_oneself") - debug not enabled!
+L 10/02/2024 - 12:50:42: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:50:42: [ENGINE] Invalid player 2 (not in-game)
+L 10/02/2024 - 12:50:42: [AMXX] Run time error 10 (plugin "lib_entity.amxx") (native "entity_range") - debug not enabled!
+L 10/02/2024 - 12:50:42: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:50:42: Unhandled dynamic native error
+L 10/02/2024 - 12:50:42: [AMXX] Run time error 10 (plugin "Krol_menu_knifes.amxx") (native "draw_into_oneself") - debug not enabled!
+L 10/02/2024 - 12:50:42: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:50:42: [ENGINE] Invalid player 2 (not in-game)
+L 10/02/2024 - 12:50:42: [AMXX] Run time error 10 (plugin "lib_entity.amxx") (native "entity_range") - debug not enabled!
+L 10/02/2024 - 12:50:42: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:50:42: Unhandled dynamic native error
+L 10/02/2024 - 12:50:42: [AMXX] Run time error 10 (plugin "Krol_menu_knifes.amxx") (native "draw_into_oneself") - debug not enabled!
+L 10/02/2024 - 12:50:42: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:50:42: [ENGINE] Invalid player 2 (not in-game)
+L 10/02/2024 - 12:50:42: [AMXX] Run time error 10 (plugin "lib_entity.amxx") (native "entity_range") - debug not enabled!
+L 10/02/2024 - 12:50:42: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:50:42: Unhandled dynamic native error
+L 10/02/2024 - 12:50:42: [AMXX] Run time error 10 (plugin "Krol_menu_knifes.amxx") (native "draw_into_oneself") - debug not enabled!
+L 10/02/2024 - 12:50:42: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:50:42: [ENGINE] Invalid player 2 (not in-game)
+L 10/02/2024 - 12:50:42: [AMXX] Run time error 10 (plugin "lib_entity.amxx") (native "entity_range") - debug not enabled!
+L 10/02/2024 - 12:50:42: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:50:42: Unhandled dynamic native error
+L 10/02/2024 - 12:50:42: [AMXX] Run time error 10 (plugin "Krol_menu_knifes.amxx") (native "draw_into_oneself") - debug not enabled!
+L 10/02/2024 - 12:50:42: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:50:43: [ENGINE] Invalid player 2 (not in-game)
+L 10/02/2024 - 12:50:43: [AMXX] Run time error 10 (plugin "lib_entity.amxx") (native "entity_range") - debug not enabled!
+L 10/02/2024 - 12:50:43: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:50:43: Unhandled dynamic native error
+L 10/02/2024 - 12:50:43: [AMXX] Run time error 10 (plugin "Krol_menu_knifes.amxx") (native "draw_into_oneself") - debug not enabled!
+L 10/02/2024 - 12:50:43: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:50:43: [ENGINE] Invalid player 2 (not in-game)
+L 10/02/2024 - 12:50:43: [AMXX] Run time error 10 (plugin "lib_entity.amxx") (native "entity_range") - debug not enabled!
+L 10/02/2024 - 12:50:43: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:50:43: Unhandled dynamic native error
+L 10/02/2024 - 12:50:43: [AMXX] Run time error 10 (plugin "Krol_menu_knifes.amxx") (native "draw_into_oneself") - debug not enabled!
+L 10/02/2024 - 12:50:43: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:50:43: [ENGINE] Invalid player 2 (not in-game)
+L 10/02/2024 - 12:50:43: [AMXX] Run time error 10 (plugin "lib_entity.amxx") (native "entity_range") - debug not enabled!
+L 10/02/2024 - 12:50:43: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:50:43: Unhandled dynamic native error
+L 10/02/2024 - 12:50:43: [AMXX] Run time error 10 (plugin "Krol_menu_knifes.amxx") (native "draw_into_oneself") - debug not enabled!
+L 10/02/2024 - 12:50:43: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:50:43: [ENGINE] Invalid player 2 (not in-game)
+L 10/02/2024 - 12:50:43: [AMXX] Run time error 10 (plugin "lib_entity.amxx") (native "entity_range") - debug not enabled!
+L 10/02/2024 - 12:50:43: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:50:43: Unhandled dynamic native error
+L 10/02/2024 - 12:50:43: [AMXX] Run time error 10 (plugin "Krol_menu_knifes.amxx") (native "draw_into_oneself") - debug not enabled!
+L 10/02/2024 - 12:50:43: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:50:43: [ENGINE] Invalid player 2 (not in-game)
+L 10/02/2024 - 12:50:43: [AMXX] Run time error 10 (plugin "lib_entity.amxx") (native "entity_range") - debug not enabled!
+L 10/02/2024 - 12:50:43: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:50:43: Unhandled dynamic native error
+L 10/02/2024 - 12:50:43: [AMXX] Run time error 10 (plugin "Krol_menu_knifes.amxx") (native "draw_into_oneself") - debug not enabled!
+L 10/02/2024 - 12:50:43: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:50:43: [ENGINE] Invalid player 2 (not in-game)
+L 10/02/2024 - 12:50:43: [AMXX] Run time error 10 (plugin "lib_entity.amxx") (native "entity_range") - debug not enabled!
+L 10/02/2024 - 12:50:43: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:50:43: Unhandled dynamic native error
+L 10/02/2024 - 12:50:43: [AMXX] Run time error 10 (plugin "Krol_menu_knifes.amxx") (native "draw_into_oneself") - debug not enabled!
+L 10/02/2024 - 12:50:43: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:50:43: [ENGINE] Invalid player 2 (not in-game)
+L 10/02/2024 - 12:50:43: [AMXX] Run time error 10 (plugin "lib_entity.amxx") (native "entity_range") - debug not enabled!
+L 10/02/2024 - 12:50:43: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:50:43: Unhandled dynamic native error
+L 10/02/2024 - 12:50:43: [AMXX] Run time error 10 (plugin "Krol_menu_knifes.amxx") (native "draw_into_oneself") - debug not enabled!
+L 10/02/2024 - 12:50:43: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:50:43: [ENGINE] Invalid player 2 (not in-game)
+L 10/02/2024 - 12:50:43: [AMXX] Run time error 10 (plugin "lib_entity.amxx") (native "entity_range") - debug not enabled!
+L 10/02/2024 - 12:50:43: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:50:43: Unhandled dynamic native error
+L 10/02/2024 - 12:50:43: [AMXX] Run time error 10 (plugin "Krol_menu_knifes.amxx") (native "draw_into_oneself") - debug not enabled!
+L 10/02/2024 - 12:50:43: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:50:43: [ENGINE] Invalid player 2 (not in-game)
+L 10/02/2024 - 12:50:43: [AMXX] Run time error 10 (plugin "lib_entity.amxx") (native "entity_range") - debug not enabled!
+L 10/02/2024 - 12:50:43: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:50:43: Unhandled dynamic native error
+L 10/02/2024 - 12:50:43: [AMXX] Run time error 10 (plugin "Krol_menu_knifes.amxx") (native "draw_into_oneself") - debug not enabled!
+L 10/02/2024 - 12:50:43: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:50:43: [ENGINE] Invalid player 2 (not in-game)
+L 10/02/2024 - 12:50:43: [AMXX] Run time error 10 (plugin "lib_entity.amxx") (native "entity_range") - debug not enabled!
+L 10/02/2024 - 12:50:43: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:50:43: Unhandled dynamic native error
+L 10/02/2024 - 12:50:43: [AMXX] Run time error 10 (plugin "Krol_menu_knifes.amxx") (native "draw_into_oneself") - debug not enabled!
+L 10/02/2024 - 12:50:43: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:50:44: [ENGINE] Invalid player 2 (not in-game)
+L 10/02/2024 - 12:50:44: [AMXX] Run time error 10 (plugin "lib_entity.amxx") (native "entity_range") - debug not enabled!
+L 10/02/2024 - 12:50:44: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:50:44: Unhandled dynamic native error
+L 10/02/2024 - 12:50:44: [AMXX] Run time error 10 (plugin "Krol_menu_knifes.amxx") (native "draw_into_oneself") - debug not enabled!
+L 10/02/2024 - 12:50:44: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:50:44: [ENGINE] Invalid player 2 (not in-game)
+L 10/02/2024 - 12:50:44: [AMXX] Run time error 10 (plugin "lib_entity.amxx") (native "entity_range") - debug not enabled!
+L 10/02/2024 - 12:50:44: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:50:44: Unhandled dynamic native error
+L 10/02/2024 - 12:50:44: [AMXX] Run time error 10 (plugin "Krol_menu_knifes.amxx") (native "draw_into_oneself") - debug not enabled!
+L 10/02/2024 - 12:50:44: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:50:44: [ENGINE] Invalid player 2 (not in-game)
+L 10/02/2024 - 12:50:44: [AMXX] Run time error 10 (plugin "lib_entity.amxx") (native "entity_range") - debug not enabled!
+L 10/02/2024 - 12:50:44: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:50:44: Unhandled dynamic native error
+L 10/02/2024 - 12:50:44: [AMXX] Run time error 10 (plugin "Krol_menu_knifes.amxx") (native "draw_into_oneself") - debug not enabled!
+L 10/02/2024 - 12:50:44: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:50:44: [ENGINE] Invalid player 2 (not in-game)
+L 10/02/2024 - 12:50:44: [AMXX] Run time error 10 (plugin "lib_entity.amxx") (native "entity_range") - debug not enabled!
+L 10/02/2024 - 12:50:44: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:50:44: Unhandled dynamic native error
+L 10/02/2024 - 12:50:44: [AMXX] Run time error 10 (plugin "Krol_menu_knifes.amxx") (native "draw_into_oneself") - debug not enabled!
+L 10/02/2024 - 12:50:44: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:50:44: [ENGINE] Invalid player 2 (not in-game)
+L 10/02/2024 - 12:50:44: [AMXX] Run time error 10 (plugin "lib_entity.amxx") (native "entity_range") - debug not enabled!
+L 10/02/2024 - 12:50:44: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:50:44: Unhandled dynamic native error
+L 10/02/2024 - 12:50:44: [AMXX] Run time error 10 (plugin "Krol_menu_knifes.amxx") (native "draw_into_oneself") - debug not enabled!
+L 10/02/2024 - 12:50:44: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:50:44: [ENGINE] Invalid player 2 (not in-game)
+L 10/02/2024 - 12:50:44: [AMXX] Run time error 10 (plugin "lib_entity.amxx") (native "entity_range") - debug not enabled!
+L 10/02/2024 - 12:50:44: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:50:44: Unhandled dynamic native error
+L 10/02/2024 - 12:50:44: [AMXX] Run time error 10 (plugin "Krol_menu_knifes.amxx") (native "draw_into_oneself") - debug not enabled!
+L 10/02/2024 - 12:50:44: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:50:44: [ENGINE] Invalid player 2 (not in-game)
+L 10/02/2024 - 12:50:44: [AMXX] Run time error 10 (plugin "lib_entity.amxx") (native "entity_range") - debug not enabled!
+L 10/02/2024 - 12:50:44: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:50:44: Unhandled dynamic native error
+L 10/02/2024 - 12:50:44: [AMXX] Run time error 10 (plugin "Krol_menu_knifes.amxx") (native "draw_into_oneself") - debug not enabled!
+L 10/02/2024 - 12:50:44: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:50:44: [ENGINE] Invalid player 2 (not in-game)
+L 10/02/2024 - 12:50:44: [AMXX] Run time error 10 (plugin "lib_entity.amxx") (native "entity_range") - debug not enabled!
+L 10/02/2024 - 12:50:44: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:50:44: Unhandled dynamic native error
+L 10/02/2024 - 12:50:44: [AMXX] Run time error 10 (plugin "Krol_menu_knifes.amxx") (native "draw_into_oneself") - debug not enabled!
+L 10/02/2024 - 12:50:44: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:50:44: [ENGINE] Invalid player 2 (not in-game)
+L 10/02/2024 - 12:50:44: [AMXX] Run time error 10 (plugin "lib_entity.amxx") (native "entity_range") - debug not enabled!
+L 10/02/2024 - 12:50:44: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:50:44: Unhandled dynamic native error
+L 10/02/2024 - 12:50:44: [AMXX] Run time error 10 (plugin "Krol_menu_knifes.amxx") (native "draw_into_oneself") - debug not enabled!
+L 10/02/2024 - 12:50:44: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:50:45: [ENGINE] Invalid player 2 (not in-game)
+L 10/02/2024 - 12:50:45: [AMXX] Run time error 10 (plugin "lib_entity.amxx") (native "entity_range") - debug not enabled!
+L 10/02/2024 - 12:50:45: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:50:45: Unhandled dynamic native error
+L 10/02/2024 - 12:50:45: [AMXX] Run time error 10 (plugin "Krol_menu_knifes.amxx") (native "draw_into_oneself") - debug not enabled!
+L 10/02/2024 - 12:50:45: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:50:45: [ENGINE] Invalid player 2 (not in-game)
+L 10/02/2024 - 12:50:45: [AMXX] Run time error 10 (plugin "lib_entity.amxx") (native "entity_range") - debug not enabled!
+L 10/02/2024 - 12:50:45: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:50:45: Unhandled dynamic native error
+L 10/02/2024 - 12:50:45: [AMXX] Run time error 10 (plugin "Krol_menu_knifes.amxx") (native "draw_into_oneself") - debug not enabled!
+L 10/02/2024 - 12:50:45: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:50:45: [ENGINE] Invalid player 2 (not in-game)
+L 10/02/2024 - 12:50:45: [AMXX] Run time error 10 (plugin "lib_entity.amxx") (native "entity_range") - debug not enabled!
+L 10/02/2024 - 12:50:45: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:50:45: Unhandled dynamic native error
+L 10/02/2024 - 12:50:45: [AMXX] Run time error 10 (plugin "Krol_menu_knifes.amxx") (native "draw_into_oneself") - debug not enabled!
+L 10/02/2024 - 12:50:45: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:50:45: [ENGINE] Invalid player 2 (not in-game)
+L 10/02/2024 - 12:50:45: [AMXX] Run time error 10 (plugin "lib_entity.amxx") (native "entity_range") - debug not enabled!
+L 10/02/2024 - 12:50:45: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:50:45: Unhandled dynamic native error
+L 10/02/2024 - 12:50:45: [AMXX] Run time error 10 (plugin "Krol_menu_knifes.amxx") (native "draw_into_oneself") - debug not enabled!
+L 10/02/2024 - 12:50:45: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:50:45: [ENGINE] Invalid player 2 (not in-game)
+L 10/02/2024 - 12:50:45: [AMXX] Run time error 10 (plugin "lib_entity.amxx") (native "entity_range") - debug not enabled!
+L 10/02/2024 - 12:50:45: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:50:45: Unhandled dynamic native error
+L 10/02/2024 - 12:50:45: [AMXX] Run time error 10 (plugin "Krol_menu_knifes.amxx") (native "draw_into_oneself") - debug not enabled!
+L 10/02/2024 - 12:50:45: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:50:45: [ENGINE] Invalid player 2 (not in-game)
+L 10/02/2024 - 12:50:45: [AMXX] Run time error 10 (plugin "lib_entity.amxx") (native "entity_range") - debug not enabled!
+L 10/02/2024 - 12:50:45: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:50:45: Unhandled dynamic native error
+L 10/02/2024 - 12:50:45: [AMXX] Run time error 10 (plugin "Krol_menu_knifes.amxx") (native "draw_into_oneself") - debug not enabled!
+L 10/02/2024 - 12:50:45: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:50:45: [ENGINE] Invalid player 2 (not in-game)
+L 10/02/2024 - 12:50:45: [AMXX] Run time error 10 (plugin "lib_entity.amxx") (native "entity_range") - debug not enabled!
+L 10/02/2024 - 12:50:45: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:50:45: Unhandled dynamic native error
+L 10/02/2024 - 12:50:45: [AMXX] Run time error 10 (plugin "Krol_menu_knifes.amxx") (native "draw_into_oneself") - debug not enabled!
+L 10/02/2024 - 12:50:45: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:50:45: [ENGINE] Invalid player 2 (not in-game)
+L 10/02/2024 - 12:50:45: [AMXX] Run time error 10 (plugin "lib_entity.amxx") (native "entity_range") - debug not enabled!
+L 10/02/2024 - 12:50:45: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:50:45: Unhandled dynamic native error
+L 10/02/2024 - 12:50:45: [AMXX] Run time error 10 (plugin "Krol_menu_knifes.amxx") (native "draw_into_oneself") - debug not enabled!
+L 10/02/2024 - 12:50:45: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:50:45: [ENGINE] Invalid player 2 (not in-game)
+L 10/02/2024 - 12:50:45: [AMXX] Run time error 10 (plugin "lib_entity.amxx") (native "entity_range") - debug not enabled!
+L 10/02/2024 - 12:50:45: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:50:45: Unhandled dynamic native error
+L 10/02/2024 - 12:50:45: [AMXX] Run time error 10 (plugin "Krol_menu_knifes.amxx") (native "draw_into_oneself") - debug not enabled!
+L 10/02/2024 - 12:50:45: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:50:45: [ENGINE] Invalid player 2 (not in-game)
+L 10/02/2024 - 12:50:45: [AMXX] Run time error 10 (plugin "lib_entity.amxx") (native "entity_range") - debug not enabled!
+L 10/02/2024 - 12:50:45: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:50:45: Unhandled dynamic native error
+L 10/02/2024 - 12:50:45: [AMXX] Run time error 10 (plugin "Krol_menu_knifes.amxx") (native "draw_into_oneself") - debug not enabled!
+L 10/02/2024 - 12:50:45: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:50:46: [ENGINE] Invalid player 2 (not in-game)
+L 10/02/2024 - 12:50:46: [AMXX] Run time error 10 (plugin "lib_entity.amxx") (native "entity_range") - debug not enabled!
+L 10/02/2024 - 12:50:46: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:50:46: Unhandled dynamic native error
+L 10/02/2024 - 12:50:46: [AMXX] Run time error 10 (plugin "Krol_menu_knifes.amxx") (native "draw_into_oneself") - debug not enabled!
+L 10/02/2024 - 12:50:46: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:50:46: [ENGINE] Invalid player 2 (not in-game)
+L 10/02/2024 - 12:50:46: [AMXX] Run time error 10 (plugin "lib_entity.amxx") (native "entity_range") - debug not enabled!
+L 10/02/2024 - 12:50:46: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:50:46: Unhandled dynamic native error
+L 10/02/2024 - 12:50:46: [AMXX] Run time error 10 (plugin "Krol_menu_knifes.amxx") (native "draw_into_oneself") - debug not enabled!
+L 10/02/2024 - 12:50:46: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:50:46: [ENGINE] Invalid player 2 (not in-game)
+L 10/02/2024 - 12:50:46: [AMXX] Run time error 10 (plugin "lib_entity.amxx") (native "entity_range") - debug not enabled!
+L 10/02/2024 - 12:50:46: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:50:46: Unhandled dynamic native error
+L 10/02/2024 - 12:50:46: [AMXX] Run time error 10 (plugin "Krol_menu_knifes.amxx") (native "draw_into_oneself") - debug not enabled!
+L 10/02/2024 - 12:50:46: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:50:46: [ENGINE] Invalid player 2 (not in-game)
+L 10/02/2024 - 12:50:46: [AMXX] Run time error 10 (plugin "lib_entity.amxx") (native "entity_range") - debug not enabled!
+L 10/02/2024 - 12:50:46: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:50:46: Unhandled dynamic native error
+L 10/02/2024 - 12:50:46: [AMXX] Run time error 10 (plugin "Krol_menu_knifes.amxx") (native "draw_into_oneself") - debug not enabled!
+L 10/02/2024 - 12:50:46: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:50:46: [ENGINE] Invalid player 2 (not in-game)
+L 10/02/2024 - 12:50:46: [AMXX] Run time error 10 (plugin "lib_entity.amxx") (native "entity_range") - debug not enabled!
+L 10/02/2024 - 12:50:46: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:50:46: Unhandled dynamic native error
+L 10/02/2024 - 12:50:46: [AMXX] Run time error 10 (plugin "Krol_menu_knifes.amxx") (native "draw_into_oneself") - debug not enabled!
+L 10/02/2024 - 12:50:46: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:50:46: [ENGINE] Invalid player 2 (not in-game)
+L 10/02/2024 - 12:50:46: [AMXX] Run time error 10 (plugin "lib_entity.amxx") (native "entity_range") - debug not enabled!
+L 10/02/2024 - 12:50:46: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:50:46: Unhandled dynamic native error
+L 10/02/2024 - 12:50:46: [AMXX] Run time error 10 (plugin "Krol_menu_knifes.amxx") (native "draw_into_oneself") - debug not enabled!
+L 10/02/2024 - 12:50:46: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:50:46: [ENGINE] Invalid player 2 (not in-game)
+L 10/02/2024 - 12:50:46: [AMXX] Run time error 10 (plugin "lib_entity.amxx") (native "entity_range") - debug not enabled!
+L 10/02/2024 - 12:50:46: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:50:46: Unhandled dynamic native error
+L 10/02/2024 - 12:50:46: [AMXX] Run time error 10 (plugin "Krol_menu_knifes.amxx") (native "draw_into_oneself") - debug not enabled!
+L 10/02/2024 - 12:50:46: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:50:46: [ENGINE] Invalid player 2 (not in-game)
+L 10/02/2024 - 12:50:46: [AMXX] Run time error 10 (plugin "lib_entity.amxx") (native "entity_range") - debug not enabled!
+L 10/02/2024 - 12:50:46: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:50:46: Unhandled dynamic native error
+L 10/02/2024 - 12:50:46: [AMXX] Run time error 10 (plugin "Krol_menu_knifes.amxx") (native "draw_into_oneself") - debug not enabled!
+L 10/02/2024 - 12:50:46: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:50:46: [ENGINE] Invalid player 2 (not in-game)
+L 10/02/2024 - 12:50:46: [AMXX] Run time error 10 (plugin "lib_entity.amxx") (native "entity_range") - debug not enabled!
+L 10/02/2024 - 12:50:46: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:50:46: Unhandled dynamic native error
+L 10/02/2024 - 12:50:46: [AMXX] Run time error 10 (plugin "Krol_menu_knifes.amxx") (native "draw_into_oneself") - debug not enabled!
+L 10/02/2024 - 12:50:46: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:50:47: [ENGINE] Invalid player 2 (not in-game)
+L 10/02/2024 - 12:50:47: [AMXX] Run time error 10 (plugin "lib_entity.amxx") (native "entity_range") - debug not enabled!
+L 10/02/2024 - 12:50:47: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:50:47: Unhandled dynamic native error
+L 10/02/2024 - 12:50:47: [AMXX] Run time error 10 (plugin "Krol_menu_knifes.amxx") (native "draw_into_oneself") - debug not enabled!
+L 10/02/2024 - 12:50:47: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:50:47: [ENGINE] Invalid player 2 (not in-game)
+L 10/02/2024 - 12:50:47: [AMXX] Run time error 10 (plugin "lib_entity.amxx") (native "entity_range") - debug not enabled!
+L 10/02/2024 - 12:50:47: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:50:47: Unhandled dynamic native error
+L 10/02/2024 - 12:50:47: [AMXX] Run time error 10 (plugin "Krol_menu_knifes.amxx") (native "draw_into_oneself") - debug not enabled!
+L 10/02/2024 - 12:50:47: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:50:47: [ENGINE] Invalid player 2 (not in-game)
+L 10/02/2024 - 12:50:47: [AMXX] Run time error 10 (plugin "lib_entity.amxx") (native "entity_range") - debug not enabled!
+L 10/02/2024 - 12:50:47: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:50:47: Unhandled dynamic native error
+L 10/02/2024 - 12:50:47: [AMXX] Run time error 10 (plugin "Krol_menu_knifes.amxx") (native "draw_into_oneself") - debug not enabled!
+L 10/02/2024 - 12:50:47: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:50:47: [ENGINE] Invalid player 2 (not in-game)
+L 10/02/2024 - 12:50:47: [AMXX] Run time error 10 (plugin "lib_entity.amxx") (native "entity_range") - debug not enabled!
+L 10/02/2024 - 12:50:47: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:50:47: Unhandled dynamic native error
+L 10/02/2024 - 12:50:47: [AMXX] Run time error 10 (plugin "Krol_menu_knifes.amxx") (native "draw_into_oneself") - debug not enabled!
+L 10/02/2024 - 12:50:47: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:50:54: [ENGINE] Invalid player 2 (not in-game)
+L 10/02/2024 - 12:50:54: [AMXX] Run time error 10 (plugin "lib_entity.amxx") (native "entity_range") - debug not enabled!
+L 10/02/2024 - 12:50:54: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:50:54: Unhandled dynamic native error
+L 10/02/2024 - 12:50:54: [AMXX] Run time error 10 (plugin "Krol_menu_knifes.amxx") (native "draw_into_oneself") - debug not enabled!
+L 10/02/2024 - 12:50:54: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:50:54: [ENGINE] Invalid player 2 (not in-game)
+L 10/02/2024 - 12:50:54: [AMXX] Run time error 10 (plugin "lib_entity.amxx") (native "entity_range") - debug not enabled!
+L 10/02/2024 - 12:50:54: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:50:54: Unhandled dynamic native error
+L 10/02/2024 - 12:50:54: [AMXX] Run time error 10 (plugin "Krol_menu_knifes.amxx") (native "draw_into_oneself") - debug not enabled!
+L 10/02/2024 - 12:50:54: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:50:54: [ENGINE] Invalid player 2 (not in-game)
+L 10/02/2024 - 12:50:54: [AMXX] Run time error 10 (plugin "lib_entity.amxx") (native "entity_range") - debug not enabled!
+L 10/02/2024 - 12:50:54: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:50:54: Unhandled dynamic native error
+L 10/02/2024 - 12:50:54: [AMXX] Run time error 10 (plugin "Krol_menu_knifes.amxx") (native "draw_into_oneself") - debug not enabled!
+L 10/02/2024 - 12:50:54: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:50:54: [ENGINE] Invalid player 2 (not in-game)
+L 10/02/2024 - 12:50:54: [AMXX] Run time error 10 (plugin "lib_entity.amxx") (native "entity_range") - debug not enabled!
+L 10/02/2024 - 12:50:54: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:50:54: Unhandled dynamic native error
+L 10/02/2024 - 12:50:54: [AMXX] Run time error 10 (plugin "Krol_menu_knifes.amxx") (native "draw_into_oneself") - debug not enabled!
+L 10/02/2024 - 12:50:54: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:50:55: [ENGINE] Invalid player 2 (not in-game)
+L 10/02/2024 - 12:50:55: [AMXX] Run time error 10 (plugin "lib_entity.amxx") (native "entity_range") - debug not enabled!
+L 10/02/2024 - 12:50:55: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:50:55: Unhandled dynamic native error
+L 10/02/2024 - 12:50:55: [AMXX] Run time error 10 (plugin "Krol_menu_knifes.amxx") (native "draw_into_oneself") - debug not enabled!
+L 10/02/2024 - 12:50:55: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:50:55: [ENGINE] Invalid player 2 (not in-game)
+L 10/02/2024 - 12:50:55: [AMXX] Run time error 10 (plugin "lib_entity.amxx") (native "entity_range") - debug not enabled!
+L 10/02/2024 - 12:50:55: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:50:55: Unhandled dynamic native error
+L 10/02/2024 - 12:50:55: [AMXX] Run time error 10 (plugin "Krol_menu_knifes.amxx") (native "draw_into_oneself") - debug not enabled!
+L 10/02/2024 - 12:50:55: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:50:55: [ENGINE] Invalid player 2 (not in-game)
+L 10/02/2024 - 12:50:55: [AMXX] Run time error 10 (plugin "lib_entity.amxx") (native "entity_range") - debug not enabled!
+L 10/02/2024 - 12:50:55: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:50:55: Unhandled dynamic native error
+L 10/02/2024 - 12:50:55: [AMXX] Run time error 10 (plugin "Krol_menu_knifes.amxx") (native "draw_into_oneself") - debug not enabled!
+L 10/02/2024 - 12:50:55: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:50:55: [ENGINE] Invalid player 2 (not in-game)
+L 10/02/2024 - 12:50:55: [AMXX] Run time error 10 (plugin "lib_entity.amxx") (native "entity_range") - debug not enabled!
+L 10/02/2024 - 12:50:55: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:50:55: Unhandled dynamic native error
+L 10/02/2024 - 12:50:55: [AMXX] Run time error 10 (plugin "Krol_menu_knifes.amxx") (native "draw_into_oneself") - debug not enabled!
+L 10/02/2024 - 12:50:55: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:50:55: [ENGINE] Invalid player 2 (not in-game)
+L 10/02/2024 - 12:50:55: [AMXX] Run time error 10 (plugin "lib_entity.amxx") (native "entity_range") - debug not enabled!
+L 10/02/2024 - 12:50:55: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:50:55: Unhandled dynamic native error
+L 10/02/2024 - 12:50:55: [AMXX] Run time error 10 (plugin "Krol_menu_knifes.amxx") (native "draw_into_oneself") - debug not enabled!
+L 10/02/2024 - 12:50:55: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:50:55: [ENGINE] Invalid player 2 (not in-game)
+L 10/02/2024 - 12:50:55: [AMXX] Run time error 10 (plugin "lib_entity.amxx") (native "entity_range") - debug not enabled!
+L 10/02/2024 - 12:50:55: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:50:55: Unhandled dynamic native error
+L 10/02/2024 - 12:50:55: [AMXX] Run time error 10 (plugin "Krol_menu_knifes.amxx") (native "draw_into_oneself") - debug not enabled!
+L 10/02/2024 - 12:50:55: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:50:55: [ENGINE] Invalid player 2 (not in-game)
+L 10/02/2024 - 12:50:55: [AMXX] Run time error 10 (plugin "lib_entity.amxx") (native "entity_range") - debug not enabled!
+L 10/02/2024 - 12:50:55: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:50:55: Unhandled dynamic native error
+L 10/02/2024 - 12:50:55: [AMXX] Run time error 10 (plugin "Krol_menu_knifes.amxx") (native "draw_into_oneself") - debug not enabled!
+L 10/02/2024 - 12:50:55: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:50:55: [ENGINE] Invalid player 2 (not in-game)
+L 10/02/2024 - 12:50:55: [AMXX] Run time error 10 (plugin "lib_entity.amxx") (native "entity_range") - debug not enabled!
+L 10/02/2024 - 12:50:55: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:50:55: Unhandled dynamic native error
+L 10/02/2024 - 12:50:55: [AMXX] Run time error 10 (plugin "Krol_menu_knifes.amxx") (native "draw_into_oneself") - debug not enabled!
+L 10/02/2024 - 12:50:55: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:50:55: [ENGINE] Invalid player 2 (not in-game)
+L 10/02/2024 - 12:50:55: [AMXX] Run time error 10 (plugin "lib_entity.amxx") (native "entity_range") - debug not enabled!
+L 10/02/2024 - 12:50:55: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:50:55: Unhandled dynamic native error
+L 10/02/2024 - 12:50:55: [AMXX] Run time error 10 (plugin "Krol_menu_knifes.amxx") (native "draw_into_oneself") - debug not enabled!
+L 10/02/2024 - 12:50:55: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:50:56: [ENGINE] Invalid player 2 (not in-game)
+L 10/02/2024 - 12:50:56: [AMXX] Run time error 10 (plugin "lib_entity.amxx") (native "entity_range") - debug not enabled!
+L 10/02/2024 - 12:50:56: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:50:56: Unhandled dynamic native error
+L 10/02/2024 - 12:50:56: [AMXX] Run time error 10 (plugin "Krol_menu_knifes.amxx") (native "draw_into_oneself") - debug not enabled!
+L 10/02/2024 - 12:50:56: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:50:56: [ENGINE] Invalid player 2 (not in-game)
+L 10/02/2024 - 12:50:56: [AMXX] Run time error 10 (plugin "lib_entity.amxx") (native "entity_range") - debug not enabled!
+L 10/02/2024 - 12:50:56: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:50:56: Unhandled dynamic native error
+L 10/02/2024 - 12:50:56: [AMXX] Run time error 10 (plugin "Krol_menu_knifes.amxx") (native "draw_into_oneself") - debug not enabled!
+L 10/02/2024 - 12:50:56: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:50:56: [ENGINE] Invalid player 2 (not in-game)
+L 10/02/2024 - 12:50:56: [AMXX] Run time error 10 (plugin "lib_entity.amxx") (native "entity_range") - debug not enabled!
+L 10/02/2024 - 12:50:56: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:50:56: Unhandled dynamic native error
+L 10/02/2024 - 12:50:56: [AMXX] Run time error 10 (plugin "Krol_menu_knifes.amxx") (native "draw_into_oneself") - debug not enabled!
+L 10/02/2024 - 12:50:56: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:50:56: [ENGINE] Invalid player 2 (not in-game)
+L 10/02/2024 - 12:50:56: [AMXX] Run time error 10 (plugin "lib_entity.amxx") (native "entity_range") - debug not enabled!
+L 10/02/2024 - 12:50:56: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:50:56: Unhandled dynamic native error
+L 10/02/2024 - 12:50:56: [AMXX] Run time error 10 (plugin "Krol_menu_knifes.amxx") (native "draw_into_oneself") - debug not enabled!
+L 10/02/2024 - 12:50:56: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:50:56: [ENGINE] Invalid player 2 (not in-game)
+L 10/02/2024 - 12:50:56: [AMXX] Run time error 10 (plugin "lib_entity.amxx") (native "entity_range") - debug not enabled!
+L 10/02/2024 - 12:50:56: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:50:56: Unhandled dynamic native error
+L 10/02/2024 - 12:50:56: [AMXX] Run time error 10 (plugin "Krol_menu_knifes.amxx") (native "draw_into_oneself") - debug not enabled!
+L 10/02/2024 - 12:50:56: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:50:56: [ENGINE] Invalid player 2 (not in-game)
+L 10/02/2024 - 12:50:56: [AMXX] Run time error 10 (plugin "lib_entity.amxx") (native "entity_range") - debug not enabled!
+L 10/02/2024 - 12:50:56: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:50:56: Unhandled dynamic native error
+L 10/02/2024 - 12:50:56: [AMXX] Run time error 10 (plugin "Krol_menu_knifes.amxx") (native "draw_into_oneself") - debug not enabled!
+L 10/02/2024 - 12:50:56: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:50:56: [ENGINE] Invalid player 2 (not in-game)
+L 10/02/2024 - 12:50:56: [AMXX] Run time error 10 (plugin "lib_entity.amxx") (native "entity_range") - debug not enabled!
+L 10/02/2024 - 12:50:56: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:50:56: Unhandled dynamic native error
+L 10/02/2024 - 12:50:56: [AMXX] Run time error 10 (plugin "Krol_menu_knifes.amxx") (native "draw_into_oneself") - debug not enabled!
+L 10/02/2024 - 12:50:56: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:50:56: [ENGINE] Invalid player 2 (not in-game)
+L 10/02/2024 - 12:50:56: [AMXX] Run time error 10 (plugin "lib_entity.amxx") (native "entity_range") - debug not enabled!
+L 10/02/2024 - 12:50:56: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:50:56: Unhandled dynamic native error
+L 10/02/2024 - 12:50:56: [AMXX] Run time error 10 (plugin "Krol_menu_knifes.amxx") (native "draw_into_oneself") - debug not enabled!
+L 10/02/2024 - 12:50:56: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:50:56: [ENGINE] Invalid player 2 (not in-game)
+L 10/02/2024 - 12:50:56: [AMXX] Run time error 10 (plugin "lib_entity.amxx") (native "entity_range") - debug not enabled!
+L 10/02/2024 - 12:50:56: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:50:56: Unhandled dynamic native error
+L 10/02/2024 - 12:50:56: [AMXX] Run time error 10 (plugin "Krol_menu_knifes.amxx") (native "draw_into_oneself") - debug not enabled!
+L 10/02/2024 - 12:50:56: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:50:56: [ENGINE] Invalid player 2 (not in-game)
+L 10/02/2024 - 12:50:56: [AMXX] Run time error 10 (plugin "lib_entity.amxx") (native "entity_range") - debug not enabled!
+L 10/02/2024 - 12:50:56: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:50:56: Unhandled dynamic native error
+L 10/02/2024 - 12:50:56: [AMXX] Run time error 10 (plugin "Krol_menu_knifes.amxx") (native "draw_into_oneself") - debug not enabled!
+L 10/02/2024 - 12:50:56: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:50:57: [ENGINE] Invalid player 2 (not in-game)
+L 10/02/2024 - 12:50:57: [AMXX] Run time error 10 (plugin "lib_entity.amxx") (native "entity_range") - debug not enabled!
+L 10/02/2024 - 12:50:57: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:50:57: Unhandled dynamic native error
+L 10/02/2024 - 12:50:57: [AMXX] Run time error 10 (plugin "Krol_menu_knifes.amxx") (native "draw_into_oneself") - debug not enabled!
+L 10/02/2024 - 12:50:57: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:50:57: [ENGINE] Invalid player 2 (not in-game)
+L 10/02/2024 - 12:50:57: [AMXX] Run time error 10 (plugin "lib_entity.amxx") (native "entity_range") - debug not enabled!
+L 10/02/2024 - 12:50:57: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:50:57: Unhandled dynamic native error
+L 10/02/2024 - 12:50:57: [AMXX] Run time error 10 (plugin "Krol_menu_knifes.amxx") (native "draw_into_oneself") - debug not enabled!
+L 10/02/2024 - 12:50:57: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:50:57: [ENGINE] Invalid player 2 (not in-game)
+L 10/02/2024 - 12:50:57: [AMXX] Run time error 10 (plugin "lib_entity.amxx") (native "entity_range") - debug not enabled!
+L 10/02/2024 - 12:50:57: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:50:57: Unhandled dynamic native error
+L 10/02/2024 - 12:50:57: [AMXX] Run time error 10 (plugin "Krol_menu_knifes.amxx") (native "draw_into_oneself") - debug not enabled!
+L 10/02/2024 - 12:50:57: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:50:57: [ENGINE] Invalid player 2 (not in-game)
+L 10/02/2024 - 12:50:57: [AMXX] Run time error 10 (plugin "lib_entity.amxx") (native "entity_range") - debug not enabled!
+L 10/02/2024 - 12:50:57: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:50:57: Unhandled dynamic native error
+L 10/02/2024 - 12:50:57: [AMXX] Run time error 10 (plugin "Krol_menu_knifes.amxx") (native "draw_into_oneself") - debug not enabled!
+L 10/02/2024 - 12:50:57: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:50:57: [ENGINE] Invalid player 2 (not in-game)
+L 10/02/2024 - 12:50:57: [AMXX] Run time error 10 (plugin "lib_entity.amxx") (native "entity_range") - debug not enabled!
+L 10/02/2024 - 12:50:57: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:50:57: Unhandled dynamic native error
+L 10/02/2024 - 12:50:57: [AMXX] Run time error 10 (plugin "Krol_menu_knifes.amxx") (native "draw_into_oneself") - debug not enabled!
+L 10/02/2024 - 12:50:57: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:50:57: [ENGINE] Invalid player 2 (not in-game)
+L 10/02/2024 - 12:50:57: [AMXX] Run time error 10 (plugin "lib_entity.amxx") (native "entity_range") - debug not enabled!
+L 10/02/2024 - 12:50:57: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:50:57: Unhandled dynamic native error
+L 10/02/2024 - 12:50:57: [AMXX] Run time error 10 (plugin "Krol_menu_knifes.amxx") (native "draw_into_oneself") - debug not enabled!
+L 10/02/2024 - 12:50:57: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:50:57: [ENGINE] Invalid player 2 (not in-game)
+L 10/02/2024 - 12:50:57: [AMXX] Run time error 10 (plugin "lib_entity.amxx") (native "entity_range") - debug not enabled!
+L 10/02/2024 - 12:50:57: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:50:57: Unhandled dynamic native error
+L 10/02/2024 - 12:50:57: [AMXX] Run time error 10 (plugin "Krol_menu_knifes.amxx") (native "draw_into_oneself") - debug not enabled!
+L 10/02/2024 - 12:50:57: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:50:57: [ENGINE] Invalid player 2 (not in-game)
+L 10/02/2024 - 12:50:57: [AMXX] Run time error 10 (plugin "lib_entity.amxx") (native "entity_range") - debug not enabled!
+L 10/02/2024 - 12:50:57: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:50:57: Unhandled dynamic native error
+L 10/02/2024 - 12:50:57: [AMXX] Run time error 10 (plugin "Krol_menu_knifes.amxx") (native "draw_into_oneself") - debug not enabled!
+L 10/02/2024 - 12:50:57: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:50:57: [ENGINE] Invalid player 2 (not in-game)
+L 10/02/2024 - 12:50:57: [AMXX] Run time error 10 (plugin "lib_entity.amxx") (native "entity_range") - debug not enabled!
+L 10/02/2024 - 12:50:57: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:50:57: Unhandled dynamic native error
+L 10/02/2024 - 12:50:57: [AMXX] Run time error 10 (plugin "Krol_menu_knifes.amxx") (native "draw_into_oneself") - debug not enabled!
+L 10/02/2024 - 12:50:57: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:50:57: [ENGINE] Invalid player 2 (not in-game)
+L 10/02/2024 - 12:50:57: [AMXX] Run time error 10 (plugin "lib_entity.amxx") (native "entity_range") - debug not enabled!
+L 10/02/2024 - 12:50:57: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:50:57: Unhandled dynamic native error
+L 10/02/2024 - 12:50:57: [AMXX] Run time error 10 (plugin "Krol_menu_knifes.amxx") (native "draw_into_oneself") - debug not enabled!
+L 10/02/2024 - 12:50:57: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:50:58: [ENGINE] Invalid player 2 (not in-game)
+L 10/02/2024 - 12:50:58: [AMXX] Run time error 10 (plugin "lib_entity.amxx") (native "entity_range") - debug not enabled!
+L 10/02/2024 - 12:50:58: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:50:58: Unhandled dynamic native error
+L 10/02/2024 - 12:50:58: [AMXX] Run time error 10 (plugin "Krol_menu_knifes.amxx") (native "draw_into_oneself") - debug not enabled!
+L 10/02/2024 - 12:50:58: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:50:58: [ENGINE] Invalid player 2 (not in-game)
+L 10/02/2024 - 12:50:58: [AMXX] Run time error 10 (plugin "lib_entity.amxx") (native "entity_range") - debug not enabled!
+L 10/02/2024 - 12:50:58: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:50:58: Unhandled dynamic native error
+L 10/02/2024 - 12:50:58: [AMXX] Run time error 10 (plugin "Krol_menu_knifes.amxx") (native "draw_into_oneself") - debug not enabled!
+L 10/02/2024 - 12:50:58: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:50:58: [ENGINE] Invalid player 2 (not in-game)
+L 10/02/2024 - 12:50:58: [AMXX] Run time error 10 (plugin "lib_entity.amxx") (native "entity_range") - debug not enabled!
+L 10/02/2024 - 12:50:58: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:50:58: Unhandled dynamic native error
+L 10/02/2024 - 12:50:58: [AMXX] Run time error 10 (plugin "Krol_menu_knifes.amxx") (native "draw_into_oneself") - debug not enabled!
+L 10/02/2024 - 12:50:58: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:50:58: [ENGINE] Invalid player 2 (not in-game)
+L 10/02/2024 - 12:50:58: [AMXX] Run time error 10 (plugin "lib_entity.amxx") (native "entity_range") - debug not enabled!
+L 10/02/2024 - 12:50:58: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:50:58: Unhandled dynamic native error
+L 10/02/2024 - 12:50:58: [AMXX] Run time error 10 (plugin "Krol_menu_knifes.amxx") (native "draw_into_oneself") - debug not enabled!
+L 10/02/2024 - 12:50:58: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:50:58: [ENGINE] Invalid player 2 (not in-game)
+L 10/02/2024 - 12:50:58: [AMXX] Run time error 10 (plugin "lib_entity.amxx") (native "entity_range") - debug not enabled!
+L 10/02/2024 - 12:50:58: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:50:58: Unhandled dynamic native error
+L 10/02/2024 - 12:50:58: [AMXX] Run time error 10 (plugin "Krol_menu_knifes.amxx") (native "draw_into_oneself") - debug not enabled!
+L 10/02/2024 - 12:50:58: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:50:58: [ENGINE] Invalid player 2 (not in-game)
+L 10/02/2024 - 12:50:58: [AMXX] Run time error 10 (plugin "lib_entity.amxx") (native "entity_range") - debug not enabled!
+L 10/02/2024 - 12:50:58: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:50:58: Unhandled dynamic native error
+L 10/02/2024 - 12:50:58: [AMXX] Run time error 10 (plugin "Krol_menu_knifes.amxx") (native "draw_into_oneself") - debug not enabled!
+L 10/02/2024 - 12:50:58: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:50:58: [ENGINE] Invalid player 2 (not in-game)
+L 10/02/2024 - 12:50:58: [AMXX] Run time error 10 (plugin "lib_entity.amxx") (native "entity_range") - debug not enabled!
+L 10/02/2024 - 12:50:58: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:50:58: Unhandled dynamic native error
+L 10/02/2024 - 12:50:58: [AMXX] Run time error 10 (plugin "Krol_menu_knifes.amxx") (native "draw_into_oneself") - debug not enabled!
+L 10/02/2024 - 12:50:58: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:50:58: [ENGINE] Invalid player 2 (not in-game)
+L 10/02/2024 - 12:50:58: [AMXX] Run time error 10 (plugin "lib_entity.amxx") (native "entity_range") - debug not enabled!
+L 10/02/2024 - 12:50:58: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:50:58: Unhandled dynamic native error
+L 10/02/2024 - 12:50:58: [AMXX] Run time error 10 (plugin "Krol_menu_knifes.amxx") (native "draw_into_oneself") - debug not enabled!
+L 10/02/2024 - 12:50:58: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:50:58: [ENGINE] Invalid player 2 (not in-game)
+L 10/02/2024 - 12:50:58: [AMXX] Run time error 10 (plugin "lib_entity.amxx") (native "entity_range") - debug not enabled!
+L 10/02/2024 - 12:50:58: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:50:58: Unhandled dynamic native error
+L 10/02/2024 - 12:50:58: [AMXX] Run time error 10 (plugin "Krol_menu_knifes.amxx") (native "draw_into_oneself") - debug not enabled!
+L 10/02/2024 - 12:50:58: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:50:59: [ENGINE] Invalid player 2 (not in-game)
+L 10/02/2024 - 12:50:59: [AMXX] Run time error 10 (plugin "lib_entity.amxx") (native "entity_range") - debug not enabled!
+L 10/02/2024 - 12:50:59: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:50:59: Unhandled dynamic native error
+L 10/02/2024 - 12:50:59: [AMXX] Run time error 10 (plugin "Krol_menu_knifes.amxx") (native "draw_into_oneself") - debug not enabled!
+L 10/02/2024 - 12:50:59: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:50:59: [ENGINE] Invalid player 2 (not in-game)
+L 10/02/2024 - 12:50:59: [AMXX] Run time error 10 (plugin "lib_entity.amxx") (native "entity_range") - debug not enabled!
+L 10/02/2024 - 12:50:59: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:50:59: Unhandled dynamic native error
+L 10/02/2024 - 12:50:59: [AMXX] Run time error 10 (plugin "Krol_menu_knifes.amxx") (native "draw_into_oneself") - debug not enabled!
+L 10/02/2024 - 12:50:59: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:50:59: [ENGINE] Invalid player 2 (not in-game)
+L 10/02/2024 - 12:50:59: [AMXX] Run time error 10 (plugin "lib_entity.amxx") (native "entity_range") - debug not enabled!
+L 10/02/2024 - 12:50:59: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:50:59: Unhandled dynamic native error
+L 10/02/2024 - 12:50:59: [AMXX] Run time error 10 (plugin "Krol_menu_knifes.amxx") (native "draw_into_oneself") - debug not enabled!
+L 10/02/2024 - 12:50:59: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:50:59: [ENGINE] Invalid player 2 (not in-game)
+L 10/02/2024 - 12:50:59: [AMXX] Run time error 10 (plugin "lib_entity.amxx") (native "entity_range") - debug not enabled!
+L 10/02/2024 - 12:50:59: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:50:59: Unhandled dynamic native error
+L 10/02/2024 - 12:50:59: [AMXX] Run time error 10 (plugin "Krol_menu_knifes.amxx") (native "draw_into_oneself") - debug not enabled!
+L 10/02/2024 - 12:50:59: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:50:59: [ENGINE] Invalid player 2 (not in-game)
+L 10/02/2024 - 12:50:59: [AMXX] Run time error 10 (plugin "lib_entity.amxx") (native "entity_range") - debug not enabled!
+L 10/02/2024 - 12:50:59: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:50:59: Unhandled dynamic native error
+L 10/02/2024 - 12:50:59: [AMXX] Run time error 10 (plugin "Krol_menu_knifes.amxx") (native "draw_into_oneself") - debug not enabled!
+L 10/02/2024 - 12:50:59: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:50:59: [ENGINE] Invalid player 2 (not in-game)
+L 10/02/2024 - 12:50:59: [AMXX] Run time error 10 (plugin "lib_entity.amxx") (native "entity_range") - debug not enabled!
+L 10/02/2024 - 12:50:59: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:50:59: Unhandled dynamic native error
+L 10/02/2024 - 12:50:59: [AMXX] Run time error 10 (plugin "Krol_menu_knifes.amxx") (native "draw_into_oneself") - debug not enabled!
+L 10/02/2024 - 12:50:59: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:51:06: [AMXX] Run time error 4 (plugin "menu_create_entity.amxx") - debug not enabled!
+L 10/02/2024 - 12:51:06: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:51:11: [ENGINE] Invalid player 2 (not in-game)
+L 10/02/2024 - 12:51:11: [AMXX] Run time error 10 (plugin "lib_entity.amxx") (native "entity_range") - debug not enabled!
+L 10/02/2024 - 12:51:11: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:51:11: Unhandled dynamic native error
+L 10/02/2024 - 12:51:11: [AMXX] Run time error 10 (plugin "Krol_menu_knifes.amxx") (native "draw_into_oneself") - debug not enabled!
+L 10/02/2024 - 12:51:11: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:51:11: [ENGINE] Invalid player 2 (not in-game)
+L 10/02/2024 - 12:51:11: [AMXX] Run time error 10 (plugin "lib_entity.amxx") (native "entity_range") - debug not enabled!
+L 10/02/2024 - 12:51:11: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:51:11: Unhandled dynamic native error
+L 10/02/2024 - 12:51:11: [AMXX] Run time error 10 (plugin "Krol_menu_knifes.amxx") (native "draw_into_oneself") - debug not enabled!
+L 10/02/2024 - 12:51:11: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:51:12: [ENGINE] Invalid player 2 (not in-game)
+L 10/02/2024 - 12:51:12: [AMXX] Run time error 10 (plugin "lib_entity.amxx") (native "entity_range") - debug not enabled!
+L 10/02/2024 - 12:51:12: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:51:12: Unhandled dynamic native error
+L 10/02/2024 - 12:51:12: [AMXX] Run time error 10 (plugin "Krol_menu_knifes.amxx") (native "draw_into_oneself") - debug not enabled!
+L 10/02/2024 - 12:51:12: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:51:12: [ENGINE] Invalid player 2 (not in-game)
+L 10/02/2024 - 12:51:12: [AMXX] Run time error 10 (plugin "lib_entity.amxx") (native "entity_range") - debug not enabled!
+L 10/02/2024 - 12:51:12: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:51:12: Unhandled dynamic native error
+L 10/02/2024 - 12:51:12: [AMXX] Run time error 10 (plugin "Krol_menu_knifes.amxx") (native "draw_into_oneself") - debug not enabled!
+L 10/02/2024 - 12:51:12: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:51:12: [ENGINE] Invalid player 2 (not in-game)
+L 10/02/2024 - 12:51:12: [AMXX] Run time error 10 (plugin "lib_entity.amxx") (native "entity_range") - debug not enabled!
+L 10/02/2024 - 12:51:12: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:51:12: Unhandled dynamic native error
+L 10/02/2024 - 12:51:12: [AMXX] Run time error 10 (plugin "Krol_menu_knifes.amxx") (native "draw_into_oneself") - debug not enabled!
+L 10/02/2024 - 12:51:12: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:51:12: [ENGINE] Invalid player 2 (not in-game)
+L 10/02/2024 - 12:51:12: [AMXX] Run time error 10 (plugin "lib_entity.amxx") (native "entity_range") - debug not enabled!
+L 10/02/2024 - 12:51:12: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:51:12: Unhandled dynamic native error
+L 10/02/2024 - 12:51:12: [AMXX] Run time error 10 (plugin "Krol_menu_knifes.amxx") (native "draw_into_oneself") - debug not enabled!
+L 10/02/2024 - 12:51:12: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:51:12: [ENGINE] Invalid player 2 (not in-game)
+L 10/02/2024 - 12:51:12: [AMXX] Run time error 10 (plugin "lib_entity.amxx") (native "entity_range") - debug not enabled!
+L 10/02/2024 - 12:51:12: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:51:12: Unhandled dynamic native error
+L 10/02/2024 - 12:51:12: [AMXX] Run time error 10 (plugin "Krol_menu_knifes.amxx") (native "draw_into_oneself") - debug not enabled!
+L 10/02/2024 - 12:51:12: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:51:12: [ENGINE] Invalid player 2 (not in-game)
+L 10/02/2024 - 12:51:12: [AMXX] Run time error 10 (plugin "lib_entity.amxx") (native "entity_range") - debug not enabled!
+L 10/02/2024 - 12:51:12: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:51:12: Unhandled dynamic native error
+L 10/02/2024 - 12:51:12: [AMXX] Run time error 10 (plugin "Krol_menu_knifes.amxx") (native "draw_into_oneself") - debug not enabled!
+L 10/02/2024 - 12:51:12: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:51:12: [ENGINE] Invalid player 2 (not in-game)
+L 10/02/2024 - 12:51:12: [AMXX] Run time error 10 (plugin "lib_entity.amxx") (native "entity_range") - debug not enabled!
+L 10/02/2024 - 12:51:12: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:51:12: Unhandled dynamic native error
+L 10/02/2024 - 12:51:12: [AMXX] Run time error 10 (plugin "Krol_menu_knifes.amxx") (native "draw_into_oneself") - debug not enabled!
+L 10/02/2024 - 12:51:12: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:51:12: [ENGINE] Invalid player 2 (not in-game)
+L 10/02/2024 - 12:51:12: [AMXX] Run time error 10 (plugin "lib_entity.amxx") (native "entity_range") - debug not enabled!
+L 10/02/2024 - 12:51:12: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:51:12: Unhandled dynamic native error
+L 10/02/2024 - 12:51:12: [AMXX] Run time error 10 (plugin "Krol_menu_knifes.amxx") (native "draw_into_oneself") - debug not enabled!
+L 10/02/2024 - 12:51:12: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:51:12: [ENGINE] Invalid player 2 (not in-game)
+L 10/02/2024 - 12:51:12: [AMXX] Run time error 10 (plugin "lib_entity.amxx") (native "entity_range") - debug not enabled!
+L 10/02/2024 - 12:51:12: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:51:12: Unhandled dynamic native error
+L 10/02/2024 - 12:51:12: [AMXX] Run time error 10 (plugin "Krol_menu_knifes.amxx") (native "draw_into_oneself") - debug not enabled!
+L 10/02/2024 - 12:51:12: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:51:12: [ENGINE] Invalid player 2 (not in-game)
+L 10/02/2024 - 12:51:12: [AMXX] Run time error 10 (plugin "lib_entity.amxx") (native "entity_range") - debug not enabled!
+L 10/02/2024 - 12:51:12: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:51:12: Unhandled dynamic native error
+L 10/02/2024 - 12:51:12: [AMXX] Run time error 10 (plugin "Krol_menu_knifes.amxx") (native "draw_into_oneself") - debug not enabled!
+L 10/02/2024 - 12:51:12: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:51:13: [ENGINE] Invalid player 2 (not in-game)
+L 10/02/2024 - 12:51:13: [AMXX] Run time error 10 (plugin "lib_entity.amxx") (native "entity_range") - debug not enabled!
+L 10/02/2024 - 12:51:13: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:51:13: Unhandled dynamic native error
+L 10/02/2024 - 12:51:13: [AMXX] Run time error 10 (plugin "Krol_menu_knifes.amxx") (native "draw_into_oneself") - debug not enabled!
+L 10/02/2024 - 12:51:13: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:51:13: [ENGINE] Invalid player 2 (not in-game)
+L 10/02/2024 - 12:51:13: [AMXX] Run time error 10 (plugin "lib_entity.amxx") (native "entity_range") - debug not enabled!
+L 10/02/2024 - 12:51:13: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:51:13: Unhandled dynamic native error
+L 10/02/2024 - 12:51:13: [AMXX] Run time error 10 (plugin "Krol_menu_knifes.amxx") (native "draw_into_oneself") - debug not enabled!
+L 10/02/2024 - 12:51:13: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:51:13: [ENGINE] Invalid player 2 (not in-game)
+L 10/02/2024 - 12:51:13: [AMXX] Run time error 10 (plugin "lib_entity.amxx") (native "entity_range") - debug not enabled!
+L 10/02/2024 - 12:51:13: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:51:13: Unhandled dynamic native error
+L 10/02/2024 - 12:51:13: [AMXX] Run time error 10 (plugin "Krol_menu_knifes.amxx") (native "draw_into_oneself") - debug not enabled!
+L 10/02/2024 - 12:51:13: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:51:13: [ENGINE] Invalid player 2 (not in-game)
+L 10/02/2024 - 12:51:13: [AMXX] Run time error 10 (plugin "lib_entity.amxx") (native "entity_range") - debug not enabled!
+L 10/02/2024 - 12:51:13: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:51:13: Unhandled dynamic native error
+L 10/02/2024 - 12:51:13: [AMXX] Run time error 10 (plugin "Krol_menu_knifes.amxx") (native "draw_into_oneself") - debug not enabled!
+L 10/02/2024 - 12:51:13: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:51:13: [ENGINE] Invalid player 2 (not in-game)
+L 10/02/2024 - 12:51:13: [AMXX] Run time error 10 (plugin "lib_entity.amxx") (native "entity_range") - debug not enabled!
+L 10/02/2024 - 12:51:13: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:51:13: Unhandled dynamic native error
+L 10/02/2024 - 12:51:13: [AMXX] Run time error 10 (plugin "Krol_menu_knifes.amxx") (native "draw_into_oneself") - debug not enabled!
+L 10/02/2024 - 12:51:13: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:51:13: [ENGINE] Invalid player 2 (not in-game)
+L 10/02/2024 - 12:51:13: [AMXX] Run time error 10 (plugin "lib_entity.amxx") (native "entity_range") - debug not enabled!
+L 10/02/2024 - 12:51:13: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:51:13: Unhandled dynamic native error
+L 10/02/2024 - 12:51:13: [AMXX] Run time error 10 (plugin "Krol_menu_knifes.amxx") (native "draw_into_oneself") - debug not enabled!
+L 10/02/2024 - 12:51:13: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:51:13: [ENGINE] Invalid player 2 (not in-game)
+L 10/02/2024 - 12:51:13: [AMXX] Run time error 10 (plugin "lib_entity.amxx") (native "entity_range") - debug not enabled!
+L 10/02/2024 - 12:51:13: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:51:13: Unhandled dynamic native error
+L 10/02/2024 - 12:51:13: [AMXX] Run time error 10 (plugin "Krol_menu_knifes.amxx") (native "draw_into_oneself") - debug not enabled!
+L 10/02/2024 - 12:51:13: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:51:13: [ENGINE] Invalid player 2 (not in-game)
+L 10/02/2024 - 12:51:13: [AMXX] Run time error 10 (plugin "lib_entity.amxx") (native "entity_range") - debug not enabled!
+L 10/02/2024 - 12:51:13: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:51:13: Unhandled dynamic native error
+L 10/02/2024 - 12:51:13: [AMXX] Run time error 10 (plugin "Krol_menu_knifes.amxx") (native "draw_into_oneself") - debug not enabled!
+L 10/02/2024 - 12:51:13: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:51:13: [ENGINE] Invalid player 2 (not in-game)
+L 10/02/2024 - 12:51:13: [AMXX] Run time error 10 (plugin "lib_entity.amxx") (native "entity_range") - debug not enabled!
+L 10/02/2024 - 12:51:13: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:51:13: Unhandled dynamic native error
+L 10/02/2024 - 12:51:13: [AMXX] Run time error 10 (plugin "Krol_menu_knifes.amxx") (native "draw_into_oneself") - debug not enabled!
+L 10/02/2024 - 12:51:13: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:51:14: [ENGINE] Invalid player 2 (not in-game)
+L 10/02/2024 - 12:51:14: [AMXX] Run time error 10 (plugin "lib_entity.amxx") (native "entity_range") - debug not enabled!
+L 10/02/2024 - 12:51:14: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:51:14: Unhandled dynamic native error
+L 10/02/2024 - 12:51:14: [AMXX] Run time error 10 (plugin "Krol_menu_knifes.amxx") (native "draw_into_oneself") - debug not enabled!
+L 10/02/2024 - 12:51:14: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:51:14: [ENGINE] Invalid player 2 (not in-game)
+L 10/02/2024 - 12:51:14: [AMXX] Run time error 10 (plugin "lib_entity.amxx") (native "entity_range") - debug not enabled!
+L 10/02/2024 - 12:51:14: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:51:14: Unhandled dynamic native error
+L 10/02/2024 - 12:51:14: [AMXX] Run time error 10 (plugin "Krol_menu_knifes.amxx") (native "draw_into_oneself") - debug not enabled!
+L 10/02/2024 - 12:51:14: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:51:14: [ENGINE] Invalid player 2 (not in-game)
+L 10/02/2024 - 12:51:14: [AMXX] Run time error 10 (plugin "lib_entity.amxx") (native "entity_range") - debug not enabled!
+L 10/02/2024 - 12:51:14: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:51:14: Unhandled dynamic native error
+L 10/02/2024 - 12:51:14: [AMXX] Run time error 10 (plugin "Krol_menu_knifes.amxx") (native "draw_into_oneself") - debug not enabled!
+L 10/02/2024 - 12:51:14: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:51:14: [ENGINE] Invalid player 2 (not in-game)
+L 10/02/2024 - 12:51:14: [AMXX] Run time error 10 (plugin "lib_entity.amxx") (native "entity_range") - debug not enabled!
+L 10/02/2024 - 12:51:14: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:51:14: Unhandled dynamic native error
+L 10/02/2024 - 12:51:14: [AMXX] Run time error 10 (plugin "Krol_menu_knifes.amxx") (native "draw_into_oneself") - debug not enabled!
+L 10/02/2024 - 12:51:14: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:51:14: [ENGINE] Invalid player 2 (not in-game)
+L 10/02/2024 - 12:51:14: [AMXX] Run time error 10 (plugin "lib_entity.amxx") (native "entity_range") - debug not enabled!
+L 10/02/2024 - 12:51:14: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:51:14: Unhandled dynamic native error
+L 10/02/2024 - 12:51:14: [AMXX] Run time error 10 (plugin "Krol_menu_knifes.amxx") (native "draw_into_oneself") - debug not enabled!
+L 10/02/2024 - 12:51:14: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:51:14: [ENGINE] Invalid player 2 (not in-game)
+L 10/02/2024 - 12:51:14: [AMXX] Run time error 10 (plugin "lib_entity.amxx") (native "entity_range") - debug not enabled!
+L 10/02/2024 - 12:51:14: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:51:14: Unhandled dynamic native error
+L 10/02/2024 - 12:51:14: [AMXX] Run time error 10 (plugin "Krol_menu_knifes.amxx") (native "draw_into_oneself") - debug not enabled!
+L 10/02/2024 - 12:51:14: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:51:14: [ENGINE] Invalid player 2 (not in-game)
+L 10/02/2024 - 12:51:14: [AMXX] Run time error 10 (plugin "lib_entity.amxx") (native "entity_range") - debug not enabled!
+L 10/02/2024 - 12:51:14: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:51:14: Unhandled dynamic native error
+L 10/02/2024 - 12:51:14: [AMXX] Run time error 10 (plugin "Krol_menu_knifes.amxx") (native "draw_into_oneself") - debug not enabled!
+L 10/02/2024 - 12:51:14: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:51:14: [ENGINE] Invalid player 2 (not in-game)
+L 10/02/2024 - 12:51:14: [AMXX] Run time error 10 (plugin "lib_entity.amxx") (native "entity_range") - debug not enabled!
+L 10/02/2024 - 12:51:14: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:51:14: Unhandled dynamic native error
+L 10/02/2024 - 12:51:14: [AMXX] Run time error 10 (plugin "Krol_menu_knifes.amxx") (native "draw_into_oneself") - debug not enabled!
+L 10/02/2024 - 12:51:14: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:51:14: [ENGINE] Invalid player 2 (not in-game)
+L 10/02/2024 - 12:51:14: [AMXX] Run time error 10 (plugin "lib_entity.amxx") (native "entity_range") - debug not enabled!
+L 10/02/2024 - 12:51:14: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:51:14: Unhandled dynamic native error
+L 10/02/2024 - 12:51:14: [AMXX] Run time error 10 (plugin "Krol_menu_knifes.amxx") (native "draw_into_oneself") - debug not enabled!
+L 10/02/2024 - 12:51:14: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:51:14: [ENGINE] Invalid player 2 (not in-game)
+L 10/02/2024 - 12:51:14: [AMXX] Run time error 10 (plugin "lib_entity.amxx") (native "entity_range") - debug not enabled!
+L 10/02/2024 - 12:51:14: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:51:14: Unhandled dynamic native error
+L 10/02/2024 - 12:51:14: [AMXX] Run time error 10 (plugin "Krol_menu_knifes.amxx") (native "draw_into_oneself") - debug not enabled!
+L 10/02/2024 - 12:51:14: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:51:15: [ENGINE] Invalid player 2 (not in-game)
+L 10/02/2024 - 12:51:15: [AMXX] Run time error 10 (plugin "lib_entity.amxx") (native "entity_range") - debug not enabled!
+L 10/02/2024 - 12:51:15: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:51:15: Unhandled dynamic native error
+L 10/02/2024 - 12:51:15: [AMXX] Run time error 10 (plugin "Krol_menu_knifes.amxx") (native "draw_into_oneself") - debug not enabled!
+L 10/02/2024 - 12:51:15: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:51:15: [ENGINE] Invalid player 2 (not in-game)
+L 10/02/2024 - 12:51:15: [AMXX] Run time error 10 (plugin "lib_entity.amxx") (native "entity_range") - debug not enabled!
+L 10/02/2024 - 12:51:15: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:51:15: Unhandled dynamic native error
+L 10/02/2024 - 12:51:15: [AMXX] Run time error 10 (plugin "Krol_menu_knifes.amxx") (native "draw_into_oneself") - debug not enabled!
+L 10/02/2024 - 12:51:15: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:51:15: [ENGINE] Invalid player 2 (not in-game)
+L 10/02/2024 - 12:51:15: [AMXX] Run time error 10 (plugin "lib_entity.amxx") (native "entity_range") - debug not enabled!
+L 10/02/2024 - 12:51:15: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:51:15: Unhandled dynamic native error
+L 10/02/2024 - 12:51:15: [AMXX] Run time error 10 (plugin "Krol_menu_knifes.amxx") (native "draw_into_oneself") - debug not enabled!
+L 10/02/2024 - 12:51:15: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:51:15: [ENGINE] Invalid player 2 (not in-game)
+L 10/02/2024 - 12:51:15: [AMXX] Run time error 10 (plugin "lib_entity.amxx") (native "entity_range") - debug not enabled!
+L 10/02/2024 - 12:51:15: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:51:15: Unhandled dynamic native error
+L 10/02/2024 - 12:51:15: [AMXX] Run time error 10 (plugin "Krol_menu_knifes.amxx") (native "draw_into_oneself") - debug not enabled!
+L 10/02/2024 - 12:51:15: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:51:15: [ENGINE] Invalid player 2 (not in-game)
+L 10/02/2024 - 12:51:15: [AMXX] Run time error 10 (plugin "lib_entity.amxx") (native "entity_range") - debug not enabled!
+L 10/02/2024 - 12:51:15: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:51:15: Unhandled dynamic native error
+L 10/02/2024 - 12:51:15: [AMXX] Run time error 10 (plugin "Krol_menu_knifes.amxx") (native "draw_into_oneself") - debug not enabled!
+L 10/02/2024 - 12:51:15: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:51:15: [ENGINE] Invalid player 2 (not in-game)
+L 10/02/2024 - 12:51:15: [AMXX] Run time error 10 (plugin "lib_entity.amxx") (native "entity_range") - debug not enabled!
+L 10/02/2024 - 12:51:15: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:51:15: Unhandled dynamic native error
+L 10/02/2024 - 12:51:15: [AMXX] Run time error 10 (plugin "Krol_menu_knifes.amxx") (native "draw_into_oneself") - debug not enabled!
+L 10/02/2024 - 12:51:15: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:51:15: [ENGINE] Invalid player 2 (not in-game)
+L 10/02/2024 - 12:51:15: [AMXX] Run time error 10 (plugin "lib_entity.amxx") (native "entity_range") - debug not enabled!
+L 10/02/2024 - 12:51:15: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:51:15: Unhandled dynamic native error
+L 10/02/2024 - 12:51:15: [AMXX] Run time error 10 (plugin "Krol_menu_knifes.amxx") (native "draw_into_oneself") - debug not enabled!
+L 10/02/2024 - 12:51:15: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:51:15: [ENGINE] Invalid player 2 (not in-game)
+L 10/02/2024 - 12:51:15: [AMXX] Run time error 10 (plugin "lib_entity.amxx") (native "entity_range") - debug not enabled!
+L 10/02/2024 - 12:51:15: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:51:15: Unhandled dynamic native error
+L 10/02/2024 - 12:51:15: [AMXX] Run time error 10 (plugin "Krol_menu_knifes.amxx") (native "draw_into_oneself") - debug not enabled!
+L 10/02/2024 - 12:51:15: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:51:15: [ENGINE] Invalid player 2 (not in-game)
+L 10/02/2024 - 12:51:15: [AMXX] Run time error 10 (plugin "lib_entity.amxx") (native "entity_range") - debug not enabled!
+L 10/02/2024 - 12:51:15: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:51:15: Unhandled dynamic native error
+L 10/02/2024 - 12:51:15: [AMXX] Run time error 10 (plugin "Krol_menu_knifes.amxx") (native "draw_into_oneself") - debug not enabled!
+L 10/02/2024 - 12:51:15: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:51:16: [ENGINE] Invalid player 2 (not in-game)
+L 10/02/2024 - 12:51:16: [AMXX] Run time error 10 (plugin "lib_entity.amxx") (native "entity_range") - debug not enabled!
+L 10/02/2024 - 12:51:16: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:51:16: Unhandled dynamic native error
+L 10/02/2024 - 12:51:16: [AMXX] Run time error 10 (plugin "Krol_menu_knifes.amxx") (native "draw_into_oneself") - debug not enabled!
+L 10/02/2024 - 12:51:16: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:51:16: [ENGINE] Invalid player 2 (not in-game)
+L 10/02/2024 - 12:51:16: [AMXX] Run time error 10 (plugin "lib_entity.amxx") (native "entity_range") - debug not enabled!
+L 10/02/2024 - 12:51:16: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:51:16: Unhandled dynamic native error
+L 10/02/2024 - 12:51:16: [AMXX] Run time error 10 (plugin "Krol_menu_knifes.amxx") (native "draw_into_oneself") - debug not enabled!
+L 10/02/2024 - 12:51:16: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:51:16: [ENGINE] Invalid player 2 (not in-game)
+L 10/02/2024 - 12:51:16: [AMXX] Run time error 10 (plugin "lib_entity.amxx") (native "entity_range") - debug not enabled!
+L 10/02/2024 - 12:51:16: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:51:16: Unhandled dynamic native error
+L 10/02/2024 - 12:51:16: [AMXX] Run time error 10 (plugin "Krol_menu_knifes.amxx") (native "draw_into_oneself") - debug not enabled!
+L 10/02/2024 - 12:51:16: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:51:16: [ENGINE] Invalid player 2 (not in-game)
+L 10/02/2024 - 12:51:16: [AMXX] Run time error 10 (plugin "lib_entity.amxx") (native "entity_range") - debug not enabled!
+L 10/02/2024 - 12:51:16: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:51:16: Unhandled dynamic native error
+L 10/02/2024 - 12:51:16: [AMXX] Run time error 10 (plugin "Krol_menu_knifes.amxx") (native "draw_into_oneself") - debug not enabled!
+L 10/02/2024 - 12:51:16: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:51:16: [ENGINE] Invalid player 2 (not in-game)
+L 10/02/2024 - 12:51:16: [AMXX] Run time error 10 (plugin "lib_entity.amxx") (native "entity_range") - debug not enabled!
+L 10/02/2024 - 12:51:16: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:51:16: Unhandled dynamic native error
+L 10/02/2024 - 12:51:16: [AMXX] Run time error 10 (plugin "Krol_menu_knifes.amxx") (native "draw_into_oneself") - debug not enabled!
+L 10/02/2024 - 12:51:16: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:51:16: [ENGINE] Invalid player 2 (not in-game)
+L 10/02/2024 - 12:51:16: [AMXX] Run time error 10 (plugin "lib_entity.amxx") (native "entity_range") - debug not enabled!
+L 10/02/2024 - 12:51:16: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:51:16: Unhandled dynamic native error
+L 10/02/2024 - 12:51:16: [AMXX] Run time error 10 (plugin "Krol_menu_knifes.amxx") (native "draw_into_oneself") - debug not enabled!
+L 10/02/2024 - 12:51:16: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:51:16: [ENGINE] Invalid player 2 (not in-game)
+L 10/02/2024 - 12:51:16: [AMXX] Run time error 10 (plugin "lib_entity.amxx") (native "entity_range") - debug not enabled!
+L 10/02/2024 - 12:51:16: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:51:16: Unhandled dynamic native error
+L 10/02/2024 - 12:51:16: [AMXX] Run time error 10 (plugin "Krol_menu_knifes.amxx") (native "draw_into_oneself") - debug not enabled!
+L 10/02/2024 - 12:51:16: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:51:16: [ENGINE] Invalid player 2 (not in-game)
+L 10/02/2024 - 12:51:16: [AMXX] Run time error 10 (plugin "lib_entity.amxx") (native "entity_range") - debug not enabled!
+L 10/02/2024 - 12:51:16: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:51:16: Unhandled dynamic native error
+L 10/02/2024 - 12:51:16: [AMXX] Run time error 10 (plugin "Krol_menu_knifes.amxx") (native "draw_into_oneself") - debug not enabled!
+L 10/02/2024 - 12:51:16: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:52:08: Start of error session.
+L 10/02/2024 - 12:52:08: Info (map "zm_epic_base") (file "addons/amxmodx/logs/error_20241002.log")
+L 10/02/2024 - 12:52:08: [AMXX] Plugin file open error (plugin "scm_entity_editor.amxx")
+L 10/02/2024 - 12:52:09: Invalid index 13 (count: 13)
+L 10/02/2024 - 12:52:09: [AMXX] Run time error 10 (plugin "zombie_plague40.amxx") (native "ArrayGetCell") - debug not enabled!
+L 10/02/2024 - 12:52:09: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 12:52:09: Unhandled dynamic native error
+L 10/02/2024 - 12:52:09: [AMXX] Run time error 10 (plugin "zp_gungnir_v2.amxx") (native "zp_register_extra_item") - debug not enabled!
+L 10/02/2024 - 12:52:09: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 13:01:18: Start of error session.
+L 10/02/2024 - 13:01:18: Info (map "zm_epic_base") (file "addons/amxmodx/logs/error_20241002.log")
+L 10/02/2024 - 13:01:18: [AMXX] Plugin file open error (plugin "scm_entity_editor.amxx")
+L 10/02/2024 - 13:01:19: Invalid index 13 (count: 13)
+L 10/02/2024 - 13:01:19: [AMXX] Run time error 10 (plugin "zombie_plague40.amxx") (native "ArrayGetCell") - debug not enabled!
+L 10/02/2024 - 13:01:19: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 13:01:19: Unhandled dynamic native error
+L 10/02/2024 - 13:01:19: [AMXX] Run time error 10 (plugin "zp_gungnir_v2.amxx") (native "zp_register_extra_item") - debug not enabled!
+L 10/02/2024 - 13:01:19: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/02/2024 - 13:06:30: [AMXX] Run time error 4 (plugin "menu_create_entity.amxx") - debug not enabled!
+L 10/02/2024 - 13:06:30: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).

@@ -1,0 +1,4 @@
+L 12/31/2024 - 08:58:10: -------- Mapchange to zm_fdust2x2 --------
+L 12/31/2024 - 08:58:10: [AMXX] Plugin "K_M_guns.amxx" failed to load: Plugin uses an unknown function (name "give_start_avt") - check your modules.ini.
+L 12/31/2024 - 09:30:55: -------- Mapchange to zm_fdust2x2 --------
+L 12/31/2024 - 09:31:12: [admin.amxx] Login: "test<8><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "26.71.19.63")

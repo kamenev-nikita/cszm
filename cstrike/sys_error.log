@@ -1,0 +1,89 @@
+L 15/10/2019 - 20:27:48: (map "(null)") NET_OpenIP: Couldn't allocate dedicated server IP port 27015.
+L 15/10/2024 - 22:06:18: (map "de_dust2") Mod_LoadModel: models/player/m_z_rev_ice/m_z_rev_ice.mdl not found
+L 15/10/2024 - 22:06:57: (map "de_dust2") Mod_LoadModel: models/player/m_z_rev_ice/m_z_rev_ice.mdl not found
+L 15/10/2024 - 22:58:44: (map "de_dust2") Mod_LoadModel: models/zm_knife/v_knife_zm_class_Inv.mdl not found
+L 15/10/2024 - 22:59:18: (map "de_dust2") Mod_LoadModel: models/zm_knife/v_knife_zm_class_Inv.mdl not found
+L 15/10/2024 - 22:59:31: (map "de_dust2") Mod_LoadModel: models/zm_knife/v_knife_zm_class_Inv.mdl not found
+L 16/10/2024 - 11:46:57: (map "de_prodigy") SV_ModelIndex: SV_ModelIndex: model models/v_infection.mdl not precached
+L 19/10/2024 - 17:44:35: (map "zm_202") Mod_LoadModel: models/guns/pist/v_start_pist.mdl not found
+L 19/10/2024 - 20:42:39: (map "zm_infantry") Mod_LoadModel: sprites/BuB9neC/knife/flame.spr not found
+L 19/10/2024 - 20:55:09: (map "zm_202") Mod_LoadModel: models/Krol/knifes/k_p_knife1.mdl not found
+L 19/10/2024 - 20:56:09: (map "zm_202") Mod_LoadModel: models/Krol/knifes/k_p_knife1.mdl not found
+L 19/10/2024 - 21:12:38: (map "zm_202") Mod_LoadModel: models/player/Krol_model_w_Miku/Krol_model_w_Miku.mdl not found
+L 20/10/2024 - 00:54:02: (map "zm_202") Mod_LoadModel: models/player/v_knife_zm_nemesis/v_knife_zm_nemesis.mdl not found
+L 20/10/2024 - 00:54:58: (map "zm_202") Mod_LoadModel: models/player/v_knife_zm_nemesis/v_knife_zm_nemesis.mdl not found
+L 20/10/2024 - 19:16:59: (map "zm_202") Mod_LoadModel: models/guns/pyl/v_surv.mdl not found
+L 20/10/2024 - 19:17:43: (map "zm_202") Mod_LoadModel: models/player/m_survivor/m_survivor.mdl not found
+L 20/10/2024 - 19:19:35: (map "zm_202") Mod_LoadModel: models/player/m_survivor/m_survivor.mdl not found
+L 20/10/2024 - 19:20:28: (map "zm_202") Mod_LoadModel: models/player/m_survivor/m_survivor.mdl not found
+L 20/10/2024 - 21:19:20: (map "zm_202") SV_Physics: surv_gun_skill bad movetype 2
+L 20/10/2024 - 21:24:31: (map "zm_202") SV_Physics: surv_gun_skill bad movetype 1
+L 22/10/2024 - 20:49:22: (map "zm_base_human_lg_new_v2") Mod_LoadModel: models/Krol/zb/v_zbomb.mdl has been modified since starting the engine.  Consider running system diagnostics to check for faulty hardware.
+
+L 29/10/2024 - 10:13:27: (map "") Host_Error: PF_setmodel_I: no precache: ls/veria/storm.mdl
+
+
+L 29/10/2024 - 10:15:21: (map "") Host_Error: PF_setmodel_I: no precache: Øô
+
+
+L 29/10/2024 - 10:16:21: (map "") Host_Error: PF_setmodel_I: no precache: Øô
+
+
+L 29/10/2024 - 10:18:50: (map "") Host_Error: PF_setmodel_I: no precache: models/Krol/zb/w_trap.mdl
+
+
+L 29/10/2024 - 20:28:03: (map "zm_fdust2x2") PF_MessageBegin_I: Tried to create a message with a bogus message type ( 0 )
+L 29/10/2024 - 20:29:58: (map "zm_fdust2x2") PF_MessageBegin_I: Tried to create a message with a bogus message type ( 0 )
+L 30/10/2024 - 12:25:26: (map "zm_creative") Mod_LoadModel: models/player/m_z_doctor/m_z_doctor.mdl has been modified since starting the engine.  Consider running system diagnostics to check for faulty hardware.
+
+L 30/10/2024 - 14:07:53: (map "zm_fox") PF_WriteByte_I: called with no active message
+
+L 31/10/2024 - 12:40:58: (map "zm_fdust2x2") Mod_LoadModel: sprites/Krol/zb/ice_pixel.spr not found
+L 31/10/2024 - 21:01:41: (map "zm_fox") Mod_LoadModel: models/krol/zb/w_void_skill.mdl has been modified since starting the engine.  Consider running system diagnostics to check for faulty hardware.
+
+L 31/10/2024 - 21:08:23: (map "zm_fox") PF_WriteByte_I: called with no active message
+
+L 31/10/2024 - 22:11:02: (map "zm_dust_world") Mod_LoadModel: models/zm_knifes/v_knife_zm_class_rev_fire.mdl has been modified since starting the engine.  Consider running system diagnostics to check for faulty hardware.
+
+L 31/10/2024 - 22:25:50: (map "zm_fox") Mod_LoadModel: models/player/m_z_rev_ice/m_z_rev_void.mdl not found
+L 31/10/2024 - 22:57:11: (map "zm_fox") Mod_LoadModel: models/Krol/zb/v_zbomb.mdl has been modified since starting the engine.  Consider running system diagnostics to check for faulty hardware.
+
+L 02/11/2024 - 15:02:53: (map "zm_fdust2x2") Mod_LoadModel: sprites/Krol/zb/infec_pixel.spr not found
+L 03/11/2024 - 20:18:42: (map "zm_3rooms") Mod_LoadModel: models/knifes/k_p_knife2.mdl has been modified since starting the engine.  Consider running system diagnostics to check for faulty hardware.
+
+L 29/11/2024 - 16:26:54: (map "zm_3rooms") Mod_LoadModel: models/guns/avt/v_gold_ak47.mdl not found
+L 29/11/2024 - 16:27:56: (map "zm_fdust2x2") Mod_LoadModel: models/guns/avt/v_gold_ak47.mdl not found
+L 29/11/2024 - 19:03:34: (map "") Host_Error: PF_setmodel_I: no precache: models/guns/pist/p_start_pist.mdl
+
+
+L 03/12/2024 - 13:37:50: (map "") Host_Error: PF_setmodel_I: no precache: models/guns/pist/p_start_pist.mdl
+
+
+L 03/12/2024 - 20:50:22: (map "") Host_Error: PF_setmodel_I: no precache: models/guns/pist/p_start_pist.mdl
+
+
+L 03/12/2024 - 23:26:24: (map "zm_ngamers_lights_f") SV_ModelIndex: SV_ModelIndex: model models/v_infection.mdl not precached
+L 03/12/2024 - 23:28:19: (map "zm_ngamers_lights_f") SV_ModelIndex: SV_ModelIndex: model models/v_infection.mdl not precached
+L 03/12/2024 - 23:29:14: (map "zm_ngamers_lights_f") SV_ModelIndex: SV_ModelIndex: model models/zm_knifes/v_knife_zm_class_Inv.mdl not precached
+L 05/12/2024 - 04:05:55: (map "") Host_Error: PF_setmodel_I: no precache: models/guns/pist/p_start_pist.mdl
+
+
+L 10/12/2024 - 20:21:35: (map "(null)") NET_OpenIP: Couldn't allocate dedicated server IP port 27016.
+L 22/12/2024 - 16:46:37: (map "zm_dust_world") SV_ModelIndex: SV_ModelIndex: model MODELID not precached
+L 22/12/2024 - 21:43:38: (map "zm_base_human_lg_new_v2") Mod_LoadModel: models/Krol/guns/avt/w_start_avt.mdl not found
+L 22/12/2024 - 21:44:47: (map "zm_ngamers_lights_f") Mod_LoadModel: models/Krol/guns/avt/w_start_avt.mdl not found
+L 22/12/2024 - 22:21:03: (map "zm_ngamers_lights_f") Mod_LoadModel: models/guns/avt/p_start_avt.mdl not found
+L 22/12/2024 - 22:22:03: (map "zm_ngamers_lights_f") Mod_LoadModel: models/guns/avt/p_start_avt.mdl not found
+L 22/12/2024 - 22:22:44: (map "zm_ngamers_lights_f") Mod_LoadModel: models/Frol/guns/avt/v_start_avt.mdl not found
+L 23/12/2024 - 15:30:07: (map "zm_ngamers_lights_f") Mod_LoadModel: models/guns/avt/p_start_avt.mdl not found
+L 23/12/2024 - 16:42:34: (map "zm_ngamers_lights_f") Mod_LoadModel: models/weapon/v_m79.mdl not found
+L 23/12/2024 - 18:01:56: (map "zm_ngamers_lights_f") SV_ModelIndex: SV_ModelIndex: model MODELID not precached
+L 23/12/2024 - 20:44:05: (map "zm_decay") Mod_LoadModel: sprites/trail.spr not found
+L 24/12/2024 - 12:41:04: (map "zm_fdust2x2") Mod_LoadModel: Krol/guns/pyi/surv/ef_surv_gun.mdl not found
+L 24/12/2024 - 12:42:37: (map "zm_fdust2x2") Mod_LoadModel: models/Krol/guns/pyi/surv/ef_surv_gun.mdl not found
+L 26/12/2024 - 10:41:53: (map "") Host_Error: PF_setmodel_I: no precache: 1
+
+
+L 26/12/2024 - 10:59:38: (map "zm_ngamers_lights_f") Mod_LoadModel:   not found
+L 26/12/2024 - 10:59:52: (map "zm_ngamers_lights_f") Host_Error: PF_precache_model_I_internal: Bad string ''
+

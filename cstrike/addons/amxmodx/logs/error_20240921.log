@@ -1,0 +1,1036 @@
+L 09/21/2024 - 09:53:54: Start of error session.
+L 09/21/2024 - 09:53:54: Info (map "zm_fdust2x2") (file "addons/amxmodx/logs/error_20240921.log")
+L 09/21/2024 - 09:53:54: [AMXX] Plugin file open error (plugin "scm_entity_editor.amxx")
+L 09/21/2024 - 09:53:55: Invalid index 13 (count: 13)
+L 09/21/2024 - 09:53:55: [AMXX] Run time error 10 (plugin "zombie_plague40.amxx") (native "ArrayGetCell") - debug not enabled!
+L 09/21/2024 - 09:53:55: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/21/2024 - 09:53:55: Unhandled dynamic native error
+L 09/21/2024 - 09:53:55: [AMXX] Run time error 10 (plugin "zp_gungnir_v2.amxx") (native "zp_register_extra_item") - debug not enabled!
+L 09/21/2024 - 09:53:55: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/21/2024 - 09:54:28: Start of error session.
+L 09/21/2024 - 09:54:28: Info (map "zm_fdust2x2") (file "addons/amxmodx/logs/error_20240921.log")
+L 09/21/2024 - 09:54:28: [AMXX] Plugin file open error (plugin "scm_entity_editor.amxx")
+L 09/21/2024 - 09:54:29: Invalid index 13 (count: 13)
+L 09/21/2024 - 09:54:29: [AMXX] Run time error 10 (plugin "zombie_plague40.amxx") (native "ArrayGetCell") - debug not enabled!
+L 09/21/2024 - 09:54:29: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/21/2024 - 09:54:29: Unhandled dynamic native error
+L 09/21/2024 - 09:54:29: [AMXX] Run time error 10 (plugin "zp_gungnir_v2.amxx") (native "zp_register_extra_item") - debug not enabled!
+L 09/21/2024 - 09:54:29: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/21/2024 - 10:04:11: Start of error session.
+L 09/21/2024 - 10:04:11: Info (map "zm_fdust2x2") (file "addons/amxmodx/logs/error_20240921.log")
+L 09/21/2024 - 10:04:11: [AMXX] Plugin file open error (plugin "scm_entity_editor.amxx")
+L 09/21/2024 - 10:07:01: Start of error session.
+L 09/21/2024 - 10:07:01: Info (map "zm_fdust2x2") (file "addons/amxmodx/logs/error_20240921.log")
+L 09/21/2024 - 10:07:01: [AMXX] Plugin file open error (plugin "scm_entity_editor.amxx")
+L 09/21/2024 - 10:07:02: Invalid index 13 (count: 13)
+L 09/21/2024 - 10:07:02: [AMXX] Run time error 10 (plugin "zombie_plague40.amxx") (native "ArrayGetCell") - debug not enabled!
+L 09/21/2024 - 10:07:02: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/21/2024 - 10:07:02: Unhandled dynamic native error
+L 09/21/2024 - 10:07:02: [AMXX] Run time error 10 (plugin "zp_gungnir_v2.amxx") (native "zp_register_extra_item") - debug not enabled!
+L 09/21/2024 - 10:07:02: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/21/2024 - 10:33:13: Start of error session.
+L 09/21/2024 - 10:33:13: Info (map "zm_epic_base") (file "addons/amxmodx/logs/error_20240921.log")
+L 09/21/2024 - 10:33:13: [AMXX] Plugin file open error (plugin "scm_entity_editor.amxx")
+L 09/21/2024 - 10:33:15: Invalid index 13 (count: 13)
+L 09/21/2024 - 10:33:15: [AMXX] Run time error 10 (plugin "zombie_plague40.amxx") (native "ArrayGetCell") - debug not enabled!
+L 09/21/2024 - 10:33:15: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/21/2024 - 10:33:15: Unhandled dynamic native error
+L 09/21/2024 - 10:33:15: [AMXX] Run time error 10 (plugin "zp_gungnir_v2.amxx") (native "zp_register_extra_item") - debug not enabled!
+L 09/21/2024 - 10:33:15: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/21/2024 - 10:52:57: Start of error session.
+L 09/21/2024 - 10:52:57: Info (map "zm_epic_base") (file "addons/amxmodx/logs/error_20240921.log")
+L 09/21/2024 - 10:52:57: [AMXX] Plugin file open error (plugin "scm_entity_editor.amxx")
+L 09/21/2024 - 10:52:58: Function "StartCreate" was not found
+L 09/21/2024 - 10:52:58: [AMXX] Run time error 19 (plugin "Krol_testing.amxx") - debug not enabled!
+L 09/21/2024 - 10:52:58: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/21/2024 - 10:52:58: Invalid index 13 (count: 13)
+L 09/21/2024 - 10:52:58: [AMXX] Run time error 10 (plugin "zombie_plague40.amxx") (native "ArrayGetCell") - debug not enabled!
+L 09/21/2024 - 10:52:58: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/21/2024 - 10:52:58: Unhandled dynamic native error
+L 09/21/2024 - 10:52:58: [AMXX] Run time error 10 (plugin "zp_gungnir_v2.amxx") (native "zp_register_extra_item") - debug not enabled!
+L 09/21/2024 - 10:52:58: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/21/2024 - 10:56:32: Start of error session.
+L 09/21/2024 - 10:56:32: Info (map "zm_epic_base") (file "addons/amxmodx/logs/error_20240921.log")
+L 09/21/2024 - 10:56:32: Function "native_create_my_entity" was not found
+L 09/21/2024 - 10:56:32: [AMXX] Run time error 19 (plugin "Krol_funs.amxx") - debug not enabled!
+L 09/21/2024 - 10:56:32: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/21/2024 - 10:56:32: [AMXX] Run time error -1 (plugin "Krol_funs.amxx") - debug not enabled!
+L 09/21/2024 - 10:56:32: [AMXX] Plugin file open error (plugin "scm_entity_editor.amxx")
+L 09/21/2024 - 10:56:33: Invalid index 13 (count: 13)
+L 09/21/2024 - 10:56:33: [AMXX] Run time error 10 (plugin "zombie_plague40.amxx") (native "ArrayGetCell") - debug not enabled!
+L 09/21/2024 - 10:56:33: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/21/2024 - 10:56:33: Unhandled dynamic native error
+L 09/21/2024 - 10:56:33: [AMXX] Run time error 10 (plugin "zp_gungnir_v2.amxx") (native "zp_register_extra_item") - debug not enabled!
+L 09/21/2024 - 10:56:33: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/21/2024 - 11:06:58: Start of error session.
+L 09/21/2024 - 11:06:58: Info (map "zm_epic_base") (file "addons/amxmodx/logs/error_20240921.log")
+L 09/21/2024 - 11:06:58: Function "native_create_my_entity" was not found
+L 09/21/2024 - 11:06:58: [AMXX] Run time error 19 (plugin "Krol_funs.amxx") - debug not enabled!
+L 09/21/2024 - 11:06:58: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/21/2024 - 11:06:58: [AMXX] Run time error -1 (plugin "Krol_funs.amxx") - debug not enabled!
+L 09/21/2024 - 11:06:58: [AMXX] Plugin file open error (plugin "scm_entity_editor.amxx")
+L 09/21/2024 - 11:06:59: Invalid index 13 (count: 13)
+L 09/21/2024 - 11:06:59: [AMXX] Run time error 10 (plugin "zombie_plague40.amxx") (native "ArrayGetCell") - debug not enabled!
+L 09/21/2024 - 11:06:59: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/21/2024 - 11:06:59: Unhandled dynamic native error
+L 09/21/2024 - 11:06:59: [AMXX] Run time error 10 (plugin "zp_gungnir_v2.amxx") (native "zp_register_extra_item") - debug not enabled!
+L 09/21/2024 - 11:06:59: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/21/2024 - 11:11:34: Start of error session.
+L 09/21/2024 - 11:11:34: Info (map "zm_epic_base") (file "addons/amxmodx/logs/error_20240921.log")
+L 09/21/2024 - 11:11:34: Function "native_create_my_entity" was not found
+L 09/21/2024 - 11:11:34: [AMXX] Run time error 19 (plugin "Krol_funs.amxx") - debug not enabled!
+L 09/21/2024 - 11:11:34: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/21/2024 - 11:11:34: [AMXX] Run time error -1 (plugin "Krol_funs.amxx") - debug not enabled!
+L 09/21/2024 - 11:11:34: [AMXX] Plugin file open error (plugin "scm_entity_editor.amxx")
+L 09/21/2024 - 11:11:35: Invalid index 13 (count: 13)
+L 09/21/2024 - 11:11:35: [AMXX] Run time error 10 (plugin "zombie_plague40.amxx") (native "ArrayGetCell") - debug not enabled!
+L 09/21/2024 - 11:11:35: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/21/2024 - 11:11:35: Unhandled dynamic native error
+L 09/21/2024 - 11:11:35: [AMXX] Run time error 10 (plugin "zp_gungnir_v2.amxx") (native "zp_register_extra_item") - debug not enabled!
+L 09/21/2024 - 11:11:35: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/21/2024 - 11:12:25: Start of error session.
+L 09/21/2024 - 11:12:25: Info (map "zm_epic_base") (file "addons/amxmodx/logs/error_20240921.log")
+L 09/21/2024 - 11:12:25: Function "native_create_my_entity" was not found
+L 09/21/2024 - 11:12:25: [AMXX] Run time error 19 (plugin "Krol_funs.amxx") - debug not enabled!
+L 09/21/2024 - 11:12:25: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/21/2024 - 11:12:25: [AMXX] Run time error -1 (plugin "Krol_funs.amxx") - debug not enabled!
+L 09/21/2024 - 11:12:25: [AMXX] Plugin file open error (plugin "scm_entity_editor.amxx")
+L 09/21/2024 - 11:12:26: Invalid index 13 (count: 13)
+L 09/21/2024 - 11:12:26: [AMXX] Run time error 10 (plugin "zombie_plague40.amxx") (native "ArrayGetCell") - debug not enabled!
+L 09/21/2024 - 11:12:26: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/21/2024 - 11:12:26: Unhandled dynamic native error
+L 09/21/2024 - 11:12:26: [AMXX] Run time error 10 (plugin "zp_gungnir_v2.amxx") (native "zp_register_extra_item") - debug not enabled!
+L 09/21/2024 - 11:12:26: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/21/2024 - 11:17:09: Start of error session.
+L 09/21/2024 - 11:17:09: Info (map "zm_epic_base") (file "addons/amxmodx/logs/error_20240921.log")
+L 09/21/2024 - 11:17:09: Function "native_create_my_entity" was not found
+L 09/21/2024 - 11:17:09: [AMXX] Run time error 19 (plugin "Krol_funs.amxx") - debug not enabled!
+L 09/21/2024 - 11:17:09: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/21/2024 - 11:17:09: [AMXX] Run time error -1 (plugin "Krol_funs.amxx") - debug not enabled!
+L 09/21/2024 - 11:17:09: [AMXX] Plugin file open error (plugin "scm_entity_editor.amxx")
+L 09/21/2024 - 11:17:10: Function "StartCreate" was not found
+L 09/21/2024 - 11:17:10: [AMXX] Run time error 19 (plugin "Krol_testing.amxx") - debug not enabled!
+L 09/21/2024 - 11:17:10: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/21/2024 - 11:17:10: Invalid index 13 (count: 13)
+L 09/21/2024 - 11:17:10: [AMXX] Run time error 10 (plugin "zombie_plague40.amxx") (native "ArrayGetCell") - debug not enabled!
+L 09/21/2024 - 11:17:10: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/21/2024 - 11:17:10: Unhandled dynamic native error
+L 09/21/2024 - 11:17:10: [AMXX] Run time error 10 (plugin "zp_gungnir_v2.amxx") (native "zp_register_extra_item") - debug not enabled!
+L 09/21/2024 - 11:17:10: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/21/2024 - 11:17:52: Start of error session.
+L 09/21/2024 - 11:17:52: Info (map "zm_epic_base") (file "addons/amxmodx/logs/error_20240921.log")
+L 09/21/2024 - 11:17:52: Function "native_create_my_entity" was not found
+L 09/21/2024 - 11:17:52: [AMXX] Run time error 19 (plugin "Krol_funs.amxx") - debug not enabled!
+L 09/21/2024 - 11:17:52: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/21/2024 - 11:17:52: [AMXX] Run time error -1 (plugin "Krol_funs.amxx") - debug not enabled!
+L 09/21/2024 - 11:17:52: [AMXX] Plugin file open error (plugin "scm_entity_editor.amxx")
+L 09/21/2024 - 11:17:53: Function "StartCreate" was not found
+L 09/21/2024 - 11:17:53: [AMXX] Run time error 19 (plugin "Krol_testing.amxx") - debug not enabled!
+L 09/21/2024 - 11:17:53: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/21/2024 - 11:17:53: Invalid index 13 (count: 13)
+L 09/21/2024 - 11:17:53: [AMXX] Run time error 10 (plugin "zombie_plague40.amxx") (native "ArrayGetCell") - debug not enabled!
+L 09/21/2024 - 11:17:53: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/21/2024 - 11:17:53: Unhandled dynamic native error
+L 09/21/2024 - 11:17:53: [AMXX] Run time error 10 (plugin "zp_gungnir_v2.amxx") (native "zp_register_extra_item") - debug not enabled!
+L 09/21/2024 - 11:17:53: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/21/2024 - 11:18:37: Start of error session.
+L 09/21/2024 - 11:18:37: Info (map "zm_epic_base") (file "addons/amxmodx/logs/error_20240921.log")
+L 09/21/2024 - 11:18:37: Function "native_create_my_entity" was not found
+L 09/21/2024 - 11:18:37: [AMXX] Run time error 19 (plugin "Krol_funs.amxx") - debug not enabled!
+L 09/21/2024 - 11:18:37: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/21/2024 - 11:18:37: [AMXX] Run time error -1 (plugin "Krol_funs.amxx") - debug not enabled!
+L 09/21/2024 - 11:18:37: [AMXX] Plugin file open error (plugin "scm_entity_editor.amxx")
+L 09/21/2024 - 11:18:38: Invalid index 13 (count: 13)
+L 09/21/2024 - 11:18:38: [AMXX] Run time error 10 (plugin "zombie_plague40.amxx") (native "ArrayGetCell") - debug not enabled!
+L 09/21/2024 - 11:18:38: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/21/2024 - 11:18:38: Unhandled dynamic native error
+L 09/21/2024 - 11:18:38: [AMXX] Run time error 10 (plugin "zp_gungnir_v2.amxx") (native "zp_register_extra_item") - debug not enabled!
+L 09/21/2024 - 11:18:38: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/21/2024 - 11:21:39: Start of error session.
+L 09/21/2024 - 11:21:39: Info (map "zm_epic_base") (file "addons/amxmodx/logs/error_20240921.log")
+L 09/21/2024 - 11:21:39: Function "native_create_my_entity" was not found
+L 09/21/2024 - 11:21:39: [AMXX] Run time error 19 (plugin "Krol_funs.amxx") - debug not enabled!
+L 09/21/2024 - 11:21:39: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/21/2024 - 11:21:39: [AMXX] Run time error -1 (plugin "Krol_funs.amxx") - debug not enabled!
+L 09/21/2024 - 11:21:39: [AMXX] Plugin file open error (plugin "scm_entity_editor.amxx")
+L 09/21/2024 - 11:21:40: Invalid index 13 (count: 13)
+L 09/21/2024 - 11:21:40: [AMXX] Run time error 10 (plugin "zombie_plague40.amxx") (native "ArrayGetCell") - debug not enabled!
+L 09/21/2024 - 11:21:40: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/21/2024 - 11:21:40: Unhandled dynamic native error
+L 09/21/2024 - 11:21:40: [AMXX] Run time error 10 (plugin "zp_gungnir_v2.amxx") (native "zp_register_extra_item") - debug not enabled!
+L 09/21/2024 - 11:21:40: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/21/2024 - 11:37:13: Start of error session.
+L 09/21/2024 - 11:37:13: Info (map "zm_epic_base") (file "addons/amxmodx/logs/error_20240921.log")
+L 09/21/2024 - 11:37:13: Function "native_create_my_entity" was not found
+L 09/21/2024 - 11:37:13: [AMXX] Run time error 19 (plugin "Krol_funs.amxx") - debug not enabled!
+L 09/21/2024 - 11:37:13: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/21/2024 - 11:37:13: [AMXX] Run time error -1 (plugin "Krol_funs.amxx") - debug not enabled!
+L 09/21/2024 - 11:37:13: [AMXX] Plugin file open error (plugin "scm_entity_editor.amxx")
+L 09/21/2024 - 11:37:14: Invalid index 13 (count: 13)
+L 09/21/2024 - 11:37:14: [AMXX] Run time error 10 (plugin "zombie_plague40.amxx") (native "ArrayGetCell") - debug not enabled!
+L 09/21/2024 - 11:37:14: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/21/2024 - 11:37:14: Unhandled dynamic native error
+L 09/21/2024 - 11:37:14: [AMXX] Run time error 10 (plugin "zp_gungnir_v2.amxx") (native "zp_register_extra_item") - debug not enabled!
+L 09/21/2024 - 11:37:14: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/21/2024 - 11:38:18: Start of error session.
+L 09/21/2024 - 11:38:18: Info (map "zm_epic_base") (file "addons/amxmodx/logs/error_20240921.log")
+L 09/21/2024 - 11:38:18: Function "native_create_my_entity" was not found
+L 09/21/2024 - 11:38:18: [AMXX] Run time error 19 (plugin "Krol_funs.amxx") - debug not enabled!
+L 09/21/2024 - 11:38:18: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/21/2024 - 11:38:18: [AMXX] Run time error -1 (plugin "Krol_funs.amxx") - debug not enabled!
+L 09/21/2024 - 11:38:18: [AMXX] Plugin file open error (plugin "scm_entity_editor.amxx")
+L 09/21/2024 - 11:38:19: Invalid index 13 (count: 13)
+L 09/21/2024 - 11:38:19: [AMXX] Run time error 10 (plugin "zombie_plague40.amxx") (native "ArrayGetCell") - debug not enabled!
+L 09/21/2024 - 11:38:19: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/21/2024 - 11:38:19: Unhandled dynamic native error
+L 09/21/2024 - 11:38:19: [AMXX] Run time error 10 (plugin "zp_gungnir_v2.amxx") (native "zp_register_extra_item") - debug not enabled!
+L 09/21/2024 - 11:38:19: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/21/2024 - 11:39:09: Start of error session.
+L 09/21/2024 - 11:39:09: Info (map "zm_epic_base") (file "addons/amxmodx/logs/error_20240921.log")
+L 09/21/2024 - 11:39:09: Function "native_create_my_entity" was not found
+L 09/21/2024 - 11:39:09: [AMXX] Run time error 19 (plugin "Krol_funs.amxx") - debug not enabled!
+L 09/21/2024 - 11:39:09: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/21/2024 - 11:39:09: [AMXX] Run time error -1 (plugin "Krol_funs.amxx") - debug not enabled!
+L 09/21/2024 - 11:39:09: [AMXX] Plugin file open error (plugin "scm_entity_editor.amxx")
+L 09/21/2024 - 11:39:10: Invalid index 13 (count: 13)
+L 09/21/2024 - 11:39:10: [AMXX] Run time error 10 (plugin "zombie_plague40.amxx") (native "ArrayGetCell") - debug not enabled!
+L 09/21/2024 - 11:39:10: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/21/2024 - 11:39:10: Unhandled dynamic native error
+L 09/21/2024 - 11:39:10: [AMXX] Run time error 10 (plugin "zp_gungnir_v2.amxx") (native "zp_register_extra_item") - debug not enabled!
+L 09/21/2024 - 11:39:10: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/21/2024 - 11:40:16: Start of error session.
+L 09/21/2024 - 11:40:16: Info (map "zm_epic_base") (file "addons/amxmodx/logs/error_20240921.log")
+L 09/21/2024 - 11:40:16: Function "native_create_my_entity" was not found
+L 09/21/2024 - 11:40:16: [AMXX] Run time error 19 (plugin "Krol_funs.amxx") - debug not enabled!
+L 09/21/2024 - 11:40:16: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/21/2024 - 11:40:16: [AMXX] Run time error -1 (plugin "Krol_funs.amxx") - debug not enabled!
+L 09/21/2024 - 11:40:16: [AMXX] Plugin file open error (plugin "scm_entity_editor.amxx")
+L 09/21/2024 - 11:40:17: Invalid index 13 (count: 13)
+L 09/21/2024 - 11:40:17: [AMXX] Run time error 10 (plugin "zombie_plague40.amxx") (native "ArrayGetCell") - debug not enabled!
+L 09/21/2024 - 11:40:17: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/21/2024 - 11:40:17: Unhandled dynamic native error
+L 09/21/2024 - 11:40:17: [AMXX] Run time error 10 (plugin "zp_gungnir_v2.amxx") (native "zp_register_extra_item") - debug not enabled!
+L 09/21/2024 - 11:40:17: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/21/2024 - 11:42:04: Start of error session.
+L 09/21/2024 - 11:42:04: Info (map "zm_epic_base") (file "addons/amxmodx/logs/error_20240921.log")
+L 09/21/2024 - 11:42:04: Function "native_create_my_entity" was not found
+L 09/21/2024 - 11:42:04: [AMXX] Run time error 19 (plugin "Krol_funs.amxx") - debug not enabled!
+L 09/21/2024 - 11:42:04: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/21/2024 - 11:42:04: [AMXX] Run time error -1 (plugin "Krol_funs.amxx") - debug not enabled!
+L 09/21/2024 - 11:42:04: [AMXX] Plugin file open error (plugin "scm_entity_editor.amxx")
+L 09/21/2024 - 11:42:05: Invalid index 13 (count: 13)
+L 09/21/2024 - 11:42:05: [AMXX] Run time error 10 (plugin "zombie_plague40.amxx") (native "ArrayGetCell") - debug not enabled!
+L 09/21/2024 - 11:42:05: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/21/2024 - 11:42:05: Unhandled dynamic native error
+L 09/21/2024 - 11:42:05: [AMXX] Run time error 10 (plugin "zp_gungnir_v2.amxx") (native "zp_register_extra_item") - debug not enabled!
+L 09/21/2024 - 11:42:05: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/21/2024 - 11:45:26: Start of error session.
+L 09/21/2024 - 11:45:26: Info (map "zm_epic_base") (file "addons/amxmodx/logs/error_20240921.log")
+L 09/21/2024 - 11:45:26: Function "native_create_my_entity" was not found
+L 09/21/2024 - 11:45:26: [AMXX] Run time error 19 (plugin "Krol_funs.amxx") - debug not enabled!
+L 09/21/2024 - 11:45:26: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/21/2024 - 11:45:26: [AMXX] Run time error -1 (plugin "Krol_funs.amxx") - debug not enabled!
+L 09/21/2024 - 11:45:26: [AMXX] Plugin file open error (plugin "scm_entity_editor.amxx")
+L 09/21/2024 - 11:45:27: Invalid index 13 (count: 13)
+L 09/21/2024 - 11:45:27: [AMXX] Run time error 10 (plugin "zombie_plague40.amxx") (native "ArrayGetCell") - debug not enabled!
+L 09/21/2024 - 11:45:27: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/21/2024 - 11:45:27: Unhandled dynamic native error
+L 09/21/2024 - 11:45:27: [AMXX] Run time error 10 (plugin "zp_gungnir_v2.amxx") (native "zp_register_extra_item") - debug not enabled!
+L 09/21/2024 - 11:45:27: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/21/2024 - 11:50:29: Start of error session.
+L 09/21/2024 - 11:50:29: Info (map "zm_epic_base") (file "addons/amxmodx/logs/error_20240921.log")
+L 09/21/2024 - 11:50:29: Function "native_create_my_entity" was not found
+L 09/21/2024 - 11:50:29: [AMXX] Run time error 19 (plugin "Krol_funs.amxx") - debug not enabled!
+L 09/21/2024 - 11:50:29: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/21/2024 - 11:50:29: [AMXX] Run time error -1 (plugin "Krol_funs.amxx") - debug not enabled!
+L 09/21/2024 - 11:50:29: [AMXX] Plugin file open error (plugin "scm_entity_editor.amxx")
+L 09/21/2024 - 11:50:30: Invalid index 13 (count: 13)
+L 09/21/2024 - 11:50:30: [AMXX] Run time error 10 (plugin "zombie_plague40.amxx") (native "ArrayGetCell") - debug not enabled!
+L 09/21/2024 - 11:50:30: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/21/2024 - 11:50:30: Unhandled dynamic native error
+L 09/21/2024 - 11:50:30: [AMXX] Run time error 10 (plugin "zp_gungnir_v2.amxx") (native "zp_register_extra_item") - debug not enabled!
+L 09/21/2024 - 11:50:30: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/21/2024 - 11:55:43: Start of error session.
+L 09/21/2024 - 11:55:43: Info (map "zm_epic_base") (file "addons/amxmodx/logs/error_20240921.log")
+L 09/21/2024 - 11:55:43: Function "native_create_my_entity" was not found
+L 09/21/2024 - 11:55:43: [AMXX] Run time error 19 (plugin "Krol_funs.amxx") - debug not enabled!
+L 09/21/2024 - 11:55:43: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/21/2024 - 11:55:43: [AMXX] Run time error -1 (plugin "Krol_funs.amxx") - debug not enabled!
+L 09/21/2024 - 11:55:43: [AMXX] Plugin file open error (plugin "scm_entity_editor.amxx")
+L 09/21/2024 - 11:55:44: Invalid index 13 (count: 13)
+L 09/21/2024 - 11:55:44: [AMXX] Run time error 10 (plugin "zombie_plague40.amxx") (native "ArrayGetCell") - debug not enabled!
+L 09/21/2024 - 11:55:44: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/21/2024 - 11:55:44: Unhandled dynamic native error
+L 09/21/2024 - 11:55:44: [AMXX] Run time error 10 (plugin "zp_gungnir_v2.amxx") (native "zp_register_extra_item") - debug not enabled!
+L 09/21/2024 - 11:55:44: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/21/2024 - 11:56:57: Start of error session.
+L 09/21/2024 - 11:56:57: Info (map "zm_epic_base") (file "addons/amxmodx/logs/error_20240921.log")
+L 09/21/2024 - 11:56:57: Function "native_create_my_entity" was not found
+L 09/21/2024 - 11:56:57: [AMXX] Run time error 19 (plugin "Krol_funs.amxx") - debug not enabled!
+L 09/21/2024 - 11:56:57: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/21/2024 - 11:56:57: [AMXX] Run time error -1 (plugin "Krol_funs.amxx") - debug not enabled!
+L 09/21/2024 - 11:56:57: [AMXX] Plugin file open error (plugin "scm_entity_editor.amxx")
+L 09/21/2024 - 11:56:58: Invalid index 13 (count: 13)
+L 09/21/2024 - 11:56:58: [AMXX] Run time error 10 (plugin "zombie_plague40.amxx") (native "ArrayGetCell") - debug not enabled!
+L 09/21/2024 - 11:56:58: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/21/2024 - 11:56:58: Unhandled dynamic native error
+L 09/21/2024 - 11:56:58: [AMXX] Run time error 10 (plugin "zp_gungnir_v2.amxx") (native "zp_register_extra_item") - debug not enabled!
+L 09/21/2024 - 11:56:58: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/21/2024 - 11:58:15: Start of error session.
+L 09/21/2024 - 11:58:15: Info (map "zm_epic_base") (file "addons/amxmodx/logs/error_20240921.log")
+L 09/21/2024 - 11:58:15: Function "native_create_my_entity" was not found
+L 09/21/2024 - 11:58:15: [AMXX] Run time error 19 (plugin "Krol_funs.amxx") - debug not enabled!
+L 09/21/2024 - 11:58:15: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/21/2024 - 11:58:15: [AMXX] Run time error -1 (plugin "Krol_funs.amxx") - debug not enabled!
+L 09/21/2024 - 11:58:15: [AMXX] Plugin file open error (plugin "scm_entity_editor.amxx")
+L 09/21/2024 - 11:58:16: Invalid index 13 (count: 13)
+L 09/21/2024 - 11:58:16: [AMXX] Run time error 10 (plugin "zombie_plague40.amxx") (native "ArrayGetCell") - debug not enabled!
+L 09/21/2024 - 11:58:16: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/21/2024 - 11:58:16: Unhandled dynamic native error
+L 09/21/2024 - 11:58:16: [AMXX] Run time error 10 (plugin "zp_gungnir_v2.amxx") (native "zp_register_extra_item") - debug not enabled!
+L 09/21/2024 - 11:58:16: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/21/2024 - 12:09:46: Start of error session.
+L 09/21/2024 - 12:09:46: Info (map "zm_epic_base") (file "addons/amxmodx/logs/error_20240921.log")
+L 09/21/2024 - 12:09:46: Function "native_create_my_entity" was not found
+L 09/21/2024 - 12:09:46: [AMXX] Run time error 19 (plugin "Krol_funs.amxx") - debug not enabled!
+L 09/21/2024 - 12:09:46: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/21/2024 - 12:09:46: [AMXX] Run time error -1 (plugin "Krol_funs.amxx") - debug not enabled!
+L 09/21/2024 - 12:09:46: [AMXX] Plugin file open error (plugin "scm_entity_editor.amxx")
+L 09/21/2024 - 12:09:47: Invalid index 13 (count: 13)
+L 09/21/2024 - 12:09:47: [AMXX] Run time error 10 (plugin "zombie_plague40.amxx") (native "ArrayGetCell") - debug not enabled!
+L 09/21/2024 - 12:09:47: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/21/2024 - 12:09:47: Unhandled dynamic native error
+L 09/21/2024 - 12:09:47: [AMXX] Run time error 10 (plugin "zp_gungnir_v2.amxx") (native "zp_register_extra_item") - debug not enabled!
+L 09/21/2024 - 12:09:47: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/21/2024 - 12:10:19: Start of error session.
+L 09/21/2024 - 12:10:19: Info (map "zm_epic_base") (file "addons/amxmodx/logs/error_20240921.log")
+L 09/21/2024 - 12:10:19: Function "native_create_my_entity" was not found
+L 09/21/2024 - 12:10:19: [AMXX] Run time error 19 (plugin "Krol_funs.amxx") - debug not enabled!
+L 09/21/2024 - 12:10:19: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/21/2024 - 12:10:19: [AMXX] Run time error -1 (plugin "Krol_funs.amxx") - debug not enabled!
+L 09/21/2024 - 12:10:19: [AMXX] Plugin file open error (plugin "scm_entity_editor.amxx")
+L 09/21/2024 - 12:10:20: Invalid index 13 (count: 13)
+L 09/21/2024 - 12:10:20: [AMXX] Run time error 10 (plugin "zombie_plague40.amxx") (native "ArrayGetCell") - debug not enabled!
+L 09/21/2024 - 12:10:20: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/21/2024 - 12:10:20: Unhandled dynamic native error
+L 09/21/2024 - 12:10:20: [AMXX] Run time error 10 (plugin "zp_gungnir_v2.amxx") (native "zp_register_extra_item") - debug not enabled!
+L 09/21/2024 - 12:10:20: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/21/2024 - 12:11:13: Start of error session.
+L 09/21/2024 - 12:11:13: Info (map "zm_epic_base") (file "addons/amxmodx/logs/error_20240921.log")
+L 09/21/2024 - 12:11:13: Function "native_create_my_entity" was not found
+L 09/21/2024 - 12:11:13: [AMXX] Run time error 19 (plugin "Krol_funs.amxx") - debug not enabled!
+L 09/21/2024 - 12:11:13: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/21/2024 - 12:11:13: [AMXX] Run time error -1 (plugin "Krol_funs.amxx") - debug not enabled!
+L 09/21/2024 - 12:11:13: [AMXX] Plugin file open error (plugin "scm_entity_editor.amxx")
+L 09/21/2024 - 12:11:14: Invalid index 13 (count: 13)
+L 09/21/2024 - 12:11:14: [AMXX] Run time error 10 (plugin "zombie_plague40.amxx") (native "ArrayGetCell") - debug not enabled!
+L 09/21/2024 - 12:11:14: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/21/2024 - 12:11:14: Unhandled dynamic native error
+L 09/21/2024 - 12:11:14: [AMXX] Run time error 10 (plugin "zp_gungnir_v2.amxx") (native "zp_register_extra_item") - debug not enabled!
+L 09/21/2024 - 12:11:14: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/21/2024 - 12:13:24: Start of error session.
+L 09/21/2024 - 12:13:24: Info (map "zm_epic_base") (file "addons/amxmodx/logs/error_20240921.log")
+L 09/21/2024 - 12:13:24: Function "native_create_my_entity" was not found
+L 09/21/2024 - 12:13:24: [AMXX] Run time error 19 (plugin "Krol_funs.amxx") - debug not enabled!
+L 09/21/2024 - 12:13:24: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/21/2024 - 12:13:24: [AMXX] Run time error -1 (plugin "Krol_funs.amxx") - debug not enabled!
+L 09/21/2024 - 12:13:24: [AMXX] Plugin file open error (plugin "scm_entity_editor.amxx")
+L 09/21/2024 - 12:13:25: Invalid index 13 (count: 13)
+L 09/21/2024 - 12:13:25: [AMXX] Run time error 10 (plugin "zombie_plague40.amxx") (native "ArrayGetCell") - debug not enabled!
+L 09/21/2024 - 12:13:25: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/21/2024 - 12:13:25: Unhandled dynamic native error
+L 09/21/2024 - 12:13:25: [AMXX] Run time error 10 (plugin "zp_gungnir_v2.amxx") (native "zp_register_extra_item") - debug not enabled!
+L 09/21/2024 - 12:13:25: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/21/2024 - 12:14:46: Start of error session.
+L 09/21/2024 - 12:14:46: Info (map "zm_epic_base") (file "addons/amxmodx/logs/error_20240921.log")
+L 09/21/2024 - 12:14:46: Function "native_create_my_entity" was not found
+L 09/21/2024 - 12:14:46: [AMXX] Run time error 19 (plugin "Krol_funs.amxx") - debug not enabled!
+L 09/21/2024 - 12:14:46: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/21/2024 - 12:14:46: [AMXX] Run time error -1 (plugin "Krol_funs.amxx") - debug not enabled!
+L 09/21/2024 - 12:14:46: [AMXX] Plugin file open error (plugin "scm_entity_editor.amxx")
+L 09/21/2024 - 12:14:47: Invalid index 13 (count: 13)
+L 09/21/2024 - 12:14:47: [AMXX] Run time error 10 (plugin "zombie_plague40.amxx") (native "ArrayGetCell") - debug not enabled!
+L 09/21/2024 - 12:14:47: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/21/2024 - 12:14:47: Unhandled dynamic native error
+L 09/21/2024 - 12:14:47: [AMXX] Run time error 10 (plugin "zp_gungnir_v2.amxx") (native "zp_register_extra_item") - debug not enabled!
+L 09/21/2024 - 12:14:47: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/21/2024 - 12:15:38: Start of error session.
+L 09/21/2024 - 12:15:38: Info (map "zm_epic_base") (file "addons/amxmodx/logs/error_20240921.log")
+L 09/21/2024 - 12:15:38: Function "native_create_my_entity" was not found
+L 09/21/2024 - 12:15:38: [AMXX] Run time error 19 (plugin "Krol_funs.amxx") - debug not enabled!
+L 09/21/2024 - 12:15:38: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/21/2024 - 12:15:38: [AMXX] Run time error -1 (plugin "Krol_funs.amxx") - debug not enabled!
+L 09/21/2024 - 12:15:38: [AMXX] Plugin file open error (plugin "scm_entity_editor.amxx")
+L 09/21/2024 - 12:15:39: Invalid index 13 (count: 13)
+L 09/21/2024 - 12:15:39: [AMXX] Run time error 10 (plugin "zombie_plague40.amxx") (native "ArrayGetCell") - debug not enabled!
+L 09/21/2024 - 12:15:39: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/21/2024 - 12:15:39: Unhandled dynamic native error
+L 09/21/2024 - 12:15:39: [AMXX] Run time error 10 (plugin "zp_gungnir_v2.amxx") (native "zp_register_extra_item") - debug not enabled!
+L 09/21/2024 - 12:15:39: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/21/2024 - 12:17:13: Start of error session.
+L 09/21/2024 - 12:17:13: Info (map "zm_epic_base") (file "addons/amxmodx/logs/error_20240921.log")
+L 09/21/2024 - 12:17:13: Function "native_create_my_entity" was not found
+L 09/21/2024 - 12:17:13: [AMXX] Run time error 19 (plugin "Krol_funs.amxx") - debug not enabled!
+L 09/21/2024 - 12:17:13: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/21/2024 - 12:17:13: [AMXX] Run time error -1 (plugin "Krol_funs.amxx") - debug not enabled!
+L 09/21/2024 - 12:17:13: [AMXX] Plugin file open error (plugin "scm_entity_editor.amxx")
+L 09/21/2024 - 12:17:14: Invalid index 13 (count: 13)
+L 09/21/2024 - 12:17:14: [AMXX] Run time error 10 (plugin "zombie_plague40.amxx") (native "ArrayGetCell") - debug not enabled!
+L 09/21/2024 - 12:17:14: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/21/2024 - 12:17:14: Unhandled dynamic native error
+L 09/21/2024 - 12:17:14: [AMXX] Run time error 10 (plugin "zp_gungnir_v2.amxx") (native "zp_register_extra_item") - debug not enabled!
+L 09/21/2024 - 12:17:14: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/21/2024 - 12:20:21: Start of error session.
+L 09/21/2024 - 12:20:21: Info (map "zm_epic_base") (file "addons/amxmodx/logs/error_20240921.log")
+L 09/21/2024 - 12:20:21: Function "native_create_my_entity" was not found
+L 09/21/2024 - 12:20:21: [AMXX] Run time error 19 (plugin "Krol_funs.amxx") - debug not enabled!
+L 09/21/2024 - 12:20:21: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/21/2024 - 12:20:21: [AMXX] Run time error -1 (plugin "Krol_funs.amxx") - debug not enabled!
+L 09/21/2024 - 12:20:21: [AMXX] Plugin file open error (plugin "scm_entity_editor.amxx")
+L 09/21/2024 - 12:20:22: Invalid index 13 (count: 13)
+L 09/21/2024 - 12:20:22: [AMXX] Run time error 10 (plugin "zombie_plague40.amxx") (native "ArrayGetCell") - debug not enabled!
+L 09/21/2024 - 12:20:22: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/21/2024 - 12:20:22: Unhandled dynamic native error
+L 09/21/2024 - 12:20:22: [AMXX] Run time error 10 (plugin "zp_gungnir_v2.amxx") (native "zp_register_extra_item") - debug not enabled!
+L 09/21/2024 - 12:20:22: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/21/2024 - 12:22:32: Start of error session.
+L 09/21/2024 - 12:22:32: Info (map "zm_epic_base") (file "addons/amxmodx/logs/error_20240921.log")
+L 09/21/2024 - 12:22:32: Function "native_create_my_entity" was not found
+L 09/21/2024 - 12:22:32: [AMXX] Run time error 19 (plugin "Krol_funs.amxx") - debug not enabled!
+L 09/21/2024 - 12:22:32: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/21/2024 - 12:22:32: [AMXX] Run time error -1 (plugin "Krol_funs.amxx") - debug not enabled!
+L 09/21/2024 - 12:22:32: [AMXX] Plugin file open error (plugin "scm_entity_editor.amxx")
+L 09/21/2024 - 12:22:33: Invalid index 13 (count: 13)
+L 09/21/2024 - 12:22:33: [AMXX] Run time error 10 (plugin "zombie_plague40.amxx") (native "ArrayGetCell") - debug not enabled!
+L 09/21/2024 - 12:22:33: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/21/2024 - 12:22:33: Unhandled dynamic native error
+L 09/21/2024 - 12:22:33: [AMXX] Run time error 10 (plugin "zp_gungnir_v2.amxx") (native "zp_register_extra_item") - debug not enabled!
+L 09/21/2024 - 12:22:33: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/21/2024 - 12:26:32: Start of error session.
+L 09/21/2024 - 12:26:32: Info (map "zm_epic_base") (file "addons/amxmodx/logs/error_20240921.log")
+L 09/21/2024 - 12:26:32: Function "native_create_my_entity" was not found
+L 09/21/2024 - 12:26:32: [AMXX] Run time error 19 (plugin "Krol_funs.amxx") - debug not enabled!
+L 09/21/2024 - 12:26:32: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/21/2024 - 12:26:32: [AMXX] Run time error -1 (plugin "Krol_funs.amxx") - debug not enabled!
+L 09/21/2024 - 12:26:32: [AMXX] Plugin file open error (plugin "scm_entity_editor.amxx")
+L 09/21/2024 - 12:26:33: Invalid index 13 (count: 13)
+L 09/21/2024 - 12:26:33: [AMXX] Run time error 10 (plugin "zombie_plague40.amxx") (native "ArrayGetCell") - debug not enabled!
+L 09/21/2024 - 12:26:33: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/21/2024 - 12:26:33: Unhandled dynamic native error
+L 09/21/2024 - 12:26:33: [AMXX] Run time error 10 (plugin "zp_gungnir_v2.amxx") (native "zp_register_extra_item") - debug not enabled!
+L 09/21/2024 - 12:26:33: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/21/2024 - 12:27:37: Start of error session.
+L 09/21/2024 - 12:27:37: Info (map "zm_epic_base") (file "addons/amxmodx/logs/error_20240921.log")
+L 09/21/2024 - 12:27:37: Function "native_create_my_entity" was not found
+L 09/21/2024 - 12:27:37: [AMXX] Run time error 19 (plugin "Krol_funs.amxx") - debug not enabled!
+L 09/21/2024 - 12:27:37: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/21/2024 - 12:27:37: [AMXX] Run time error -1 (plugin "Krol_funs.amxx") - debug not enabled!
+L 09/21/2024 - 12:27:37: [AMXX] Plugin file open error (plugin "scm_entity_editor.amxx")
+L 09/21/2024 - 12:27:38: Invalid index 13 (count: 13)
+L 09/21/2024 - 12:27:38: [AMXX] Run time error 10 (plugin "zombie_plague40.amxx") (native "ArrayGetCell") - debug not enabled!
+L 09/21/2024 - 12:27:38: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/21/2024 - 12:27:38: Unhandled dynamic native error
+L 09/21/2024 - 12:27:38: [AMXX] Run time error 10 (plugin "zp_gungnir_v2.amxx") (native "zp_register_extra_item") - debug not enabled!
+L 09/21/2024 - 12:27:38: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/21/2024 - 12:29:17: Start of error session.
+L 09/21/2024 - 12:29:17: Info (map "zm_epic_base") (file "addons/amxmodx/logs/error_20240921.log")
+L 09/21/2024 - 12:29:17: Function "native_create_my_entity" was not found
+L 09/21/2024 - 12:29:17: [AMXX] Run time error 19 (plugin "Krol_funs.amxx") - debug not enabled!
+L 09/21/2024 - 12:29:17: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/21/2024 - 12:29:17: [AMXX] Run time error -1 (plugin "Krol_funs.amxx") - debug not enabled!
+L 09/21/2024 - 12:29:17: [AMXX] Plugin file open error (plugin "scm_entity_editor.amxx")
+L 09/21/2024 - 12:29:18: Invalid index 13 (count: 13)
+L 09/21/2024 - 12:29:18: [AMXX] Run time error 10 (plugin "zombie_plague40.amxx") (native "ArrayGetCell") - debug not enabled!
+L 09/21/2024 - 12:29:18: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/21/2024 - 12:29:18: Unhandled dynamic native error
+L 09/21/2024 - 12:29:18: [AMXX] Run time error 10 (plugin "zp_gungnir_v2.amxx") (native "zp_register_extra_item") - debug not enabled!
+L 09/21/2024 - 12:29:18: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/21/2024 - 12:34:29: Start of error session.
+L 09/21/2024 - 12:34:29: Info (map "zm_epic_base") (file "addons/amxmodx/logs/error_20240921.log")
+L 09/21/2024 - 12:34:29: Function "native_create_my_entity" was not found
+L 09/21/2024 - 12:34:29: [AMXX] Run time error 19 (plugin "Krol_funs.amxx") - debug not enabled!
+L 09/21/2024 - 12:34:29: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/21/2024 - 12:34:29: [AMXX] Run time error -1 (plugin "Krol_funs.amxx") - debug not enabled!
+L 09/21/2024 - 12:34:29: [AMXX] Plugin file open error (plugin "scm_entity_editor.amxx")
+L 09/21/2024 - 12:34:30: Invalid index 13 (count: 13)
+L 09/21/2024 - 12:34:30: [AMXX] Run time error 10 (plugin "zombie_plague40.amxx") (native "ArrayGetCell") - debug not enabled!
+L 09/21/2024 - 12:34:30: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/21/2024 - 12:34:30: Unhandled dynamic native error
+L 09/21/2024 - 12:34:30: [AMXX] Run time error 10 (plugin "zp_gungnir_v2.amxx") (native "zp_register_extra_item") - debug not enabled!
+L 09/21/2024 - 12:34:30: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/21/2024 - 12:38:20: Start of error session.
+L 09/21/2024 - 12:38:20: Info (map "zm_epic_base") (file "addons/amxmodx/logs/error_20240921.log")
+L 09/21/2024 - 12:38:20: Function "native_create_my_entity" was not found
+L 09/21/2024 - 12:38:20: [AMXX] Run time error 19 (plugin "Krol_funs.amxx") - debug not enabled!
+L 09/21/2024 - 12:38:20: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/21/2024 - 12:38:20: [AMXX] Run time error -1 (plugin "Krol_funs.amxx") - debug not enabled!
+L 09/21/2024 - 12:38:20: [AMXX] Plugin file open error (plugin "scm_entity_editor.amxx")
+L 09/21/2024 - 12:38:22: Invalid index 13 (count: 13)
+L 09/21/2024 - 12:38:22: [AMXX] Run time error 10 (plugin "zombie_plague40.amxx") (native "ArrayGetCell") - debug not enabled!
+L 09/21/2024 - 12:38:22: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/21/2024 - 12:38:22: Unhandled dynamic native error
+L 09/21/2024 - 12:38:22: [AMXX] Run time error 10 (plugin "zp_gungnir_v2.amxx") (native "zp_register_extra_item") - debug not enabled!
+L 09/21/2024 - 12:38:22: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/21/2024 - 13:04:24: Start of error session.
+L 09/21/2024 - 13:04:24: Info (map "zm_202") (file "addons/amxmodx/logs/error_20240921.log")
+L 09/21/2024 - 13:04:24: Function "native_create_my_entity" was not found
+L 09/21/2024 - 13:04:24: [AMXX] Run time error 19 (plugin "Krol_funs.amxx") - debug not enabled!
+L 09/21/2024 - 13:04:24: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/21/2024 - 13:04:24: [AMXX] Run time error -1 (plugin "Krol_funs.amxx") - debug not enabled!
+L 09/21/2024 - 13:04:24: [AMXX] Plugin file open error (plugin "scm_entity_editor.amxx")
+L 09/21/2024 - 13:04:27: Invalid index 13 (count: 13)
+L 09/21/2024 - 13:04:27: [AMXX] Run time error 10 (plugin "zombie_plague40.amxx") (native "ArrayGetCell") - debug not enabled!
+L 09/21/2024 - 13:04:27: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/21/2024 - 13:04:27: Unhandled dynamic native error
+L 09/21/2024 - 13:04:27: [AMXX] Run time error 10 (plugin "zp_gungnir_v2.amxx") (native "zp_register_extra_item") - debug not enabled!
+L 09/21/2024 - 13:04:27: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/21/2024 - 13:11:29: Start of error session.
+L 09/21/2024 - 13:11:29: Info (map "zm_202") (file "addons/amxmodx/logs/error_20240921.log")
+L 09/21/2024 - 13:11:29: Function "native_create_my_entity" was not found
+L 09/21/2024 - 13:11:29: [AMXX] Run time error 19 (plugin "Krol_funs.amxx") - debug not enabled!
+L 09/21/2024 - 13:11:29: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/21/2024 - 13:11:29: [AMXX] Run time error -1 (plugin "Krol_funs.amxx") - debug not enabled!
+L 09/21/2024 - 13:11:29: [AMXX] Plugin file open error (plugin "scm_entity_editor.amxx")
+L 09/21/2024 - 13:11:31: Invalid index 13 (count: 13)
+L 09/21/2024 - 13:11:31: [AMXX] Run time error 10 (plugin "zombie_plague40.amxx") (native "ArrayGetCell") - debug not enabled!
+L 09/21/2024 - 13:11:31: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/21/2024 - 13:11:31: Unhandled dynamic native error
+L 09/21/2024 - 13:11:31: [AMXX] Run time error 10 (plugin "zp_gungnir_v2.amxx") (native "zp_register_extra_item") - debug not enabled!
+L 09/21/2024 - 13:11:31: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/21/2024 - 13:12:30: Start of error session.
+L 09/21/2024 - 13:12:30: Info (map "zm_202") (file "addons/amxmodx/logs/error_20240921.log")
+L 09/21/2024 - 13:12:30: Function "native_create_my_entity" was not found
+L 09/21/2024 - 13:12:30: [AMXX] Run time error 19 (plugin "Krol_funs.amxx") - debug not enabled!
+L 09/21/2024 - 13:12:30: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/21/2024 - 13:12:30: [AMXX] Run time error -1 (plugin "Krol_funs.amxx") - debug not enabled!
+L 09/21/2024 - 13:12:30: [AMXX] Plugin file open error (plugin "scm_entity_editor.amxx")
+L 09/21/2024 - 13:12:31: Invalid index 13 (count: 13)
+L 09/21/2024 - 13:12:31: [AMXX] Run time error 10 (plugin "zombie_plague40.amxx") (native "ArrayGetCell") - debug not enabled!
+L 09/21/2024 - 13:12:31: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/21/2024 - 13:12:31: Unhandled dynamic native error
+L 09/21/2024 - 13:12:31: [AMXX] Run time error 10 (plugin "zp_gungnir_v2.amxx") (native "zp_register_extra_item") - debug not enabled!
+L 09/21/2024 - 13:12:31: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/21/2024 - 13:13:04: Start of error session.
+L 09/21/2024 - 13:13:04: Info (map "zm_202") (file "addons/amxmodx/logs/error_20240921.log")
+L 09/21/2024 - 13:13:04: Function "native_create_my_entity" was not found
+L 09/21/2024 - 13:13:04: [AMXX] Run time error 19 (plugin "Krol_funs.amxx") - debug not enabled!
+L 09/21/2024 - 13:13:04: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/21/2024 - 13:13:04: [AMXX] Run time error -1 (plugin "Krol_funs.amxx") - debug not enabled!
+L 09/21/2024 - 13:13:04: [AMXX] Plugin file open error (plugin "scm_entity_editor.amxx")
+L 09/21/2024 - 13:13:05: Invalid index 13 (count: 13)
+L 09/21/2024 - 13:13:05: [AMXX] Run time error 10 (plugin "zombie_plague40.amxx") (native "ArrayGetCell") - debug not enabled!
+L 09/21/2024 - 13:13:05: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/21/2024 - 13:13:05: Unhandled dynamic native error
+L 09/21/2024 - 13:13:05: [AMXX] Run time error 10 (plugin "zp_gungnir_v2.amxx") (native "zp_register_extra_item") - debug not enabled!
+L 09/21/2024 - 13:13:05: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/21/2024 - 13:14:26: Start of error session.
+L 09/21/2024 - 13:14:26: Info (map "zm_202") (file "addons/amxmodx/logs/error_20240921.log")
+L 09/21/2024 - 13:14:26: Function "native_create_my_entity" was not found
+L 09/21/2024 - 13:14:26: [AMXX] Run time error 19 (plugin "Krol_funs.amxx") - debug not enabled!
+L 09/21/2024 - 13:14:26: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/21/2024 - 13:14:26: [AMXX] Run time error -1 (plugin "Krol_funs.amxx") - debug not enabled!
+L 09/21/2024 - 13:14:27: [AMXX] Plugin file open error (plugin "scm_entity_editor.amxx")
+L 09/21/2024 - 13:14:28: Invalid index 13 (count: 13)
+L 09/21/2024 - 13:14:28: [AMXX] Run time error 10 (plugin "zombie_plague40.amxx") (native "ArrayGetCell") - debug not enabled!
+L 09/21/2024 - 13:14:28: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/21/2024 - 13:14:28: Unhandled dynamic native error
+L 09/21/2024 - 13:14:28: [AMXX] Run time error 10 (plugin "zp_gungnir_v2.amxx") (native "zp_register_extra_item") - debug not enabled!
+L 09/21/2024 - 13:14:28: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/21/2024 - 13:15:45: Start of error session.
+L 09/21/2024 - 13:15:45: Info (map "zm_202") (file "addons/amxmodx/logs/error_20240921.log")
+L 09/21/2024 - 13:15:45: Function "native_create_my_entity" was not found
+L 09/21/2024 - 13:15:45: [AMXX] Run time error 19 (plugin "Krol_funs.amxx") - debug not enabled!
+L 09/21/2024 - 13:15:45: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/21/2024 - 13:15:45: [AMXX] Run time error -1 (plugin "Krol_funs.amxx") - debug not enabled!
+L 09/21/2024 - 13:15:45: [AMXX] Plugin file open error (plugin "scm_entity_editor.amxx")
+L 09/21/2024 - 13:15:47: Invalid index 13 (count: 13)
+L 09/21/2024 - 13:15:47: [AMXX] Run time error 10 (plugin "zombie_plague40.amxx") (native "ArrayGetCell") - debug not enabled!
+L 09/21/2024 - 13:15:47: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/21/2024 - 13:15:47: Unhandled dynamic native error
+L 09/21/2024 - 13:15:47: [AMXX] Run time error 10 (plugin "zp_gungnir_v2.amxx") (native "zp_register_extra_item") - debug not enabled!
+L 09/21/2024 - 13:15:47: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/21/2024 - 13:17:03: Start of error session.
+L 09/21/2024 - 13:17:03: Info (map "zm_202") (file "addons/amxmodx/logs/error_20240921.log")
+L 09/21/2024 - 13:17:03: Function "native_create_my_entity" was not found
+L 09/21/2024 - 13:17:03: [AMXX] Run time error 19 (plugin "Krol_funs.amxx") - debug not enabled!
+L 09/21/2024 - 13:17:03: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/21/2024 - 13:17:03: [AMXX] Run time error -1 (plugin "Krol_funs.amxx") - debug not enabled!
+L 09/21/2024 - 13:17:03: [AMXX] Plugin file open error (plugin "scm_entity_editor.amxx")
+L 09/21/2024 - 13:17:05: Invalid index 13 (count: 13)
+L 09/21/2024 - 13:17:05: [AMXX] Run time error 10 (plugin "zombie_plague40.amxx") (native "ArrayGetCell") - debug not enabled!
+L 09/21/2024 - 13:17:05: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/21/2024 - 13:17:05: Unhandled dynamic native error
+L 09/21/2024 - 13:17:05: [AMXX] Run time error 10 (plugin "zp_gungnir_v2.amxx") (native "zp_register_extra_item") - debug not enabled!
+L 09/21/2024 - 13:17:05: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/21/2024 - 13:18:15: Start of error session.
+L 09/21/2024 - 13:18:15: Info (map "zm_202") (file "addons/amxmodx/logs/error_20240921.log")
+L 09/21/2024 - 13:18:15: Function "native_create_my_entity" was not found
+L 09/21/2024 - 13:18:15: [AMXX] Run time error 19 (plugin "Krol_funs.amxx") - debug not enabled!
+L 09/21/2024 - 13:18:15: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/21/2024 - 13:18:15: [AMXX] Run time error -1 (plugin "Krol_funs.amxx") - debug not enabled!
+L 09/21/2024 - 13:18:15: [AMXX] Plugin file open error (plugin "scm_entity_editor.amxx")
+L 09/21/2024 - 13:18:17: Invalid index 13 (count: 13)
+L 09/21/2024 - 13:18:17: [AMXX] Run time error 10 (plugin "zombie_plague40.amxx") (native "ArrayGetCell") - debug not enabled!
+L 09/21/2024 - 13:18:17: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/21/2024 - 13:18:17: Unhandled dynamic native error
+L 09/21/2024 - 13:18:17: [AMXX] Run time error 10 (plugin "zp_gungnir_v2.amxx") (native "zp_register_extra_item") - debug not enabled!
+L 09/21/2024 - 13:18:17: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/21/2024 - 13:18:44: Start of error session.
+L 09/21/2024 - 13:18:44: Info (map "zm_202") (file "addons/amxmodx/logs/error_20240921.log")
+L 09/21/2024 - 13:18:44: Function "native_create_my_entity" was not found
+L 09/21/2024 - 13:18:44: [AMXX] Run time error 19 (plugin "Krol_funs.amxx") - debug not enabled!
+L 09/21/2024 - 13:18:44: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/21/2024 - 13:18:44: [AMXX] Run time error -1 (plugin "Krol_funs.amxx") - debug not enabled!
+L 09/21/2024 - 13:18:44: [AMXX] Plugin file open error (plugin "scm_entity_editor.amxx")
+L 09/21/2024 - 13:18:46: Invalid index 13 (count: 13)
+L 09/21/2024 - 13:18:46: [AMXX] Run time error 10 (plugin "zombie_plague40.amxx") (native "ArrayGetCell") - debug not enabled!
+L 09/21/2024 - 13:18:46: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/21/2024 - 13:18:46: Unhandled dynamic native error
+L 09/21/2024 - 13:18:46: [AMXX] Run time error 10 (plugin "zp_gungnir_v2.amxx") (native "zp_register_extra_item") - debug not enabled!
+L 09/21/2024 - 13:18:46: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/21/2024 - 13:37:38: Start of error session.
+L 09/21/2024 - 13:37:38: Info (map "zm_202") (file "addons/amxmodx/logs/error_20240921.log")
+L 09/21/2024 - 13:37:38: Function "native_create_my_entity" was not found
+L 09/21/2024 - 13:37:38: [AMXX] Run time error 19 (plugin "Krol_funs.amxx") - debug not enabled!
+L 09/21/2024 - 13:37:38: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/21/2024 - 13:37:38: [AMXX] Run time error -1 (plugin "Krol_funs.amxx") - debug not enabled!
+L 09/21/2024 - 13:37:38: [AMXX] Plugin file open error (plugin "scm_entity_editor.amxx")
+L 09/21/2024 - 13:37:39: Invalid index 13 (count: 13)
+L 09/21/2024 - 13:37:39: [AMXX] Run time error 10 (plugin "zombie_plague40.amxx") (native "ArrayGetCell") - debug not enabled!
+L 09/21/2024 - 13:37:39: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/21/2024 - 13:37:39: Unhandled dynamic native error
+L 09/21/2024 - 13:37:39: [AMXX] Run time error 10 (plugin "zp_gungnir_v2.amxx") (native "zp_register_extra_item") - debug not enabled!
+L 09/21/2024 - 13:37:39: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/21/2024 - 13:39:02: Start of error session.
+L 09/21/2024 - 13:39:02: Info (map "zm_202") (file "addons/amxmodx/logs/error_20240921.log")
+L 09/21/2024 - 13:39:02: Function "native_create_my_entity" was not found
+L 09/21/2024 - 13:39:02: [AMXX] Run time error 19 (plugin "Krol_funs.amxx") - debug not enabled!
+L 09/21/2024 - 13:39:02: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/21/2024 - 13:39:02: [AMXX] Run time error -1 (plugin "Krol_funs.amxx") - debug not enabled!
+L 09/21/2024 - 13:39:02: [AMXX] Plugin file open error (plugin "scm_entity_editor.amxx")
+L 09/21/2024 - 13:39:04: Invalid index 13 (count: 13)
+L 09/21/2024 - 13:39:04: [AMXX] Run time error 10 (plugin "zombie_plague40.amxx") (native "ArrayGetCell") - debug not enabled!
+L 09/21/2024 - 13:39:04: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/21/2024 - 13:39:04: Unhandled dynamic native error
+L 09/21/2024 - 13:39:04: [AMXX] Run time error 10 (plugin "zp_gungnir_v2.amxx") (native "zp_register_extra_item") - debug not enabled!
+L 09/21/2024 - 13:39:04: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/21/2024 - 13:39:51: Start of error session.
+L 09/21/2024 - 13:39:51: Info (map "zm_fdust2x2") (file "addons/amxmodx/logs/error_20240921.log")
+L 09/21/2024 - 13:39:51: Function "native_create_my_entity" was not found
+L 09/21/2024 - 13:39:51: [AMXX] Run time error 19 (plugin "Krol_funs.amxx") - debug not enabled!
+L 09/21/2024 - 13:39:51: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/21/2024 - 13:39:51: [AMXX] Run time error -1 (plugin "Krol_funs.amxx") - debug not enabled!
+L 09/21/2024 - 13:39:51: [AMXX] Plugin file open error (plugin "scm_entity_editor.amxx")
+L 09/21/2024 - 13:39:52: Invalid index 13 (count: 13)
+L 09/21/2024 - 13:39:52: [AMXX] Run time error 10 (plugin "zombie_plague40.amxx") (native "ArrayGetCell") - debug not enabled!
+L 09/21/2024 - 13:39:52: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/21/2024 - 13:39:52: Unhandled dynamic native error
+L 09/21/2024 - 13:39:52: [AMXX] Run time error 10 (plugin "zp_gungnir_v2.amxx") (native "zp_register_extra_item") - debug not enabled!
+L 09/21/2024 - 13:39:52: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/21/2024 - 13:42:51: Start of error session.
+L 09/21/2024 - 13:42:51: Info (map "zm_fdust2x2") (file "addons/amxmodx/logs/error_20240921.log")
+L 09/21/2024 - 13:42:51: Function "native_create_my_entity" was not found
+L 09/21/2024 - 13:42:51: [AMXX] Run time error 19 (plugin "Krol_funs.amxx") - debug not enabled!
+L 09/21/2024 - 13:42:51: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/21/2024 - 13:42:51: [AMXX] Run time error -1 (plugin "Krol_funs.amxx") - debug not enabled!
+L 09/21/2024 - 13:42:51: [AMXX] Plugin file open error (plugin "scm_entity_editor.amxx")
+L 09/21/2024 - 13:42:52: Invalid index 13 (count: 13)
+L 09/21/2024 - 13:42:52: [AMXX] Run time error 10 (plugin "zombie_plague40.amxx") (native "ArrayGetCell") - debug not enabled!
+L 09/21/2024 - 13:42:52: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/21/2024 - 13:42:52: Unhandled dynamic native error
+L 09/21/2024 - 13:42:52: [AMXX] Run time error 10 (plugin "zp_gungnir_v2.amxx") (native "zp_register_extra_item") - debug not enabled!
+L 09/21/2024 - 13:42:52: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/21/2024 - 13:52:36: Start of error session.
+L 09/21/2024 - 13:52:36: Info (map "zm_fdust2x2") (file "addons/amxmodx/logs/error_20240921.log")
+L 09/21/2024 - 13:52:36: Function "native_create_my_entity" was not found
+L 09/21/2024 - 13:52:36: [AMXX] Run time error 19 (plugin "Krol_funs.amxx") - debug not enabled!
+L 09/21/2024 - 13:52:36: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/21/2024 - 13:52:36: [AMXX] Run time error -1 (plugin "Krol_funs.amxx") - debug not enabled!
+L 09/21/2024 - 13:52:36: [AMXX] Plugin file open error (plugin "scm_entity_editor.amxx")
+L 09/21/2024 - 13:52:38: Invalid index 13 (count: 13)
+L 09/21/2024 - 13:52:38: [AMXX] Run time error 10 (plugin "zombie_plague40.amxx") (native "ArrayGetCell") - debug not enabled!
+L 09/21/2024 - 13:52:38: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/21/2024 - 13:52:38: Unhandled dynamic native error
+L 09/21/2024 - 13:52:38: [AMXX] Run time error 10 (plugin "zp_gungnir_v2.amxx") (native "zp_register_extra_item") - debug not enabled!
+L 09/21/2024 - 13:52:38: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/21/2024 - 14:01:13: Start of error session.
+L 09/21/2024 - 14:01:13: Info (map "zm_fdust2x2") (file "addons/amxmodx/logs/error_20240921.log")
+L 09/21/2024 - 14:01:13: Function "native_create_my_entity" was not found
+L 09/21/2024 - 14:01:13: [AMXX] Run time error 19 (plugin "Krol_funs.amxx") - debug not enabled!
+L 09/21/2024 - 14:01:13: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/21/2024 - 14:01:13: [AMXX] Run time error -1 (plugin "Krol_funs.amxx") - debug not enabled!
+L 09/21/2024 - 14:01:13: [AMXX] Plugin file open error (plugin "scm_entity_editor.amxx")
+L 09/21/2024 - 14:01:15: Invalid index 13 (count: 13)
+L 09/21/2024 - 14:01:15: [AMXX] Run time error 10 (plugin "zombie_plague40.amxx") (native "ArrayGetCell") - debug not enabled!
+L 09/21/2024 - 14:01:15: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/21/2024 - 14:01:15: Unhandled dynamic native error
+L 09/21/2024 - 14:01:15: [AMXX] Run time error 10 (plugin "zp_gungnir_v2.amxx") (native "zp_register_extra_item") - debug not enabled!
+L 09/21/2024 - 14:01:15: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/21/2024 - 14:17:14: Start of error session.
+L 09/21/2024 - 14:17:14: Info (map "zm_fdust2x2") (file "addons/amxmodx/logs/error_20240921.log")
+L 09/21/2024 - 14:17:14: Function "native_create_my_entity" was not found
+L 09/21/2024 - 14:17:14: [AMXX] Run time error 19 (plugin "Krol_funs.amxx") - debug not enabled!
+L 09/21/2024 - 14:17:14: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/21/2024 - 14:17:14: [AMXX] Run time error -1 (plugin "Krol_funs.amxx") - debug not enabled!
+L 09/21/2024 - 14:17:14: [AMXX] Plugin file open error (plugin "scm_entity_editor.amxx")
+L 09/21/2024 - 14:17:16: Invalid index 13 (count: 13)
+L 09/21/2024 - 14:17:16: [AMXX] Run time error 10 (plugin "zombie_plague40.amxx") (native "ArrayGetCell") - debug not enabled!
+L 09/21/2024 - 14:17:16: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/21/2024 - 14:17:16: Unhandled dynamic native error
+L 09/21/2024 - 14:17:16: [AMXX] Run time error 10 (plugin "zp_gungnir_v2.amxx") (native "zp_register_extra_item") - debug not enabled!
+L 09/21/2024 - 14:17:16: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/21/2024 - 14:24:15: Start of error session.
+L 09/21/2024 - 14:24:15: Info (map "zm_fdust2x2") (file "addons/amxmodx/logs/error_20240921.log")
+L 09/21/2024 - 14:24:15: Function "native_create_my_entity" was not found
+L 09/21/2024 - 14:24:15: [AMXX] Run time error 19 (plugin "Krol_funs.amxx") - debug not enabled!
+L 09/21/2024 - 14:24:15: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/21/2024 - 14:24:15: [AMXX] Run time error -1 (plugin "Krol_funs.amxx") - debug not enabled!
+L 09/21/2024 - 14:24:15: [AMXX] Plugin file open error (plugin "scm_entity_editor.amxx")
+L 09/21/2024 - 14:24:17: Invalid index 13 (count: 13)
+L 09/21/2024 - 14:24:17: [AMXX] Run time error 10 (plugin "zombie_plague40.amxx") (native "ArrayGetCell") - debug not enabled!
+L 09/21/2024 - 14:24:17: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/21/2024 - 14:24:17: Unhandled dynamic native error
+L 09/21/2024 - 14:24:17: [AMXX] Run time error 10 (plugin "zp_gungnir_v2.amxx") (native "zp_register_extra_item") - debug not enabled!
+L 09/21/2024 - 14:24:17: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/21/2024 - 14:25:40: Start of error session.
+L 09/21/2024 - 14:25:40: Info (map "zm_fdust2x2") (file "addons/amxmodx/logs/error_20240921.log")
+L 09/21/2024 - 14:25:40: Function "native_create_my_entity" was not found
+L 09/21/2024 - 14:25:40: [AMXX] Run time error 19 (plugin "Krol_funs.amxx") - debug not enabled!
+L 09/21/2024 - 14:25:40: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/21/2024 - 14:25:40: [AMXX] Run time error -1 (plugin "Krol_funs.amxx") - debug not enabled!
+L 09/21/2024 - 14:25:40: [AMXX] Plugin file open error (plugin "scm_entity_editor.amxx")
+L 09/21/2024 - 14:25:42: Invalid index 13 (count: 13)
+L 09/21/2024 - 14:25:42: [AMXX] Run time error 10 (plugin "zombie_plague40.amxx") (native "ArrayGetCell") - debug not enabled!
+L 09/21/2024 - 14:25:42: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/21/2024 - 14:25:42: Unhandled dynamic native error
+L 09/21/2024 - 14:25:42: [AMXX] Run time error 10 (plugin "zp_gungnir_v2.amxx") (native "zp_register_extra_item") - debug not enabled!
+L 09/21/2024 - 14:25:42: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/21/2024 - 14:26:28: Start of error session.
+L 09/21/2024 - 14:26:28: Info (map "zm_fdust2x2") (file "addons/amxmodx/logs/error_20240921.log")
+L 09/21/2024 - 14:26:28: Function "native_create_my_entity" was not found
+L 09/21/2024 - 14:26:28: [AMXX] Run time error 19 (plugin "Krol_funs.amxx") - debug not enabled!
+L 09/21/2024 - 14:26:28: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/21/2024 - 14:26:28: [AMXX] Run time error -1 (plugin "Krol_funs.amxx") - debug not enabled!
+L 09/21/2024 - 14:26:28: [AMXX] Plugin file open error (plugin "scm_entity_editor.amxx")
+L 09/21/2024 - 14:26:30: Invalid index 13 (count: 13)
+L 09/21/2024 - 14:26:30: [AMXX] Run time error 10 (plugin "zombie_plague40.amxx") (native "ArrayGetCell") - debug not enabled!
+L 09/21/2024 - 14:26:30: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/21/2024 - 14:26:30: Unhandled dynamic native error
+L 09/21/2024 - 14:26:30: [AMXX] Run time error 10 (plugin "zp_gungnir_v2.amxx") (native "zp_register_extra_item") - debug not enabled!
+L 09/21/2024 - 14:26:30: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/21/2024 - 14:28:36: Start of error session.
+L 09/21/2024 - 14:28:36: Info (map "zm_fox") (file "addons/amxmodx/logs/error_20240921.log")
+L 09/21/2024 - 14:28:36: Function "native_create_my_entity" was not found
+L 09/21/2024 - 14:28:36: [AMXX] Run time error 19 (plugin "Krol_funs.amxx") - debug not enabled!
+L 09/21/2024 - 14:28:36: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/21/2024 - 14:28:36: [AMXX] Run time error -1 (plugin "Krol_funs.amxx") - debug not enabled!
+L 09/21/2024 - 14:28:36: [AMXX] Plugin file open error (plugin "scm_entity_editor.amxx")
+L 09/21/2024 - 14:28:37: Invalid index 13 (count: 13)
+L 09/21/2024 - 14:28:37: [AMXX] Run time error 10 (plugin "zombie_plague40.amxx") (native "ArrayGetCell") - debug not enabled!
+L 09/21/2024 - 14:28:37: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/21/2024 - 14:28:37: Unhandled dynamic native error
+L 09/21/2024 - 14:28:37: [AMXX] Run time error 10 (plugin "zp_gungnir_v2.amxx") (native "zp_register_extra_item") - debug not enabled!
+L 09/21/2024 - 14:28:37: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/21/2024 - 14:31:52: Start of error session.
+L 09/21/2024 - 14:31:52: Info (map "zm_fox") (file "addons/amxmodx/logs/error_20240921.log")
+L 09/21/2024 - 14:31:52: Function "native_create_my_entity" was not found
+L 09/21/2024 - 14:31:52: [AMXX] Run time error 19 (plugin "Krol_funs.amxx") - debug not enabled!
+L 09/21/2024 - 14:31:52: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/21/2024 - 14:31:52: [AMXX] Run time error -1 (plugin "Krol_funs.amxx") - debug not enabled!
+L 09/21/2024 - 14:31:53: [AMXX] Plugin file open error (plugin "scm_entity_editor.amxx")
+L 09/21/2024 - 14:31:54: Invalid index 13 (count: 13)
+L 09/21/2024 - 14:31:54: [AMXX] Run time error 10 (plugin "zombie_plague40.amxx") (native "ArrayGetCell") - debug not enabled!
+L 09/21/2024 - 14:31:54: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/21/2024 - 14:31:54: Unhandled dynamic native error
+L 09/21/2024 - 14:31:54: [AMXX] Run time error 10 (plugin "zp_gungnir_v2.amxx") (native "zp_register_extra_item") - debug not enabled!
+L 09/21/2024 - 14:31:54: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/21/2024 - 14:32:38: Start of error session.
+L 09/21/2024 - 14:32:38: Info (map "zm_fox") (file "addons/amxmodx/logs/error_20240921.log")
+L 09/21/2024 - 14:32:38: Function "native_create_my_entity" was not found
+L 09/21/2024 - 14:32:38: [AMXX] Run time error 19 (plugin "Krol_funs.amxx") - debug not enabled!
+L 09/21/2024 - 14:32:38: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/21/2024 - 14:32:38: [AMXX] Run time error -1 (plugin "Krol_funs.amxx") - debug not enabled!
+L 09/21/2024 - 14:32:39: [AMXX] Plugin file open error (plugin "scm_entity_editor.amxx")
+L 09/21/2024 - 14:32:40: Invalid index 13 (count: 13)
+L 09/21/2024 - 14:32:40: [AMXX] Run time error 10 (plugin "zombie_plague40.amxx") (native "ArrayGetCell") - debug not enabled!
+L 09/21/2024 - 14:32:40: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/21/2024 - 14:32:40: Unhandled dynamic native error
+L 09/21/2024 - 14:32:40: [AMXX] Run time error 10 (plugin "zp_gungnir_v2.amxx") (native "zp_register_extra_item") - debug not enabled!
+L 09/21/2024 - 14:32:40: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/21/2024 - 14:33:11: Start of error session.
+L 09/21/2024 - 14:33:11: Info (map "zm_ngamers_lights_f") (file "addons/amxmodx/logs/error_20240921.log")
+L 09/21/2024 - 14:33:11: Function "native_create_my_entity" was not found
+L 09/21/2024 - 14:33:11: [AMXX] Run time error 19 (plugin "Krol_funs.amxx") - debug not enabled!
+L 09/21/2024 - 14:33:11: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/21/2024 - 14:33:11: [AMXX] Run time error -1 (plugin "Krol_funs.amxx") - debug not enabled!
+L 09/21/2024 - 14:33:11: [AMXX] Plugin file open error (plugin "scm_entity_editor.amxx")
+L 09/21/2024 - 14:33:12: Invalid index 13 (count: 13)
+L 09/21/2024 - 14:33:12: [AMXX] Run time error 10 (plugin "zombie_plague40.amxx") (native "ArrayGetCell") - debug not enabled!
+L 09/21/2024 - 14:33:12: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/21/2024 - 14:33:12: Unhandled dynamic native error
+L 09/21/2024 - 14:33:12: [AMXX] Run time error 10 (plugin "zp_gungnir_v2.amxx") (native "zp_register_extra_item") - debug not enabled!
+L 09/21/2024 - 14:33:12: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/21/2024 - 14:34:26: Start of error session.
+L 09/21/2024 - 14:34:26: Info (map "zm_ngamers_lights_f") (file "addons/amxmodx/logs/error_20240921.log")
+L 09/21/2024 - 14:34:26: Function "native_create_my_entity" was not found
+L 09/21/2024 - 14:34:26: [AMXX] Run time error 19 (plugin "Krol_funs.amxx") - debug not enabled!
+L 09/21/2024 - 14:34:26: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/21/2024 - 14:34:26: [AMXX] Run time error -1 (plugin "Krol_funs.amxx") - debug not enabled!
+L 09/21/2024 - 14:34:26: [AMXX] Plugin file open error (plugin "scm_entity_editor.amxx")
+L 09/21/2024 - 14:34:27: Invalid index 13 (count: 13)
+L 09/21/2024 - 14:34:27: [AMXX] Run time error 10 (plugin "zombie_plague40.amxx") (native "ArrayGetCell") - debug not enabled!
+L 09/21/2024 - 14:34:27: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/21/2024 - 14:34:27: Unhandled dynamic native error
+L 09/21/2024 - 14:34:27: [AMXX] Run time error 10 (plugin "zp_gungnir_v2.amxx") (native "zp_register_extra_item") - debug not enabled!
+L 09/21/2024 - 14:34:27: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/21/2024 - 14:36:47: Start of error session.
+L 09/21/2024 - 14:36:47: Info (map "zm_ngamers_lights_f") (file "addons/amxmodx/logs/error_20240921.log")
+L 09/21/2024 - 14:36:47: Function "native_create_my_entity" was not found
+L 09/21/2024 - 14:36:47: [AMXX] Run time error 19 (plugin "Krol_funs.amxx") - debug not enabled!
+L 09/21/2024 - 14:36:47: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/21/2024 - 14:36:47: [AMXX] Run time error -1 (plugin "Krol_funs.amxx") - debug not enabled!
+L 09/21/2024 - 14:36:47: [AMXX] Plugin file open error (plugin "scm_entity_editor.amxx")
+L 09/21/2024 - 14:36:49: Invalid index 13 (count: 13)
+L 09/21/2024 - 14:36:49: [AMXX] Run time error 10 (plugin "zombie_plague40.amxx") (native "ArrayGetCell") - debug not enabled!
+L 09/21/2024 - 14:36:49: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/21/2024 - 14:36:49: Unhandled dynamic native error
+L 09/21/2024 - 14:36:49: [AMXX] Run time error 10 (plugin "zp_gungnir_v2.amxx") (native "zp_register_extra_item") - debug not enabled!
+L 09/21/2024 - 14:36:49: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/21/2024 - 14:37:35: Start of error session.
+L 09/21/2024 - 14:37:35: Info (map "zm_ngamers_lights_f") (file "addons/amxmodx/logs/error_20240921.log")
+L 09/21/2024 - 14:37:35: Function "native_create_my_entity" was not found
+L 09/21/2024 - 14:37:35: [AMXX] Run time error 19 (plugin "Krol_funs.amxx") - debug not enabled!
+L 09/21/2024 - 14:37:35: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/21/2024 - 14:37:35: [AMXX] Run time error -1 (plugin "Krol_funs.amxx") - debug not enabled!
+L 09/21/2024 - 14:37:35: [AMXX] Plugin file open error (plugin "scm_entity_editor.amxx")
+L 09/21/2024 - 14:37:37: Invalid index 13 (count: 13)
+L 09/21/2024 - 14:37:37: [AMXX] Run time error 10 (plugin "zombie_plague40.amxx") (native "ArrayGetCell") - debug not enabled!
+L 09/21/2024 - 14:37:37: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/21/2024 - 14:37:37: Unhandled dynamic native error
+L 09/21/2024 - 14:37:37: [AMXX] Run time error 10 (plugin "zp_gungnir_v2.amxx") (native "zp_register_extra_item") - debug not enabled!
+L 09/21/2024 - 14:37:37: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/21/2024 - 14:38:57: Start of error session.
+L 09/21/2024 - 14:38:57: Info (map "zm_ngamers_lights_f") (file "addons/amxmodx/logs/error_20240921.log")
+L 09/21/2024 - 14:38:57: Function "native_create_my_entity" was not found
+L 09/21/2024 - 14:38:57: [AMXX] Run time error 19 (plugin "Krol_funs.amxx") - debug not enabled!
+L 09/21/2024 - 14:38:57: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/21/2024 - 14:38:57: [AMXX] Run time error -1 (plugin "Krol_funs.amxx") - debug not enabled!
+L 09/21/2024 - 14:38:57: [AMXX] Plugin file open error (plugin "scm_entity_editor.amxx")
+L 09/21/2024 - 14:38:58: Invalid index 13 (count: 13)
+L 09/21/2024 - 14:38:58: [AMXX] Run time error 10 (plugin "zombie_plague40.amxx") (native "ArrayGetCell") - debug not enabled!
+L 09/21/2024 - 14:38:58: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/21/2024 - 14:38:58: Unhandled dynamic native error
+L 09/21/2024 - 14:38:58: [AMXX] Run time error 10 (plugin "zp_gungnir_v2.amxx") (native "zp_register_extra_item") - debug not enabled!
+L 09/21/2024 - 14:38:58: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/21/2024 - 14:40:59: Start of error session.
+L 09/21/2024 - 14:40:59: Info (map "zm_ngamers_lights_f") (file "addons/amxmodx/logs/error_20240921.log")
+L 09/21/2024 - 14:40:59: Function "native_create_my_entity" was not found
+L 09/21/2024 - 14:40:59: [AMXX] Run time error 19 (plugin "Krol_funs.amxx") - debug not enabled!
+L 09/21/2024 - 14:40:59: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/21/2024 - 14:40:59: [AMXX] Run time error -1 (plugin "Krol_funs.amxx") - debug not enabled!
+L 09/21/2024 - 14:40:59: [AMXX] Plugin file open error (plugin "scm_entity_editor.amxx")
+L 09/21/2024 - 14:41:00: Invalid index 13 (count: 13)
+L 09/21/2024 - 14:41:00: [AMXX] Run time error 10 (plugin "zombie_plague40.amxx") (native "ArrayGetCell") - debug not enabled!
+L 09/21/2024 - 14:41:00: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/21/2024 - 14:41:00: Unhandled dynamic native error
+L 09/21/2024 - 14:41:00: [AMXX] Run time error 10 (plugin "zp_gungnir_v2.amxx") (native "zp_register_extra_item") - debug not enabled!
+L 09/21/2024 - 14:41:00: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/21/2024 - 14:43:50: Start of error session.
+L 09/21/2024 - 14:43:50: Info (map "zm_ngamers_lights_f") (file "addons/amxmodx/logs/error_20240921.log")
+L 09/21/2024 - 14:43:50: Function "native_create_my_entity" was not found
+L 09/21/2024 - 14:43:50: [AMXX] Run time error 19 (plugin "Krol_funs.amxx") - debug not enabled!
+L 09/21/2024 - 14:43:50: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/21/2024 - 14:43:50: [AMXX] Run time error -1 (plugin "Krol_funs.amxx") - debug not enabled!
+L 09/21/2024 - 14:43:50: [AMXX] Plugin file open error (plugin "scm_entity_editor.amxx")
+L 09/21/2024 - 14:43:52: Invalid index 13 (count: 13)
+L 09/21/2024 - 14:43:52: [AMXX] Run time error 10 (plugin "zombie_plague40.amxx") (native "ArrayGetCell") - debug not enabled!
+L 09/21/2024 - 14:43:52: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/21/2024 - 14:43:52: Unhandled dynamic native error
+L 09/21/2024 - 14:43:52: [AMXX] Run time error 10 (plugin "zp_gungnir_v2.amxx") (native "zp_register_extra_item") - debug not enabled!
+L 09/21/2024 - 14:43:52: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/21/2024 - 14:49:18: Start of error session.
+L 09/21/2024 - 14:49:18: Info (map "zm_ngamers_lights_f") (file "addons/amxmodx/logs/error_20240921.log")
+L 09/21/2024 - 14:49:18: Function "native_create_my_entity" was not found
+L 09/21/2024 - 14:49:18: [AMXX] Run time error 19 (plugin "Krol_funs.amxx") - debug not enabled!
+L 09/21/2024 - 14:49:18: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/21/2024 - 14:49:18: [AMXX] Run time error -1 (plugin "Krol_funs.amxx") - debug not enabled!
+L 09/21/2024 - 14:49:18: [AMXX] Plugin file open error (plugin "scm_entity_editor.amxx")
+L 09/21/2024 - 14:49:19: Invalid index 13 (count: 13)
+L 09/21/2024 - 14:49:19: [AMXX] Run time error 10 (plugin "zombie_plague40.amxx") (native "ArrayGetCell") - debug not enabled!
+L 09/21/2024 - 14:49:19: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/21/2024 - 14:49:19: Unhandled dynamic native error
+L 09/21/2024 - 14:49:19: [AMXX] Run time error 10 (plugin "zp_gungnir_v2.amxx") (native "zp_register_extra_item") - debug not enabled!
+L 09/21/2024 - 14:49:19: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/21/2024 - 14:51:28: Start of error session.
+L 09/21/2024 - 14:51:28: Info (map "zm_ngamers_lights_f") (file "addons/amxmodx/logs/error_20240921.log")
+L 09/21/2024 - 14:51:28: Function "native_create_my_entity" was not found
+L 09/21/2024 - 14:51:28: [AMXX] Run time error 19 (plugin "Krol_funs.amxx") - debug not enabled!
+L 09/21/2024 - 14:51:28: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/21/2024 - 14:51:28: [AMXX] Run time error -1 (plugin "Krol_funs.amxx") - debug not enabled!
+L 09/21/2024 - 14:51:28: [AMXX] Plugin file open error (plugin "scm_entity_editor.amxx")
+L 09/21/2024 - 14:51:30: Invalid index 13 (count: 13)
+L 09/21/2024 - 14:51:30: [AMXX] Run time error 10 (plugin "zombie_plague40.amxx") (native "ArrayGetCell") - debug not enabled!
+L 09/21/2024 - 14:51:30: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/21/2024 - 14:51:30: Unhandled dynamic native error
+L 09/21/2024 - 14:51:30: [AMXX] Run time error 10 (plugin "zp_gungnir_v2.amxx") (native "zp_register_extra_item") - debug not enabled!
+L 09/21/2024 - 14:51:30: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/21/2024 - 14:54:35: Start of error session.
+L 09/21/2024 - 14:54:35: Info (map "zm_ngamers_lights_f") (file "addons/amxmodx/logs/error_20240921.log")
+L 09/21/2024 - 14:54:35: Function "native_create_my_entity" was not found
+L 09/21/2024 - 14:54:35: [AMXX] Run time error 19 (plugin "Krol_funs.amxx") - debug not enabled!
+L 09/21/2024 - 14:54:35: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/21/2024 - 14:54:35: [AMXX] Run time error -1 (plugin "Krol_funs.amxx") - debug not enabled!
+L 09/21/2024 - 14:54:35: [AMXX] Plugin file open error (plugin "scm_entity_editor.amxx")
+L 09/21/2024 - 14:54:36: Invalid index 13 (count: 13)
+L 09/21/2024 - 14:54:36: [AMXX] Run time error 10 (plugin "zombie_plague40.amxx") (native "ArrayGetCell") - debug not enabled!
+L 09/21/2024 - 14:54:36: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/21/2024 - 14:54:36: Unhandled dynamic native error
+L 09/21/2024 - 14:54:36: [AMXX] Run time error 10 (plugin "zp_gungnir_v2.amxx") (native "zp_register_extra_item") - debug not enabled!
+L 09/21/2024 - 14:54:36: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/21/2024 - 14:59:01: Start of error session.
+L 09/21/2024 - 14:59:01: Info (map "zm_ngamers_lights_f") (file "addons/amxmodx/logs/error_20240921.log")
+L 09/21/2024 - 14:59:01: Function "native_create_my_entity" was not found
+L 09/21/2024 - 14:59:01: [AMXX] Run time error 19 (plugin "Krol_funs.amxx") - debug not enabled!
+L 09/21/2024 - 14:59:01: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/21/2024 - 14:59:01: [AMXX] Run time error -1 (plugin "Krol_funs.amxx") - debug not enabled!
+L 09/21/2024 - 14:59:01: [AMXX] Plugin file open error (plugin "scm_entity_editor.amxx")
+L 09/21/2024 - 14:59:03: Invalid index 13 (count: 13)
+L 09/21/2024 - 14:59:03: [AMXX] Run time error 10 (plugin "zombie_plague40.amxx") (native "ArrayGetCell") - debug not enabled!
+L 09/21/2024 - 14:59:03: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/21/2024 - 14:59:03: Unhandled dynamic native error
+L 09/21/2024 - 14:59:03: [AMXX] Run time error 10 (plugin "zp_gungnir_v2.amxx") (native "zp_register_extra_item") - debug not enabled!
+L 09/21/2024 - 14:59:03: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/21/2024 - 15:00:23: Start of error session.
+L 09/21/2024 - 15:00:23: Info (map "zm_ngamers_lights_f") (file "addons/amxmodx/logs/error_20240921.log")
+L 09/21/2024 - 15:00:23: Function "native_create_my_entity" was not found
+L 09/21/2024 - 15:00:23: [AMXX] Run time error 19 (plugin "Krol_funs.amxx") - debug not enabled!
+L 09/21/2024 - 15:00:23: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/21/2024 - 15:00:23: [AMXX] Run time error -1 (plugin "Krol_funs.amxx") - debug not enabled!
+L 09/21/2024 - 15:00:24: [AMXX] Plugin file open error (plugin "scm_entity_editor.amxx")
+L 09/21/2024 - 15:00:25: Invalid index 13 (count: 13)
+L 09/21/2024 - 15:00:25: [AMXX] Run time error 10 (plugin "zombie_plague40.amxx") (native "ArrayGetCell") - debug not enabled!
+L 09/21/2024 - 15:00:25: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/21/2024 - 15:00:25: Unhandled dynamic native error
+L 09/21/2024 - 15:00:25: [AMXX] Run time error 10 (plugin "zp_gungnir_v2.amxx") (native "zp_register_extra_item") - debug not enabled!
+L 09/21/2024 - 15:00:25: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/21/2024 - 15:02:22: Start of error session.
+L 09/21/2024 - 15:02:22: Info (map "zm_ngamers_lights_f") (file "addons/amxmodx/logs/error_20240921.log")
+L 09/21/2024 - 15:02:22: Function "native_create_my_entity" was not found
+L 09/21/2024 - 15:02:22: [AMXX] Run time error 19 (plugin "Krol_funs.amxx") - debug not enabled!
+L 09/21/2024 - 15:02:22: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/21/2024 - 15:02:22: [AMXX] Run time error -1 (plugin "Krol_funs.amxx") - debug not enabled!
+L 09/21/2024 - 15:02:22: [AMXX] Plugin file open error (plugin "scm_entity_editor.amxx")
+L 09/21/2024 - 15:02:24: Invalid index 13 (count: 13)
+L 09/21/2024 - 15:02:24: [AMXX] Run time error 10 (plugin "zombie_plague40.amxx") (native "ArrayGetCell") - debug not enabled!
+L 09/21/2024 - 15:02:24: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/21/2024 - 15:02:24: Unhandled dynamic native error
+L 09/21/2024 - 15:02:24: [AMXX] Run time error 10 (plugin "zp_gungnir_v2.amxx") (native "zp_register_extra_item") - debug not enabled!
+L 09/21/2024 - 15:02:24: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/21/2024 - 15:04:03: Start of error session.
+L 09/21/2024 - 15:04:03: Info (map "zm_ngamers_lights_f") (file "addons/amxmodx/logs/error_20240921.log")
+L 09/21/2024 - 15:04:03: Function "native_create_my_entity" was not found
+L 09/21/2024 - 15:04:03: [AMXX] Run time error 19 (plugin "Krol_funs.amxx") - debug not enabled!
+L 09/21/2024 - 15:04:03: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/21/2024 - 15:04:03: [AMXX] Run time error -1 (plugin "Krol_funs.amxx") - debug not enabled!
+L 09/21/2024 - 15:04:03: [AMXX] Plugin file open error (plugin "scm_entity_editor.amxx")
+L 09/21/2024 - 15:04:04: Invalid index 13 (count: 13)
+L 09/21/2024 - 15:04:04: [AMXX] Run time error 10 (plugin "zombie_plague40.amxx") (native "ArrayGetCell") - debug not enabled!
+L 09/21/2024 - 15:04:04: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/21/2024 - 15:04:04: Unhandled dynamic native error
+L 09/21/2024 - 15:04:04: [AMXX] Run time error 10 (plugin "zp_gungnir_v2.amxx") (native "zp_register_extra_item") - debug not enabled!
+L 09/21/2024 - 15:04:04: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/21/2024 - 15:08:49: Start of error session.
+L 09/21/2024 - 15:08:49: Info (map "zm_ngamers_lights_f") (file "addons/amxmodx/logs/error_20240921.log")
+L 09/21/2024 - 15:08:49: Function "native_create_my_entity" was not found
+L 09/21/2024 - 15:08:49: [AMXX] Run time error 19 (plugin "Krol_funs.amxx") - debug not enabled!
+L 09/21/2024 - 15:08:49: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/21/2024 - 15:08:49: [AMXX] Run time error -1 (plugin "Krol_funs.amxx") - debug not enabled!
+L 09/21/2024 - 15:08:49: [AMXX] Plugin file open error (plugin "scm_entity_editor.amxx")
+L 09/21/2024 - 15:08:51: Invalid index 13 (count: 13)
+L 09/21/2024 - 15:08:51: [AMXX] Run time error 10 (plugin "zombie_plague40.amxx") (native "ArrayGetCell") - debug not enabled!
+L 09/21/2024 - 15:08:51: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/21/2024 - 15:08:51: Unhandled dynamic native error
+L 09/21/2024 - 15:08:51: [AMXX] Run time error 10 (plugin "zp_gungnir_v2.amxx") (native "zp_register_extra_item") - debug not enabled!
+L 09/21/2024 - 15:08:51: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/21/2024 - 15:20:01: Start of error session.
+L 09/21/2024 - 15:20:01: Info (map "zm_ngamers_lights_f") (file "addons/amxmodx/logs/error_20240921.log")
+L 09/21/2024 - 15:20:01: Function "native_create_my_entity" was not found
+L 09/21/2024 - 15:20:01: [AMXX] Run time error 19 (plugin "Krol_funs.amxx") - debug not enabled!
+L 09/21/2024 - 15:20:01: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/21/2024 - 15:20:01: [AMXX] Run time error -1 (plugin "Krol_funs.amxx") - debug not enabled!
+L 09/21/2024 - 15:20:01: [AMXX] Plugin file open error (plugin "scm_entity_editor.amxx")
+L 09/21/2024 - 15:20:03: Invalid index 13 (count: 13)
+L 09/21/2024 - 15:20:03: [AMXX] Run time error 10 (plugin "zombie_plague40.amxx") (native "ArrayGetCell") - debug not enabled!
+L 09/21/2024 - 15:20:03: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/21/2024 - 15:20:03: Unhandled dynamic native error
+L 09/21/2024 - 15:20:03: [AMXX] Run time error 10 (plugin "zp_gungnir_v2.amxx") (native "zp_register_extra_item") - debug not enabled!
+L 09/21/2024 - 15:20:03: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/21/2024 - 15:33:15: Start of error session.
+L 09/21/2024 - 15:33:15: Info (map "zm_ngamers_lights_f") (file "addons/amxmodx/logs/error_20240921.log")
+L 09/21/2024 - 15:33:15: Function "native_create_my_entity" was not found
+L 09/21/2024 - 15:33:15: [AMXX] Run time error 19 (plugin "Krol_funs.amxx") - debug not enabled!
+L 09/21/2024 - 15:33:15: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/21/2024 - 15:33:15: [AMXX] Run time error -1 (plugin "Krol_funs.amxx") - debug not enabled!
+L 09/21/2024 - 15:33:15: [AMXX] Plugin file open error (plugin "scm_entity_editor.amxx")
+L 09/21/2024 - 15:33:17: Invalid index 13 (count: 13)
+L 09/21/2024 - 15:33:17: [AMXX] Run time error 10 (plugin "zombie_plague40.amxx") (native "ArrayGetCell") - debug not enabled!
+L 09/21/2024 - 15:33:17: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/21/2024 - 15:33:17: Unhandled dynamic native error
+L 09/21/2024 - 15:33:17: [AMXX] Run time error 10 (plugin "zp_gungnir_v2.amxx") (native "zp_register_extra_item") - debug not enabled!
+L 09/21/2024 - 15:33:17: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/21/2024 - 15:36:44: Start of error session.
+L 09/21/2024 - 15:36:44: Info (map "zm_ngamers_lights_f") (file "addons/amxmodx/logs/error_20240921.log")
+L 09/21/2024 - 15:36:44: Function "native_create_my_entity" was not found
+L 09/21/2024 - 15:36:44: [AMXX] Run time error 19 (plugin "Krol_funs.amxx") - debug not enabled!
+L 09/21/2024 - 15:36:44: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/21/2024 - 15:36:44: [AMXX] Run time error -1 (plugin "Krol_funs.amxx") - debug not enabled!
+L 09/21/2024 - 15:36:44: [AMXX] Plugin file open error (plugin "scm_entity_editor.amxx")
+L 09/21/2024 - 15:36:46: Invalid index 13 (count: 13)
+L 09/21/2024 - 15:36:46: [AMXX] Run time error 10 (plugin "zombie_plague40.amxx") (native "ArrayGetCell") - debug not enabled!
+L 09/21/2024 - 15:36:46: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/21/2024 - 15:36:46: Unhandled dynamic native error
+L 09/21/2024 - 15:36:46: [AMXX] Run time error 10 (plugin "zp_gungnir_v2.amxx") (native "zp_register_extra_item") - debug not enabled!
+L 09/21/2024 - 15:36:46: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/21/2024 - 15:37:29: Start of error session.
+L 09/21/2024 - 15:37:29: Info (map "zm_ngamers_lights_f") (file "addons/amxmodx/logs/error_20240921.log")
+L 09/21/2024 - 15:37:29: Function "native_create_my_entity" was not found
+L 09/21/2024 - 15:37:29: [AMXX] Run time error 19 (plugin "Krol_funs.amxx") - debug not enabled!
+L 09/21/2024 - 15:37:29: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/21/2024 - 15:37:29: [AMXX] Run time error -1 (plugin "Krol_funs.amxx") - debug not enabled!
+L 09/21/2024 - 15:37:29: [AMXX] Plugin file open error (plugin "scm_entity_editor.amxx")
+L 09/21/2024 - 15:37:30: Invalid index 13 (count: 13)
+L 09/21/2024 - 15:37:30: [AMXX] Run time error 10 (plugin "zombie_plague40.amxx") (native "ArrayGetCell") - debug not enabled!
+L 09/21/2024 - 15:37:30: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/21/2024 - 15:37:30: Unhandled dynamic native error
+L 09/21/2024 - 15:37:30: [AMXX] Run time error 10 (plugin "zp_gungnir_v2.amxx") (native "zp_register_extra_item") - debug not enabled!
+L 09/21/2024 - 15:37:30: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/21/2024 - 15:43:45: Start of error session.
+L 09/21/2024 - 15:43:45: Info (map "zm_ngamers_lights_f") (file "addons/amxmodx/logs/error_20240921.log")
+L 09/21/2024 - 15:43:45: Function "native_create_my_entity" was not found
+L 09/21/2024 - 15:43:45: [AMXX] Run time error 19 (plugin "Krol_funs.amxx") - debug not enabled!
+L 09/21/2024 - 15:43:45: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/21/2024 - 15:43:45: [AMXX] Run time error -1 (plugin "Krol_funs.amxx") - debug not enabled!
+L 09/21/2024 - 15:43:45: [AMXX] Plugin file open error (plugin "scm_entity_editor.amxx")
+L 09/21/2024 - 15:43:47: Invalid index 13 (count: 13)
+L 09/21/2024 - 15:43:47: [AMXX] Run time error 10 (plugin "zombie_plague40.amxx") (native "ArrayGetCell") - debug not enabled!
+L 09/21/2024 - 15:43:47: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/21/2024 - 15:43:47: Unhandled dynamic native error
+L 09/21/2024 - 15:43:47: [AMXX] Run time error 10 (plugin "zp_gungnir_v2.amxx") (native "zp_register_extra_item") - debug not enabled!
+L 09/21/2024 - 15:43:47: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/21/2024 - 15:45:14: Start of error session.
+L 09/21/2024 - 15:45:14: Info (map "zm_ngamers_lights_f") (file "addons/amxmodx/logs/error_20240921.log")
+L 09/21/2024 - 15:45:14: Function "native_create_my_entity" was not found
+L 09/21/2024 - 15:45:14: [AMXX] Run time error 19 (plugin "Krol_funs.amxx") - debug not enabled!
+L 09/21/2024 - 15:45:14: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/21/2024 - 15:45:14: [AMXX] Run time error -1 (plugin "Krol_funs.amxx") - debug not enabled!
+L 09/21/2024 - 15:45:14: [AMXX] Plugin file open error (plugin "scm_entity_editor.amxx")
+L 09/21/2024 - 15:45:16: Invalid index 13 (count: 13)
+L 09/21/2024 - 15:45:16: [AMXX] Run time error 10 (plugin "zombie_plague40.amxx") (native "ArrayGetCell") - debug not enabled!
+L 09/21/2024 - 15:45:16: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/21/2024 - 15:45:16: Unhandled dynamic native error
+L 09/21/2024 - 15:45:16: [AMXX] Run time error 10 (plugin "zp_gungnir_v2.amxx") (native "zp_register_extra_item") - debug not enabled!
+L 09/21/2024 - 15:45:16: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/21/2024 - 15:50:23: [AMXX] Run time error 4 (plugin "shop_lasermine_28.amxx") - debug not enabled!
+L 09/21/2024 - 15:50:23: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/21/2024 - 15:51:38: [AMXX] Run time error 4 (plugin "shop_lasermine_28.amxx") - debug not enabled!
+L 09/21/2024 - 15:51:38: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).

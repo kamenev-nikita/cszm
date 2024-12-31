@@ -1,0 +1,251 @@
+L 12/03/2024 - 13:13:28: Start of error session.
+L 12/03/2024 - 13:13:28: Info (map "zm_ngamers_lights_f") (file "addons/amxmodx/logs/error_20241203.log")
+L 12/03/2024 - 13:13:28: [nVault] Invalid vault id: 0
+
+L 12/03/2024 - 13:13:28: [AMXX] Displaying debug trace (plugin "K_ZP_control_data.amxx", version "1.0")
+L 12/03/2024 - 13:13:28: [AMXX] Run time error 10: native error (native "nvault_set")
+L 12/03/2024 - 13:13:28: [AMXX]    [0] K_ZP_control_data.sma::Save_date (line 107)
+L 12/03/2024 - 13:13:28: [AMXX]    [1] K_ZP_control_data.sma::plugin_init (line 23)
+L 12/03/2024 - 13:13:28: [AMXX] Displaying debug trace (plugin "parachute.amxx", version "1.3")
+L 12/03/2024 - 13:13:28: [AMXX] Run time error 14: native not found (native "get_is_zombie")
+L 12/03/2024 - 13:13:28: [AMXX]    [0] parachute.sma::parachute_reset (line 104)
+L 12/03/2024 - 13:13:28: [AMXX]    [1] parachute.sma::client_connect (line 81)
+L 12/03/2024 - 13:13:31: [nVault] Invalid vault id: 0
+
+L 12/03/2024 - 13:13:31: [AMXX] Displaying debug trace (plugin "K_ZP_control_data.amxx", version "1.0")
+L 12/03/2024 - 13:13:31: [AMXX] Run time error 10: native error (native "nvault_get")
+L 12/03/2024 - 13:13:31: [AMXX]    [0] K_ZP_control_data.sma::Load_date (line 135)
+L 12/03/2024 - 13:13:31: [AMXX]    [1] K_ZP_control_data.sma::client_putinserver (line 65)
+L 12/03/2024 - 13:15:26: [nVault] Invalid vault id: 0
+
+L 12/03/2024 - 13:15:26: [AMXX] Displaying debug trace (plugin "K_ZP_control_data.amxx", version "1.0")
+L 12/03/2024 - 13:15:26: [AMXX] Run time error 10: native error (native "nvault_set")
+L 12/03/2024 - 13:15:26: [AMXX]    [0] K_ZP_control_data.sma::Save_date (line 107)
+L 12/03/2024 - 13:15:26: [AMXX]    [1] K_ZP_control_data.sma::client_disconnected (line 61)
+L 12/03/2024 - 13:15:26: [AMXX] Displaying debug trace (plugin "parachute.amxx", version "1.3")
+L 12/03/2024 - 13:15:26: [AMXX] Run time error 14: native not found (native "get_is_zombie")
+L 12/03/2024 - 13:15:26: [AMXX]    [0] parachute.sma::parachute_reset (line 104)
+L 12/03/2024 - 13:15:26: [AMXX]    [1] parachute.sma::client_disconnected (line 86)
+L 12/03/2024 - 13:15:26: Start of error session.
+L 12/03/2024 - 13:15:26: Info (map "zm_ngamers_lights_f") (file "addons/amxmodx/logs/error_20241203.log")
+L 12/03/2024 - 13:15:26: [nVault] Invalid vault id: 0
+
+L 12/03/2024 - 13:15:26: [AMXX] Displaying debug trace (plugin "K_ZP_control_data.amxx", version "1.0")
+L 12/03/2024 - 13:15:26: [AMXX] Run time error 10: native error (native "nvault_set")
+L 12/03/2024 - 13:15:26: [AMXX]    [0] K_ZP_control_data.sma::Save_date (line 107)
+L 12/03/2024 - 13:15:26: [AMXX]    [1] K_ZP_control_data.sma::plugin_init (line 23)
+L 12/03/2024 - 13:15:26: [AMXX] Displaying debug trace (plugin "parachute.amxx", version "1.3")
+L 12/03/2024 - 13:15:26: [AMXX] Run time error 14: native not found (native "get_is_zombie")
+L 12/03/2024 - 13:15:26: [AMXX]    [0] parachute.sma::parachute_reset (line 104)
+L 12/03/2024 - 13:15:26: [AMXX]    [1] parachute.sma::client_connect (line 81)
+L 12/03/2024 - 13:15:29: [nVault] Invalid vault id: 0
+
+L 12/03/2024 - 13:15:29: [AMXX] Displaying debug trace (plugin "K_ZP_control_data.amxx", version "1.0")
+L 12/03/2024 - 13:15:29: [AMXX] Run time error 10: native error (native "nvault_get")
+L 12/03/2024 - 13:15:29: [AMXX]    [0] K_ZP_control_data.sma::Load_date (line 135)
+L 12/03/2024 - 13:15:29: [AMXX]    [1] K_ZP_control_data.sma::client_putinserver (line 65)
+L 12/03/2024 - 13:15:32: [nVault] Invalid vault id: 0
+
+L 12/03/2024 - 13:15:32: [AMXX] Displaying debug trace (plugin "K_ZP_control_data.amxx", version "1.0")
+L 12/03/2024 - 13:15:32: [AMXX] Run time error 10: native error (native "nvault_set")
+L 12/03/2024 - 13:15:32: [AMXX]    [0] K_ZP_control_data.sma::Save_date (line 107)
+L 12/03/2024 - 13:15:32: [AMXX]    [1] K_ZP_control_data.sma::client_disconnected (line 61)
+L 12/03/2024 - 13:15:32: [AMXX] Displaying debug trace (plugin "parachute.amxx", version "1.3")
+L 12/03/2024 - 13:15:32: [AMXX] Run time error 14: native not found (native "get_is_zombie")
+L 12/03/2024 - 13:15:32: [AMXX]    [0] parachute.sma::parachute_reset (line 104)
+L 12/03/2024 - 13:15:32: [AMXX]    [1] parachute.sma::client_disconnected (line 86)
+L 12/03/2024 - 13:15:32: Start of error session.
+L 12/03/2024 - 13:15:32: Info (map "zm_ngamers_lights_f") (file "addons/amxmodx/logs/error_20241203.log")
+L 12/03/2024 - 13:15:32: [nVault] Invalid vault id: 0
+
+L 12/03/2024 - 13:15:32: [AMXX] Displaying debug trace (plugin "K_ZP_control_data.amxx", version "1.0")
+L 12/03/2024 - 13:15:32: [AMXX] Run time error 10: native error (native "nvault_set")
+L 12/03/2024 - 13:15:32: [AMXX]    [0] K_ZP_control_data.sma::Save_date (line 107)
+L 12/03/2024 - 13:15:32: [AMXX]    [1] K_ZP_control_data.sma::plugin_init (line 23)
+L 12/03/2024 - 13:15:32: [AMXX] Displaying debug trace (plugin "parachute.amxx", version "1.3")
+L 12/03/2024 - 13:15:32: [AMXX] Run time error 14: native not found (native "get_is_zombie")
+L 12/03/2024 - 13:15:32: [AMXX]    [0] parachute.sma::parachute_reset (line 104)
+L 12/03/2024 - 13:15:32: [AMXX]    [1] parachute.sma::client_connect (line 81)
+L 12/03/2024 - 13:15:35: [nVault] Invalid vault id: 0
+
+L 12/03/2024 - 13:15:35: [AMXX] Displaying debug trace (plugin "K_ZP_control_data.amxx", version "1.0")
+L 12/03/2024 - 13:15:35: [AMXX] Run time error 10: native error (native "nvault_get")
+L 12/03/2024 - 13:15:35: [AMXX]    [0] K_ZP_control_data.sma::Load_date (line 135)
+L 12/03/2024 - 13:15:35: [AMXX]    [1] K_ZP_control_data.sma::client_putinserver (line 65)
+L 12/03/2024 - 13:18:50: [nVault] Invalid vault id: 0
+
+L 12/03/2024 - 13:18:50: [AMXX] Displaying debug trace (plugin "K_ZP_control_data.amxx", version "1.0")
+L 12/03/2024 - 13:18:50: [AMXX] Run time error 10: native error (native "nvault_set")
+L 12/03/2024 - 13:18:50: [AMXX]    [0] K_ZP_control_data.sma::Save_date (line 107)
+L 12/03/2024 - 13:18:50: [AMXX]    [1] K_ZP_control_data.sma::client_disconnected (line 61)
+L 12/03/2024 - 13:18:50: [AMXX] Displaying debug trace (plugin "parachute.amxx", version "1.3")
+L 12/03/2024 - 13:18:50: [AMXX] Run time error 14: native not found (native "get_is_zombie")
+L 12/03/2024 - 13:18:50: [AMXX]    [0] parachute.sma::parachute_reset (line 104)
+L 12/03/2024 - 13:18:50: [AMXX]    [1] parachute.sma::client_disconnected (line 86)
+L 12/03/2024 - 13:37:17: Start of error session.
+L 12/03/2024 - 13:37:17: Info (map "zm_fdust2x2") (file "addons/amxmodx/logs/error_20241203.log")
+L 12/03/2024 - 13:37:17: [CSTRIKE] Invalid player 2 (no private data)
+L 12/03/2024 - 13:37:17: [AMXX] Displaying debug trace (plugin "K_M_models.amxx", version "1.0")
+L 12/03/2024 - 13:37:17: [AMXX] Run time error 10: native error (native "cs_set_user_model")
+L 12/03/2024 - 13:37:17: [AMXX]    [0] K_M_models.sma::native_return_ham_skin (line 57)
+L 12/03/2024 - 13:37:17: [AMXX]    [1] K_M_models.sma::client_putinserver (line 112)
+L 12/03/2024 - 13:37:18: [CSTRIKE] Invalid player 3 (no private data)
+L 12/03/2024 - 13:37:18: [AMXX] Displaying debug trace (plugin "K_M_models.amxx", version "1.0")
+L 12/03/2024 - 13:37:18: [AMXX] Run time error 10: native error (native "cs_set_user_model")
+L 12/03/2024 - 13:37:18: [AMXX]    [0] K_M_models.sma::native_return_ham_skin (line 57)
+L 12/03/2024 - 13:37:18: [AMXX]    [1] K_M_models.sma::client_putinserver (line 112)
+L 12/03/2024 - 13:37:18: [CSTRIKE] Invalid player 4 (no private data)
+L 12/03/2024 - 13:37:18: [AMXX] Displaying debug trace (plugin "K_M_models.amxx", version "1.0")
+L 12/03/2024 - 13:37:18: [AMXX] Run time error 10: native error (native "cs_set_user_model")
+L 12/03/2024 - 13:37:18: [AMXX]    [0] K_M_models.sma::native_return_ham_skin (line 57)
+L 12/03/2024 - 13:37:18: [AMXX]    [1] K_M_models.sma::client_putinserver (line 112)
+L 12/03/2024 - 13:37:19: [CSTRIKE] Invalid player 5 (no private data)
+L 12/03/2024 - 13:37:19: [AMXX] Displaying debug trace (plugin "K_M_models.amxx", version "1.0")
+L 12/03/2024 - 13:37:19: [AMXX] Run time error 10: native error (native "cs_set_user_model")
+L 12/03/2024 - 13:37:19: [AMXX]    [0] K_M_models.sma::native_return_ham_skin (line 57)
+L 12/03/2024 - 13:37:19: [AMXX]    [1] K_M_models.sma::client_putinserver (line 112)
+L 12/03/2024 - 13:37:19: [CSTRIKE] Invalid player 6 (no private data)
+L 12/03/2024 - 13:37:19: [AMXX] Displaying debug trace (plugin "K_M_models.amxx", version "1.0")
+L 12/03/2024 - 13:37:19: [AMXX] Run time error 10: native error (native "cs_set_user_model")
+L 12/03/2024 - 13:37:19: [AMXX]    [0] K_M_models.sma::native_return_ham_skin (line 57)
+L 12/03/2024 - 13:37:19: [AMXX]    [1] K_M_models.sma::client_putinserver (line 112)
+L 12/03/2024 - 13:37:20: [CSTRIKE] Invalid player 7 (no private data)
+L 12/03/2024 - 13:37:20: [AMXX] Displaying debug trace (plugin "K_M_models.amxx", version "1.0")
+L 12/03/2024 - 13:37:20: [AMXX] Run time error 10: native error (native "cs_set_user_model")
+L 12/03/2024 - 13:37:20: [AMXX]    [0] K_M_models.sma::native_return_ham_skin (line 57)
+L 12/03/2024 - 13:37:20: [AMXX]    [1] K_M_models.sma::client_putinserver (line 112)
+L 12/03/2024 - 13:37:20: [CSTRIKE] Invalid player 8 (no private data)
+L 12/03/2024 - 13:37:20: [AMXX] Displaying debug trace (plugin "K_M_models.amxx", version "1.0")
+L 12/03/2024 - 13:37:20: [AMXX] Run time error 10: native error (native "cs_set_user_model")
+L 12/03/2024 - 13:37:20: [AMXX]    [0] K_M_models.sma::native_return_ham_skin (line 57)
+L 12/03/2024 - 13:37:20: [AMXX]    [1] K_M_models.sma::client_putinserver (line 112)
+L 12/03/2024 - 13:37:59: Start of error session.
+L 12/03/2024 - 13:37:59: Info (map "zm_fdust2x2") (file "addons/amxmodx/logs/error_20241203.log")
+L 12/03/2024 - 13:37:59: [CSTRIKE] Invalid player 2 (no private data)
+L 12/03/2024 - 13:37:59: [AMXX] Displaying debug trace (plugin "K_M_models.amxx", version "1.0")
+L 12/03/2024 - 13:37:59: [AMXX] Run time error 10: native error (native "cs_set_user_model")
+L 12/03/2024 - 13:37:59: [AMXX]    [0] K_M_models.sma::native_return_ham_skin (line 57)
+L 12/03/2024 - 13:37:59: [AMXX]    [1] K_M_models.sma::client_putinserver (line 112)
+L 12/03/2024 - 13:37:59: [CSTRIKE] Invalid player 3 (no private data)
+L 12/03/2024 - 13:37:59: [AMXX] Displaying debug trace (plugin "K_M_models.amxx", version "1.0")
+L 12/03/2024 - 13:37:59: [AMXX] Run time error 10: native error (native "cs_set_user_model")
+L 12/03/2024 - 13:37:59: [AMXX]    [0] K_M_models.sma::native_return_ham_skin (line 57)
+L 12/03/2024 - 13:37:59: [AMXX]    [1] K_M_models.sma::client_putinserver (line 112)
+L 12/03/2024 - 13:38:00: [CSTRIKE] Invalid player 4 (no private data)
+L 12/03/2024 - 13:38:00: [AMXX] Displaying debug trace (plugin "K_M_models.amxx", version "1.0")
+L 12/03/2024 - 13:38:00: [AMXX] Run time error 10: native error (native "cs_set_user_model")
+L 12/03/2024 - 13:38:00: [AMXX]    [0] K_M_models.sma::native_return_ham_skin (line 57)
+L 12/03/2024 - 13:38:00: [AMXX]    [1] K_M_models.sma::client_putinserver (line 112)
+L 12/03/2024 - 13:38:00: [CSTRIKE] Invalid player 5 (no private data)
+L 12/03/2024 - 13:38:00: [AMXX] Displaying debug trace (plugin "K_M_models.amxx", version "1.0")
+L 12/03/2024 - 13:38:00: [AMXX] Run time error 10: native error (native "cs_set_user_model")
+L 12/03/2024 - 13:38:00: [AMXX]    [0] K_M_models.sma::native_return_ham_skin (line 57)
+L 12/03/2024 - 13:38:00: [AMXX]    [1] K_M_models.sma::client_putinserver (line 112)
+L 12/03/2024 - 13:38:01: [CSTRIKE] Invalid player 6 (no private data)
+L 12/03/2024 - 13:38:01: [AMXX] Displaying debug trace (plugin "K_M_models.amxx", version "1.0")
+L 12/03/2024 - 13:38:01: [AMXX] Run time error 10: native error (native "cs_set_user_model")
+L 12/03/2024 - 13:38:01: [AMXX]    [0] K_M_models.sma::native_return_ham_skin (line 57)
+L 12/03/2024 - 13:38:01: [AMXX]    [1] K_M_models.sma::client_putinserver (line 112)
+L 12/03/2024 - 13:38:01: [CSTRIKE] Invalid player 7 (no private data)
+L 12/03/2024 - 13:38:01: [AMXX] Displaying debug trace (plugin "K_M_models.amxx", version "1.0")
+L 12/03/2024 - 13:38:01: [AMXX] Run time error 10: native error (native "cs_set_user_model")
+L 12/03/2024 - 13:38:01: [AMXX]    [0] K_M_models.sma::native_return_ham_skin (line 57)
+L 12/03/2024 - 13:38:01: [AMXX]    [1] K_M_models.sma::client_putinserver (line 112)
+L 12/03/2024 - 13:38:02: [CSTRIKE] Invalid player 8 (no private data)
+L 12/03/2024 - 13:38:02: [AMXX] Displaying debug trace (plugin "K_M_models.amxx", version "1.0")
+L 12/03/2024 - 13:38:02: [AMXX] Run time error 10: native error (native "cs_set_user_model")
+L 12/03/2024 - 13:38:02: [AMXX]    [0] K_M_models.sma::native_return_ham_skin (line 57)
+L 12/03/2024 - 13:38:02: [AMXX]    [1] K_M_models.sma::client_putinserver (line 112)
+L 12/03/2024 - 13:38:47: [CSTRIKE] Invalid weapon id 29
+L 12/03/2024 - 13:38:47: [AMXX] Displaying debug trace (plugin "K_ZP_main.amxx", version "1.0")
+L 12/03/2024 - 13:38:47: [AMXX] Run time error 10: native error (native "cs_set_user_bpammo")
+L 12/03/2024 - 13:38:47: [AMXX]    [0] K_ZP_main.sma::f_HamWeaponReload (line 105)
+L 12/03/2024 - 13:38:53: [CSTRIKE] Invalid weapon id 29
+L 12/03/2024 - 13:38:53: [AMXX] Displaying debug trace (plugin "K_ZP_main.amxx", version "1.0")
+L 12/03/2024 - 13:38:53: [AMXX] Run time error 10: native error (native "cs_set_user_bpammo")
+L 12/03/2024 - 13:38:53: [AMXX]    [0] K_ZP_main.sma::f_HamWeaponReload (line 105)
+L 12/03/2024 - 13:39:07: [CSTRIKE] Invalid weapon id 29
+L 12/03/2024 - 13:39:07: [AMXX] Displaying debug trace (plugin "K_ZP_main.amxx", version "1.0")
+L 12/03/2024 - 13:39:07: [AMXX] Run time error 10: native error (native "cs_set_user_bpammo")
+L 12/03/2024 - 13:39:07: [AMXX]    [0] K_ZP_main.sma::f_HamWeaponReload (line 105)
+L 12/03/2024 - 15:55:23: Start of error session.
+L 12/03/2024 - 15:55:23: Info (map "zm_ngamers_lights_f") (file "addons/amxmodx/logs/error_20241203.log")
+L 12/03/2024 - 15:55:23: [AMXX] Plugin file open error (plugin "K_lib_basic.amxx")
+L 12/03/2024 - 16:17:02: Start of error session.
+L 12/03/2024 - 16:17:02: Info (map "zm_ngamers_lights_f") (file "addons/amxmodx/logs/error_20241203.log")
+L 12/03/2024 - 16:17:02: Function "native_add_hp" was not found
+L 12/03/2024 - 16:17:02: [AMXX] Run time error 19 (plugin "K_lib_basic.amxx") - debug not enabled!
+L 12/03/2024 - 16:17:02: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 12/03/2024 - 16:17:02: [AMXX] Run time error -1 (plugin "K_lib_basic.amxx") - debug not enabled!
+L 12/03/2024 - 16:17:33: Start of error session.
+L 12/03/2024 - 16:17:33: Info (map "zm_ngamers_lights_f") (file "addons/amxmodx/logs/error_20241203.log")
+L 12/03/2024 - 16:17:33: Function "native_add_hp" was not found
+L 12/03/2024 - 16:17:33: [AMXX] Run time error 19 (plugin "K_lib_basic.amxx") - debug not enabled!
+L 12/03/2024 - 16:17:33: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 12/03/2024 - 16:17:33: [AMXX] Run time error -1 (plugin "K_lib_basic.amxx") - debug not enabled!
+L 12/03/2024 - 16:18:46: Start of error session.
+L 12/03/2024 - 16:18:46: Info (map "zm_ngamers_lights_f") (file "addons/amxmodx/logs/error_20241203.log")
+L 12/03/2024 - 16:18:46: Function "native_add_hp" was not found
+L 12/03/2024 - 16:18:46: [AMXX] Run time error 19 (plugin "K_lib_basic.amxx") - debug not enabled!
+L 12/03/2024 - 16:18:46: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 12/03/2024 - 16:18:46: [AMXX] Run time error -1 (plugin "K_lib_basic.amxx") - debug not enabled!
+L 12/03/2024 - 16:19:26: Start of error session.
+L 12/03/2024 - 16:19:26: Info (map "zm_ngamers_lights_f") (file "addons/amxmodx/logs/error_20241203.log")
+L 12/03/2024 - 16:19:26: Function "native_add_hp" was not found
+L 12/03/2024 - 16:19:26: [AMXX] Run time error 19 (plugin "K_lib_basic.amxx") - debug not enabled!
+L 12/03/2024 - 16:19:26: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 12/03/2024 - 16:19:26: [AMXX] Run time error -1 (plugin "K_lib_basic.amxx") - debug not enabled!
+L 12/03/2024 - 16:20:09: Start of error session.
+L 12/03/2024 - 16:20:09: Info (map "zm_ngamers_lights_f") (file "addons/amxmodx/logs/error_20241203.log")
+L 12/03/2024 - 16:20:09: Function "native_add_hp" was not found
+L 12/03/2024 - 16:20:09: [AMXX] Run time error 19 (plugin "K_lib_basic.amxx") - debug not enabled!
+L 12/03/2024 - 16:20:09: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 12/03/2024 - 16:20:09: [AMXX] Run time error -1 (plugin "K_lib_basic.amxx") - debug not enabled!
+L 12/03/2024 - 16:20:52: Start of error session.
+L 12/03/2024 - 16:20:52: Info (map "zm_ngamers_lights_f") (file "addons/amxmodx/logs/error_20241203.log")
+L 12/03/2024 - 16:20:52: Function "native_add_hp" was not found
+L 12/03/2024 - 16:20:52: [AMXX] Run time error 19 (plugin "K_lib_basic.amxx") - debug not enabled!
+L 12/03/2024 - 16:20:52: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 12/03/2024 - 16:20:52: [AMXX] Run time error -1 (plugin "K_lib_basic.amxx") - debug not enabled!
+L 12/03/2024 - 16:23:26: Start of error session.
+L 12/03/2024 - 16:23:26: Info (map "zm_ngamers_lights_f") (file "addons/amxmodx/logs/error_20241203.log")
+L 12/03/2024 - 16:23:26: Function "native_add_hp" was not found
+L 12/03/2024 - 16:23:26: [AMXX] Run time error 19 (plugin "K_lib_basic.amxx") - debug not enabled!
+L 12/03/2024 - 16:23:26: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 12/03/2024 - 16:23:26: [AMXX] Run time error -1 (plugin "K_lib_basic.amxx") - debug not enabled!
+L 12/03/2024 - 16:24:41: Start of error session.
+L 12/03/2024 - 16:24:41: Info (map "zm_ngamers_lights_f") (file "addons/amxmodx/logs/error_20241203.log")
+L 12/03/2024 - 16:24:41: Function "native_add_hp" was not found
+L 12/03/2024 - 16:24:41: [AMXX] Run time error 19 (plugin "K_lib_basic.amxx") - debug not enabled!
+L 12/03/2024 - 16:24:41: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 12/03/2024 - 16:24:41: [AMXX] Run time error -1 (plugin "K_lib_basic.amxx") - debug not enabled!
+L 12/03/2024 - 16:27:40: Start of error session.
+L 12/03/2024 - 16:27:40: Info (map "zm_ngamers_lights_f") (file "addons/amxmodx/logs/error_20241203.log")
+L 12/03/2024 - 16:27:40: Function "native_add_hp" was not found
+L 12/03/2024 - 16:27:40: [AMXX] Run time error 19 (plugin "K_lib_basic.amxx") - debug not enabled!
+L 12/03/2024 - 16:27:40: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 12/03/2024 - 16:27:40: [AMXX] Run time error -1 (plugin "K_lib_basic.amxx") - debug not enabled!
+L 12/03/2024 - 16:46:32: Start of error session.
+L 12/03/2024 - 16:46:32: Info (map "zm_ngamers_lights_f") (file "addons/amxmodx/logs/error_20241203.log")
+L 12/03/2024 - 16:46:32: Function "native_set_weather" was not found
+L 12/03/2024 - 16:46:32: [AMXX] Run time error 19 (plugin "K_lib_basic.amxx") - debug not enabled!
+L 12/03/2024 - 16:46:32: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 12/03/2024 - 16:46:32: [AMXX] Run time error -1 (plugin "K_lib_basic.amxx") - debug not enabled!
+L 12/03/2024 - 16:51:55: Start of error session.
+L 12/03/2024 - 16:51:55: Info (map "zm_ngamers_lights_f") (file "addons/amxmodx/logs/error_20241203.log")
+L 12/03/2024 - 16:51:55: Function "native_set_weather" was not found
+L 12/03/2024 - 16:51:55: [AMXX] Run time error 19 (plugin "K_lib_basic.amxx") - debug not enabled!
+L 12/03/2024 - 16:51:55: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 12/03/2024 - 16:51:55: [AMXX] Run time error -1 (plugin "K_lib_basic.amxx") - debug not enabled!
+L 12/03/2024 - 16:56:07: Start of error session.
+L 12/03/2024 - 16:56:07: Info (map "zm_ngamers_lights_f") (file "addons/amxmodx/logs/error_20241203.log")
+L 12/03/2024 - 16:56:07: Function "native_set_weather" was not found
+L 12/03/2024 - 16:56:07: [AMXX] Run time error 19 (plugin "K_lib_basic.amxx") - debug not enabled!
+L 12/03/2024 - 16:56:07: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 12/03/2024 - 16:56:07: [AMXX] Run time error -1 (plugin "K_lib_basic.amxx") - debug not enabled!
+L 12/03/2024 - 16:57:57: Start of error session.
+L 12/03/2024 - 16:57:57: Info (map "zm_ngamers_lights_f") (file "addons/amxmodx/logs/error_20241203.log")
+L 12/03/2024 - 16:57:57: Function "native_set_weather" was not found
+L 12/03/2024 - 16:57:57: [AMXX] Run time error 19 (plugin "K_lib_basic.amxx") - debug not enabled!
+L 12/03/2024 - 16:57:57: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 12/03/2024 - 16:57:57: [AMXX] Run time error -1 (plugin "K_lib_basic.amxx") - debug not enabled!

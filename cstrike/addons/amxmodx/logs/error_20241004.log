@@ -1,0 +1,130 @@
+L 10/04/2024 - 10:35:03: Start of error session.
+L 10/04/2024 - 10:35:03: Info (map "zm_epic_base") (file "addons/amxmodx/logs/error_20241004.log")
+L 10/04/2024 - 10:35:03: [AMXX] Plugin file open error (plugin "scm_entity_editor.amxx")
+L 10/04/2024 - 10:35:04: Invalid index 13 (count: 13)
+L 10/04/2024 - 10:35:04: [AMXX] Run time error 10 (plugin "zombie_plague40.amxx") (native "ArrayGetCell") - debug not enabled!
+L 10/04/2024 - 10:35:04: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/04/2024 - 10:35:04: Unhandled dynamic native error
+L 10/04/2024 - 10:35:04: [AMXX] Run time error 10 (plugin "zp_gungnir_v2.amxx") (native "zp_register_extra_item") - debug not enabled!
+L 10/04/2024 - 10:35:04: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/04/2024 - 10:40:18: [AMXX] Run time error 4 (plugin "menu_create_entity.amxx") - debug not enabled!
+L 10/04/2024 - 10:40:18: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/04/2024 - 10:45:29: [AMXX] Run time error 4 (plugin "menu_create_entity.amxx") - debug not enabled!
+L 10/04/2024 - 10:45:29: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/04/2024 - 10:50:40: [AMXX] Run time error 4 (plugin "menu_create_entity.amxx") - debug not enabled!
+L 10/04/2024 - 10:50:40: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/04/2024 - 10:55:51: [AMXX] Run time error 4 (plugin "menu_create_entity.amxx") - debug not enabled!
+L 10/04/2024 - 10:55:51: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/04/2024 - 11:01:02: [AMXX] Run time error 4 (plugin "menu_create_entity.amxx") - debug not enabled!
+L 10/04/2024 - 11:01:02: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/04/2024 - 11:06:13: [AMXX] Run time error 4 (plugin "menu_create_entity.amxx") - debug not enabled!
+L 10/04/2024 - 11:06:13: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/04/2024 - 11:11:07: Start of error session.
+L 10/04/2024 - 11:11:07: Info (map "zm_epic_base") (file "addons/amxmodx/logs/error_20241004.log")
+L 10/04/2024 - 11:11:07: [AMXX] Plugin file open error (plugin "scm_entity_editor.amxx")
+L 10/04/2024 - 11:11:08: Invalid index 13 (count: 13)
+L 10/04/2024 - 11:11:08: [AMXX] Run time error 10 (plugin "zombie_plague40.amxx") (native "ArrayGetCell") - debug not enabled!
+L 10/04/2024 - 11:11:08: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/04/2024 - 11:11:08: Unhandled dynamic native error
+L 10/04/2024 - 11:11:08: [AMXX] Run time error 10 (plugin "zp_gungnir_v2.amxx") (native "zp_register_extra_item") - debug not enabled!
+L 10/04/2024 - 11:11:08: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/04/2024 - 11:11:59: Start of error session.
+L 10/04/2024 - 11:11:59: Info (map "zm_epic_base") (file "addons/amxmodx/logs/error_20241004.log")
+L 10/04/2024 - 11:11:59: [AMXX] Plugin file open error (plugin "scm_entity_editor.amxx")
+L 10/04/2024 - 11:12:00: Invalid index 13 (count: 13)
+L 10/04/2024 - 11:12:00: [AMXX] Run time error 10 (plugin "zombie_plague40.amxx") (native "ArrayGetCell") - debug not enabled!
+L 10/04/2024 - 11:12:00: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/04/2024 - 11:12:00: Unhandled dynamic native error
+L 10/04/2024 - 11:12:00: [AMXX] Run time error 10 (plugin "zp_gungnir_v2.amxx") (native "zp_register_extra_item") - debug not enabled!
+L 10/04/2024 - 11:12:00: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/04/2024 - 11:15:14: [AMXX] Run time error 4 (plugin "menu_create_entity.amxx") - debug not enabled!
+L 10/04/2024 - 11:15:14: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/04/2024 - 11:16:03: [AMXX] Run time error 4 (plugin "menu_create_entity.amxx") - debug not enabled!
+L 10/04/2024 - 11:16:03: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/04/2024 - 11:16:50: [AMXX] Run time error 4 (plugin "menu_create_entity.amxx") - debug not enabled!
+L 10/04/2024 - 11:16:50: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/04/2024 - 11:22:01: [FAKEMETA] Invalid entity
+L 10/04/2024 - 11:22:01: [AMXX] Run time error 10 (plugin "menu_create_entity.amxx") (native "set_pev") - debug not enabled!
+L 10/04/2024 - 11:22:01: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/04/2024 - 11:25:36: [FAKEMETA] Invalid entity
+L 10/04/2024 - 11:25:36: [AMXX] Run time error 10 (plugin "menu_create_entity.amxx") (native "set_pev") - debug not enabled!
+L 10/04/2024 - 11:25:36: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/04/2024 - 11:26:40: Start of error session.
+L 10/04/2024 - 11:26:40: Info (map "zm_epic_base") (file "addons/amxmodx/logs/error_20241004.log")
+L 10/04/2024 - 11:26:40: [AMXX] Plugin file open error (plugin "scm_entity_editor.amxx")
+L 10/04/2024 - 11:26:41: Invalid index 13 (count: 13)
+L 10/04/2024 - 11:26:41: [AMXX] Run time error 10 (plugin "zombie_plague40.amxx") (native "ArrayGetCell") - debug not enabled!
+L 10/04/2024 - 11:26:41: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/04/2024 - 11:26:41: Unhandled dynamic native error
+L 10/04/2024 - 11:26:41: [AMXX] Run time error 10 (plugin "zp_gungnir_v2.amxx") (native "zp_register_extra_item") - debug not enabled!
+L 10/04/2024 - 11:26:41: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/04/2024 - 11:31:54: [AMXX] Run time error 4 (plugin "menu_create_entity.amxx") - debug not enabled!
+L 10/04/2024 - 11:31:54: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/04/2024 - 11:32:47: Start of error session.
+L 10/04/2024 - 11:32:47: Info (map "zm_epic_base") (file "addons/amxmodx/logs/error_20241004.log")
+L 10/04/2024 - 11:32:47: [AMXX] Plugin file open error (plugin "scm_entity_editor.amxx")
+L 10/04/2024 - 11:32:48: Invalid index 13 (count: 13)
+L 10/04/2024 - 11:32:48: [AMXX] Run time error 10 (plugin "zombie_plague40.amxx") (native "ArrayGetCell") - debug not enabled!
+L 10/04/2024 - 11:32:48: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/04/2024 - 11:32:48: Unhandled dynamic native error
+L 10/04/2024 - 11:32:48: [AMXX] Run time error 10 (plugin "zp_gungnir_v2.amxx") (native "zp_register_extra_item") - debug not enabled!
+L 10/04/2024 - 11:32:48: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/04/2024 - 11:33:14: [AMXX] Run time error 4 (plugin "Krol_funs.amxx") - debug not enabled!
+L 10/04/2024 - 11:33:14: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/04/2024 - 11:33:14: Unhandled dynamic native error
+L 10/04/2024 - 11:33:14: [AMXX] Run time error 10 (plugin "Krol_menu_knifes.amxx") (native "screen_shine") - debug not enabled!
+L 10/04/2024 - 11:33:14: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/04/2024 - 11:33:27: [AMXX] Run time error 4 (plugin "Krol_funs.amxx") - debug not enabled!
+L 10/04/2024 - 11:33:27: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/04/2024 - 11:33:27: Unhandled dynamic native error
+L 10/04/2024 - 11:33:27: [AMXX] Run time error 10 (plugin "Krol_menu_knifes.amxx") (native "screen_shine") - debug not enabled!
+L 10/04/2024 - 11:33:27: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/04/2024 - 11:33:58: [AMXX] Run time error 4 (plugin "Krol_funs.amxx") - debug not enabled!
+L 10/04/2024 - 11:33:58: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/04/2024 - 11:33:58: Unhandled dynamic native error
+L 10/04/2024 - 11:33:58: [AMXX] Run time error 10 (plugin "Krol_menu_knifes.amxx") (native "screen_shine") - debug not enabled!
+L 10/04/2024 - 11:33:58: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/04/2024 - 11:34:01: [AMXX] Run time error 4 (plugin "Krol_funs.amxx") - debug not enabled!
+L 10/04/2024 - 11:34:01: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/04/2024 - 11:34:01: Unhandled dynamic native error
+L 10/04/2024 - 11:34:01: [AMXX] Run time error 10 (plugin "Krol_menu_knifes.amxx") (native "screen_shine") - debug not enabled!
+L 10/04/2024 - 11:34:01: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/04/2024 - 11:37:45: [AMXX] Run time error 4 (plugin "Krol_funs.amxx") - debug not enabled!
+L 10/04/2024 - 11:37:45: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/04/2024 - 11:37:45: Unhandled dynamic native error
+L 10/04/2024 - 11:37:45: [AMXX] Run time error 10 (plugin "Krol_menu_knifes.amxx") (native "screen_shine") - debug not enabled!
+L 10/04/2024 - 11:37:45: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/04/2024 - 11:38:00: [AMXX] Run time error 4 (plugin "menu_create_entity.amxx") - debug not enabled!
+L 10/04/2024 - 11:38:00: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/04/2024 - 11:43:11: [AMXX] Run time error 4 (plugin "menu_create_entity.amxx") - debug not enabled!
+L 10/04/2024 - 11:43:11: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/04/2024 - 11:45:26: [AMXX] Run time error 4 (plugin "menu_create_entity.amxx") - debug not enabled!
+L 10/04/2024 - 11:45:26: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/04/2024 - 11:50:37: [AMXX] Run time error 4 (plugin "menu_create_entity.amxx") - debug not enabled!
+L 10/04/2024 - 11:50:37: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/04/2024 - 11:55:48: [AMXX] Run time error 4 (plugin "menu_create_entity.amxx") - debug not enabled!
+L 10/04/2024 - 11:55:48: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/04/2024 - 11:58:48: Start of error session.
+L 10/04/2024 - 11:58:48: Info (map "zm_epic_base") (file "addons/amxmodx/logs/error_20241004.log")
+L 10/04/2024 - 11:58:48: [AMXX] Plugin file open error (plugin "scm_entity_editor.amxx")
+L 10/04/2024 - 11:58:50: Invalid index 13 (count: 13)
+L 10/04/2024 - 11:58:50: [AMXX] Run time error 10 (plugin "zombie_plague40.amxx") (native "ArrayGetCell") - debug not enabled!
+L 10/04/2024 - 11:58:50: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/04/2024 - 11:58:50: Unhandled dynamic native error
+L 10/04/2024 - 11:58:50: [AMXX] Run time error 10 (plugin "zp_gungnir_v2.amxx") (native "zp_register_extra_item") - debug not enabled!
+L 10/04/2024 - 11:58:50: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/04/2024 - 12:02:29: Start of error session.
+L 10/04/2024 - 12:02:29: Info (map "zm_epic_base") (file "addons/amxmodx/logs/error_20241004.log")
+L 10/04/2024 - 12:02:29: [AMXX] Plugin file open error (plugin "scm_entity_editor.amxx")
+L 10/04/2024 - 12:02:30: Invalid index 13 (count: 13)
+L 10/04/2024 - 12:02:30: [AMXX] Run time error 10 (plugin "zombie_plague40.amxx") (native "ArrayGetCell") - debug not enabled!
+L 10/04/2024 - 12:02:30: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/04/2024 - 12:02:30: Unhandled dynamic native error
+L 10/04/2024 - 12:02:30: [AMXX] Run time error 10 (plugin "zp_gungnir_v2.amxx") (native "zp_register_extra_item") - debug not enabled!
+L 10/04/2024 - 12:02:30: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/04/2024 - 12:07:43: [AMXX] Run time error 4 (plugin "menu_create_entity.amxx") - debug not enabled!
+L 10/04/2024 - 12:07:50: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/04/2024 - 12:13:01: [AMXX] Run time error 4 (plugin "menu_create_entity.amxx") - debug not enabled!
+L 10/04/2024 - 12:13:01: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/04/2024 - 12:18:12: [AMXX] Run time error 4 (plugin "menu_create_entity.amxx") - debug not enabled!
+L 10/04/2024 - 12:18:12: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).

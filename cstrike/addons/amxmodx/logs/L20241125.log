@@ -1,0 +1,3 @@
+L 11/25/2024 - 11:28:56: -------- Mapchange to zm_ngamers_lights_f --------
+L 11/25/2024 - 11:28:56: [AMXX] Plugin "K_M_knifes.amxx" failed to load: Plugin uses an unknown function (name "save_knife") - check your modules.ini.
+L 11/25/2024 - 11:29:15: [admin.amxx] Login: "test<1><STEAM_1:0:1404421313><>" became an admin (account "test") (access "abcdefghijklmnopqrstuv") (address "26.71.19.63")

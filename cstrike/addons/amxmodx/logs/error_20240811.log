@@ -1,0 +1,1794 @@
+L 08/11/2024 - 07:43:44: Start of error session.
+L 08/11/2024 - 07:43:44: Info (map "zm_deko2") (file "addons/amxmodx/logs/error_20240811.log")
+L 08/11/2024 - 07:43:44: [AMXX] Plugin file open error (plugin "scm_entity_editor.amxx")
+L 08/11/2024 - 07:43:54: [ENGINE] Entity 0 can not be removed
+L 08/11/2024 - 07:43:54: [AMXX] Run time error 10 (plugin "zm_class_heavy.amxx") (native "remove_entity") - debug not enabled!
+L 08/11/2024 - 07:43:54: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 07:43:54: [ENGINE] Entity 0 can not be removed
+L 08/11/2024 - 07:43:54: [AMXX] Run time error 10 (plugin "zm_class_heavy.amxx") (native "remove_entity") - debug not enabled!
+L 08/11/2024 - 07:43:54: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 07:43:55: [ENGINE] Entity 0 can not be removed
+L 08/11/2024 - 07:43:55: [AMXX] Run time error 10 (plugin "zm_class_heavy.amxx") (native "remove_entity") - debug not enabled!
+L 08/11/2024 - 07:43:55: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 07:43:55: [ENGINE] Entity 0 can not be removed
+L 08/11/2024 - 07:43:55: [AMXX] Run time error 10 (plugin "zm_class_heavy.amxx") (native "remove_entity") - debug not enabled!
+L 08/11/2024 - 07:43:55: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 07:43:56: [ENGINE] Entity 0 can not be removed
+L 08/11/2024 - 07:43:56: [AMXX] Run time error 10 (plugin "zm_class_heavy.amxx") (native "remove_entity") - debug not enabled!
+L 08/11/2024 - 07:43:56: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 07:43:56: [ENGINE] Entity 0 can not be removed
+L 08/11/2024 - 07:43:56: [AMXX] Run time error 10 (plugin "zm_class_heavy.amxx") (native "remove_entity") - debug not enabled!
+L 08/11/2024 - 07:43:56: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 07:43:57: [ENGINE] Entity 0 can not be removed
+L 08/11/2024 - 07:43:57: [AMXX] Run time error 10 (plugin "zm_class_heavy.amxx") (native "remove_entity") - debug not enabled!
+L 08/11/2024 - 07:43:57: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 07:43:59: [AMXX] Run time error 4 (plugin "start_menu.amxx") - debug not enabled!
+L 08/11/2024 - 07:43:59: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 07:43:59: [CS] Player is not in game (1)
+L 08/11/2024 - 07:43:59: [AMXX] Run time error 10 (plugin "K_menu_model.amxx") (native "cs_set_player_model") - debug not enabled!
+L 08/11/2024 - 07:43:59: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 07:43:59: [AMXX] Run time error 4 (plugin "Krol_vip_menu.amxx") - debug not enabled!
+L 08/11/2024 - 07:43:59: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 07:43:59: [AMXX] Run time error 4 (plugin "Krol_admin_menu.amxx") - debug not enabled!
+L 08/11/2024 - 07:43:59: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 07:43:59: [AMXX] Run time error 4 (plugin "Krol_supadmin_menu.amxx") - debug not enabled!
+L 08/11/2024 - 07:43:59: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 07:43:59: [AMXX] Run time error 4 (plugin "Krol_boss_menu.amxx") - debug not enabled!
+L 08/11/2024 - 07:43:59: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 07:43:59: [AMXX] Run time error 4 (plugin "Krol_prem_menu.amxx") - debug not enabled!
+L 08/11/2024 - 07:43:59: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 07:43:59: [AMXX] Run time error 4 (plugin "Krol_lord_menu.amxx") - debug not enabled!
+L 08/11/2024 - 07:43:59: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 07:43:59: [AMXX] Run time error 4 (plugin "Krol_elite_menu.amxx") - debug not enabled!
+L 08/11/2024 - 07:43:59: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 07:43:59: [AMXX] Run time error 4 (plugin "Krol_god_menu.amxx") - debug not enabled!
+L 08/11/2024 - 07:43:59: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 07:43:59: [ENGINE] Entity 0 can not be removed
+L 08/11/2024 - 07:43:59: [AMXX] Run time error 10 (plugin "zm_class_heavy.amxx") (native "remove_entity") - debug not enabled!
+L 08/11/2024 - 07:43:59: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 07:43:59: [ENGINE] Entity 0 can not be removed
+L 08/11/2024 - 07:43:59: [AMXX] Run time error 10 (plugin "zm_class_heavy.amxx") (native "remove_entity") - debug not enabled!
+L 08/11/2024 - 07:43:59: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 07:43:59: [ENGINE] Entity 0 can not be removed
+L 08/11/2024 - 07:43:59: [AMXX] Run time error 10 (plugin "zm_class_heavy.amxx") (native "remove_entity") - debug not enabled!
+L 08/11/2024 - 07:43:59: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 07:43:59: [ENGINE] Entity 0 can not be removed
+L 08/11/2024 - 07:43:59: [AMXX] Run time error 10 (plugin "zm_class_heavy.amxx") (native "remove_entity") - debug not enabled!
+L 08/11/2024 - 07:43:59: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 07:43:59: [ENGINE] Entity 0 can not be removed
+L 08/11/2024 - 07:43:59: [AMXX] Run time error 10 (plugin "zm_class_heavy.amxx") (native "remove_entity") - debug not enabled!
+L 08/11/2024 - 07:43:59: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 07:43:59: [ENGINE] Entity 0 can not be removed
+L 08/11/2024 - 07:43:59: [AMXX] Run time error 10 (plugin "zm_class_heavy.amxx") (native "remove_entity") - debug not enabled!
+L 08/11/2024 - 07:43:59: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 07:43:59: [ENGINE] Entity 0 can not be removed
+L 08/11/2024 - 07:43:59: [AMXX] Run time error 10 (plugin "zm_class_heavy.amxx") (native "remove_entity") - debug not enabled!
+L 08/11/2024 - 07:43:59: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 07:44:03: [ENGINE] Entity 0 can not be removed
+L 08/11/2024 - 07:44:03: [AMXX] Run time error 10 (plugin "zm_class_heavy.amxx") (native "remove_entity") - debug not enabled!
+L 08/11/2024 - 07:44:03: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 07:44:06: [AMXX] Run time error 4 (plugin "start_menu.amxx") - debug not enabled!
+L 08/11/2024 - 07:44:06: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 07:44:06: [CS] Player is not in game (2)
+L 08/11/2024 - 07:44:06: [AMXX] Run time error 10 (plugin "K_menu_model.amxx") (native "cs_set_player_model") - debug not enabled!
+L 08/11/2024 - 07:44:06: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 07:44:06: [AMXX] Run time error 4 (plugin "Krol_vip_menu.amxx") - debug not enabled!
+L 08/11/2024 - 07:44:06: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 07:44:06: [AMXX] Run time error 4 (plugin "Krol_admin_menu.amxx") - debug not enabled!
+L 08/11/2024 - 07:44:06: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 07:44:06: [AMXX] Run time error 4 (plugin "Krol_supadmin_menu.amxx") - debug not enabled!
+L 08/11/2024 - 07:44:06: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 07:44:06: [AMXX] Run time error 4 (plugin "Krol_boss_menu.amxx") - debug not enabled!
+L 08/11/2024 - 07:44:06: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 07:44:06: [AMXX] Run time error 4 (plugin "Krol_prem_menu.amxx") - debug not enabled!
+L 08/11/2024 - 07:44:06: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 07:44:06: [AMXX] Run time error 4 (plugin "Krol_lord_menu.amxx") - debug not enabled!
+L 08/11/2024 - 07:44:06: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 07:44:06: [AMXX] Run time error 4 (plugin "Krol_elite_menu.amxx") - debug not enabled!
+L 08/11/2024 - 07:44:06: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 07:44:06: [AMXX] Run time error 4 (plugin "Krol_god_menu.amxx") - debug not enabled!
+L 08/11/2024 - 07:44:06: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 07:44:06: [ENGINE] Entity 0 can not be removed
+L 08/11/2024 - 07:44:06: [AMXX] Run time error 10 (plugin "zm_class_heavy.amxx") (native "remove_entity") - debug not enabled!
+L 08/11/2024 - 07:44:06: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 07:44:06: [ENGINE] Entity 0 can not be removed
+L 08/11/2024 - 07:44:06: [AMXX] Run time error 10 (plugin "zm_class_heavy.amxx") (native "remove_entity") - debug not enabled!
+L 08/11/2024 - 07:44:06: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 07:44:06: [ENGINE] Entity 0 can not be removed
+L 08/11/2024 - 07:44:06: [AMXX] Run time error 10 (plugin "zm_class_heavy.amxx") (native "remove_entity") - debug not enabled!
+L 08/11/2024 - 07:44:06: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 07:44:06: [ENGINE] Entity 0 can not be removed
+L 08/11/2024 - 07:44:06: [AMXX] Run time error 10 (plugin "zm_class_heavy.amxx") (native "remove_entity") - debug not enabled!
+L 08/11/2024 - 07:44:06: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 07:44:06: [ENGINE] Entity 0 can not be removed
+L 08/11/2024 - 07:44:06: [AMXX] Run time error 10 (plugin "zm_class_heavy.amxx") (native "remove_entity") - debug not enabled!
+L 08/11/2024 - 07:44:06: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 07:44:06: [ENGINE] Entity 0 can not be removed
+L 08/11/2024 - 07:44:06: [AMXX] Run time error 10 (plugin "zm_class_heavy.amxx") (native "remove_entity") - debug not enabled!
+L 08/11/2024 - 07:44:06: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 07:44:06: [ENGINE] Entity 0 can not be removed
+L 08/11/2024 - 07:44:06: [AMXX] Run time error 10 (plugin "zm_class_heavy.amxx") (native "remove_entity") - debug not enabled!
+L 08/11/2024 - 07:44:06: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 07:49:17: [AMXX] Run time error 4 (plugin "start_menu.amxx") - debug not enabled!
+L 08/11/2024 - 07:49:17: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 07:49:17: [CS] Player is not in game (2)
+L 08/11/2024 - 07:49:17: [AMXX] Run time error 10 (plugin "K_menu_model.amxx") (native "cs_set_player_model") - debug not enabled!
+L 08/11/2024 - 07:49:17: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 07:49:17: [AMXX] Run time error 4 (plugin "Krol_vip_menu.amxx") - debug not enabled!
+L 08/11/2024 - 07:49:17: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 07:49:17: [AMXX] Run time error 4 (plugin "Krol_admin_menu.amxx") - debug not enabled!
+L 08/11/2024 - 07:49:17: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 07:49:17: [AMXX] Run time error 4 (plugin "Krol_supadmin_menu.amxx") - debug not enabled!
+L 08/11/2024 - 07:49:17: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 07:49:17: [AMXX] Run time error 4 (plugin "Krol_boss_menu.amxx") - debug not enabled!
+L 08/11/2024 - 07:49:17: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 07:49:17: [AMXX] Run time error 4 (plugin "Krol_prem_menu.amxx") - debug not enabled!
+L 08/11/2024 - 07:49:17: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 07:49:17: [AMXX] Run time error 4 (plugin "Krol_lord_menu.amxx") - debug not enabled!
+L 08/11/2024 - 07:49:17: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 07:49:17: [AMXX] Run time error 4 (plugin "Krol_elite_menu.amxx") - debug not enabled!
+L 08/11/2024 - 07:49:17: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 07:49:17: [AMXX] Run time error 4 (plugin "Krol_god_menu.amxx") - debug not enabled!
+L 08/11/2024 - 07:49:17: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 07:49:17: [ENGINE] Entity 0 can not be removed
+L 08/11/2024 - 07:49:17: [AMXX] Run time error 10 (plugin "zm_class_heavy.amxx") (native "remove_entity") - debug not enabled!
+L 08/11/2024 - 07:49:17: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 07:49:17: [ENGINE] Entity 0 can not be removed
+L 08/11/2024 - 07:49:17: [AMXX] Run time error 10 (plugin "zm_class_heavy.amxx") (native "remove_entity") - debug not enabled!
+L 08/11/2024 - 07:49:17: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 07:49:17: [ENGINE] Entity 0 can not be removed
+L 08/11/2024 - 07:49:17: [AMXX] Run time error 10 (plugin "zm_class_heavy.amxx") (native "remove_entity") - debug not enabled!
+L 08/11/2024 - 07:49:17: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 07:49:17: [ENGINE] Entity 0 can not be removed
+L 08/11/2024 - 07:49:17: [AMXX] Run time error 10 (plugin "zm_class_heavy.amxx") (native "remove_entity") - debug not enabled!
+L 08/11/2024 - 07:49:17: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 07:49:17: [ENGINE] Entity 0 can not be removed
+L 08/11/2024 - 07:49:17: [AMXX] Run time error 10 (plugin "zm_class_heavy.amxx") (native "remove_entity") - debug not enabled!
+L 08/11/2024 - 07:49:17: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 07:49:17: [ENGINE] Entity 0 can not be removed
+L 08/11/2024 - 07:49:17: [AMXX] Run time error 10 (plugin "zm_class_heavy.amxx") (native "remove_entity") - debug not enabled!
+L 08/11/2024 - 07:49:17: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 07:49:17: [ENGINE] Entity 0 can not be removed
+L 08/11/2024 - 07:49:17: [AMXX] Run time error 10 (plugin "zm_class_heavy.amxx") (native "remove_entity") - debug not enabled!
+L 08/11/2024 - 07:49:17: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 07:54:28: [AMXX] Run time error 4 (plugin "start_menu.amxx") - debug not enabled!
+L 08/11/2024 - 07:54:28: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 07:54:28: [CS] Player is not in game (2)
+L 08/11/2024 - 07:54:28: [AMXX] Run time error 10 (plugin "K_menu_model.amxx") (native "cs_set_player_model") - debug not enabled!
+L 08/11/2024 - 07:54:28: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 07:54:28: [AMXX] Run time error 4 (plugin "Krol_vip_menu.amxx") - debug not enabled!
+L 08/11/2024 - 07:54:28: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 07:54:28: [AMXX] Run time error 4 (plugin "Krol_admin_menu.amxx") - debug not enabled!
+L 08/11/2024 - 07:54:28: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 07:54:28: [AMXX] Run time error 4 (plugin "Krol_supadmin_menu.amxx") - debug not enabled!
+L 08/11/2024 - 07:54:28: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 07:54:28: [AMXX] Run time error 4 (plugin "Krol_boss_menu.amxx") - debug not enabled!
+L 08/11/2024 - 07:54:28: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 07:54:28: [AMXX] Run time error 4 (plugin "Krol_prem_menu.amxx") - debug not enabled!
+L 08/11/2024 - 07:54:28: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 07:54:28: [AMXX] Run time error 4 (plugin "Krol_lord_menu.amxx") - debug not enabled!
+L 08/11/2024 - 07:54:28: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 07:54:28: [AMXX] Run time error 4 (plugin "Krol_elite_menu.amxx") - debug not enabled!
+L 08/11/2024 - 07:54:28: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 07:54:28: [AMXX] Run time error 4 (plugin "Krol_god_menu.amxx") - debug not enabled!
+L 08/11/2024 - 07:54:28: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 07:54:28: [ENGINE] Entity 0 can not be removed
+L 08/11/2024 - 07:54:28: [AMXX] Run time error 10 (plugin "zm_class_heavy.amxx") (native "remove_entity") - debug not enabled!
+L 08/11/2024 - 07:54:28: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 07:54:28: [ENGINE] Entity 0 can not be removed
+L 08/11/2024 - 07:54:28: [AMXX] Run time error 10 (plugin "zm_class_heavy.amxx") (native "remove_entity") - debug not enabled!
+L 08/11/2024 - 07:54:28: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 07:54:28: [ENGINE] Entity 0 can not be removed
+L 08/11/2024 - 07:54:28: [AMXX] Run time error 10 (plugin "zm_class_heavy.amxx") (native "remove_entity") - debug not enabled!
+L 08/11/2024 - 07:54:28: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 07:54:28: [ENGINE] Entity 0 can not be removed
+L 08/11/2024 - 07:54:28: [AMXX] Run time error 10 (plugin "zm_class_heavy.amxx") (native "remove_entity") - debug not enabled!
+L 08/11/2024 - 07:54:28: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 07:54:28: [ENGINE] Entity 0 can not be removed
+L 08/11/2024 - 07:54:28: [AMXX] Run time error 10 (plugin "zm_class_heavy.amxx") (native "remove_entity") - debug not enabled!
+L 08/11/2024 - 07:54:28: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 07:54:28: [ENGINE] Entity 0 can not be removed
+L 08/11/2024 - 07:54:28: [AMXX] Run time error 10 (plugin "zm_class_heavy.amxx") (native "remove_entity") - debug not enabled!
+L 08/11/2024 - 07:54:28: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 07:54:28: [ENGINE] Entity 0 can not be removed
+L 08/11/2024 - 07:54:28: [AMXX] Run time error 10 (plugin "zm_class_heavy.amxx") (native "remove_entity") - debug not enabled!
+L 08/11/2024 - 07:54:28: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 07:59:34: [AMXX] Run time error 4 (plugin "start_menu.amxx") - debug not enabled!
+L 08/11/2024 - 07:59:34: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 07:59:34: [CS] Player is not in game (2)
+L 08/11/2024 - 07:59:34: [AMXX] Run time error 10 (plugin "K_menu_model.amxx") (native "cs_set_player_model") - debug not enabled!
+L 08/11/2024 - 07:59:34: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 07:59:34: [AMXX] Run time error 4 (plugin "Krol_vip_menu.amxx") - debug not enabled!
+L 08/11/2024 - 07:59:34: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 07:59:34: [AMXX] Run time error 4 (plugin "Krol_admin_menu.amxx") - debug not enabled!
+L 08/11/2024 - 07:59:34: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 07:59:34: [AMXX] Run time error 4 (plugin "Krol_supadmin_menu.amxx") - debug not enabled!
+L 08/11/2024 - 07:59:34: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 07:59:34: [AMXX] Run time error 4 (plugin "Krol_boss_menu.amxx") - debug not enabled!
+L 08/11/2024 - 07:59:34: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 07:59:34: [AMXX] Run time error 4 (plugin "Krol_prem_menu.amxx") - debug not enabled!
+L 08/11/2024 - 07:59:34: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 07:59:34: [AMXX] Run time error 4 (plugin "Krol_lord_menu.amxx") - debug not enabled!
+L 08/11/2024 - 07:59:34: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 07:59:34: [AMXX] Run time error 4 (plugin "Krol_elite_menu.amxx") - debug not enabled!
+L 08/11/2024 - 07:59:34: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 07:59:34: [AMXX] Run time error 4 (plugin "Krol_god_menu.amxx") - debug not enabled!
+L 08/11/2024 - 07:59:34: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 07:59:34: [ENGINE] Entity 0 can not be removed
+L 08/11/2024 - 07:59:34: [AMXX] Run time error 10 (plugin "zm_class_heavy.amxx") (native "remove_entity") - debug not enabled!
+L 08/11/2024 - 07:59:34: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 07:59:34: [ENGINE] Entity 0 can not be removed
+L 08/11/2024 - 07:59:34: [AMXX] Run time error 10 (plugin "zm_class_heavy.amxx") (native "remove_entity") - debug not enabled!
+L 08/11/2024 - 07:59:34: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 07:59:34: [ENGINE] Entity 0 can not be removed
+L 08/11/2024 - 07:59:34: [AMXX] Run time error 10 (plugin "zm_class_heavy.amxx") (native "remove_entity") - debug not enabled!
+L 08/11/2024 - 07:59:34: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 07:59:34: [ENGINE] Entity 0 can not be removed
+L 08/11/2024 - 07:59:34: [AMXX] Run time error 10 (plugin "zm_class_heavy.amxx") (native "remove_entity") - debug not enabled!
+L 08/11/2024 - 07:59:34: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 07:59:34: [ENGINE] Entity 0 can not be removed
+L 08/11/2024 - 07:59:34: [AMXX] Run time error 10 (plugin "zm_class_heavy.amxx") (native "remove_entity") - debug not enabled!
+L 08/11/2024 - 07:59:34: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 07:59:34: [ENGINE] Entity 0 can not be removed
+L 08/11/2024 - 07:59:34: [AMXX] Run time error 10 (plugin "zm_class_heavy.amxx") (native "remove_entity") - debug not enabled!
+L 08/11/2024 - 07:59:34: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 07:59:34: [ENGINE] Entity 0 can not be removed
+L 08/11/2024 - 07:59:34: [AMXX] Run time error 10 (plugin "zm_class_heavy.amxx") (native "remove_entity") - debug not enabled!
+L 08/11/2024 - 07:59:34: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 08:00:36: Start of error session.
+L 08/11/2024 - 08:00:36: Info (map "zm_deko2") (file "addons/amxmodx/logs/error_20240811.log")
+L 08/11/2024 - 08:00:36: [AMXX] Plugin file open error (plugin "scm_entity_editor.amxx")
+L 08/11/2024 - 08:00:44: [ENGINE] Entity 0 can not be removed
+L 08/11/2024 - 08:00:44: [AMXX] Run time error 10 (plugin "zm_class_heavy.amxx") (native "remove_entity") - debug not enabled!
+L 08/11/2024 - 08:00:44: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 08:00:45: [ENGINE] Entity 0 can not be removed
+L 08/11/2024 - 08:00:45: [AMXX] Run time error 10 (plugin "zm_class_heavy.amxx") (native "remove_entity") - debug not enabled!
+L 08/11/2024 - 08:00:45: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 08:00:45: [ENGINE] Entity 0 can not be removed
+L 08/11/2024 - 08:00:45: [AMXX] Run time error 10 (plugin "zm_class_heavy.amxx") (native "remove_entity") - debug not enabled!
+L 08/11/2024 - 08:00:45: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 08:00:46: [ENGINE] Entity 0 can not be removed
+L 08/11/2024 - 08:00:46: [AMXX] Run time error 10 (plugin "zm_class_heavy.amxx") (native "remove_entity") - debug not enabled!
+L 08/11/2024 - 08:00:46: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 08:00:47: [ENGINE] Entity 0 can not be removed
+L 08/11/2024 - 08:00:47: [AMXX] Run time error 10 (plugin "zm_class_heavy.amxx") (native "remove_entity") - debug not enabled!
+L 08/11/2024 - 08:00:47: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 08:00:47: [ENGINE] Entity 0 can not be removed
+L 08/11/2024 - 08:00:47: [AMXX] Run time error 10 (plugin "zm_class_heavy.amxx") (native "remove_entity") - debug not enabled!
+L 08/11/2024 - 08:00:47: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 08:00:48: [ENGINE] Entity 0 can not be removed
+L 08/11/2024 - 08:00:48: [AMXX] Run time error 10 (plugin "zm_class_heavy.amxx") (native "remove_entity") - debug not enabled!
+L 08/11/2024 - 08:00:48: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 08:00:49: [ENGINE] Entity 0 can not be removed
+L 08/11/2024 - 08:00:49: [AMXX] Run time error 10 (plugin "zm_class_heavy.amxx") (native "remove_entity") - debug not enabled!
+L 08/11/2024 - 08:00:49: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 08:00:50: [AMXX] Run time error 4 (plugin "start_menu.amxx") - debug not enabled!
+L 08/11/2024 - 08:00:50: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 08:00:50: [CS] Player is not in game (1)
+L 08/11/2024 - 08:00:50: [AMXX] Run time error 10 (plugin "K_menu_model.amxx") (native "cs_set_player_model") - debug not enabled!
+L 08/11/2024 - 08:00:50: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 08:00:50: [AMXX] Run time error 4 (plugin "Krol_vip_menu.amxx") - debug not enabled!
+L 08/11/2024 - 08:00:50: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 08:00:50: [AMXX] Run time error 4 (plugin "Krol_admin_menu.amxx") - debug not enabled!
+L 08/11/2024 - 08:00:50: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 08:00:50: [AMXX] Run time error 4 (plugin "Krol_supadmin_menu.amxx") - debug not enabled!
+L 08/11/2024 - 08:00:50: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 08:00:50: [AMXX] Run time error 4 (plugin "Krol_boss_menu.amxx") - debug not enabled!
+L 08/11/2024 - 08:00:50: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 08:00:50: [AMXX] Run time error 4 (plugin "Krol_prem_menu.amxx") - debug not enabled!
+L 08/11/2024 - 08:00:50: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 08:00:50: [AMXX] Run time error 4 (plugin "Krol_lord_menu.amxx") - debug not enabled!
+L 08/11/2024 - 08:00:50: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 08:00:50: [AMXX] Run time error 4 (plugin "Krol_elite_menu.amxx") - debug not enabled!
+L 08/11/2024 - 08:00:50: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 08:00:50: [AMXX] Run time error 4 (plugin "Krol_god_menu.amxx") - debug not enabled!
+L 08/11/2024 - 08:00:50: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 08:00:50: [ENGINE] Entity 0 can not be removed
+L 08/11/2024 - 08:00:50: [AMXX] Run time error 10 (plugin "zm_class_heavy.amxx") (native "remove_entity") - debug not enabled!
+L 08/11/2024 - 08:00:50: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 08:00:50: [ENGINE] Entity 0 can not be removed
+L 08/11/2024 - 08:00:50: [AMXX] Run time error 10 (plugin "zm_class_heavy.amxx") (native "remove_entity") - debug not enabled!
+L 08/11/2024 - 08:00:50: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 08:00:50: [ENGINE] Entity 0 can not be removed
+L 08/11/2024 - 08:00:50: [AMXX] Run time error 10 (plugin "zm_class_heavy.amxx") (native "remove_entity") - debug not enabled!
+L 08/11/2024 - 08:00:50: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 08:00:50: [ENGINE] Entity 0 can not be removed
+L 08/11/2024 - 08:00:50: [AMXX] Run time error 10 (plugin "zm_class_heavy.amxx") (native "remove_entity") - debug not enabled!
+L 08/11/2024 - 08:00:50: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 08:00:50: [ENGINE] Entity 0 can not be removed
+L 08/11/2024 - 08:00:50: [AMXX] Run time error 10 (plugin "zm_class_heavy.amxx") (native "remove_entity") - debug not enabled!
+L 08/11/2024 - 08:00:50: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 08:00:50: [ENGINE] Entity 0 can not be removed
+L 08/11/2024 - 08:00:50: [AMXX] Run time error 10 (plugin "zm_class_heavy.amxx") (native "remove_entity") - debug not enabled!
+L 08/11/2024 - 08:00:50: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 08:00:50: [ENGINE] Entity 0 can not be removed
+L 08/11/2024 - 08:00:50: [AMXX] Run time error 10 (plugin "zm_class_heavy.amxx") (native "remove_entity") - debug not enabled!
+L 08/11/2024 - 08:00:50: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 08:01:58: Start of error session.
+L 08/11/2024 - 08:01:58: Info (map "zm_deko2") (file "addons/amxmodx/logs/error_20240811.log")
+L 08/11/2024 - 08:01:58: [AMXX] Plugin file open error (plugin "scm_entity_editor.amxx")
+L 08/11/2024 - 08:02:05: [ENGINE] Entity 0 can not be removed
+L 08/11/2024 - 08:02:05: [AMXX] Run time error 10 (plugin "zm_class_heavy.amxx") (native "remove_entity") - debug not enabled!
+L 08/11/2024 - 08:02:05: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 08:02:05: [ENGINE] Entity 0 can not be removed
+L 08/11/2024 - 08:02:05: [AMXX] Run time error 10 (plugin "zm_class_heavy.amxx") (native "remove_entity") - debug not enabled!
+L 08/11/2024 - 08:02:05: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 08:02:06: [ENGINE] Entity 0 can not be removed
+L 08/11/2024 - 08:02:06: [AMXX] Run time error 10 (plugin "zm_class_heavy.amxx") (native "remove_entity") - debug not enabled!
+L 08/11/2024 - 08:02:06: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 08:02:06: [ENGINE] Entity 0 can not be removed
+L 08/11/2024 - 08:02:07: [AMXX] Run time error 10 (plugin "zm_class_heavy.amxx") (native "remove_entity") - debug not enabled!
+L 08/11/2024 - 08:02:07: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 08:02:07: [ENGINE] Entity 0 can not be removed
+L 08/11/2024 - 08:02:07: [AMXX] Run time error 10 (plugin "zm_class_heavy.amxx") (native "remove_entity") - debug not enabled!
+L 08/11/2024 - 08:02:07: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 08:02:08: [ENGINE] Entity 0 can not be removed
+L 08/11/2024 - 08:02:08: [AMXX] Run time error 10 (plugin "zm_class_heavy.amxx") (native "remove_entity") - debug not enabled!
+L 08/11/2024 - 08:02:08: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 08:02:08: [ENGINE] Entity 0 can not be removed
+L 08/11/2024 - 08:02:08: [AMXX] Run time error 10 (plugin "zm_class_heavy.amxx") (native "remove_entity") - debug not enabled!
+L 08/11/2024 - 08:02:08: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 08:02:08: [AMXX] Run time error 4 (plugin "start_menu.amxx") - debug not enabled!
+L 08/11/2024 - 08:02:08: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 08:02:08: [CS] Player is not in game (8)
+L 08/11/2024 - 08:02:08: [AMXX] Run time error 10 (plugin "K_menu_model.amxx") (native "cs_set_player_model") - debug not enabled!
+L 08/11/2024 - 08:02:08: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 08:02:08: [AMXX] Run time error 4 (plugin "Krol_vip_menu.amxx") - debug not enabled!
+L 08/11/2024 - 08:02:08: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 08:02:08: [AMXX] Run time error 4 (plugin "Krol_admin_menu.amxx") - debug not enabled!
+L 08/11/2024 - 08:02:08: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 08:02:08: [AMXX] Run time error 4 (plugin "Krol_supadmin_menu.amxx") - debug not enabled!
+L 08/11/2024 - 08:02:08: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 08:02:08: [AMXX] Run time error 4 (plugin "Krol_boss_menu.amxx") - debug not enabled!
+L 08/11/2024 - 08:02:08: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 08:02:08: [AMXX] Run time error 4 (plugin "Krol_prem_menu.amxx") - debug not enabled!
+L 08/11/2024 - 08:02:08: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 08:02:08: [AMXX] Run time error 4 (plugin "Krol_lord_menu.amxx") - debug not enabled!
+L 08/11/2024 - 08:02:08: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 08:02:08: [AMXX] Run time error 4 (plugin "Krol_elite_menu.amxx") - debug not enabled!
+L 08/11/2024 - 08:02:08: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 08:02:08: [AMXX] Run time error 4 (plugin "Krol_god_menu.amxx") - debug not enabled!
+L 08/11/2024 - 08:02:08: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 08:02:08: [ENGINE] Entity 0 can not be removed
+L 08/11/2024 - 08:02:08: [AMXX] Run time error 10 (plugin "zm_class_heavy.amxx") (native "remove_entity") - debug not enabled!
+L 08/11/2024 - 08:02:08: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 08:02:09: [ENGINE] Entity 0 can not be removed
+L 08/11/2024 - 08:02:09: [AMXX] Run time error 10 (plugin "zm_class_heavy.amxx") (native "remove_entity") - debug not enabled!
+L 08/11/2024 - 08:02:09: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 08:02:09: [ENGINE] Entity 0 can not be removed
+L 08/11/2024 - 08:02:09: [AMXX] Run time error 10 (plugin "zm_class_heavy.amxx") (native "remove_entity") - debug not enabled!
+L 08/11/2024 - 08:02:09: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 08:02:09: [ENGINE] Entity 0 can not be removed
+L 08/11/2024 - 08:02:09: [AMXX] Run time error 10 (plugin "zm_class_heavy.amxx") (native "remove_entity") - debug not enabled!
+L 08/11/2024 - 08:02:09: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 08:02:09: [ENGINE] Entity 0 can not be removed
+L 08/11/2024 - 08:02:09: [AMXX] Run time error 10 (plugin "zm_class_heavy.amxx") (native "remove_entity") - debug not enabled!
+L 08/11/2024 - 08:02:09: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 08:02:09: [ENGINE] Entity 0 can not be removed
+L 08/11/2024 - 08:02:09: [AMXX] Run time error 10 (plugin "zm_class_heavy.amxx") (native "remove_entity") - debug not enabled!
+L 08/11/2024 - 08:02:09: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 08:02:09: [ENGINE] Entity 0 can not be removed
+L 08/11/2024 - 08:02:09: [AMXX] Run time error 10 (plugin "zm_class_heavy.amxx") (native "remove_entity") - debug not enabled!
+L 08/11/2024 - 08:02:09: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 08:07:19: [AMXX] Run time error 4 (plugin "start_menu.amxx") - debug not enabled!
+L 08/11/2024 - 08:07:19: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 08:07:19: [CS] Player is not in game (8)
+L 08/11/2024 - 08:07:19: [AMXX] Run time error 10 (plugin "K_menu_model.amxx") (native "cs_set_player_model") - debug not enabled!
+L 08/11/2024 - 08:07:19: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 08:07:19: [AMXX] Run time error 4 (plugin "Krol_vip_menu.amxx") - debug not enabled!
+L 08/11/2024 - 08:07:19: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 08:07:19: [AMXX] Run time error 4 (plugin "Krol_admin_menu.amxx") - debug not enabled!
+L 08/11/2024 - 08:07:19: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 08:07:19: [AMXX] Run time error 4 (plugin "Krol_supadmin_menu.amxx") - debug not enabled!
+L 08/11/2024 - 08:07:19: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 08:07:19: [AMXX] Run time error 4 (plugin "Krol_boss_menu.amxx") - debug not enabled!
+L 08/11/2024 - 08:07:19: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 08:07:19: [AMXX] Run time error 4 (plugin "Krol_prem_menu.amxx") - debug not enabled!
+L 08/11/2024 - 08:07:20: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 08:07:20: [AMXX] Run time error 4 (plugin "Krol_lord_menu.amxx") - debug not enabled!
+L 08/11/2024 - 08:07:20: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 08:07:20: [AMXX] Run time error 4 (plugin "Krol_elite_menu.amxx") - debug not enabled!
+L 08/11/2024 - 08:07:20: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 08:07:20: [AMXX] Run time error 4 (plugin "Krol_god_menu.amxx") - debug not enabled!
+L 08/11/2024 - 08:07:20: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 08:07:20: [ENGINE] Entity 0 can not be removed
+L 08/11/2024 - 08:07:20: [AMXX] Run time error 10 (plugin "zm_class_heavy.amxx") (native "remove_entity") - debug not enabled!
+L 08/11/2024 - 08:07:20: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 08:07:20: [ENGINE] Entity 0 can not be removed
+L 08/11/2024 - 08:07:20: [AMXX] Run time error 10 (plugin "zm_class_heavy.amxx") (native "remove_entity") - debug not enabled!
+L 08/11/2024 - 08:07:20: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 08:07:20: [ENGINE] Entity 0 can not be removed
+L 08/11/2024 - 08:07:20: [AMXX] Run time error 10 (plugin "zm_class_heavy.amxx") (native "remove_entity") - debug not enabled!
+L 08/11/2024 - 08:07:20: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 08:07:20: [ENGINE] Entity 0 can not be removed
+L 08/11/2024 - 08:07:20: [AMXX] Run time error 10 (plugin "zm_class_heavy.amxx") (native "remove_entity") - debug not enabled!
+L 08/11/2024 - 08:07:20: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 08:07:20: [ENGINE] Entity 0 can not be removed
+L 08/11/2024 - 08:07:20: [AMXX] Run time error 10 (plugin "zm_class_heavy.amxx") (native "remove_entity") - debug not enabled!
+L 08/11/2024 - 08:07:20: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 08:07:20: [ENGINE] Entity 0 can not be removed
+L 08/11/2024 - 08:07:20: [AMXX] Run time error 10 (plugin "zm_class_heavy.amxx") (native "remove_entity") - debug not enabled!
+L 08/11/2024 - 08:07:20: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 08:07:20: [ENGINE] Entity 0 can not be removed
+L 08/11/2024 - 08:07:20: [AMXX] Run time error 10 (plugin "zm_class_heavy.amxx") (native "remove_entity") - debug not enabled!
+L 08/11/2024 - 08:07:20: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 08:12:30: [AMXX] Run time error 4 (plugin "start_menu.amxx") - debug not enabled!
+L 08/11/2024 - 08:12:30: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 08:12:30: [CS] Player is not in game (8)
+L 08/11/2024 - 08:12:30: [AMXX] Run time error 10 (plugin "K_menu_model.amxx") (native "cs_set_player_model") - debug not enabled!
+L 08/11/2024 - 08:12:30: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 08:12:30: [AMXX] Run time error 4 (plugin "Krol_vip_menu.amxx") - debug not enabled!
+L 08/11/2024 - 08:12:30: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 08:12:30: [AMXX] Run time error 4 (plugin "Krol_admin_menu.amxx") - debug not enabled!
+L 08/11/2024 - 08:12:30: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 08:12:31: [AMXX] Run time error 4 (plugin "Krol_supadmin_menu.amxx") - debug not enabled!
+L 08/11/2024 - 08:12:31: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 08:12:31: [AMXX] Run time error 4 (plugin "Krol_boss_menu.amxx") - debug not enabled!
+L 08/11/2024 - 08:12:31: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 08:12:31: [AMXX] Run time error 4 (plugin "Krol_prem_menu.amxx") - debug not enabled!
+L 08/11/2024 - 08:12:31: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 08:12:31: [AMXX] Run time error 4 (plugin "Krol_lord_menu.amxx") - debug not enabled!
+L 08/11/2024 - 08:12:31: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 08:12:31: [AMXX] Run time error 4 (plugin "Krol_elite_menu.amxx") - debug not enabled!
+L 08/11/2024 - 08:12:31: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 08:12:31: [AMXX] Run time error 4 (plugin "Krol_god_menu.amxx") - debug not enabled!
+L 08/11/2024 - 08:12:31: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 08:12:31: [ENGINE] Entity 0 can not be removed
+L 08/11/2024 - 08:12:31: [AMXX] Run time error 10 (plugin "zm_class_heavy.amxx") (native "remove_entity") - debug not enabled!
+L 08/11/2024 - 08:12:31: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 08:12:31: [ENGINE] Entity 0 can not be removed
+L 08/11/2024 - 08:12:31: [AMXX] Run time error 10 (plugin "zm_class_heavy.amxx") (native "remove_entity") - debug not enabled!
+L 08/11/2024 - 08:12:31: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 08:12:31: [ENGINE] Entity 0 can not be removed
+L 08/11/2024 - 08:12:31: [AMXX] Run time error 10 (plugin "zm_class_heavy.amxx") (native "remove_entity") - debug not enabled!
+L 08/11/2024 - 08:12:31: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 08:12:31: [ENGINE] Entity 0 can not be removed
+L 08/11/2024 - 08:12:31: [AMXX] Run time error 10 (plugin "zm_class_heavy.amxx") (native "remove_entity") - debug not enabled!
+L 08/11/2024 - 08:12:31: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 08:12:31: [ENGINE] Entity 0 can not be removed
+L 08/11/2024 - 08:12:31: [AMXX] Run time error 10 (plugin "zm_class_heavy.amxx") (native "remove_entity") - debug not enabled!
+L 08/11/2024 - 08:12:31: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 08:12:31: [ENGINE] Entity 0 can not be removed
+L 08/11/2024 - 08:12:31: [AMXX] Run time error 10 (plugin "zm_class_heavy.amxx") (native "remove_entity") - debug not enabled!
+L 08/11/2024 - 08:12:31: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 08:12:31: [ENGINE] Entity 0 can not be removed
+L 08/11/2024 - 08:12:31: [AMXX] Run time error 10 (plugin "zm_class_heavy.amxx") (native "remove_entity") - debug not enabled!
+L 08/11/2024 - 08:12:31: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 08:17:30: Start of error session.
+L 08/11/2024 - 08:17:30: Info (map "zm_deko2") (file "addons/amxmodx/logs/error_20240811.log")
+L 08/11/2024 - 08:17:30: [AMXX] Plugin file open error (plugin "scm_entity_editor.amxx")
+L 08/11/2024 - 08:17:39: [ENGINE] Entity 0 can not be removed
+L 08/11/2024 - 08:17:39: [AMXX] Run time error 10 (plugin "zm_class_heavy.amxx") (native "remove_entity") - debug not enabled!
+L 08/11/2024 - 08:17:39: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 08:17:39: [ENGINE] Entity 0 can not be removed
+L 08/11/2024 - 08:17:39: [AMXX] Run time error 10 (plugin "zm_class_heavy.amxx") (native "remove_entity") - debug not enabled!
+L 08/11/2024 - 08:17:39: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 08:17:39: [ENGINE] Entity 0 can not be removed
+L 08/11/2024 - 08:17:39: [AMXX] Run time error 10 (plugin "zm_class_heavy.amxx") (native "remove_entity") - debug not enabled!
+L 08/11/2024 - 08:17:39: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 08:17:40: [ENGINE] Entity 0 can not be removed
+L 08/11/2024 - 08:17:40: [AMXX] Run time error 10 (plugin "zm_class_heavy.amxx") (native "remove_entity") - debug not enabled!
+L 08/11/2024 - 08:17:40: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 08:17:40: [ENGINE] Entity 0 can not be removed
+L 08/11/2024 - 08:17:40: [AMXX] Run time error 10 (plugin "zm_class_heavy.amxx") (native "remove_entity") - debug not enabled!
+L 08/11/2024 - 08:17:40: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 08:17:41: [ENGINE] Entity 0 can not be removed
+L 08/11/2024 - 08:17:41: [AMXX] Run time error 10 (plugin "zm_class_heavy.amxx") (native "remove_entity") - debug not enabled!
+L 08/11/2024 - 08:17:41: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 08:17:41: [ENGINE] Entity 0 can not be removed
+L 08/11/2024 - 08:17:41: [AMXX] Run time error 10 (plugin "zm_class_heavy.amxx") (native "remove_entity") - debug not enabled!
+L 08/11/2024 - 08:17:41: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 08:17:42: [AMXX] Run time error 4 (plugin "start_menu.amxx") - debug not enabled!
+L 08/11/2024 - 08:17:42: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 08:17:42: [CS] Player is not in game (8)
+L 08/11/2024 - 08:17:42: [AMXX] Run time error 10 (plugin "K_menu_model.amxx") (native "cs_set_player_model") - debug not enabled!
+L 08/11/2024 - 08:17:42: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 08:17:42: [AMXX] Run time error 4 (plugin "Krol_vip_menu.amxx") - debug not enabled!
+L 08/11/2024 - 08:17:42: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 08:17:42: [AMXX] Run time error 4 (plugin "Krol_admin_menu.amxx") - debug not enabled!
+L 08/11/2024 - 08:17:42: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 08:17:42: [AMXX] Run time error 4 (plugin "Krol_supadmin_menu.amxx") - debug not enabled!
+L 08/11/2024 - 08:17:42: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 08:17:42: [AMXX] Run time error 4 (plugin "Krol_boss_menu.amxx") - debug not enabled!
+L 08/11/2024 - 08:17:42: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 08:17:42: [AMXX] Run time error 4 (plugin "Krol_prem_menu.amxx") - debug not enabled!
+L 08/11/2024 - 08:17:42: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 08:17:42: [AMXX] Run time error 4 (plugin "Krol_lord_menu.amxx") - debug not enabled!
+L 08/11/2024 - 08:17:42: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 08:17:42: [AMXX] Run time error 4 (plugin "Krol_elite_menu.amxx") - debug not enabled!
+L 08/11/2024 - 08:17:42: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 08:17:42: [AMXX] Run time error 4 (plugin "Krol_god_menu.amxx") - debug not enabled!
+L 08/11/2024 - 08:17:42: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 08:17:42: [ENGINE] Entity 0 can not be removed
+L 08/11/2024 - 08:17:42: [AMXX] Run time error 10 (plugin "zm_class_heavy.amxx") (native "remove_entity") - debug not enabled!
+L 08/11/2024 - 08:17:42: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 08:17:42: [ENGINE] Entity 0 can not be removed
+L 08/11/2024 - 08:17:42: [AMXX] Run time error 10 (plugin "zm_class_heavy.amxx") (native "remove_entity") - debug not enabled!
+L 08/11/2024 - 08:17:42: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 08:17:42: [ENGINE] Entity 0 can not be removed
+L 08/11/2024 - 08:17:42: [AMXX] Run time error 10 (plugin "zm_class_heavy.amxx") (native "remove_entity") - debug not enabled!
+L 08/11/2024 - 08:17:42: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 08:17:42: [ENGINE] Entity 0 can not be removed
+L 08/11/2024 - 08:17:42: [AMXX] Run time error 10 (plugin "zm_class_heavy.amxx") (native "remove_entity") - debug not enabled!
+L 08/11/2024 - 08:17:42: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 08:17:42: [ENGINE] Entity 0 can not be removed
+L 08/11/2024 - 08:17:42: [AMXX] Run time error 10 (plugin "zm_class_heavy.amxx") (native "remove_entity") - debug not enabled!
+L 08/11/2024 - 08:17:42: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 08:17:42: [ENGINE] Entity 0 can not be removed
+L 08/11/2024 - 08:17:42: [AMXX] Run time error 10 (plugin "zm_class_heavy.amxx") (native "remove_entity") - debug not enabled!
+L 08/11/2024 - 08:17:42: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 08:17:42: [ENGINE] Entity 0 can not be removed
+L 08/11/2024 - 08:17:42: [AMXX] Run time error 10 (plugin "zm_class_heavy.amxx") (native "remove_entity") - debug not enabled!
+L 08/11/2024 - 08:17:42: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 08:20:44: Start of error session.
+L 08/11/2024 - 08:20:44: Info (map "zm_deko2") (file "addons/amxmodx/logs/error_20240811.log")
+L 08/11/2024 - 08:20:44: [AMXX] Plugin file open error (plugin "scm_entity_editor.amxx")
+L 08/11/2024 - 08:20:52: [ENGINE] Entity 0 can not be removed
+L 08/11/2024 - 08:20:52: [AMXX] Run time error 10 (plugin "zm_class_heavy.amxx") (native "remove_entity") - debug not enabled!
+L 08/11/2024 - 08:20:52: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 08:20:53: [ENGINE] Entity 0 can not be removed
+L 08/11/2024 - 08:20:53: [AMXX] Run time error 10 (plugin "zm_class_heavy.amxx") (native "remove_entity") - debug not enabled!
+L 08/11/2024 - 08:20:53: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 08:20:53: [ENGINE] Entity 0 can not be removed
+L 08/11/2024 - 08:20:53: [AMXX] Run time error 10 (plugin "zm_class_heavy.amxx") (native "remove_entity") - debug not enabled!
+L 08/11/2024 - 08:20:53: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 08:20:54: [ENGINE] Entity 0 can not be removed
+L 08/11/2024 - 08:20:54: [AMXX] Run time error 10 (plugin "zm_class_heavy.amxx") (native "remove_entity") - debug not enabled!
+L 08/11/2024 - 08:20:54: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 08:20:54: [ENGINE] Entity 0 can not be removed
+L 08/11/2024 - 08:20:54: [AMXX] Run time error 10 (plugin "zm_class_heavy.amxx") (native "remove_entity") - debug not enabled!
+L 08/11/2024 - 08:20:54: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 08:20:55: [ENGINE] Entity 0 can not be removed
+L 08/11/2024 - 08:20:55: [AMXX] Run time error 10 (plugin "zm_class_heavy.amxx") (native "remove_entity") - debug not enabled!
+L 08/11/2024 - 08:20:55: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 08:20:55: [ENGINE] Entity 0 can not be removed
+L 08/11/2024 - 08:20:55: [AMXX] Run time error 10 (plugin "zm_class_heavy.amxx") (native "remove_entity") - debug not enabled!
+L 08/11/2024 - 08:20:55: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 08:20:56: [AMXX] Run time error 4 (plugin "start_menu.amxx") - debug not enabled!
+L 08/11/2024 - 08:20:56: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 08:20:56: [CS] Player is not in game (8)
+L 08/11/2024 - 08:20:56: [AMXX] Run time error 10 (plugin "K_menu_model.amxx") (native "cs_set_player_model") - debug not enabled!
+L 08/11/2024 - 08:20:56: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 08:20:56: [AMXX] Run time error 4 (plugin "Krol_vip_menu.amxx") - debug not enabled!
+L 08/11/2024 - 08:20:56: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 08:20:56: [AMXX] Run time error 4 (plugin "Krol_admin_menu.amxx") - debug not enabled!
+L 08/11/2024 - 08:20:56: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 08:20:56: [AMXX] Run time error 4 (plugin "Krol_supadmin_menu.amxx") - debug not enabled!
+L 08/11/2024 - 08:20:56: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 08:20:56: [AMXX] Run time error 4 (plugin "Krol_boss_menu.amxx") - debug not enabled!
+L 08/11/2024 - 08:20:56: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 08:20:56: [AMXX] Run time error 4 (plugin "Krol_prem_menu.amxx") - debug not enabled!
+L 08/11/2024 - 08:20:56: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 08:20:56: [AMXX] Run time error 4 (plugin "Krol_lord_menu.amxx") - debug not enabled!
+L 08/11/2024 - 08:20:56: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 08:20:56: [AMXX] Run time error 4 (plugin "Krol_elite_menu.amxx") - debug not enabled!
+L 08/11/2024 - 08:20:56: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 08:20:56: [AMXX] Run time error 4 (plugin "Krol_god_menu.amxx") - debug not enabled!
+L 08/11/2024 - 08:20:56: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 08:20:56: [ENGINE] Entity 0 can not be removed
+L 08/11/2024 - 08:20:56: [AMXX] Run time error 10 (plugin "zm_class_heavy.amxx") (native "remove_entity") - debug not enabled!
+L 08/11/2024 - 08:20:56: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 08:20:56: [ENGINE] Entity 0 can not be removed
+L 08/11/2024 - 08:20:56: [AMXX] Run time error 10 (plugin "zm_class_heavy.amxx") (native "remove_entity") - debug not enabled!
+L 08/11/2024 - 08:20:56: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 08:20:56: [ENGINE] Entity 0 can not be removed
+L 08/11/2024 - 08:20:56: [AMXX] Run time error 10 (plugin "zm_class_heavy.amxx") (native "remove_entity") - debug not enabled!
+L 08/11/2024 - 08:20:56: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 08:20:56: [ENGINE] Entity 0 can not be removed
+L 08/11/2024 - 08:20:56: [AMXX] Run time error 10 (plugin "zm_class_heavy.amxx") (native "remove_entity") - debug not enabled!
+L 08/11/2024 - 08:20:56: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 08:20:56: [ENGINE] Entity 0 can not be removed
+L 08/11/2024 - 08:20:56: [AMXX] Run time error 10 (plugin "zm_class_heavy.amxx") (native "remove_entity") - debug not enabled!
+L 08/11/2024 - 08:20:56: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 08:20:56: [ENGINE] Entity 0 can not be removed
+L 08/11/2024 - 08:20:56: [AMXX] Run time error 10 (plugin "zm_class_heavy.amxx") (native "remove_entity") - debug not enabled!
+L 08/11/2024 - 08:20:56: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 08:20:56: [ENGINE] Entity 0 can not be removed
+L 08/11/2024 - 08:20:56: [AMXX] Run time error 10 (plugin "zm_class_heavy.amxx") (native "remove_entity") - debug not enabled!
+L 08/11/2024 - 08:20:56: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 08:23:16: Start of error session.
+L 08/11/2024 - 08:23:16: Info (map "zm_deko2") (file "addons/amxmodx/logs/error_20240811.log")
+L 08/11/2024 - 08:23:16: [AMXX] Plugin file open error (plugin "scm_entity_editor.amxx")
+L 08/11/2024 - 08:23:24: [ENGINE] Entity 0 can not be removed
+L 08/11/2024 - 08:23:24: [AMXX] Run time error 10 (plugin "zm_class_heavy.amxx") (native "remove_entity") - debug not enabled!
+L 08/11/2024 - 08:23:24: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 08:23:24: [ENGINE] Entity 0 can not be removed
+L 08/11/2024 - 08:23:24: [AMXX] Run time error 10 (plugin "zm_class_heavy.amxx") (native "remove_entity") - debug not enabled!
+L 08/11/2024 - 08:23:24: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 08:23:25: [ENGINE] Entity 0 can not be removed
+L 08/11/2024 - 08:23:25: [AMXX] Run time error 10 (plugin "zm_class_heavy.amxx") (native "remove_entity") - debug not enabled!
+L 08/11/2024 - 08:23:25: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 08:23:25: [ENGINE] Entity 0 can not be removed
+L 08/11/2024 - 08:23:25: [AMXX] Run time error 10 (plugin "zm_class_heavy.amxx") (native "remove_entity") - debug not enabled!
+L 08/11/2024 - 08:23:25: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 08:23:26: [ENGINE] Entity 0 can not be removed
+L 08/11/2024 - 08:23:26: [AMXX] Run time error 10 (plugin "zm_class_heavy.amxx") (native "remove_entity") - debug not enabled!
+L 08/11/2024 - 08:23:26: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 08:23:26: [ENGINE] Entity 0 can not be removed
+L 08/11/2024 - 08:23:27: [AMXX] Run time error 10 (plugin "zm_class_heavy.amxx") (native "remove_entity") - debug not enabled!
+L 08/11/2024 - 08:23:27: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 08:23:27: [ENGINE] Entity 0 can not be removed
+L 08/11/2024 - 08:23:27: [AMXX] Run time error 10 (plugin "zm_class_heavy.amxx") (native "remove_entity") - debug not enabled!
+L 08/11/2024 - 08:23:27: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 08:23:27: [AMXX] Run time error 4 (plugin "start_menu.amxx") - debug not enabled!
+L 08/11/2024 - 08:23:27: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 08:23:27: [CS] Player is not in game (8)
+L 08/11/2024 - 08:23:27: [AMXX] Run time error 10 (plugin "K_menu_model.amxx") (native "cs_set_player_model") - debug not enabled!
+L 08/11/2024 - 08:23:27: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 08:23:27: [AMXX] Run time error 4 (plugin "Krol_vip_menu.amxx") - debug not enabled!
+L 08/11/2024 - 08:23:27: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 08:23:27: [AMXX] Run time error 4 (plugin "Krol_admin_menu.amxx") - debug not enabled!
+L 08/11/2024 - 08:23:27: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 08:23:27: [AMXX] Run time error 4 (plugin "Krol_supadmin_menu.amxx") - debug not enabled!
+L 08/11/2024 - 08:23:27: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 08:23:27: [AMXX] Run time error 4 (plugin "Krol_boss_menu.amxx") - debug not enabled!
+L 08/11/2024 - 08:23:27: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 08:23:27: [AMXX] Run time error 4 (plugin "Krol_prem_menu.amxx") - debug not enabled!
+L 08/11/2024 - 08:23:27: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 08:23:27: [AMXX] Run time error 4 (plugin "Krol_lord_menu.amxx") - debug not enabled!
+L 08/11/2024 - 08:23:27: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 08:23:27: [AMXX] Run time error 4 (plugin "Krol_elite_menu.amxx") - debug not enabled!
+L 08/11/2024 - 08:23:27: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 08:23:27: [AMXX] Run time error 4 (plugin "Krol_god_menu.amxx") - debug not enabled!
+L 08/11/2024 - 08:23:27: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 08:23:27: [ENGINE] Entity 0 can not be removed
+L 08/11/2024 - 08:23:27: [AMXX] Run time error 10 (plugin "zm_class_heavy.amxx") (native "remove_entity") - debug not enabled!
+L 08/11/2024 - 08:23:27: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 08:23:27: [ENGINE] Entity 0 can not be removed
+L 08/11/2024 - 08:23:27: [AMXX] Run time error 10 (plugin "zm_class_heavy.amxx") (native "remove_entity") - debug not enabled!
+L 08/11/2024 - 08:23:27: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 08:23:27: [ENGINE] Entity 0 can not be removed
+L 08/11/2024 - 08:23:27: [AMXX] Run time error 10 (plugin "zm_class_heavy.amxx") (native "remove_entity") - debug not enabled!
+L 08/11/2024 - 08:23:27: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 08:23:27: [ENGINE] Entity 0 can not be removed
+L 08/11/2024 - 08:23:27: [AMXX] Run time error 10 (plugin "zm_class_heavy.amxx") (native "remove_entity") - debug not enabled!
+L 08/11/2024 - 08:23:27: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 08:23:27: [ENGINE] Entity 0 can not be removed
+L 08/11/2024 - 08:23:27: [AMXX] Run time error 10 (plugin "zm_class_heavy.amxx") (native "remove_entity") - debug not enabled!
+L 08/11/2024 - 08:23:27: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 08:23:28: [ENGINE] Entity 0 can not be removed
+L 08/11/2024 - 08:23:28: [AMXX] Run time error 10 (plugin "zm_class_heavy.amxx") (native "remove_entity") - debug not enabled!
+L 08/11/2024 - 08:23:28: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 08:23:28: [ENGINE] Entity 0 can not be removed
+L 08/11/2024 - 08:23:28: [AMXX] Run time error 10 (plugin "zm_class_heavy.amxx") (native "remove_entity") - debug not enabled!
+L 08/11/2024 - 08:23:28: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 08:25:08: Invalid player id 90
+L 08/11/2024 - 08:25:08: [AMXX] Run time error 10 (plugin "show_hp_zombie.amxx") (native "get_user_flags") - debug not enabled!
+L 08/11/2024 - 08:25:08: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 08:25:09: Invalid player id 90
+L 08/11/2024 - 08:25:09: [AMXX] Run time error 10 (plugin "show_hp_zombie.amxx") (native "get_user_flags") - debug not enabled!
+L 08/11/2024 - 08:25:09: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 08:25:12: Invalid player id 90
+L 08/11/2024 - 08:25:12: [AMXX] Run time error 10 (plugin "show_hp_zombie.amxx") (native "get_user_flags") - debug not enabled!
+L 08/11/2024 - 08:25:12: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 08:25:14: Invalid player id 90
+L 08/11/2024 - 08:25:14: [AMXX] Run time error 10 (plugin "show_hp_zombie.amxx") (native "get_user_flags") - debug not enabled!
+L 08/11/2024 - 08:25:14: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 08:25:16: Invalid player id 90
+L 08/11/2024 - 08:25:16: [AMXX] Run time error 10 (plugin "show_hp_zombie.amxx") (native "get_user_flags") - debug not enabled!
+L 08/11/2024 - 08:25:16: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 08:25:21: [ENGINE] Entity 0 can not be removed
+L 08/11/2024 - 08:25:21: [AMXX] Run time error 10 (plugin "zm_class_heavy.amxx") (native "remove_entity") - debug not enabled!
+L 08/11/2024 - 08:25:21: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 08:26:58: Start of error session.
+L 08/11/2024 - 08:26:58: Info (map "zm_deko2") (file "addons/amxmodx/logs/error_20240811.log")
+L 08/11/2024 - 08:26:58: [AMXX] Plugin file open error (plugin "scm_entity_editor.amxx")
+L 08/11/2024 - 08:27:06: [ENGINE] Entity 0 can not be removed
+L 08/11/2024 - 08:27:06: [AMXX] Run time error 10 (plugin "zm_class_heavy.amxx") (native "remove_entity") - debug not enabled!
+L 08/11/2024 - 08:27:06: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 08:27:06: [ENGINE] Entity 0 can not be removed
+L 08/11/2024 - 08:27:06: [AMXX] Run time error 10 (plugin "zm_class_heavy.amxx") (native "remove_entity") - debug not enabled!
+L 08/11/2024 - 08:27:06: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 08:27:06: [ENGINE] Entity 0 can not be removed
+L 08/11/2024 - 08:27:06: [AMXX] Run time error 10 (plugin "zm_class_heavy.amxx") (native "remove_entity") - debug not enabled!
+L 08/11/2024 - 08:27:06: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 08:27:07: [ENGINE] Entity 0 can not be removed
+L 08/11/2024 - 08:27:07: [AMXX] Run time error 10 (plugin "zm_class_heavy.amxx") (native "remove_entity") - debug not enabled!
+L 08/11/2024 - 08:27:07: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 08:27:07: [ENGINE] Entity 0 can not be removed
+L 08/11/2024 - 08:27:07: [AMXX] Run time error 10 (plugin "zm_class_heavy.amxx") (native "remove_entity") - debug not enabled!
+L 08/11/2024 - 08:27:07: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 08:27:08: [ENGINE] Entity 0 can not be removed
+L 08/11/2024 - 08:27:08: [AMXX] Run time error 10 (plugin "zm_class_heavy.amxx") (native "remove_entity") - debug not enabled!
+L 08/11/2024 - 08:27:08: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 08:27:09: [ENGINE] Entity 0 can not be removed
+L 08/11/2024 - 08:27:09: [AMXX] Run time error 10 (plugin "zm_class_heavy.amxx") (native "remove_entity") - debug not enabled!
+L 08/11/2024 - 08:27:09: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 08:27:09: [AMXX] Run time error 4 (plugin "start_menu.amxx") - debug not enabled!
+L 08/11/2024 - 08:27:09: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 08:27:09: [CS] Player is not in game (8)
+L 08/11/2024 - 08:27:09: [AMXX] Run time error 10 (plugin "K_menu_model.amxx") (native "cs_set_player_model") - debug not enabled!
+L 08/11/2024 - 08:27:09: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 08:27:09: [AMXX] Run time error 4 (plugin "Krol_vip_menu.amxx") - debug not enabled!
+L 08/11/2024 - 08:27:09: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 08:27:09: [AMXX] Run time error 4 (plugin "Krol_admin_menu.amxx") - debug not enabled!
+L 08/11/2024 - 08:27:09: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 08:27:09: [AMXX] Run time error 4 (plugin "Krol_supadmin_menu.amxx") - debug not enabled!
+L 08/11/2024 - 08:27:09: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 08:27:09: [AMXX] Run time error 4 (plugin "Krol_boss_menu.amxx") - debug not enabled!
+L 08/11/2024 - 08:27:09: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 08:27:09: [AMXX] Run time error 4 (plugin "Krol_prem_menu.amxx") - debug not enabled!
+L 08/11/2024 - 08:27:09: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 08:27:09: [AMXX] Run time error 4 (plugin "Krol_lord_menu.amxx") - debug not enabled!
+L 08/11/2024 - 08:27:09: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 08:27:09: [AMXX] Run time error 4 (plugin "Krol_elite_menu.amxx") - debug not enabled!
+L 08/11/2024 - 08:27:09: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 08:27:09: [AMXX] Run time error 4 (plugin "Krol_god_menu.amxx") - debug not enabled!
+L 08/11/2024 - 08:27:09: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 08:27:09: [ENGINE] Entity 0 can not be removed
+L 08/11/2024 - 08:27:09: [AMXX] Run time error 10 (plugin "zm_class_heavy.amxx") (native "remove_entity") - debug not enabled!
+L 08/11/2024 - 08:27:09: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 08:27:09: [ENGINE] Entity 0 can not be removed
+L 08/11/2024 - 08:27:09: [AMXX] Run time error 10 (plugin "zm_class_heavy.amxx") (native "remove_entity") - debug not enabled!
+L 08/11/2024 - 08:27:09: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 08:27:09: [ENGINE] Entity 0 can not be removed
+L 08/11/2024 - 08:27:09: [AMXX] Run time error 10 (plugin "zm_class_heavy.amxx") (native "remove_entity") - debug not enabled!
+L 08/11/2024 - 08:27:09: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 08:27:09: [ENGINE] Entity 0 can not be removed
+L 08/11/2024 - 08:27:09: [AMXX] Run time error 10 (plugin "zm_class_heavy.amxx") (native "remove_entity") - debug not enabled!
+L 08/11/2024 - 08:27:09: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 08:27:09: [ENGINE] Entity 0 can not be removed
+L 08/11/2024 - 08:27:09: [AMXX] Run time error 10 (plugin "zm_class_heavy.amxx") (native "remove_entity") - debug not enabled!
+L 08/11/2024 - 08:27:09: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 08:27:09: [ENGINE] Entity 0 can not be removed
+L 08/11/2024 - 08:27:09: [AMXX] Run time error 10 (plugin "zm_class_heavy.amxx") (native "remove_entity") - debug not enabled!
+L 08/11/2024 - 08:27:09: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 08:27:09: [ENGINE] Entity 0 can not be removed
+L 08/11/2024 - 08:27:09: [AMXX] Run time error 10 (plugin "zm_class_heavy.amxx") (native "remove_entity") - debug not enabled!
+L 08/11/2024 - 08:27:09: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 08:28:48: Start of error session.
+L 08/11/2024 - 08:28:48: Info (map "zm_deko2") (file "addons/amxmodx/logs/error_20240811.log")
+L 08/11/2024 - 08:28:48: [AMXX] Plugin file open error (plugin "scm_entity_editor.amxx")
+L 08/11/2024 - 08:28:55: [ENGINE] Entity 0 can not be removed
+L 08/11/2024 - 08:28:55: [AMXX] Run time error 10 (plugin "zm_class_heavy.amxx") (native "remove_entity") - debug not enabled!
+L 08/11/2024 - 08:28:55: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 08:28:55: [ENGINE] Entity 0 can not be removed
+L 08/11/2024 - 08:28:55: [AMXX] Run time error 10 (plugin "zm_class_heavy.amxx") (native "remove_entity") - debug not enabled!
+L 08/11/2024 - 08:28:55: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 08:28:55: [ENGINE] Entity 0 can not be removed
+L 08/11/2024 - 08:28:55: [AMXX] Run time error 10 (plugin "zm_class_heavy.amxx") (native "remove_entity") - debug not enabled!
+L 08/11/2024 - 08:28:55: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 08:28:56: [ENGINE] Entity 0 can not be removed
+L 08/11/2024 - 08:28:56: [AMXX] Run time error 10 (plugin "zm_class_heavy.amxx") (native "remove_entity") - debug not enabled!
+L 08/11/2024 - 08:28:56: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 08:28:56: [ENGINE] Entity 0 can not be removed
+L 08/11/2024 - 08:28:56: [AMXX] Run time error 10 (plugin "zm_class_heavy.amxx") (native "remove_entity") - debug not enabled!
+L 08/11/2024 - 08:28:56: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 08:28:57: [ENGINE] Entity 0 can not be removed
+L 08/11/2024 - 08:28:57: [AMXX] Run time error 10 (plugin "zm_class_heavy.amxx") (native "remove_entity") - debug not enabled!
+L 08/11/2024 - 08:28:57: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 08:28:57: [ENGINE] Entity 0 can not be removed
+L 08/11/2024 - 08:28:57: [AMXX] Run time error 10 (plugin "zm_class_heavy.amxx") (native "remove_entity") - debug not enabled!
+L 08/11/2024 - 08:28:57: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 08:29:00: [AMXX] Run time error 4 (plugin "start_menu.amxx") - debug not enabled!
+L 08/11/2024 - 08:29:00: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 08:29:00: [CS] Player is not in game (8)
+L 08/11/2024 - 08:29:00: [AMXX] Run time error 10 (plugin "K_menu_model.amxx") (native "cs_set_player_model") - debug not enabled!
+L 08/11/2024 - 08:29:00: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 08:29:00: [AMXX] Run time error 4 (plugin "Krol_vip_menu.amxx") - debug not enabled!
+L 08/11/2024 - 08:29:00: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 08:29:00: [AMXX] Run time error 4 (plugin "Krol_admin_menu.amxx") - debug not enabled!
+L 08/11/2024 - 08:29:00: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 08:29:00: [AMXX] Run time error 4 (plugin "Krol_supadmin_menu.amxx") - debug not enabled!
+L 08/11/2024 - 08:29:00: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 08:29:00: [AMXX] Run time error 4 (plugin "Krol_boss_menu.amxx") - debug not enabled!
+L 08/11/2024 - 08:29:00: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 08:29:00: [AMXX] Run time error 4 (plugin "Krol_prem_menu.amxx") - debug not enabled!
+L 08/11/2024 - 08:29:00: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 08:29:00: [AMXX] Run time error 4 (plugin "Krol_lord_menu.amxx") - debug not enabled!
+L 08/11/2024 - 08:29:00: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 08:29:00: [AMXX] Run time error 4 (plugin "Krol_elite_menu.amxx") - debug not enabled!
+L 08/11/2024 - 08:29:00: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 08:29:00: [AMXX] Run time error 4 (plugin "Krol_god_menu.amxx") - debug not enabled!
+L 08/11/2024 - 08:29:00: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 08:29:00: [ENGINE] Entity 0 can not be removed
+L 08/11/2024 - 08:29:00: [AMXX] Run time error 10 (plugin "zm_class_heavy.amxx") (native "remove_entity") - debug not enabled!
+L 08/11/2024 - 08:29:00: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 08:29:00: [ENGINE] Entity 0 can not be removed
+L 08/11/2024 - 08:29:00: [AMXX] Run time error 10 (plugin "zm_class_heavy.amxx") (native "remove_entity") - debug not enabled!
+L 08/11/2024 - 08:29:00: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 08:29:00: [ENGINE] Entity 0 can not be removed
+L 08/11/2024 - 08:29:00: [AMXX] Run time error 10 (plugin "zm_class_heavy.amxx") (native "remove_entity") - debug not enabled!
+L 08/11/2024 - 08:29:00: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 08:29:00: [ENGINE] Entity 0 can not be removed
+L 08/11/2024 - 08:29:00: [AMXX] Run time error 10 (plugin "zm_class_heavy.amxx") (native "remove_entity") - debug not enabled!
+L 08/11/2024 - 08:29:00: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 08:29:00: [ENGINE] Entity 0 can not be removed
+L 08/11/2024 - 08:29:00: [AMXX] Run time error 10 (plugin "zm_class_heavy.amxx") (native "remove_entity") - debug not enabled!
+L 08/11/2024 - 08:29:00: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 08:29:00: [ENGINE] Entity 0 can not be removed
+L 08/11/2024 - 08:29:00: [AMXX] Run time error 10 (plugin "zm_class_heavy.amxx") (native "remove_entity") - debug not enabled!
+L 08/11/2024 - 08:29:00: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 08:29:00: [ENGINE] Entity 0 can not be removed
+L 08/11/2024 - 08:29:00: [AMXX] Run time error 10 (plugin "zm_class_heavy.amxx") (native "remove_entity") - debug not enabled!
+L 08/11/2024 - 08:29:00: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 08:31:53: Start of error session.
+L 08/11/2024 - 08:31:53: Info (map "zm_deko2") (file "addons/amxmodx/logs/error_20240811.log")
+L 08/11/2024 - 08:31:53: [AMXX] Plugin file open error (plugin "scm_entity_editor.amxx")
+L 08/11/2024 - 08:32:12: [ENGINE] Entity 0 can not be removed
+L 08/11/2024 - 08:32:12: [AMXX] Run time error 10 (plugin "zm_class_heavy.amxx") (native "remove_entity") - debug not enabled!
+L 08/11/2024 - 08:32:12: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 08:32:12: [ENGINE] Entity 0 can not be removed
+L 08/11/2024 - 08:32:12: [AMXX] Run time error 10 (plugin "zm_class_heavy.amxx") (native "remove_entity") - debug not enabled!
+L 08/11/2024 - 08:32:12: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 08:32:13: [ENGINE] Entity 0 can not be removed
+L 08/11/2024 - 08:32:13: [AMXX] Run time error 10 (plugin "zm_class_heavy.amxx") (native "remove_entity") - debug not enabled!
+L 08/11/2024 - 08:32:13: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 08:32:13: [ENGINE] Entity 0 can not be removed
+L 08/11/2024 - 08:32:13: [AMXX] Run time error 10 (plugin "zm_class_heavy.amxx") (native "remove_entity") - debug not enabled!
+L 08/11/2024 - 08:32:13: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 08:32:14: [ENGINE] Entity 0 can not be removed
+L 08/11/2024 - 08:32:14: [AMXX] Run time error 10 (plugin "zm_class_heavy.amxx") (native "remove_entity") - debug not enabled!
+L 08/11/2024 - 08:32:14: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 08:32:14: [ENGINE] Entity 0 can not be removed
+L 08/11/2024 - 08:32:14: [AMXX] Run time error 10 (plugin "zm_class_heavy.amxx") (native "remove_entity") - debug not enabled!
+L 08/11/2024 - 08:32:14: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 08:32:15: [ENGINE] Entity 0 can not be removed
+L 08/11/2024 - 08:32:15: [AMXX] Run time error 10 (plugin "zm_class_heavy.amxx") (native "remove_entity") - debug not enabled!
+L 08/11/2024 - 08:32:15: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 08:32:17: [AMXX] Run time error 4 (plugin "start_menu.amxx") - debug not enabled!
+L 08/11/2024 - 08:32:17: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 08:32:17: [CS] Player is not in game (7)
+L 08/11/2024 - 08:32:17: [AMXX] Run time error 10 (plugin "K_menu_model.amxx") (native "cs_set_player_model") - debug not enabled!
+L 08/11/2024 - 08:32:17: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 08:32:17: [AMXX] Run time error 4 (plugin "Krol_vip_menu.amxx") - debug not enabled!
+L 08/11/2024 - 08:32:17: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 08:32:17: [AMXX] Run time error 4 (plugin "Krol_admin_menu.amxx") - debug not enabled!
+L 08/11/2024 - 08:32:17: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 08:32:17: [AMXX] Run time error 4 (plugin "Krol_supadmin_menu.amxx") - debug not enabled!
+L 08/11/2024 - 08:32:17: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 08:32:17: [AMXX] Run time error 4 (plugin "Krol_boss_menu.amxx") - debug not enabled!
+L 08/11/2024 - 08:32:17: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 08:32:17: [AMXX] Run time error 4 (plugin "Krol_prem_menu.amxx") - debug not enabled!
+L 08/11/2024 - 08:32:17: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 08:32:17: [AMXX] Run time error 4 (plugin "Krol_lord_menu.amxx") - debug not enabled!
+L 08/11/2024 - 08:32:17: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 08:32:17: [AMXX] Run time error 4 (plugin "Krol_elite_menu.amxx") - debug not enabled!
+L 08/11/2024 - 08:32:17: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 08:32:17: [AMXX] Run time error 4 (plugin "Krol_god_menu.amxx") - debug not enabled!
+L 08/11/2024 - 08:32:17: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 08:32:17: [ENGINE] Entity 0 can not be removed
+L 08/11/2024 - 08:32:17: [AMXX] Run time error 10 (plugin "zm_class_heavy.amxx") (native "remove_entity") - debug not enabled!
+L 08/11/2024 - 08:32:17: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 08:32:17: [ENGINE] Entity 0 can not be removed
+L 08/11/2024 - 08:32:17: [AMXX] Run time error 10 (plugin "zm_class_heavy.amxx") (native "remove_entity") - debug not enabled!
+L 08/11/2024 - 08:32:17: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 08:32:17: [ENGINE] Entity 0 can not be removed
+L 08/11/2024 - 08:32:17: [AMXX] Run time error 10 (plugin "zm_class_heavy.amxx") (native "remove_entity") - debug not enabled!
+L 08/11/2024 - 08:32:17: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 08:32:17: [ENGINE] Entity 0 can not be removed
+L 08/11/2024 - 08:32:17: [AMXX] Run time error 10 (plugin "zm_class_heavy.amxx") (native "remove_entity") - debug not enabled!
+L 08/11/2024 - 08:32:17: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 08:32:17: [ENGINE] Entity 0 can not be removed
+L 08/11/2024 - 08:32:17: [AMXX] Run time error 10 (plugin "zm_class_heavy.amxx") (native "remove_entity") - debug not enabled!
+L 08/11/2024 - 08:32:17: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 08:32:17: [ENGINE] Entity 0 can not be removed
+L 08/11/2024 - 08:32:17: [AMXX] Run time error 10 (plugin "zm_class_heavy.amxx") (native "remove_entity") - debug not enabled!
+L 08/11/2024 - 08:32:17: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 08:32:17: [ENGINE] Entity 0 can not be removed
+L 08/11/2024 - 08:32:17: [AMXX] Run time error 10 (plugin "zm_class_heavy.amxx") (native "remove_entity") - debug not enabled!
+L 08/11/2024 - 08:32:17: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 08:32:19: [ENGINE] Entity 0 can not be removed
+L 08/11/2024 - 08:32:19: [AMXX] Run time error 10 (plugin "zm_class_heavy.amxx") (native "remove_entity") - debug not enabled!
+L 08/11/2024 - 08:32:19: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 08:32:22: [AMXX] Run time error 4 (plugin "start_menu.amxx") - debug not enabled!
+L 08/11/2024 - 08:32:22: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 08:32:22: [CS] Player is not in game (1)
+L 08/11/2024 - 08:32:22: [AMXX] Run time error 10 (plugin "K_menu_model.amxx") (native "cs_set_player_model") - debug not enabled!
+L 08/11/2024 - 08:32:22: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 08:32:22: [AMXX] Run time error 4 (plugin "Krol_vip_menu.amxx") - debug not enabled!
+L 08/11/2024 - 08:32:22: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 08:32:22: [AMXX] Run time error 4 (plugin "Krol_admin_menu.amxx") - debug not enabled!
+L 08/11/2024 - 08:32:22: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 08:32:22: [AMXX] Run time error 4 (plugin "Krol_supadmin_menu.amxx") - debug not enabled!
+L 08/11/2024 - 08:32:22: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 08:32:22: [AMXX] Run time error 4 (plugin "Krol_boss_menu.amxx") - debug not enabled!
+L 08/11/2024 - 08:32:22: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 08:32:22: [AMXX] Run time error 4 (plugin "Krol_prem_menu.amxx") - debug not enabled!
+L 08/11/2024 - 08:32:22: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 08:32:22: [AMXX] Run time error 4 (plugin "Krol_lord_menu.amxx") - debug not enabled!
+L 08/11/2024 - 08:32:22: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 08:32:22: [AMXX] Run time error 4 (plugin "Krol_elite_menu.amxx") - debug not enabled!
+L 08/11/2024 - 08:32:22: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 08:32:22: [AMXX] Run time error 4 (plugin "Krol_god_menu.amxx") - debug not enabled!
+L 08/11/2024 - 08:32:22: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 08:32:22: [ENGINE] Entity 0 can not be removed
+L 08/11/2024 - 08:32:22: [AMXX] Run time error 10 (plugin "zm_class_heavy.amxx") (native "remove_entity") - debug not enabled!
+L 08/11/2024 - 08:32:22: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 08:32:22: [ENGINE] Entity 0 can not be removed
+L 08/11/2024 - 08:32:22: [AMXX] Run time error 10 (plugin "zm_class_heavy.amxx") (native "remove_entity") - debug not enabled!
+L 08/11/2024 - 08:32:22: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 08:32:22: [ENGINE] Entity 0 can not be removed
+L 08/11/2024 - 08:32:22: [AMXX] Run time error 10 (plugin "zm_class_heavy.amxx") (native "remove_entity") - debug not enabled!
+L 08/11/2024 - 08:32:22: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 08:32:22: [ENGINE] Entity 0 can not be removed
+L 08/11/2024 - 08:32:22: [AMXX] Run time error 10 (plugin "zm_class_heavy.amxx") (native "remove_entity") - debug not enabled!
+L 08/11/2024 - 08:32:22: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 08:32:22: [ENGINE] Entity 0 can not be removed
+L 08/11/2024 - 08:32:22: [AMXX] Run time error 10 (plugin "zm_class_heavy.amxx") (native "remove_entity") - debug not enabled!
+L 08/11/2024 - 08:32:22: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 08:32:22: [ENGINE] Entity 0 can not be removed
+L 08/11/2024 - 08:32:22: [AMXX] Run time error 10 (plugin "zm_class_heavy.amxx") (native "remove_entity") - debug not enabled!
+L 08/11/2024 - 08:32:22: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 08:32:22: [ENGINE] Entity 0 can not be removed
+L 08/11/2024 - 08:32:22: [AMXX] Run time error 10 (plugin "zm_class_heavy.amxx") (native "remove_entity") - debug not enabled!
+L 08/11/2024 - 08:32:22: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 08:37:03: Start of error session.
+L 08/11/2024 - 08:37:03: Info (map "zm_deko2") (file "addons/amxmodx/logs/error_20240811.log")
+L 08/11/2024 - 08:37:03: [AMXX] Plugin file open error (plugin "scm_entity_editor.amxx")
+L 08/11/2024 - 08:37:11: [ENGINE] Entity 0 can not be removed
+L 08/11/2024 - 08:37:11: [AMXX] Run time error 10 (plugin "zm_class_heavy.amxx") (native "remove_entity") - debug not enabled!
+L 08/11/2024 - 08:37:11: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 08:37:11: [ENGINE] Entity 0 can not be removed
+L 08/11/2024 - 08:37:11: [AMXX] Run time error 10 (plugin "zm_class_heavy.amxx") (native "remove_entity") - debug not enabled!
+L 08/11/2024 - 08:37:11: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 08:37:12: [ENGINE] Entity 0 can not be removed
+L 08/11/2024 - 08:37:12: [AMXX] Run time error 10 (plugin "zm_class_heavy.amxx") (native "remove_entity") - debug not enabled!
+L 08/11/2024 - 08:37:12: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 08:37:12: [ENGINE] Entity 0 can not be removed
+L 08/11/2024 - 08:37:12: [AMXX] Run time error 10 (plugin "zm_class_heavy.amxx") (native "remove_entity") - debug not enabled!
+L 08/11/2024 - 08:37:12: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 08:37:13: [ENGINE] Entity 0 can not be removed
+L 08/11/2024 - 08:37:13: [AMXX] Run time error 10 (plugin "zm_class_heavy.amxx") (native "remove_entity") - debug not enabled!
+L 08/11/2024 - 08:37:13: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 08:37:13: [ENGINE] Entity 0 can not be removed
+L 08/11/2024 - 08:37:13: [AMXX] Run time error 10 (plugin "zm_class_heavy.amxx") (native "remove_entity") - debug not enabled!
+L 08/11/2024 - 08:37:13: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 08:37:14: [ENGINE] Entity 0 can not be removed
+L 08/11/2024 - 08:37:14: [AMXX] Run time error 10 (plugin "zm_class_heavy.amxx") (native "remove_entity") - debug not enabled!
+L 08/11/2024 - 08:37:14: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 08:37:14: [AMXX] Run time error 4 (plugin "start_menu.amxx") - debug not enabled!
+L 08/11/2024 - 08:37:14: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 08:37:14: [CS] Player is not in game (8)
+L 08/11/2024 - 08:37:14: [AMXX] Run time error 10 (plugin "K_menu_model.amxx") (native "cs_set_player_model") - debug not enabled!
+L 08/11/2024 - 08:37:14: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 08:37:14: [AMXX] Run time error 4 (plugin "Krol_vip_menu.amxx") - debug not enabled!
+L 08/11/2024 - 08:37:14: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 08:37:14: [AMXX] Run time error 4 (plugin "Krol_admin_menu.amxx") - debug not enabled!
+L 08/11/2024 - 08:37:14: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 08:37:14: [AMXX] Run time error 4 (plugin "Krol_supadmin_menu.amxx") - debug not enabled!
+L 08/11/2024 - 08:37:14: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 08:37:14: [AMXX] Run time error 4 (plugin "Krol_boss_menu.amxx") - debug not enabled!
+L 08/11/2024 - 08:37:14: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 08:37:14: [AMXX] Run time error 4 (plugin "Krol_prem_menu.amxx") - debug not enabled!
+L 08/11/2024 - 08:37:14: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 08:37:14: [AMXX] Run time error 4 (plugin "Krol_lord_menu.amxx") - debug not enabled!
+L 08/11/2024 - 08:37:14: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 08:37:14: [AMXX] Run time error 4 (plugin "Krol_elite_menu.amxx") - debug not enabled!
+L 08/11/2024 - 08:37:14: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 08:37:14: [AMXX] Run time error 4 (plugin "Krol_god_menu.amxx") - debug not enabled!
+L 08/11/2024 - 08:37:14: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 08:37:14: [ENGINE] Entity 0 can not be removed
+L 08/11/2024 - 08:37:14: [AMXX] Run time error 10 (plugin "zm_class_heavy.amxx") (native "remove_entity") - debug not enabled!
+L 08/11/2024 - 08:37:14: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 08:37:14: [ENGINE] Entity 0 can not be removed
+L 08/11/2024 - 08:37:14: [AMXX] Run time error 10 (plugin "zm_class_heavy.amxx") (native "remove_entity") - debug not enabled!
+L 08/11/2024 - 08:37:14: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 08:37:14: [ENGINE] Entity 0 can not be removed
+L 08/11/2024 - 08:37:14: [AMXX] Run time error 10 (plugin "zm_class_heavy.amxx") (native "remove_entity") - debug not enabled!
+L 08/11/2024 - 08:37:14: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 08:37:14: [ENGINE] Entity 0 can not be removed
+L 08/11/2024 - 08:37:14: [AMXX] Run time error 10 (plugin "zm_class_heavy.amxx") (native "remove_entity") - debug not enabled!
+L 08/11/2024 - 08:37:14: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 08:37:14: [ENGINE] Entity 0 can not be removed
+L 08/11/2024 - 08:37:14: [AMXX] Run time error 10 (plugin "zm_class_heavy.amxx") (native "remove_entity") - debug not enabled!
+L 08/11/2024 - 08:37:14: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 08:37:14: [ENGINE] Entity 0 can not be removed
+L 08/11/2024 - 08:37:14: [AMXX] Run time error 10 (plugin "zm_class_heavy.amxx") (native "remove_entity") - debug not enabled!
+L 08/11/2024 - 08:37:14: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 08:37:14: [ENGINE] Entity 0 can not be removed
+L 08/11/2024 - 08:37:14: [AMXX] Run time error 10 (plugin "zm_class_heavy.amxx") (native "remove_entity") - debug not enabled!
+L 08/11/2024 - 08:37:14: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 08:38:02: Start of error session.
+L 08/11/2024 - 08:38:02: Info (map "zm_deko2") (file "addons/amxmodx/logs/error_20240811.log")
+L 08/11/2024 - 08:38:02: [AMXX] Plugin file open error (plugin "scm_entity_editor.amxx")
+L 08/11/2024 - 08:38:10: [ENGINE] Entity 0 can not be removed
+L 08/11/2024 - 08:38:10: [AMXX] Run time error 10 (plugin "zm_class_heavy.amxx") (native "remove_entity") - debug not enabled!
+L 08/11/2024 - 08:38:10: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 08:38:10: [ENGINE] Entity 0 can not be removed
+L 08/11/2024 - 08:38:10: [AMXX] Run time error 10 (plugin "zm_class_heavy.amxx") (native "remove_entity") - debug not enabled!
+L 08/11/2024 - 08:38:10: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 08:38:11: [ENGINE] Entity 0 can not be removed
+L 08/11/2024 - 08:38:11: [AMXX] Run time error 10 (plugin "zm_class_heavy.amxx") (native "remove_entity") - debug not enabled!
+L 08/11/2024 - 08:38:11: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 08:38:11: [ENGINE] Entity 0 can not be removed
+L 08/11/2024 - 08:38:11: [AMXX] Run time error 10 (plugin "zm_class_heavy.amxx") (native "remove_entity") - debug not enabled!
+L 08/11/2024 - 08:38:11: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 08:38:12: [ENGINE] Entity 0 can not be removed
+L 08/11/2024 - 08:38:12: [AMXX] Run time error 10 (plugin "zm_class_heavy.amxx") (native "remove_entity") - debug not enabled!
+L 08/11/2024 - 08:38:12: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 08:38:12: [ENGINE] Entity 0 can not be removed
+L 08/11/2024 - 08:38:12: [AMXX] Run time error 10 (plugin "zm_class_heavy.amxx") (native "remove_entity") - debug not enabled!
+L 08/11/2024 - 08:38:12: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 08:38:13: [ENGINE] Entity 0 can not be removed
+L 08/11/2024 - 08:38:13: [AMXX] Run time error 10 (plugin "zm_class_heavy.amxx") (native "remove_entity") - debug not enabled!
+L 08/11/2024 - 08:38:13: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 08:38:13: [AMXX] Run time error 4 (plugin "start_menu.amxx") - debug not enabled!
+L 08/11/2024 - 08:38:13: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 08:38:13: [CS] Player is not in game (8)
+L 08/11/2024 - 08:38:13: [AMXX] Run time error 10 (plugin "K_menu_model.amxx") (native "cs_set_player_model") - debug not enabled!
+L 08/11/2024 - 08:38:13: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 08:38:13: [AMXX] Run time error 4 (plugin "Krol_vip_menu.amxx") - debug not enabled!
+L 08/11/2024 - 08:38:13: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 08:38:13: [AMXX] Run time error 4 (plugin "Krol_admin_menu.amxx") - debug not enabled!
+L 08/11/2024 - 08:38:13: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 08:38:13: [AMXX] Run time error 4 (plugin "Krol_supadmin_menu.amxx") - debug not enabled!
+L 08/11/2024 - 08:38:13: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 08:38:13: [AMXX] Run time error 4 (plugin "Krol_boss_menu.amxx") - debug not enabled!
+L 08/11/2024 - 08:38:13: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 08:38:13: [AMXX] Run time error 4 (plugin "Krol_prem_menu.amxx") - debug not enabled!
+L 08/11/2024 - 08:38:13: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 08:38:13: [AMXX] Run time error 4 (plugin "Krol_lord_menu.amxx") - debug not enabled!
+L 08/11/2024 - 08:38:13: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 08:38:13: [AMXX] Run time error 4 (plugin "Krol_elite_menu.amxx") - debug not enabled!
+L 08/11/2024 - 08:38:13: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 08:38:13: [AMXX] Run time error 4 (plugin "Krol_god_menu.amxx") - debug not enabled!
+L 08/11/2024 - 08:38:13: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 08:38:13: [ENGINE] Entity 0 can not be removed
+L 08/11/2024 - 08:38:13: [AMXX] Run time error 10 (plugin "zm_class_heavy.amxx") (native "remove_entity") - debug not enabled!
+L 08/11/2024 - 08:38:13: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 08:38:13: [ENGINE] Entity 0 can not be removed
+L 08/11/2024 - 08:38:13: [AMXX] Run time error 10 (plugin "zm_class_heavy.amxx") (native "remove_entity") - debug not enabled!
+L 08/11/2024 - 08:38:13: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 08:38:13: [ENGINE] Entity 0 can not be removed
+L 08/11/2024 - 08:38:13: [AMXX] Run time error 10 (plugin "zm_class_heavy.amxx") (native "remove_entity") - debug not enabled!
+L 08/11/2024 - 08:38:13: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 08:38:13: [ENGINE] Entity 0 can not be removed
+L 08/11/2024 - 08:38:13: [AMXX] Run time error 10 (plugin "zm_class_heavy.amxx") (native "remove_entity") - debug not enabled!
+L 08/11/2024 - 08:38:13: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 08:38:13: [ENGINE] Entity 0 can not be removed
+L 08/11/2024 - 08:38:13: [AMXX] Run time error 10 (plugin "zm_class_heavy.amxx") (native "remove_entity") - debug not enabled!
+L 08/11/2024 - 08:38:13: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 08:38:13: [ENGINE] Entity 0 can not be removed
+L 08/11/2024 - 08:38:13: [AMXX] Run time error 10 (plugin "zm_class_heavy.amxx") (native "remove_entity") - debug not enabled!
+L 08/11/2024 - 08:38:13: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 08:38:13: [ENGINE] Entity 0 can not be removed
+L 08/11/2024 - 08:38:13: [AMXX] Run time error 10 (plugin "zm_class_heavy.amxx") (native "remove_entity") - debug not enabled!
+L 08/11/2024 - 08:38:13: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 08:40:06: Start of error session.
+L 08/11/2024 - 08:40:06: Info (map "zm_deko2") (file "addons/amxmodx/logs/error_20240811.log")
+L 08/11/2024 - 08:40:06: [AMXX] Plugin file open error (plugin "scm_entity_editor.amxx")
+L 08/11/2024 - 08:40:14: [ENGINE] Entity 0 can not be removed
+L 08/11/2024 - 08:40:14: [AMXX] Run time error 10 (plugin "zm_class_heavy.amxx") (native "remove_entity") - debug not enabled!
+L 08/11/2024 - 08:40:14: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 08:40:15: [ENGINE] Entity 0 can not be removed
+L 08/11/2024 - 08:40:15: [AMXX] Run time error 10 (plugin "zm_class_heavy.amxx") (native "remove_entity") - debug not enabled!
+L 08/11/2024 - 08:40:15: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 08:40:15: [ENGINE] Entity 0 can not be removed
+L 08/11/2024 - 08:40:15: [AMXX] Run time error 10 (plugin "zm_class_heavy.amxx") (native "remove_entity") - debug not enabled!
+L 08/11/2024 - 08:40:15: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 08:40:16: [ENGINE] Entity 0 can not be removed
+L 08/11/2024 - 08:40:16: [AMXX] Run time error 10 (plugin "zm_class_heavy.amxx") (native "remove_entity") - debug not enabled!
+L 08/11/2024 - 08:40:16: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 08:40:16: [ENGINE] Entity 0 can not be removed
+L 08/11/2024 - 08:40:16: [AMXX] Run time error 10 (plugin "zm_class_heavy.amxx") (native "remove_entity") - debug not enabled!
+L 08/11/2024 - 08:40:16: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 08:40:17: [ENGINE] Entity 0 can not be removed
+L 08/11/2024 - 08:40:17: [AMXX] Run time error 10 (plugin "zm_class_heavy.amxx") (native "remove_entity") - debug not enabled!
+L 08/11/2024 - 08:40:17: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 08:40:17: [ENGINE] Entity 0 can not be removed
+L 08/11/2024 - 08:40:17: [AMXX] Run time error 10 (plugin "zm_class_heavy.amxx") (native "remove_entity") - debug not enabled!
+L 08/11/2024 - 08:40:17: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 08:40:18: [AMXX] Run time error 4 (plugin "start_menu.amxx") - debug not enabled!
+L 08/11/2024 - 08:40:18: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 08:40:18: [CS] Player is not in game (8)
+L 08/11/2024 - 08:40:18: [AMXX] Run time error 10 (plugin "K_menu_model.amxx") (native "cs_set_player_model") - debug not enabled!
+L 08/11/2024 - 08:40:18: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 08:40:18: [AMXX] Run time error 4 (plugin "Krol_vip_menu.amxx") - debug not enabled!
+L 08/11/2024 - 08:40:18: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 08:40:18: [AMXX] Run time error 4 (plugin "Krol_admin_menu.amxx") - debug not enabled!
+L 08/11/2024 - 08:40:18: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 08:40:18: [AMXX] Run time error 4 (plugin "Krol_supadmin_menu.amxx") - debug not enabled!
+L 08/11/2024 - 08:40:18: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 08:40:18: [AMXX] Run time error 4 (plugin "Krol_boss_menu.amxx") - debug not enabled!
+L 08/11/2024 - 08:40:18: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 08:40:18: [AMXX] Run time error 4 (plugin "Krol_prem_menu.amxx") - debug not enabled!
+L 08/11/2024 - 08:40:18: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 08:40:18: [AMXX] Run time error 4 (plugin "Krol_lord_menu.amxx") - debug not enabled!
+L 08/11/2024 - 08:40:18: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 08:40:18: [AMXX] Run time error 4 (plugin "Krol_elite_menu.amxx") - debug not enabled!
+L 08/11/2024 - 08:40:18: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 08:40:18: [AMXX] Run time error 4 (plugin "Krol_god_menu.amxx") - debug not enabled!
+L 08/11/2024 - 08:40:18: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 08:40:18: [ENGINE] Entity 0 can not be removed
+L 08/11/2024 - 08:40:18: [AMXX] Run time error 10 (plugin "zm_class_heavy.amxx") (native "remove_entity") - debug not enabled!
+L 08/11/2024 - 08:40:18: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 08:40:18: [ENGINE] Entity 0 can not be removed
+L 08/11/2024 - 08:40:18: [AMXX] Run time error 10 (plugin "zm_class_heavy.amxx") (native "remove_entity") - debug not enabled!
+L 08/11/2024 - 08:40:18: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 08:40:18: [ENGINE] Entity 0 can not be removed
+L 08/11/2024 - 08:40:18: [AMXX] Run time error 10 (plugin "zm_class_heavy.amxx") (native "remove_entity") - debug not enabled!
+L 08/11/2024 - 08:40:18: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 08:40:18: [ENGINE] Entity 0 can not be removed
+L 08/11/2024 - 08:40:18: [AMXX] Run time error 10 (plugin "zm_class_heavy.amxx") (native "remove_entity") - debug not enabled!
+L 08/11/2024 - 08:40:18: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 08:40:18: [ENGINE] Entity 0 can not be removed
+L 08/11/2024 - 08:40:18: [AMXX] Run time error 10 (plugin "zm_class_heavy.amxx") (native "remove_entity") - debug not enabled!
+L 08/11/2024 - 08:40:18: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 08:40:18: [ENGINE] Entity 0 can not be removed
+L 08/11/2024 - 08:40:18: [AMXX] Run time error 10 (plugin "zm_class_heavy.amxx") (native "remove_entity") - debug not enabled!
+L 08/11/2024 - 08:40:18: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 08:40:18: [ENGINE] Entity 0 can not be removed
+L 08/11/2024 - 08:40:18: [AMXX] Run time error 10 (plugin "zm_class_heavy.amxx") (native "remove_entity") - debug not enabled!
+L 08/11/2024 - 08:40:18: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 08:41:00: Invalid player id 90
+L 08/11/2024 - 08:41:00: [AMXX] Run time error 10 (plugin "show_hp_zombie.amxx") (native "get_user_flags") - debug not enabled!
+L 08/11/2024 - 08:41:00: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 08:45:29: [AMXX] Run time error 4 (plugin "start_menu.amxx") - debug not enabled!
+L 08/11/2024 - 08:45:29: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 08:45:29: [CS] Player is not in game (8)
+L 08/11/2024 - 08:45:29: [AMXX] Run time error 10 (plugin "K_menu_model.amxx") (native "cs_set_player_model") - debug not enabled!
+L 08/11/2024 - 08:45:29: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 08:45:29: [AMXX] Run time error 4 (plugin "Krol_vip_menu.amxx") - debug not enabled!
+L 08/11/2024 - 08:45:29: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 08:45:29: [AMXX] Run time error 4 (plugin "Krol_admin_menu.amxx") - debug not enabled!
+L 08/11/2024 - 08:45:29: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 08:45:29: [AMXX] Run time error 4 (plugin "Krol_supadmin_menu.amxx") - debug not enabled!
+L 08/11/2024 - 08:45:29: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 08:45:29: [AMXX] Run time error 4 (plugin "Krol_boss_menu.amxx") - debug not enabled!
+L 08/11/2024 - 08:45:29: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 08:45:29: [AMXX] Run time error 4 (plugin "Krol_prem_menu.amxx") - debug not enabled!
+L 08/11/2024 - 08:45:29: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 08:45:29: [AMXX] Run time error 4 (plugin "Krol_lord_menu.amxx") - debug not enabled!
+L 08/11/2024 - 08:45:29: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 08:45:29: [AMXX] Run time error 4 (plugin "Krol_elite_menu.amxx") - debug not enabled!
+L 08/11/2024 - 08:45:29: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 08:45:29: [AMXX] Run time error 4 (plugin "Krol_god_menu.amxx") - debug not enabled!
+L 08/11/2024 - 08:45:29: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 08:45:29: [ENGINE] Entity 0 can not be removed
+L 08/11/2024 - 08:45:29: [AMXX] Run time error 10 (plugin "zm_class_heavy.amxx") (native "remove_entity") - debug not enabled!
+L 08/11/2024 - 08:45:29: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 08:45:29: [ENGINE] Entity 0 can not be removed
+L 08/11/2024 - 08:45:29: [AMXX] Run time error 10 (plugin "zm_class_heavy.amxx") (native "remove_entity") - debug not enabled!
+L 08/11/2024 - 08:45:29: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 08:45:29: [ENGINE] Entity 0 can not be removed
+L 08/11/2024 - 08:45:29: [AMXX] Run time error 10 (plugin "zm_class_heavy.amxx") (native "remove_entity") - debug not enabled!
+L 08/11/2024 - 08:45:29: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 08:45:29: [ENGINE] Entity 0 can not be removed
+L 08/11/2024 - 08:45:29: [AMXX] Run time error 10 (plugin "zm_class_heavy.amxx") (native "remove_entity") - debug not enabled!
+L 08/11/2024 - 08:45:29: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 08:45:29: [ENGINE] Entity 0 can not be removed
+L 08/11/2024 - 08:45:29: [AMXX] Run time error 10 (plugin "zm_class_heavy.amxx") (native "remove_entity") - debug not enabled!
+L 08/11/2024 - 08:45:29: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 08:45:29: [ENGINE] Entity 0 can not be removed
+L 08/11/2024 - 08:45:29: [AMXX] Run time error 10 (plugin "zm_class_heavy.amxx") (native "remove_entity") - debug not enabled!
+L 08/11/2024 - 08:45:29: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 08:45:29: [ENGINE] Entity 0 can not be removed
+L 08/11/2024 - 08:45:29: [AMXX] Run time error 10 (plugin "zm_class_heavy.amxx") (native "remove_entity") - debug not enabled!
+L 08/11/2024 - 08:45:29: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 08:50:40: [AMXX] Run time error 4 (plugin "start_menu.amxx") - debug not enabled!
+L 08/11/2024 - 08:50:40: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 08:50:40: [CS] Player is not in game (8)
+L 08/11/2024 - 08:50:40: [AMXX] Run time error 10 (plugin "K_menu_model.amxx") (native "cs_set_player_model") - debug not enabled!
+L 08/11/2024 - 08:50:40: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 08:50:40: [AMXX] Run time error 4 (plugin "Krol_vip_menu.amxx") - debug not enabled!
+L 08/11/2024 - 08:50:40: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 08:50:40: [AMXX] Run time error 4 (plugin "Krol_admin_menu.amxx") - debug not enabled!
+L 08/11/2024 - 08:50:40: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 08:50:40: [AMXX] Run time error 4 (plugin "Krol_supadmin_menu.amxx") - debug not enabled!
+L 08/11/2024 - 08:50:40: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 08:50:40: [AMXX] Run time error 4 (plugin "Krol_boss_menu.amxx") - debug not enabled!
+L 08/11/2024 - 08:50:40: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 08:50:40: [AMXX] Run time error 4 (plugin "Krol_prem_menu.amxx") - debug not enabled!
+L 08/11/2024 - 08:50:40: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 08:50:40: [AMXX] Run time error 4 (plugin "Krol_lord_menu.amxx") - debug not enabled!
+L 08/11/2024 - 08:50:40: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 08:50:40: [AMXX] Run time error 4 (plugin "Krol_elite_menu.amxx") - debug not enabled!
+L 08/11/2024 - 08:50:40: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 08:50:40: [AMXX] Run time error 4 (plugin "Krol_god_menu.amxx") - debug not enabled!
+L 08/11/2024 - 08:50:40: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 08:50:40: [ENGINE] Entity 0 can not be removed
+L 08/11/2024 - 08:50:40: [AMXX] Run time error 10 (plugin "zm_class_heavy.amxx") (native "remove_entity") - debug not enabled!
+L 08/11/2024 - 08:50:40: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 08:50:40: [ENGINE] Entity 0 can not be removed
+L 08/11/2024 - 08:50:40: [AMXX] Run time error 10 (plugin "zm_class_heavy.amxx") (native "remove_entity") - debug not enabled!
+L 08/11/2024 - 08:50:40: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 08:50:40: [ENGINE] Entity 0 can not be removed
+L 08/11/2024 - 08:50:40: [AMXX] Run time error 10 (plugin "zm_class_heavy.amxx") (native "remove_entity") - debug not enabled!
+L 08/11/2024 - 08:50:40: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 08:50:40: [ENGINE] Entity 0 can not be removed
+L 08/11/2024 - 08:50:40: [AMXX] Run time error 10 (plugin "zm_class_heavy.amxx") (native "remove_entity") - debug not enabled!
+L 08/11/2024 - 08:50:40: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 08:50:40: [ENGINE] Entity 0 can not be removed
+L 08/11/2024 - 08:50:40: [AMXX] Run time error 10 (plugin "zm_class_heavy.amxx") (native "remove_entity") - debug not enabled!
+L 08/11/2024 - 08:50:40: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 08:50:40: [ENGINE] Entity 0 can not be removed
+L 08/11/2024 - 08:50:40: [AMXX] Run time error 10 (plugin "zm_class_heavy.amxx") (native "remove_entity") - debug not enabled!
+L 08/11/2024 - 08:50:40: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 08:50:40: [ENGINE] Entity 0 can not be removed
+L 08/11/2024 - 08:50:40: [AMXX] Run time error 10 (plugin "zm_class_heavy.amxx") (native "remove_entity") - debug not enabled!
+L 08/11/2024 - 08:50:40: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 08:55:51: [AMXX] Run time error 4 (plugin "start_menu.amxx") - debug not enabled!
+L 08/11/2024 - 08:55:51: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 08:55:51: [CS] Player is not in game (8)
+L 08/11/2024 - 08:55:51: [AMXX] Run time error 10 (plugin "K_menu_model.amxx") (native "cs_set_player_model") - debug not enabled!
+L 08/11/2024 - 08:55:51: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 08:55:51: [AMXX] Run time error 4 (plugin "Krol_vip_menu.amxx") - debug not enabled!
+L 08/11/2024 - 08:55:51: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 08:55:51: [AMXX] Run time error 4 (plugin "Krol_admin_menu.amxx") - debug not enabled!
+L 08/11/2024 - 08:55:51: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 08:55:51: [AMXX] Run time error 4 (plugin "Krol_supadmin_menu.amxx") - debug not enabled!
+L 08/11/2024 - 08:55:51: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 08:55:51: [AMXX] Run time error 4 (plugin "Krol_boss_menu.amxx") - debug not enabled!
+L 08/11/2024 - 08:55:51: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 08:55:51: [AMXX] Run time error 4 (plugin "Krol_prem_menu.amxx") - debug not enabled!
+L 08/11/2024 - 08:55:51: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 08:55:51: [AMXX] Run time error 4 (plugin "Krol_lord_menu.amxx") - debug not enabled!
+L 08/11/2024 - 08:55:51: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 08:55:51: [AMXX] Run time error 4 (plugin "Krol_elite_menu.amxx") - debug not enabled!
+L 08/11/2024 - 08:55:51: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 08:55:51: [AMXX] Run time error 4 (plugin "Krol_god_menu.amxx") - debug not enabled!
+L 08/11/2024 - 08:55:51: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 08:55:51: [ENGINE] Entity 0 can not be removed
+L 08/11/2024 - 08:55:51: [AMXX] Run time error 10 (plugin "zm_class_heavy.amxx") (native "remove_entity") - debug not enabled!
+L 08/11/2024 - 08:55:51: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 08:55:51: [ENGINE] Entity 0 can not be removed
+L 08/11/2024 - 08:55:51: [AMXX] Run time error 10 (plugin "zm_class_heavy.amxx") (native "remove_entity") - debug not enabled!
+L 08/11/2024 - 08:55:51: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 08:55:51: [ENGINE] Entity 0 can not be removed
+L 08/11/2024 - 08:55:51: [AMXX] Run time error 10 (plugin "zm_class_heavy.amxx") (native "remove_entity") - debug not enabled!
+L 08/11/2024 - 08:55:51: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 08:55:51: [ENGINE] Entity 0 can not be removed
+L 08/11/2024 - 08:55:51: [AMXX] Run time error 10 (plugin "zm_class_heavy.amxx") (native "remove_entity") - debug not enabled!
+L 08/11/2024 - 08:55:51: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 08:55:51: [ENGINE] Entity 0 can not be removed
+L 08/11/2024 - 08:55:51: [AMXX] Run time error 10 (plugin "zm_class_heavy.amxx") (native "remove_entity") - debug not enabled!
+L 08/11/2024 - 08:55:51: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 08:55:51: [ENGINE] Entity 0 can not be removed
+L 08/11/2024 - 08:55:51: [AMXX] Run time error 10 (plugin "zm_class_heavy.amxx") (native "remove_entity") - debug not enabled!
+L 08/11/2024 - 08:55:51: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 08:55:51: [ENGINE] Entity 0 can not be removed
+L 08/11/2024 - 08:55:51: [AMXX] Run time error 10 (plugin "zm_class_heavy.amxx") (native "remove_entity") - debug not enabled!
+L 08/11/2024 - 08:55:51: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 09:01:02: [AMXX] Run time error 4 (plugin "start_menu.amxx") - debug not enabled!
+L 08/11/2024 - 09:01:02: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 09:01:02: [CS] Player is not in game (8)
+L 08/11/2024 - 09:01:02: [AMXX] Run time error 10 (plugin "K_menu_model.amxx") (native "cs_set_player_model") - debug not enabled!
+L 08/11/2024 - 09:01:02: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 09:01:02: [AMXX] Run time error 4 (plugin "Krol_vip_menu.amxx") - debug not enabled!
+L 08/11/2024 - 09:01:02: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 09:01:02: [AMXX] Run time error 4 (plugin "Krol_admin_menu.amxx") - debug not enabled!
+L 08/11/2024 - 09:01:02: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 09:01:02: [AMXX] Run time error 4 (plugin "Krol_supadmin_menu.amxx") - debug not enabled!
+L 08/11/2024 - 09:01:02: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 09:01:02: [AMXX] Run time error 4 (plugin "Krol_boss_menu.amxx") - debug not enabled!
+L 08/11/2024 - 09:01:02: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 09:01:02: [AMXX] Run time error 4 (plugin "Krol_prem_menu.amxx") - debug not enabled!
+L 08/11/2024 - 09:01:02: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 09:01:02: [AMXX] Run time error 4 (plugin "Krol_lord_menu.amxx") - debug not enabled!
+L 08/11/2024 - 09:01:02: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 09:01:02: [AMXX] Run time error 4 (plugin "Krol_elite_menu.amxx") - debug not enabled!
+L 08/11/2024 - 09:01:02: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 09:01:02: [AMXX] Run time error 4 (plugin "Krol_god_menu.amxx") - debug not enabled!
+L 08/11/2024 - 09:01:02: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 09:01:02: [ENGINE] Entity 0 can not be removed
+L 08/11/2024 - 09:01:02: [AMXX] Run time error 10 (plugin "zm_class_heavy.amxx") (native "remove_entity") - debug not enabled!
+L 08/11/2024 - 09:01:02: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 09:01:02: [ENGINE] Entity 0 can not be removed
+L 08/11/2024 - 09:01:02: [AMXX] Run time error 10 (plugin "zm_class_heavy.amxx") (native "remove_entity") - debug not enabled!
+L 08/11/2024 - 09:01:02: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 09:01:02: [ENGINE] Entity 0 can not be removed
+L 08/11/2024 - 09:01:02: [AMXX] Run time error 10 (plugin "zm_class_heavy.amxx") (native "remove_entity") - debug not enabled!
+L 08/11/2024 - 09:01:02: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 09:01:02: [ENGINE] Entity 0 can not be removed
+L 08/11/2024 - 09:01:02: [AMXX] Run time error 10 (plugin "zm_class_heavy.amxx") (native "remove_entity") - debug not enabled!
+L 08/11/2024 - 09:01:02: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 09:01:02: [ENGINE] Entity 0 can not be removed
+L 08/11/2024 - 09:01:02: [AMXX] Run time error 10 (plugin "zm_class_heavy.amxx") (native "remove_entity") - debug not enabled!
+L 08/11/2024 - 09:01:02: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 09:01:02: [ENGINE] Entity 0 can not be removed
+L 08/11/2024 - 09:01:02: [AMXX] Run time error 10 (plugin "zm_class_heavy.amxx") (native "remove_entity") - debug not enabled!
+L 08/11/2024 - 09:01:02: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 09:01:02: [ENGINE] Entity 0 can not be removed
+L 08/11/2024 - 09:01:02: [AMXX] Run time error 10 (plugin "zm_class_heavy.amxx") (native "remove_entity") - debug not enabled!
+L 08/11/2024 - 09:01:02: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 09:06:13: [AMXX] Run time error 4 (plugin "start_menu.amxx") - debug not enabled!
+L 08/11/2024 - 09:06:13: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 09:06:13: [CS] Player is not in game (8)
+L 08/11/2024 - 09:06:13: [AMXX] Run time error 10 (plugin "K_menu_model.amxx") (native "cs_set_player_model") - debug not enabled!
+L 08/11/2024 - 09:06:13: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 09:06:13: [AMXX] Run time error 4 (plugin "Krol_vip_menu.amxx") - debug not enabled!
+L 08/11/2024 - 09:06:13: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 09:06:13: [AMXX] Run time error 4 (plugin "Krol_admin_menu.amxx") - debug not enabled!
+L 08/11/2024 - 09:06:13: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 09:06:13: [AMXX] Run time error 4 (plugin "Krol_supadmin_menu.amxx") - debug not enabled!
+L 08/11/2024 - 09:06:13: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 09:06:13: [AMXX] Run time error 4 (plugin "Krol_boss_menu.amxx") - debug not enabled!
+L 08/11/2024 - 09:06:13: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 09:06:13: [AMXX] Run time error 4 (plugin "Krol_prem_menu.amxx") - debug not enabled!
+L 08/11/2024 - 09:06:13: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 09:06:13: [AMXX] Run time error 4 (plugin "Krol_lord_menu.amxx") - debug not enabled!
+L 08/11/2024 - 09:06:13: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 09:06:13: [AMXX] Run time error 4 (plugin "Krol_elite_menu.amxx") - debug not enabled!
+L 08/11/2024 - 09:06:13: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 09:06:13: [AMXX] Run time error 4 (plugin "Krol_god_menu.amxx") - debug not enabled!
+L 08/11/2024 - 09:06:13: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 09:06:13: [ENGINE] Entity 0 can not be removed
+L 08/11/2024 - 09:06:13: [AMXX] Run time error 10 (plugin "zm_class_heavy.amxx") (native "remove_entity") - debug not enabled!
+L 08/11/2024 - 09:06:13: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 09:06:13: [ENGINE] Entity 0 can not be removed
+L 08/11/2024 - 09:06:13: [AMXX] Run time error 10 (plugin "zm_class_heavy.amxx") (native "remove_entity") - debug not enabled!
+L 08/11/2024 - 09:06:13: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 09:06:13: [ENGINE] Entity 0 can not be removed
+L 08/11/2024 - 09:06:13: [AMXX] Run time error 10 (plugin "zm_class_heavy.amxx") (native "remove_entity") - debug not enabled!
+L 08/11/2024 - 09:06:13: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 09:06:13: [ENGINE] Entity 0 can not be removed
+L 08/11/2024 - 09:06:13: [AMXX] Run time error 10 (plugin "zm_class_heavy.amxx") (native "remove_entity") - debug not enabled!
+L 08/11/2024 - 09:06:13: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 09:06:13: [ENGINE] Entity 0 can not be removed
+L 08/11/2024 - 09:06:13: [AMXX] Run time error 10 (plugin "zm_class_heavy.amxx") (native "remove_entity") - debug not enabled!
+L 08/11/2024 - 09:06:13: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 09:06:13: [ENGINE] Entity 0 can not be removed
+L 08/11/2024 - 09:06:13: [AMXX] Run time error 10 (plugin "zm_class_heavy.amxx") (native "remove_entity") - debug not enabled!
+L 08/11/2024 - 09:06:13: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 09:06:13: [ENGINE] Entity 0 can not be removed
+L 08/11/2024 - 09:06:13: [AMXX] Run time error 10 (plugin "zm_class_heavy.amxx") (native "remove_entity") - debug not enabled!
+L 08/11/2024 - 09:06:13: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 09:06:18: Start of error session.
+L 08/11/2024 - 09:06:18: Info (map "zm_ice_world_2") (file "addons/amxmodx/logs/error_20240811.log")
+L 08/11/2024 - 09:06:18: [AMXX] Plugin file open error (plugin "scm_entity_editor.amxx")
+L 08/11/2024 - 09:06:28: [ENGINE] Entity 0 can not be removed
+L 08/11/2024 - 09:06:28: [AMXX] Run time error 10 (plugin "zm_class_heavy.amxx") (native "remove_entity") - debug not enabled!
+L 08/11/2024 - 09:06:28: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 09:10:12: Start of error session.
+L 08/11/2024 - 09:10:12: Info (map "zm_ice_world_2") (file "addons/amxmodx/logs/error_20240811.log")
+L 08/11/2024 - 09:10:12: [AMXX] Plugin file open error (plugin "scm_entity_editor.amxx")
+L 08/11/2024 - 09:10:20: [ENGINE] Entity 0 can not be removed
+L 08/11/2024 - 09:10:20: [AMXX] Run time error 10 (plugin "zm_class_heavy.amxx") (native "remove_entity") - debug not enabled!
+L 08/11/2024 - 09:10:20: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 09:11:00: Start of error session.
+L 08/11/2024 - 09:11:00: Info (map "zm_ice_world_2") (file "addons/amxmodx/logs/error_20240811.log")
+L 08/11/2024 - 09:11:00: [AMXX] Plugin file open error (plugin "scm_entity_editor.amxx")
+L 08/11/2024 - 09:11:09: [ENGINE] Entity 0 can not be removed
+L 08/11/2024 - 09:11:09: [AMXX] Run time error 10 (plugin "zm_class_heavy.amxx") (native "remove_entity") - debug not enabled!
+L 08/11/2024 - 09:11:09: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 09:12:03: Start of error session.
+L 08/11/2024 - 09:12:03: Info (map "zm_ice_world_2") (file "addons/amxmodx/logs/error_20240811.log")
+L 08/11/2024 - 09:12:03: [AMXX] Plugin file open error (plugin "scm_entity_editor.amxx")
+L 08/11/2024 - 09:12:10: [ENGINE] Entity 0 can not be removed
+L 08/11/2024 - 09:12:10: [AMXX] Run time error 10 (plugin "zm_class_heavy.amxx") (native "remove_entity") - debug not enabled!
+L 08/11/2024 - 09:12:10: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 09:16:10: Start of error session.
+L 08/11/2024 - 09:16:10: Info (map "zm_ice_world_2") (file "addons/amxmodx/logs/error_20240811.log")
+L 08/11/2024 - 09:16:10: [AMXX] Plugin file open error (plugin "scm_entity_editor.amxx")
+L 08/11/2024 - 09:16:18: [ENGINE] Entity 0 can not be removed
+L 08/11/2024 - 09:16:18: [AMXX] Run time error 10 (plugin "zm_class_heavy.amxx") (native "remove_entity") - debug not enabled!
+L 08/11/2024 - 09:16:18: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 09:21:26: [AMXX] Run time error 4 (plugin "start_menu.amxx") - debug not enabled!
+L 08/11/2024 - 09:21:26: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 09:21:26: [CS] Player is not in game (1)
+L 08/11/2024 - 09:21:26: [AMXX] Run time error 10 (plugin "K_menu_model.amxx") (native "cs_set_player_model") - debug not enabled!
+L 08/11/2024 - 09:21:26: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 09:21:26: [AMXX] Run time error 4 (plugin "Krol_vip_menu.amxx") - debug not enabled!
+L 08/11/2024 - 09:21:26: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 09:21:26: [AMXX] Run time error 4 (plugin "Krol_admin_menu.amxx") - debug not enabled!
+L 08/11/2024 - 09:21:26: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 09:21:26: [AMXX] Run time error 4 (plugin "Krol_supadmin_menu.amxx") - debug not enabled!
+L 08/11/2024 - 09:21:26: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 09:21:26: [AMXX] Run time error 4 (plugin "Krol_boss_menu.amxx") - debug not enabled!
+L 08/11/2024 - 09:21:26: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 09:21:26: [AMXX] Run time error 4 (plugin "Krol_prem_menu.amxx") - debug not enabled!
+L 08/11/2024 - 09:21:26: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 09:21:26: [AMXX] Run time error 4 (plugin "Krol_lord_menu.amxx") - debug not enabled!
+L 08/11/2024 - 09:21:26: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 09:21:26: [AMXX] Run time error 4 (plugin "Krol_elite_menu.amxx") - debug not enabled!
+L 08/11/2024 - 09:21:26: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 09:21:26: [AMXX] Run time error 4 (plugin "Krol_god_menu.amxx") - debug not enabled!
+L 08/11/2024 - 09:21:26: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 09:21:26: [ENGINE] Entity 0 can not be removed
+L 08/11/2024 - 09:21:26: [AMXX] Run time error 10 (plugin "zm_class_heavy.amxx") (native "remove_entity") - debug not enabled!
+L 08/11/2024 - 09:21:26: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 09:21:36: Start of error session.
+L 08/11/2024 - 09:21:36: Info (map "zm_ice_world_2") (file "addons/amxmodx/logs/error_20240811.log")
+L 08/11/2024 - 09:21:36: [AMXX] Plugin file open error (plugin "scm_entity_editor.amxx")
+L 08/11/2024 - 09:21:44: [ENGINE] Entity 0 can not be removed
+L 08/11/2024 - 09:21:44: [AMXX] Run time error 10 (plugin "zm_class_heavy.amxx") (native "remove_entity") - debug not enabled!
+L 08/11/2024 - 09:21:44: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 09:26:38: Start of error session.
+L 08/11/2024 - 09:26:38: Info (map "zm_ice_world_2") (file "addons/amxmodx/logs/error_20240811.log")
+L 08/11/2024 - 09:26:38: [AMXX] Plugin file open error (plugin "scm_entity_editor.amxx")
+L 08/11/2024 - 09:26:46: [ENGINE] Entity 0 can not be removed
+L 08/11/2024 - 09:26:46: [AMXX] Run time error 10 (plugin "zm_class_heavy.amxx") (native "remove_entity") - debug not enabled!
+L 08/11/2024 - 09:26:46: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 09:27:22: Start of error session.
+L 08/11/2024 - 09:27:22: Info (map "zm_ice_world_2") (file "addons/amxmodx/logs/error_20240811.log")
+L 08/11/2024 - 09:27:22: [AMXX] Plugin file open error (plugin "scm_entity_editor.amxx")
+L 08/11/2024 - 09:27:29: [ENGINE] Entity 0 can not be removed
+L 08/11/2024 - 09:27:29: [AMXX] Run time error 10 (plugin "zm_class_heavy.amxx") (native "remove_entity") - debug not enabled!
+L 08/11/2024 - 09:27:29: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 09:30:40: Start of error session.
+L 08/11/2024 - 09:30:40: Info (map "zm_ice_world_2") (file "addons/amxmodx/logs/error_20240811.log")
+L 08/11/2024 - 09:30:40: [AMXX] Plugin file open error (plugin "scm_entity_editor.amxx")
+L 08/11/2024 - 09:30:48: [ENGINE] Entity 0 can not be removed
+L 08/11/2024 - 09:30:48: [AMXX] Run time error 10 (plugin "zm_class_heavy.amxx") (native "remove_entity") - debug not enabled!
+L 08/11/2024 - 09:30:48: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 09:31:45: Start of error session.
+L 08/11/2024 - 09:31:45: Info (map "zm_ice_world_2") (file "addons/amxmodx/logs/error_20240811.log")
+L 08/11/2024 - 09:31:45: [AMXX] Plugin file open error (plugin "scm_entity_editor.amxx")
+L 08/11/2024 - 09:31:53: [ENGINE] Entity 0 can not be removed
+L 08/11/2024 - 09:31:53: [AMXX] Run time error 10 (plugin "zm_class_heavy.amxx") (native "remove_entity") - debug not enabled!
+L 08/11/2024 - 09:31:53: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 09:37:01: [AMXX] Run time error 4 (plugin "start_menu.amxx") - debug not enabled!
+L 08/11/2024 - 09:37:01: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 09:37:01: [CS] Player is not in game (1)
+L 08/11/2024 - 09:37:01: [AMXX] Run time error 10 (plugin "K_menu_model.amxx") (native "cs_set_player_model") - debug not enabled!
+L 08/11/2024 - 09:37:01: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 09:37:01: [AMXX] Run time error 4 (plugin "Krol_vip_menu.amxx") - debug not enabled!
+L 08/11/2024 - 09:37:01: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 09:37:01: [AMXX] Run time error 4 (plugin "Krol_admin_menu.amxx") - debug not enabled!
+L 08/11/2024 - 09:37:01: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 09:37:01: [AMXX] Run time error 4 (plugin "Krol_supadmin_menu.amxx") - debug not enabled!
+L 08/11/2024 - 09:37:01: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 09:37:01: [AMXX] Run time error 4 (plugin "Krol_boss_menu.amxx") - debug not enabled!
+L 08/11/2024 - 09:37:01: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 09:37:01: [AMXX] Run time error 4 (plugin "Krol_prem_menu.amxx") - debug not enabled!
+L 08/11/2024 - 09:37:01: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 09:37:01: [AMXX] Run time error 4 (plugin "Krol_lord_menu.amxx") - debug not enabled!
+L 08/11/2024 - 09:37:01: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 09:37:01: [AMXX] Run time error 4 (plugin "Krol_elite_menu.amxx") - debug not enabled!
+L 08/11/2024 - 09:37:01: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 09:37:01: [AMXX] Run time error 4 (plugin "Krol_god_menu.amxx") - debug not enabled!
+L 08/11/2024 - 09:37:01: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 09:37:01: [ENGINE] Entity 0 can not be removed
+L 08/11/2024 - 09:37:01: [AMXX] Run time error 10 (plugin "zm_class_heavy.amxx") (native "remove_entity") - debug not enabled!
+L 08/11/2024 - 09:37:01: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 09:40:48: Start of error session.
+L 08/11/2024 - 09:40:48: Info (map "zm_ice_world_2") (file "addons/amxmodx/logs/error_20240811.log")
+L 08/11/2024 - 09:40:48: [AMXX] Plugin file open error (plugin "scm_entity_editor.amxx")
+L 08/11/2024 - 09:40:57: [ENGINE] Entity 0 can not be removed
+L 08/11/2024 - 09:40:57: [AMXX] Run time error 10 (plugin "zm_class_heavy.amxx") (native "remove_entity") - debug not enabled!
+L 08/11/2024 - 09:40:57: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 09:41:01: [AMXX] Run time error 4 (plugin "skills.amxx") - debug not enabled!
+L 08/11/2024 - 09:41:01: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 09:41:01: [AMXX] Run time error 4 (plugin "skills.amxx") - debug not enabled!
+L 08/11/2024 - 09:41:01: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 09:41:02: [AMXX] Run time error 4 (plugin "skills.amxx") - debug not enabled!
+L 08/11/2024 - 09:41:02: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 09:41:02: [AMXX] Run time error 4 (plugin "skills.amxx") - debug not enabled!
+L 08/11/2024 - 09:41:02: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 09:41:02: [AMXX] Run time error 4 (plugin "skills.amxx") - debug not enabled!
+L 08/11/2024 - 09:41:02: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 09:41:04: [AMXX] Run time error 4 (plugin "skills.amxx") - debug not enabled!
+L 08/11/2024 - 09:41:04: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 09:41:04: [AMXX] Run time error 4 (plugin "skills.amxx") - debug not enabled!
+L 08/11/2024 - 09:41:04: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 09:41:04: [AMXX] Run time error 4 (plugin "skills.amxx") - debug not enabled!
+L 08/11/2024 - 09:41:04: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 09:41:04: [AMXX] Run time error 4 (plugin "skills.amxx") - debug not enabled!
+L 08/11/2024 - 09:41:04: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 09:41:04: [AMXX] Run time error 4 (plugin "skills.amxx") - debug not enabled!
+L 08/11/2024 - 09:41:04: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 09:41:04: [AMXX] Run time error 4 (plugin "skills.amxx") - debug not enabled!
+L 08/11/2024 - 09:41:04: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 09:41:05: [AMXX] Run time error 4 (plugin "skills.amxx") - debug not enabled!
+L 08/11/2024 - 09:41:05: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 09:41:05: [AMXX] Run time error 4 (plugin "skills.amxx") - debug not enabled!
+L 08/11/2024 - 09:41:05: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 09:41:06: [AMXX] Run time error 4 (plugin "skills.amxx") - debug not enabled!
+L 08/11/2024 - 09:41:06: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 09:41:06: [AMXX] Run time error 4 (plugin "skills.amxx") - debug not enabled!
+L 08/11/2024 - 09:41:06: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 09:41:06: [AMXX] Run time error 4 (plugin "skills.amxx") - debug not enabled!
+L 08/11/2024 - 09:41:06: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 09:41:06: [AMXX] Run time error 4 (plugin "skills.amxx") - debug not enabled!
+L 08/11/2024 - 09:41:06: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 09:41:06: [AMXX] Run time error 4 (plugin "skills.amxx") - debug not enabled!
+L 08/11/2024 - 09:41:06: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 09:41:07: [AMXX] Run time error 4 (plugin "skills.amxx") - debug not enabled!
+L 08/11/2024 - 09:41:07: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 09:41:07: [AMXX] Run time error 4 (plugin "skills.amxx") - debug not enabled!
+L 08/11/2024 - 09:41:07: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 09:41:45: Start of error session.
+L 08/11/2024 - 09:41:45: Info (map "zm_ice_world_2") (file "addons/amxmodx/logs/error_20240811.log")
+L 08/11/2024 - 09:41:45: [AMXX] Plugin file open error (plugin "scm_entity_editor.amxx")
+L 08/11/2024 - 09:41:52: [ENGINE] Entity 0 can not be removed
+L 08/11/2024 - 09:41:52: [AMXX] Run time error 10 (plugin "zm_class_heavy.amxx") (native "remove_entity") - debug not enabled!
+L 08/11/2024 - 09:41:52: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 09:41:57: [AMXX] Run time error 4 (plugin "skills.amxx") - debug not enabled!
+L 08/11/2024 - 09:41:57: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 09:41:57: [AMXX] Run time error 4 (plugin "skills.amxx") - debug not enabled!
+L 08/11/2024 - 09:41:57: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 09:41:58: [AMXX] Run time error 4 (plugin "skills.amxx") - debug not enabled!
+L 08/11/2024 - 09:41:58: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 09:41:58: [AMXX] Run time error 4 (plugin "skills.amxx") - debug not enabled!
+L 08/11/2024 - 09:41:58: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 09:41:58: [AMXX] Run time error 4 (plugin "skills.amxx") - debug not enabled!
+L 08/11/2024 - 09:41:58: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 09:41:58: [AMXX] Run time error 4 (plugin "skills.amxx") - debug not enabled!
+L 08/11/2024 - 09:41:58: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 09:41:59: [AMXX] Run time error 4 (plugin "skills.amxx") - debug not enabled!
+L 08/11/2024 - 09:41:59: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 09:43:43: Start of error session.
+L 08/11/2024 - 09:43:43: Info (map "zm_ice_world_2") (file "addons/amxmodx/logs/error_20240811.log")
+L 08/11/2024 - 09:43:43: [AMXX] Plugin file open error (plugin "scm_entity_editor.amxx")
+L 08/11/2024 - 09:43:50: [ENGINE] Entity 0 can not be removed
+L 08/11/2024 - 09:43:50: [AMXX] Run time error 10 (plugin "zm_class_heavy.amxx") (native "remove_entity") - debug not enabled!
+L 08/11/2024 - 09:43:50: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 09:48:56: Start of error session.
+L 08/11/2024 - 09:48:56: Info (map "zm_ice_world_2") (file "addons/amxmodx/logs/error_20240811.log")
+L 08/11/2024 - 09:48:56: [AMXX] Plugin file open error (plugin "scm_entity_editor.amxx")
+L 08/11/2024 - 09:49:06: [ENGINE] Entity 0 can not be removed
+L 08/11/2024 - 09:49:06: [AMXX] Run time error 10 (plugin "zm_class_heavy.amxx") (native "remove_entity") - debug not enabled!
+L 08/11/2024 - 09:49:06: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 09:52:57: Start of error session.
+L 08/11/2024 - 09:52:57: Info (map "zm_ice_world_2") (file "addons/amxmodx/logs/error_20240811.log")
+L 08/11/2024 - 09:52:57: [AMXX] Plugin file open error (plugin "scm_entity_editor.amxx")
+L 08/11/2024 - 09:53:04: [ENGINE] Entity 0 can not be removed
+L 08/11/2024 - 09:53:04: [AMXX] Run time error 10 (plugin "zm_class_heavy.amxx") (native "remove_entity") - debug not enabled!
+L 08/11/2024 - 09:53:04: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 09:53:51: Start of error session.
+L 08/11/2024 - 09:53:51: Info (map "zm_ice_world_2") (file "addons/amxmodx/logs/error_20240811.log")
+L 08/11/2024 - 09:53:51: [AMXX] Plugin file open error (plugin "scm_entity_editor.amxx")
+L 08/11/2024 - 09:53:59: [ENGINE] Entity 0 can not be removed
+L 08/11/2024 - 09:53:59: [AMXX] Run time error 10 (plugin "zm_class_heavy.amxx") (native "remove_entity") - debug not enabled!
+L 08/11/2024 - 09:53:59: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 09:59:06: [AMXX] Run time error 4 (plugin "start_menu.amxx") - debug not enabled!
+L 08/11/2024 - 09:59:06: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 09:59:06: [CS] Player is not in game (1)
+L 08/11/2024 - 09:59:06: [AMXX] Run time error 10 (plugin "K_menu_model.amxx") (native "cs_set_player_model") - debug not enabled!
+L 08/11/2024 - 09:59:06: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 09:59:06: [AMXX] Run time error 4 (plugin "Krol_vip_menu.amxx") - debug not enabled!
+L 08/11/2024 - 09:59:06: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 09:59:06: [AMXX] Run time error 4 (plugin "Krol_admin_menu.amxx") - debug not enabled!
+L 08/11/2024 - 09:59:06: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 09:59:06: [AMXX] Run time error 4 (plugin "Krol_supadmin_menu.amxx") - debug not enabled!
+L 08/11/2024 - 09:59:06: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 09:59:06: [AMXX] Run time error 4 (plugin "Krol_boss_menu.amxx") - debug not enabled!
+L 08/11/2024 - 09:59:06: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 09:59:06: [AMXX] Run time error 4 (plugin "Krol_prem_menu.amxx") - debug not enabled!
+L 08/11/2024 - 09:59:06: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 09:59:06: [AMXX] Run time error 4 (plugin "Krol_lord_menu.amxx") - debug not enabled!
+L 08/11/2024 - 09:59:06: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 09:59:06: [AMXX] Run time error 4 (plugin "Krol_elite_menu.amxx") - debug not enabled!
+L 08/11/2024 - 09:59:06: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 09:59:06: [AMXX] Run time error 4 (plugin "Krol_god_menu.amxx") - debug not enabled!
+L 08/11/2024 - 09:59:06: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 09:59:06: [ENGINE] Entity 0 can not be removed
+L 08/11/2024 - 09:59:06: [AMXX] Run time error 10 (plugin "zm_class_heavy.amxx") (native "remove_entity") - debug not enabled!
+L 08/11/2024 - 09:59:06: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 10:04:17: [AMXX] Run time error 4 (plugin "start_menu.amxx") - debug not enabled!
+L 08/11/2024 - 10:04:17: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 10:04:17: [CS] Player is not in game (1)
+L 08/11/2024 - 10:04:17: [AMXX] Run time error 10 (plugin "K_menu_model.amxx") (native "cs_set_player_model") - debug not enabled!
+L 08/11/2024 - 10:04:17: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 10:04:17: [AMXX] Run time error 4 (plugin "Krol_vip_menu.amxx") - debug not enabled!
+L 08/11/2024 - 10:04:17: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 10:04:17: [AMXX] Run time error 4 (plugin "Krol_admin_menu.amxx") - debug not enabled!
+L 08/11/2024 - 10:04:17: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 10:04:17: [AMXX] Run time error 4 (plugin "Krol_supadmin_menu.amxx") - debug not enabled!
+L 08/11/2024 - 10:04:17: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 10:04:17: [AMXX] Run time error 4 (plugin "Krol_boss_menu.amxx") - debug not enabled!
+L 08/11/2024 - 10:04:17: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 10:04:17: [AMXX] Run time error 4 (plugin "Krol_prem_menu.amxx") - debug not enabled!
+L 08/11/2024 - 10:04:17: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 10:04:17: [AMXX] Run time error 4 (plugin "Krol_lord_menu.amxx") - debug not enabled!
+L 08/11/2024 - 10:04:17: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 10:04:17: [AMXX] Run time error 4 (plugin "Krol_elite_menu.amxx") - debug not enabled!
+L 08/11/2024 - 10:04:17: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 10:04:17: [AMXX] Run time error 4 (plugin "Krol_god_menu.amxx") - debug not enabled!
+L 08/11/2024 - 10:04:17: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 10:04:17: [ENGINE] Entity 0 can not be removed
+L 08/11/2024 - 10:04:17: [AMXX] Run time error 10 (plugin "zm_class_heavy.amxx") (native "remove_entity") - debug not enabled!
+L 08/11/2024 - 10:04:17: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 10:09:28: [AMXX] Run time error 4 (plugin "start_menu.amxx") - debug not enabled!
+L 08/11/2024 - 10:09:28: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 10:09:28: [CS] Player is not in game (1)
+L 08/11/2024 - 10:09:28: [AMXX] Run time error 10 (plugin "K_menu_model.amxx") (native "cs_set_player_model") - debug not enabled!
+L 08/11/2024 - 10:09:28: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 10:09:28: [AMXX] Run time error 4 (plugin "Krol_vip_menu.amxx") - debug not enabled!
+L 08/11/2024 - 10:09:28: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 10:09:28: [AMXX] Run time error 4 (plugin "Krol_admin_menu.amxx") - debug not enabled!
+L 08/11/2024 - 10:09:28: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 10:09:28: [AMXX] Run time error 4 (plugin "Krol_supadmin_menu.amxx") - debug not enabled!
+L 08/11/2024 - 10:09:28: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 10:09:28: [AMXX] Run time error 4 (plugin "Krol_boss_menu.amxx") - debug not enabled!
+L 08/11/2024 - 10:09:28: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 10:09:28: [AMXX] Run time error 4 (plugin "Krol_prem_menu.amxx") - debug not enabled!
+L 08/11/2024 - 10:09:28: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 10:09:28: [AMXX] Run time error 4 (plugin "Krol_lord_menu.amxx") - debug not enabled!
+L 08/11/2024 - 10:09:28: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 10:09:28: [AMXX] Run time error 4 (plugin "Krol_elite_menu.amxx") - debug not enabled!
+L 08/11/2024 - 10:09:28: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 10:09:28: [AMXX] Run time error 4 (plugin "Krol_god_menu.amxx") - debug not enabled!
+L 08/11/2024 - 10:09:28: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 10:09:28: [ENGINE] Entity 0 can not be removed
+L 08/11/2024 - 10:09:28: [AMXX] Run time error 10 (plugin "zm_class_heavy.amxx") (native "remove_entity") - debug not enabled!
+L 08/11/2024 - 10:09:28: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 10:12:24: Start of error session.
+L 08/11/2024 - 10:12:24: Info (map "zm_ice_world_2") (file "addons/amxmodx/logs/error_20240811.log")
+L 08/11/2024 - 10:12:24: [AMXX] Plugin file open error (plugin "scm_entity_editor.amxx")
+L 08/11/2024 - 10:12:34: [ENGINE] Entity 0 can not be removed
+L 08/11/2024 - 10:12:34: [AMXX] Run time error 10 (plugin "zm_class_heavy.amxx") (native "remove_entity") - debug not enabled!
+L 08/11/2024 - 10:12:34: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 10:13:27: [AMXX] Run time error 4 (plugin "start_menu.amxx") - debug not enabled!
+L 08/11/2024 - 10:13:27: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 10:13:27: [CS] Player is not in game (1)
+L 08/11/2024 - 10:13:27: [AMXX] Run time error 10 (plugin "K_menu_model.amxx") (native "cs_set_player_model") - debug not enabled!
+L 08/11/2024 - 10:13:27: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 10:13:27: [AMXX] Run time error 4 (plugin "Krol_vip_menu.amxx") - debug not enabled!
+L 08/11/2024 - 10:13:27: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 10:13:27: [AMXX] Run time error 4 (plugin "Krol_admin_menu.amxx") - debug not enabled!
+L 08/11/2024 - 10:13:27: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 10:13:27: [AMXX] Run time error 4 (plugin "Krol_supadmin_menu.amxx") - debug not enabled!
+L 08/11/2024 - 10:13:27: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 10:13:27: [AMXX] Run time error 4 (plugin "Krol_boss_menu.amxx") - debug not enabled!
+L 08/11/2024 - 10:13:27: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 10:13:27: [AMXX] Run time error 4 (plugin "Krol_prem_menu.amxx") - debug not enabled!
+L 08/11/2024 - 10:13:27: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 10:13:27: [AMXX] Run time error 4 (plugin "Krol_lord_menu.amxx") - debug not enabled!
+L 08/11/2024 - 10:13:27: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 10:13:27: [AMXX] Run time error 4 (plugin "Krol_elite_menu.amxx") - debug not enabled!
+L 08/11/2024 - 10:13:27: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 10:13:27: [AMXX] Run time error 4 (plugin "Krol_god_menu.amxx") - debug not enabled!
+L 08/11/2024 - 10:13:27: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 10:13:27: [ENGINE] Entity 0 can not be removed
+L 08/11/2024 - 10:13:27: [AMXX] Run time error 10 (plugin "zm_class_heavy.amxx") (native "remove_entity") - debug not enabled!
+L 08/11/2024 - 10:13:27: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 10:13:51: Start of error session.
+L 08/11/2024 - 10:13:51: Info (map "zm_ice_world_2") (file "addons/amxmodx/logs/error_20240811.log")
+L 08/11/2024 - 10:13:51: [AMXX] Plugin file open error (plugin "scm_entity_editor.amxx")
+L 08/11/2024 - 10:14:00: [ENGINE] Entity 0 can not be removed
+L 08/11/2024 - 10:14:00: [AMXX] Run time error 10 (plugin "zm_class_heavy.amxx") (native "remove_entity") - debug not enabled!
+L 08/11/2024 - 10:14:00: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 10:17:46: Start of error session.
+L 08/11/2024 - 10:17:46: Info (map "zm_ice_world_2") (file "addons/amxmodx/logs/error_20240811.log")
+L 08/11/2024 - 10:17:46: [AMXX] Plugin file open error (plugin "scm_entity_editor.amxx")
+L 08/11/2024 - 10:17:55: [ENGINE] Entity 0 can not be removed
+L 08/11/2024 - 10:17:55: [AMXX] Run time error 10 (plugin "zm_class_heavy.amxx") (native "remove_entity") - debug not enabled!
+L 08/11/2024 - 10:17:55: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 10:18:53: Start of error session.
+L 08/11/2024 - 10:18:53: Info (map "zm_ice_world_2") (file "addons/amxmodx/logs/error_20240811.log")
+L 08/11/2024 - 10:18:53: [AMXX] Plugin file open error (plugin "scm_entity_editor.amxx")
+L 08/11/2024 - 10:19:01: [ENGINE] Entity 0 can not be removed
+L 08/11/2024 - 10:19:01: [AMXX] Run time error 10 (plugin "zm_class_heavy.amxx") (native "remove_entity") - debug not enabled!
+L 08/11/2024 - 10:19:01: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 10:19:32: Start of error session.
+L 08/11/2024 - 10:19:32: Info (map "zm_ice_world_2") (file "addons/amxmodx/logs/error_20240811.log")
+L 08/11/2024 - 10:19:32: [AMXX] Plugin file open error (plugin "scm_entity_editor.amxx")
+L 08/11/2024 - 10:19:39: [ENGINE] Entity 0 can not be removed
+L 08/11/2024 - 10:19:39: [AMXX] Run time error 10 (plugin "zm_class_heavy.amxx") (native "remove_entity") - debug not enabled!
+L 08/11/2024 - 10:19:39: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 10:20:34: Start of error session.
+L 08/11/2024 - 10:20:34: Info (map "zm_ice_world_2") (file "addons/amxmodx/logs/error_20240811.log")
+L 08/11/2024 - 10:20:34: [AMXX] Plugin file open error (plugin "scm_entity_editor.amxx")
+L 08/11/2024 - 10:20:42: [ENGINE] Entity 0 can not be removed
+L 08/11/2024 - 10:20:42: [AMXX] Run time error 10 (plugin "zm_class_heavy.amxx") (native "remove_entity") - debug not enabled!
+L 08/11/2024 - 10:20:42: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 10:21:13: Start of error session.
+L 08/11/2024 - 10:21:13: Info (map "zm_ice_world_2") (file "addons/amxmodx/logs/error_20240811.log")
+L 08/11/2024 - 10:21:13: [AMXX] Plugin file open error (plugin "scm_entity_editor.amxx")
+L 08/11/2024 - 10:21:21: [ENGINE] Entity 0 can not be removed
+L 08/11/2024 - 10:21:21: [AMXX] Run time error 10 (plugin "zm_class_heavy.amxx") (native "remove_entity") - debug not enabled!
+L 08/11/2024 - 10:21:21: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 10:21:58: Start of error session.
+L 08/11/2024 - 10:21:58: Info (map "zm_ice_world_2") (file "addons/amxmodx/logs/error_20240811.log")
+L 08/11/2024 - 10:21:58: [AMXX] Plugin file open error (plugin "scm_entity_editor.amxx")
+L 08/11/2024 - 10:22:04: [ENGINE] Entity 0 can not be removed
+L 08/11/2024 - 10:22:04: [AMXX] Run time error 10 (plugin "zm_class_heavy.amxx") (native "remove_entity") - debug not enabled!
+L 08/11/2024 - 10:22:04: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 10:22:56: Start of error session.
+L 08/11/2024 - 10:22:56: Info (map "zm_ice_world_2") (file "addons/amxmodx/logs/error_20240811.log")
+L 08/11/2024 - 10:22:56: [AMXX] Plugin file open error (plugin "scm_entity_editor.amxx")
+L 08/11/2024 - 10:23:03: [ENGINE] Entity 0 can not be removed
+L 08/11/2024 - 10:23:03: [AMXX] Run time error 10 (plugin "zm_class_heavy.amxx") (native "remove_entity") - debug not enabled!
+L 08/11/2024 - 10:23:03: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 10:23:38: Start of error session.
+L 08/11/2024 - 10:23:38: Info (map "zm_ice_world_2") (file "addons/amxmodx/logs/error_20240811.log")
+L 08/11/2024 - 10:23:38: [AMXX] Plugin file open error (plugin "scm_entity_editor.amxx")
+L 08/11/2024 - 10:23:45: [ENGINE] Entity 0 can not be removed
+L 08/11/2024 - 10:23:45: [AMXX] Run time error 10 (plugin "zm_class_heavy.amxx") (native "remove_entity") - debug not enabled!
+L 08/11/2024 - 10:23:45: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 10:25:11: Start of error session.
+L 08/11/2024 - 10:25:11: Info (map "zm_ice_world_2") (file "addons/amxmodx/logs/error_20240811.log")
+L 08/11/2024 - 10:25:11: [AMXX] Plugin file open error (plugin "scm_entity_editor.amxx")
+L 08/11/2024 - 10:25:18: [ENGINE] Entity 0 can not be removed
+L 08/11/2024 - 10:25:18: [AMXX] Run time error 10 (plugin "zm_class_heavy.amxx") (native "remove_entity") - debug not enabled!
+L 08/11/2024 - 10:25:18: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 10:25:51: Start of error session.
+L 08/11/2024 - 10:25:51: Info (map "zm_ice_world_2") (file "addons/amxmodx/logs/error_20240811.log")
+L 08/11/2024 - 10:25:51: [AMXX] Plugin file open error (plugin "scm_entity_editor.amxx")
+L 08/11/2024 - 10:25:59: [ENGINE] Entity 0 can not be removed
+L 08/11/2024 - 10:25:59: [AMXX] Run time error 10 (plugin "zm_class_heavy.amxx") (native "remove_entity") - debug not enabled!
+L 08/11/2024 - 10:25:59: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 10:27:21: Start of error session.
+L 08/11/2024 - 10:27:21: Info (map "zm_ice_world_2") (file "addons/amxmodx/logs/error_20240811.log")
+L 08/11/2024 - 10:27:21: [AMXX] Plugin file open error (plugin "scm_entity_editor.amxx")
+L 08/11/2024 - 10:27:28: [ENGINE] Entity 0 can not be removed
+L 08/11/2024 - 10:27:28: [AMXX] Run time error 10 (plugin "zm_class_heavy.amxx") (native "remove_entity") - debug not enabled!
+L 08/11/2024 - 10:27:28: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 10:31:51: Start of error session.
+L 08/11/2024 - 10:31:51: Info (map "zm_ice_world_2") (file "addons/amxmodx/logs/error_20240811.log")
+L 08/11/2024 - 10:31:51: [AMXX] Plugin file open error (plugin "scm_entity_editor.amxx")
+L 08/11/2024 - 10:31:59: [ENGINE] Entity 0 can not be removed
+L 08/11/2024 - 10:31:59: [AMXX] Run time error 10 (plugin "zm_class_heavy.amxx") (native "remove_entity") - debug not enabled!
+L 08/11/2024 - 10:31:59: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 10:36:56: Start of error session.
+L 08/11/2024 - 10:36:56: Info (map "zm_ice_world_2") (file "addons/amxmodx/logs/error_20240811.log")
+L 08/11/2024 - 10:36:56: [AMXX] Plugin file open error (plugin "scm_entity_editor.amxx")
+L 08/11/2024 - 10:37:05: [ENGINE] Entity 0 can not be removed
+L 08/11/2024 - 10:37:05: [AMXX] Run time error 10 (plugin "zm_class_heavy.amxx") (native "remove_entity") - debug not enabled!
+L 08/11/2024 - 10:37:05: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 10:37:34: Start of error session.
+L 08/11/2024 - 10:37:34: Info (map "zm_ice_world_2") (file "addons/amxmodx/logs/error_20240811.log")
+L 08/11/2024 - 10:37:34: [AMXX] Plugin file open error (plugin "scm_entity_editor.amxx")
+L 08/11/2024 - 10:37:41: [ENGINE] Entity 0 can not be removed
+L 08/11/2024 - 10:37:41: [AMXX] Run time error 10 (plugin "zm_class_heavy.amxx") (native "remove_entity") - debug not enabled!
+L 08/11/2024 - 10:37:41: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 10:39:32: Start of error session.
+L 08/11/2024 - 10:39:32: Info (map "zm_ice_world_2") (file "addons/amxmodx/logs/error_20240811.log")
+L 08/11/2024 - 10:39:32: [AMXX] Plugin file open error (plugin "scm_entity_editor.amxx")
+L 08/11/2024 - 10:39:40: [ENGINE] Entity 0 can not be removed
+L 08/11/2024 - 10:39:40: [AMXX] Run time error 10 (plugin "zm_class_heavy.amxx") (native "remove_entity") - debug not enabled!
+L 08/11/2024 - 10:39:40: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 10:44:48: [AMXX] Run time error 4 (plugin "start_menu.amxx") - debug not enabled!
+L 08/11/2024 - 10:44:48: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 10:44:48: [CS] Player is not in game (1)
+L 08/11/2024 - 10:44:48: [AMXX] Run time error 10 (plugin "K_menu_model.amxx") (native "cs_set_player_model") - debug not enabled!
+L 08/11/2024 - 10:44:48: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 10:44:48: [AMXX] Run time error 4 (plugin "Krol_vip_menu.amxx") - debug not enabled!
+L 08/11/2024 - 10:44:48: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 10:44:48: [AMXX] Run time error 4 (plugin "Krol_admin_menu.amxx") - debug not enabled!
+L 08/11/2024 - 10:44:48: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 10:44:48: [AMXX] Run time error 4 (plugin "Krol_supadmin_menu.amxx") - debug not enabled!
+L 08/11/2024 - 10:44:48: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 10:44:48: [AMXX] Run time error 4 (plugin "Krol_boss_menu.amxx") - debug not enabled!
+L 08/11/2024 - 10:44:48: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 10:44:48: [AMXX] Run time error 4 (plugin "Krol_prem_menu.amxx") - debug not enabled!
+L 08/11/2024 - 10:44:48: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 10:44:48: [AMXX] Run time error 4 (plugin "Krol_lord_menu.amxx") - debug not enabled!
+L 08/11/2024 - 10:44:48: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 10:44:48: [AMXX] Run time error 4 (plugin "Krol_elite_menu.amxx") - debug not enabled!
+L 08/11/2024 - 10:44:48: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 10:44:48: [AMXX] Run time error 4 (plugin "Krol_god_menu.amxx") - debug not enabled!
+L 08/11/2024 - 10:44:48: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 10:44:48: [ENGINE] Entity 0 can not be removed
+L 08/11/2024 - 10:44:48: [AMXX] Run time error 10 (plugin "zm_class_heavy.amxx") (native "remove_entity") - debug not enabled!
+L 08/11/2024 - 10:44:48: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 10:49:59: [AMXX] Run time error 4 (plugin "start_menu.amxx") - debug not enabled!
+L 08/11/2024 - 10:49:59: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 10:49:59: [CS] Player is not in game (1)
+L 08/11/2024 - 10:49:59: [AMXX] Run time error 10 (plugin "K_menu_model.amxx") (native "cs_set_player_model") - debug not enabled!
+L 08/11/2024 - 10:49:59: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 10:49:59: [AMXX] Run time error 4 (plugin "Krol_vip_menu.amxx") - debug not enabled!
+L 08/11/2024 - 10:49:59: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 10:49:59: [AMXX] Run time error 4 (plugin "Krol_admin_menu.amxx") - debug not enabled!
+L 08/11/2024 - 10:49:59: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 10:49:59: [AMXX] Run time error 4 (plugin "Krol_supadmin_menu.amxx") - debug not enabled!
+L 08/11/2024 - 10:49:59: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 10:49:59: [AMXX] Run time error 4 (plugin "Krol_boss_menu.amxx") - debug not enabled!
+L 08/11/2024 - 10:49:59: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 10:49:59: [AMXX] Run time error 4 (plugin "Krol_prem_menu.amxx") - debug not enabled!
+L 08/11/2024 - 10:49:59: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 10:49:59: [AMXX] Run time error 4 (plugin "Krol_lord_menu.amxx") - debug not enabled!
+L 08/11/2024 - 10:49:59: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 10:49:59: [AMXX] Run time error 4 (plugin "Krol_elite_menu.amxx") - debug not enabled!
+L 08/11/2024 - 10:49:59: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 10:49:59: [AMXX] Run time error 4 (plugin "Krol_god_menu.amxx") - debug not enabled!
+L 08/11/2024 - 10:49:59: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 10:49:59: [ENGINE] Entity 0 can not be removed
+L 08/11/2024 - 10:49:59: [AMXX] Run time error 10 (plugin "zm_class_heavy.amxx") (native "remove_entity") - debug not enabled!
+L 08/11/2024 - 10:49:59: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 10:55:10: [AMXX] Run time error 4 (plugin "start_menu.amxx") - debug not enabled!
+L 08/11/2024 - 10:55:10: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 10:55:10: [CS] Player is not in game (1)
+L 08/11/2024 - 10:55:10: [AMXX] Run time error 10 (plugin "K_menu_model.amxx") (native "cs_set_player_model") - debug not enabled!
+L 08/11/2024 - 10:55:10: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 10:55:10: [AMXX] Run time error 4 (plugin "Krol_vip_menu.amxx") - debug not enabled!
+L 08/11/2024 - 10:55:10: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 10:55:10: [AMXX] Run time error 4 (plugin "Krol_admin_menu.amxx") - debug not enabled!
+L 08/11/2024 - 10:55:10: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 10:55:10: [AMXX] Run time error 4 (plugin "Krol_supadmin_menu.amxx") - debug not enabled!
+L 08/11/2024 - 10:55:10: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 10:55:10: [AMXX] Run time error 4 (plugin "Krol_boss_menu.amxx") - debug not enabled!
+L 08/11/2024 - 10:55:10: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 10:55:10: [AMXX] Run time error 4 (plugin "Krol_prem_menu.amxx") - debug not enabled!
+L 08/11/2024 - 10:55:10: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 10:55:10: [AMXX] Run time error 4 (plugin "Krol_lord_menu.amxx") - debug not enabled!
+L 08/11/2024 - 10:55:10: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 10:55:10: [AMXX] Run time error 4 (plugin "Krol_elite_menu.amxx") - debug not enabled!
+L 08/11/2024 - 10:55:10: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 10:55:10: [AMXX] Run time error 4 (plugin "Krol_god_menu.amxx") - debug not enabled!
+L 08/11/2024 - 10:55:10: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/11/2024 - 10:55:10: [ENGINE] Entity 0 can not be removed
+L 08/11/2024 - 10:55:10: [AMXX] Run time error 10 (plugin "zm_class_heavy.amxx") (native "remove_entity") - debug not enabled!
+L 08/11/2024 - 10:55:10: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
